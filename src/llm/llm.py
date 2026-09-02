@@ -35,7 +35,7 @@ def generate_summary(patient_id: str, notes_df: pd.DataFrame, prompt: str) -> st
 
     client = _get_client()
     response = client.chat.completions.create(
-        model="llama-3.3-70b-versatile",
+        model="openai/gpt-oss-120b",
         messages=[
             {"role": "system", "content": prompt},
             {"role": "user", "content": concatenated}

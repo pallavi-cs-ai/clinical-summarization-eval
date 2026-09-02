@@ -5,7 +5,7 @@ from pydantic import Field
 class Settings(BaseSettings):
     # LLM Configuration
     groq_api_key: str = Field(..., env="GROQ_API_KEY")
-    model_name: str = "llama-3.3-70b-versatile"
+    model_name: str = "openai/gpt-oss-120b"
     max_tokens: int = 1000
     temperature: float = 0.1  # Low temp for clinical accuracy
 
