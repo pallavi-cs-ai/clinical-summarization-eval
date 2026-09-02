@@ -29,3 +29,5 @@ results/*.csv
 # FAISS Index
 *.faiss
 *.pkl
+
+models/*
