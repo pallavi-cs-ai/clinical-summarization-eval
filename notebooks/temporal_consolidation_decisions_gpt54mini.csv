@@ -1,0 +1,264 @@
+source_note_index,event,decision,reason
+0,Patient presented with progressive breathlessness,KEEP,New presenting symptom indicating current clinical state
+0,"Triage category 2 assigned for high-risk, potentially life-threatening condition",KEEP,New triage assessment and acuity classification
+0,ED diagnosis of chronic thromboembolic pulmonary hypertension established,KEEP,New ED diagnosis
+0,Oxygen saturation recorded at 89% on room air,KEEP,New objective oxygenation finding
+0,Low-flow oxygen therapy initiated,KEEP,New treatment started
+0,Admission to Respiratory High Dependency Unit planned,KEEP,New disposition/admission plan
+1,Patient presented with progressive breathlessness,REMOVE,Same presenting symptom already captured earlier.
+1,Diagnosed with chronic thromboembolic pulmonary hypertension,REMOVE,Duplicate of the established chronic thromboembolic pulmonary hypertension diagnosis.
+1,Mild hypoxia noted with SpO2 at 89% on room air,REMOVE,Same hypoxia finding already recorded earlier at 89% on room air.
+1,Oxygen therapy via nasal cannula initiated,REMOVE,Same oxygen treatment already initiated earlier.
+1,Oxygen saturation improved to 92% following oxygen therapy,KEEP,New clinical progression showing improved oxygen saturation after treatment.
+1,Chest X-ray ordered to investigate underlying cause of hypoxia,KEEP,New investigation ordered; not previously represented.
+2,O2 therapy administered via nasal cannula for persistent hypoxia,REMOVE,Same low-flow oxygen treatment already captured as oxygen therapy initiated.
+2,SpO2 noted to remain low at 89% on room air,REMOVE,Repeats the previously recorded room-air saturation of 89% without new change.
+2,O2 therapy continued to improve oxygenation,REMOVE,Restates the already documented improvement in oxygenation after oxygen therapy.
+2,Awaiting blood test results for further evaluation,KEEP,New pending diagnostic step; awaiting blood test results is a distinct ongoing evaluation.
+3,Patient presented with progressive breathlessness,REMOVE,Duplicate of earlier presentation with progressive breathlessness.
+3,Patient placed on low-flow oxygen therapy,REMOVE,Same low-flow oxygen therapy already captured earlier.
+3,SpO2 improved from 89% to 92%,REMOVE,Same oxygen saturation improvement already captured earlier.
+3,ABG results reviewed showing PaO2 8.5 kPa and compensated respiratory alkalosis,KEEP,New ABG results with specific gas exchange findings represent new investigation results.
+3,"NT-proBNP result reviewed as elevated at 3,200 pg/mL",KEEP,New NT-proBNP laboratory result is a distinct finding not previously recorded.
+3,Findings escalated to medical team for further evaluation,KEEP,New escalation to the medical team is a separate clinical action/disposition.
+3,Imaging considered to investigate suspected pulmonary hypertension,KEEP,New imaging consideration for suspected pulmonary hypertension is a distinct diagnostic step.
+4,Patient presented with progressive exertional breathlessness over the last two weeks.,REMOVE,Same presenting symptom of progressive breathlessness already captured earlier.
+4,"Examination revealed mild distress, laboured breathing, elevated JVP, bilateral basal creps, and mild hepatomegaly.",KEEP,New physical examination findings not previously consolidated.
+4,"Observations showed hypotension (92/64 mmHg), tachycardia (112 bpm), tachypnea (28/min), and hypoxia (SPO2 90% on 2L NC O2).",KEEP,New vital signs showing hemodynamic and respiratory status change.
+4,Chest X-ray demonstrated bilateral pulmonary congestion without focal consolidation or pneumothorax.,KEEP,New chest X-ray result with specific findings.
+4,Arterial blood gas analysis showed compensated respiratory alkalosis with mild hypoxia (PaO2 8.5 kPa).,REMOVE,Duplicate of the earlier ABG result already recorded.
+4,"NT-proBNP level was elevated at 4,500 pg/mL.",KEEP,New NT-proBNP value that differs from the earlier result and indicates progression.
+4,D-dimer was elevated.,KEEP,New laboratory abnormality not previously documented.
+4,Clinical impression of suspected chronic thromboembolic pulmonary hypertension causing progressive breathlessness and cardiac strain.,REMOVE,Restates the established diagnosis/impression of chronic thromboembolic pulmonary hypertension.
+4,Therapeutic-dose enoxaparin 1.5 mg/kg daily subcutaneously started for anticoagulation.,KEEP,New treatment started with therapeutic anticoagulation.
+4,CT pulmonary angiogram and echocardiogram planned to confirm diagnosis and assess right heart strain.,KEEP,New planned investigations not previously consolidated.
+4,Patient accepted for admission to Respiratory HDU under Dr. Elizabeth Kathryn Singh.,REMOVE,Same admission disposition already captured earlier.
+4,Oxygen therapy continued to address hypoxia and respiratory distress.,KEEP,Ongoing oxygen therapy is a continued treatment state and current clinical management.
+5,"Patient presented with progressive breathlessness worsening over weeks, now limiting daily activity",REMOVE,"Restates the same presenting symptom of progressive breathlessness already captured earlier, without new clinical change."
+5,"Examination revealed tachycardia (HR 112), hypotension (BP 92/64), tachypnea (RR 28), raised JVP, and loud P2",REMOVE,"Duplicates previously consolidated abnormal vital signs and exam findings, with no meaningful new state."
+5,Chest X-ray showed cardiomegaly,KEEP,New chest X-ray finding of cardiomegaly is a distinct imaging result not previously recorded.
+5,NT-proBNP level was 4500 pg/mL,REMOVE,"Same elevated NT-proBNP value already consolidated earlier as 4,500 pg/mL."
+5,"Arterial blood gas showed PaO2 8.5 kPa, PaCO2 3.5 kPa, and pH 7.47",REMOVE,"Repeats the earlier ABG result of PaO2 8.5 kPa with compensated respiratory alkalosis, without new change."
+5,Clinical impression of chronic thromboembolic pulmonary hypertension likely secondary to unprovoked PE,KEEP,"Adds a new diagnostic impression linking CTEPH to likely unprovoked PE, which is a meaningful diagnostic refinement."
+5,Enoxaparin 1.5 mg/kg daily started (initial dose given in ED),REMOVE,Same enoxaparin treatment initiation already captured earlier.
+5,CT pulmonary angiogram ordered for this morning to confirm diagnosis,REMOVE,Duplicates the previously planned CT pulmonary angiogram.
+5,Echocardiogram ordered for today to assess right heart strain and pulmonary pressures,REMOVE,Duplicates the previously planned echocardiogram.
+5,Cardiology referral planned for management of pulmonary hypertension,KEEP,New referral plan to cardiology is a distinct management step not previously recorded.
+5,Oxygen therapy continued to maintain SpO2 >92%,REMOVE,Continued oxygen therapy was already consolidated earlier and this is not a new clinical change.
+5,Plan to monitor clinical status closely including repeat ABG and SpO2 monitoring,KEEP,New monitoring plan with repeat ABG and SpO2 surveillance represents an additional management step.
+6,Patient reported progressive breathlessness and felt slightly better on oxygen.,REMOVE,Restates the presenting breathlessness and improvement on oxygen already captured in earlier events.
+6,"Clinical examination revealed tachycardia (HR 112), borderline hypotension (BP 92/64), tachypnea (RR 28), and SpO2 90% on 2L NC.",REMOVE,Duplicates the previously consolidated vital signs and hypoxia on 2L oxygen.
+6,"Physical exam findings included raised JVP (4cm above sternal angle), hepatomegaly, loud P2, and clear lungs.",REMOVE,Rephrases earlier examination findings of elevated JVP and hepatomegaly without new clinical change.
+6,"Laboratory results showed elevated NT-proBNP (4,500 pg/mL) and ABG indicating PaO2 8.5 kPa with compensated respiratory alkalosis.",REMOVE,Repeats the same NT-proBNP and ABG results already consolidated earlier.
+6,CTPA and echocardiogram were requested to confirm CTEPH and assess RV function.,REMOVE,Duplicates the previously noted plan for CTPA and echocardiogram.
+6,"Plan to start apixaban 10 mg BD for 7 days, then 5 mg BD.",KEEP,Introduces a new anticoagulation treatment plan with apixaban and dosing details.
+6,Plan to continue LMWH until apixaban therapy is fully initiated.,KEEP,"Adds a new management step to continue LMWH until apixaban is established, representing a treatment transition."
+7,Progressive breathlessness secondary to chronic thromboembolic pulmonary HTN noted,REMOVE,Restates the already documented progressive breathlessness and established CTEPH diagnosis without new clinical change.
+7,Diaphragmatic breathing exercises introduced to improve oxygenation and reduce dyspnoea,KEEP,New non-pharmacologic treatment/intervention introduced for dyspnoea and oxygenation.
+7,Patient instructed to perform diaphragmatic breathing exercises three times daily under supervision,KEEP,"Adds a specific supervised instruction and frequency for the breathing exercises, which is a new management detail."
+7,Daily physiotherapy sessions planned to enhance respiratory function and reduce exertional breathlessness,KEEP,New physiotherapy plan represents an additional supportive treatment and care plan.
+8,GP updated regarding CTEPH diagnosis and hospital management plan,KEEP,New communication/disposition event: GP was updated about the diagnosis and inpatient management plan.
+8,Anticoagulation plan ongoing,REMOVE,This is a generic restatement of the already documented anticoagulation plan without any new treatment change or clinical progression.
+9,Occupational therapy assessment performed due to significant breathlessness on exertion,KEEP,New occupational therapy assessment is a distinct clinical intervention not previously listed.
+9,Rollator frame introduced for short-distance ambulation within the ward,KEEP,Introduction of a rollator for ambulation is a new mobility aid intervention.
+9,Patient instructed on safe use of the rollator,KEEP,Instruction on safe rollator use is a new patient education event.
+9,Patient educated on pacing techniques to conserve energy,KEEP,Pacing techniques for energy conservation are a new rehabilitation/education intervention.
+9,Diaphragmatic breathing exercises introduced to improve oxygenation and reduce shortness of breath,REMOVE,Duplicate of the earlier documented diaphragmatic breathing exercises intervention.
+9,Patient demonstrated understanding of instructions,KEEP,Patient understanding/demonstration is a new documented response to education.
+9,Rollator frame prescribed for use during hospital stay,KEEP,Prescription of a rollator for inpatient use is a new equipment order/plan.
+9,"Plan established for continued monitoring of mobility, exertional tolerance, and adherence to breathing exercises",KEEP,Ongoing monitoring plan for mobility and exercise adherence is a new care plan element.
+10,CTPA confirmed chronic thromboembolic disease,REMOVE,Same diagnostic confirmation of chronic thromboembolic disease already captured in earlier events.
+10,"NT-proBNP significantly elevated at 4,500 pg/mL",REMOVE,"Duplicate of the previously recorded NT-proBNP elevation at 4,500 pg/mL with no new value."
+10,Echocardiogram results awaited to assess RV function,REMOVE,"Echo was already planned earlier; this is the same pending investigation, not a new event."
+10,Anticoagulation with apixaban 10 mg BD initiated,REMOVE,Apixaban initiation was already included in earlier events as a planned treatment start.
+10,Diaphragmatic breathing exercises continued,REMOVE,"Continuation of the same breathing exercises already documented earlier, without a new clinical change."
+10,Physiotherapy review continued for mobility aids and respiratory support,REMOVE,Repeat of ongoing physiotherapy/mobility support already represented in earlier events.
+11,Bloods reviewed showing no acute infection,KEEP,New lab interpretation; absence of acute infection is a distinct finding not previously consolidated.
+11,NT-proBNP increased indicating ongoing right heart strain,KEEP,"Represents a new/worsening NT-proBNP finding indicating ongoing cardiac strain, not a duplicate of prior values."
+11,Echocardiogram review planned for the morning,KEEP,New planned review of echocardiogram is a distinct clinical action not already captured.
+12,Patient presented with progressive breathlessness,REMOVE,Already represented as the initial presentation of progressive breathlessness.
+12,Echocardiogram confirmed severe pulmonary hypertension and right ventricular strain,KEEP,New echocardiogram result confirming severity and right ventricular strain is a new diagnostic finding.
+12,NT-proBNP level recorded at 3200 pg/mL,REMOVE,"Same NT-proBNP value already captured earlier as 3,200 pg/mL."
+12,"Patient is oxygen dependent, requiring 2L nasal cannula",KEEP,Ongoing oxygen dependence on 2L nasal cannula is a current clinical status statement not previously captured in this form.
+12,"Physical examination revealed tachycardia (HR 110), hypotension (BP 100/65), raised JVP, mild peripheral oedema, and loud P2",KEEP,New examination findings with different vitals and added peripheral oedema/loud P2 represent a meaningful clinical state update.
+12,Oral furosemide 40 mg OD started to manage fluid retention and reduce right heart strain,KEEP,New treatment started: oral furosemide for fluid retention/right heart strain.
+12,Physiotherapy initiated for light mobilisation and breathing exercises,KEEP,Physiotherapy initiation is a new supportive intervention.
+12,Oxygen therapy continued at 2L nasal cannula,REMOVE,Continuation of oxygen therapy at 2L nasal cannula is already represented by earlier oxygen therapy events.
+12,Plan to monitor response to diuretics and review next day,KEEP,New management plan to monitor diuretic response and review next day is a new disposition/plan.
+13,"Patient performed breathing exercises and light mobilisation, including diaphragmatic breathing, sitting up in bed, and standing briefly with support.",KEEP,New physiotherapy/mobilisation activity with specific exercises and supported standing is a meaningful ongoing care event.
+13,Mild shortness of breath was observed during mobilisation but was well-tolerated.,KEEP,"This documents a current symptom response during mobilisation, showing clinical tolerance/progression."
+13,Plan established to gradually increase exercise and mobilisation intensity in subsequent sessions based on patient tolerance.,KEEP,New rehabilitation plan to advance activity intensity based on tolerance is a distinct management update.
+13,Medications remained unchanged.,REMOVE,Non-specific administrative statement that adds no new clinical information or change.
+14,Patient reviewed by pharmacist to optimise anticoagulation therapy,KEEP,New pharmacist review for anticoagulation optimization is a distinct clinical management event.
+14,Rivaroxaban dosage adjusted to 15 mg BD based on renal function and body weight,KEEP,Represents a new anticoagulant dosing decision/change to rivaroxaban based on patient factors.
+14,"Plan established to continue Rivaroxaban 15 mg BD for 21 days, then adjust to 20 mg OD",KEEP,New treatment plan specifying the rivaroxaban regimen and step-down dosing is clinically meaningful.
+14,Patient education planned regarding signs of bleeding and adherence to dosing schedule,KEEP,New patient education plan about bleeding risk and adherence is a separate management action.
+15,Patient assessed for mobility aids due to significant shortness of breath on exertion,REMOVE,Duplicates the earlier occupational therapy assessment for significant exertional breathlessness and mobility aid need.
+15,Guidance provided on the use of a rollator frame for short-distance ambulation,REMOVE,Same rollator instruction already captured in earlier events.
+15,Patient demonstrated understanding of energy conservation strategies and rollator frame use,REMOVE,Restates prior patient education and demonstrated understanding of rollator use and pacing.
+15,Plan established for patient to implement energy conservation strategies and use rollator frame during ambulation,REMOVE,Repeats the established plan for rollator use and energy conservation during ambulation.
+15,Functional progress reassessment scheduled for next session,KEEP,New follow-up plan for reassessment of functional progress; not previously stated.
+16,Echocardiogram confirmed severe pulmonary hypertension with right ventricular strain,REMOVE,Same echocardiogram result already captured earlier; no new change or progression.
+16,NT-proBNP level recorded as 3200 pg/mL,REMOVE,"Same NT-proBNP value already recorded earlier as 3,200 pg/mL."
+16,Patient reported feeling slightly better but remains breathless on exertion,KEEP,New clinical status update showing slight improvement but persistent exertional dyspnea.
+16,"Physical examination revealed elevated JVP, bibasal fine crackles, and SpO2 of 94% on 2L oxygen",KEEP,New examination findings with improved oxygenation to 94% on 2L and ongoing signs of congestion.
+16,Furosemide 40mg OD started for diuresis to manage fluid retention and reduce right heart strain,REMOVE,Same furosemide initiation already represented earlier.
+16,Referral to cardiology initiated for input on definitive management of severe pulmonary hypertension,REMOVE,Cardiology referral was already planned earlier; this is a restatement.
+16,Anticoagulation with Rivaroxaban 15mg BD continued,REMOVE,Continuation of rivaroxaban at the same dose is already captured earlier.
+16,Physiotherapy ordered to progress mobilisation and breathing exercises,REMOVE,Physiotherapy for mobilisation and breathing exercises was already initiated earlier.
+17,Patient reports feeling less breathless and improved oxygenation,KEEP,"New clinical improvement in symptoms/oxygenation, representing progression from prior breathlessness."
+17,"Clinical examination reveals elevated JVP at 4cm with no peripheral oedema, clear chest, and no hepatomegaly or ascites",KEEP,New examination findings showing changed volume status and chest/liver findings compared with earlier exam.
+17,Referral to tertiary PH centre for pulmonary endarterectomy assessment initiated,KEEP,New referral for tertiary pulmonary hypertension/endarterectomy assessment is a distinct management step.
+17,Rivaroxaban 15 mg BD continued,REMOVE,Rivaroxaban 15 mg BD was already documented as the active anticoagulation plan; this is a repeat continuation statement.
+17,Physiotherapy focused on mobilisation,REMOVE,Physiotherapy for mobilisation was already established earlier; this is a non-new continuation without meaningful change.
+17,Furosemide 40 mg OD continued,REMOVE,Furosemide 40 mg OD was already started earlier; this is a repeat continuation statement.
+18,Chronic Thromboembolic Pulmonary Hypertension (CTEPH) confirmed by CT pulmonary angiogram,REMOVE,CTEPH diagnosis already established earlier; this restates confirmation by CT pulmonary angiogram without new clinical change.
+18,Severe pulmonary hypertension and right ventricular strain confirmed by echocardiogram,REMOVE,Echocardiogram-confirmed severe pulmonary hypertension and RV strain already recorded earlier.
+18,NT-proBNP level of 4500 pg/mL indicating significant cardiac strain,REMOVE,NT-proBNP 4500 pg/mL was already captured earlier as an elevated result.
+18,Arterial blood gas analysis showing PaO2 8.5 kPa and PaCO2 4.2 kPa,REMOVE,ABG findings of PaO2 8.5 kPa were already documented earlier; PaCO2 4.2 kPa does not represent a clearly new clinically distinct event here.
+18,Sildenafil 20 mg TID started to manage pulmonary hypertension pre-referral,KEEP,New treatment initiation with sildenafil for pulmonary hypertension.
+18,Rivaroxaban 15 mg BD ongoing for 21 days,REMOVE,Rivaroxaban 15 mg BD ongoing is already represented earlier as the planned/continued anticoagulation regimen.
+18,Furosemide 40 mg OD ongoing,REMOVE,Furosemide 40 mg OD started earlier; this is only ongoing continuation.
+18,Referral to tertiary PH centre for pulmonary endarterectomy (PEA) consideration agreed,KEEP,Referral to tertiary PH centre for pulmonary endarterectomy consideration is a new disposition/referral step.
+18,Risks and benefits of pulmonary endarterectomy discussed with patient,KEEP,Discussion of pulmonary endarterectomy risks and benefits is a new management/counselling event.
+19,Physiotherapy session conducted focusing on endurance and oxygenation,REMOVE,Restates ongoing physiotherapy already captured without a new clinical change.
+19,Guided breathing exercises and supervised light walking exercises performed,REMOVE,Duplicates previously documented breathing exercises and light mobilisation.
+19,"Slight improvement in SpO2 observed during light activity, increasing from 90% to 92%",KEEP,New oxygen saturation change during activity shows a meaningful clinical response.
+19,Persistent shortness of breath noted with moderate exertion,KEEP,Persistent dyspnoea with exertion is a current functional finding and clinical status update.
+19,Plan established to gradually increase exercise intensity,REMOVE,Same plan to gradually increase exercise intensity already documented earlier.
+19,Plan established for close monitoring of tolerance and oxygenation levels,REMOVE,Reiterates existing monitoring plan for tolerance and oxygenation without new change.
+20,"Patient attended an education session covering pulmonary hypertension, anticoagulation therapy, and prevention of complications including blood clots",KEEP,New patient education session on pulmonary hypertension and anticoagulation is a distinct clinical intervention not previously captured.
+21,Patient reports feeling slightly better with reduced shortness of breath at rest,KEEP,Represents a new clinical status update with improved symptoms at rest.
+21,Inpatient V/Q scan planned for tomorrow to assess perfusion defects,KEEP,New planned investigation (V/Q scan) not previously captured.
+21,"Elevated D-dimer noted, consistent with known diagnosis",REMOVE,Restates the already documented elevated D-dimer without new change or result.
+21,Renal function confirmed stable,KEEP,"New lab assessment of renal function stability, relevant to ongoing management."
+21,Sildenafil 20 mg TID continued,KEEP,Continued sildenafil is a treatment continuation and meaningful ongoing therapy.
+21,Furosemide 40 mg OD continued with plan to monitor response,KEEP,Continued furosemide with monitoring plan reflects ongoing treatment management.
+21,Referral to tertiary PH centre for endarterectomy consideration ensured,REMOVE,Duplicates the already documented referral/PEA consideration without new clinical change.
+22,Patient reported further improvement in shortness of breath with no new symptoms,REMOVE,Restates prior improvement in breathlessness without a new clinical change.
+22,Inpatient V/Q scan planned to assess for perfusion defects and extent of CTEPH,REMOVE,Duplicate of the already planned inpatient V/Q scan for perfusion assessment.
+22,Sildenafil 20 mg TID continued,REMOVE,Same ongoing sildenafil treatment already captured earlier.
+22,Referral to tertiary PH centre planned for consideration of Pulmonary Endarterectomy (PEA),REMOVE,Duplicate referral/planning for tertiary PH centre and PEA consideration.
+22,Raised jugular venous pressure noted on examination,REMOVE,Repeated examination finding of raised JVP already documented earlier.
+22,Bibasilar creps noted on lung auscultation,REMOVE,Repeated lung examination finding of bibasilar creps already documented earlier.
+23,V/Q scan reviewed showing mismatched perfusion defects,KEEP,"New imaging result with specific V/Q findings; this is a new diagnostic finding, not a restatement."
+23,Diagnosis of chronic thromboembolic pulmonary hypertension (CTEPH) documented,REMOVE,CTEPH diagnosis was already established earlier; this is a duplicate documentation of the same diagnosis.
+23,Multidisciplinary team (MDT) informed of findings,REMOVE,MDT notification is administrative and duplicates prior escalation/referral actions without new clinical change.
+23,Referral to tertiary pulmonary hypertension center planned for surgical assessment and pulmonary endarterectomy (PEA),REMOVE,Referral for tertiary PH/PEA assessment was already documented earlier; this repeats the same disposition.
+24,Occupational therapy assessment conducted for mobility and home safety,REMOVE,Duplicate occupational therapy assessment already captured earlier.
+24,Patient trained in standing from a seated position and walking short distances with a wheeled walker,KEEP,New functional mobility training with a wheeled walker is a distinct rehabilitation event.
+24,"Home safety strategies discussed, including removal of tripping hazards and installation of bathroom grab bars",KEEP,New home safety education with specific environmental modifications not previously documented.
+24,Plan established to provide a wheeled walker for home use,KEEP,New discharge equipment plan for a wheeled walker at home.
+24,Social worker to arrange a home safety assessment before discharge,KEEP,New social work/discharge planning action for home safety assessment.
+25,Patient reviewed at bedside by physical therapist,REMOVE,Administrative therapy review already represented by prior physiotherapy events.
+25,Physical therapy session conducted focusing on breathing exercises and light mobility,REMOVE,Repeats ongoing physiotherapy with breathing exercises and light mobility already captured earlier.
+25,Diaphragmatic breathing techniques practised to enhance oxygen exchange,REMOVE,Diaphragmatic breathing practice is a restatement of previously documented breathing exercises.
+25,Patient completed two short walks along the ward corridor with rest breaks,KEEP,New functional mobility milestone with completed corridor walks and rest breaks.
+25,Oxygen saturation remained above 92% throughout the session,KEEP,New oxygenation finding during activity showing maintained saturation above 92%.
+25,Patient tolerated exercises well without significant shortness of breath,KEEP,New tolerance assessment indicating no significant dyspnea during the session.
+25,Plan established to progressively increase walking distance over the next two days to build endurance and assess readiness for discharge,KEEP,New rehabilitation plan to increase walking distance and assess discharge readiness.
+26,Patient reported feeling better with reduced breathlessness,REMOVE,Restates prior improvement in breathlessness without a new clinical change.
+26,Oxygen saturation stable at 94-95% on 1L/min nasal cannula,KEEP,New oxygen requirement and updated stable saturation on lower-flow oxygen represent a meaningful clinical state change.
+26,V/Q scan reviewed showing mismatched perfusion defects confirming extent of CTEPH,REMOVE,Duplicates the previously reviewed V/Q scan finding of mismatched perfusion defects.
+26,NT-proBNP level noted as elevated but stable at 3200 pg/mL,REMOVE,Repeats the elevated NT-proBNP finding without a new measurement or change.
+26,Sildenafil 20 mg TDS initiated to improve pulmonary arterial pressure,REMOVE,Same sildenafil treatment already started earlier; this is a restatement with no new change.
+26,Referral to tertiary pulmonary HTN centre for pulmonary endarterectomy assessment discussed,REMOVE,Referral to tertiary PH centre for PEA assessment was already initiated/agreed earlier.
+27,Patient reported reduced shortness of breath at rest and mild improvement in exertion tolerance.,KEEP,"New symptomatic improvement is a meaningful clinical change, not an exact duplicate of prior breathlessness notes."
+27,V/Q scan reviewed showing mismatched perfusion defects.,REMOVE,Same V/Q scan result already captured earlier with no new finding or change.
+27,NT-proBNP level noted as elevated.,REMOVE,NT-proBNP elevation has already been documented previously; this restates the same abnormality without a new value.
+27,Physical examination revealed elevated JVP and mild peripheral oedema.,REMOVE,This repeats previously documented exam findings of elevated JVP and peripheral oedema without new change.
+27,Sildenafil 20 mg TID started.,REMOVE,Sildenafil initiation is already represented earlier; this is a duplicate treatment event.
+27,Discharge planning initiated.,KEEP,New disposition/planning event indicating discharge planning has begun.
+27,Outpatient follow-up arranged.,KEEP,New follow-up arrangement is a distinct care plan event.
+27,Assessment of home oxygen requirements planned.,KEEP,New assessment plan for home oxygen needs is a distinct clinical/discharge-related evaluation.
+28,"Patient performed light mobilisation and breathing exercises, including diaphragmatic breathing techniques.",REMOVE,Restates previously consolidated physiotherapy/breathing exercise activity without new clinical change.
+28,Patient ambulated 10 metres using a walking frame with minimal assistance.,KEEP,New functional mobility detail with specific ambulation distance and assistance level.
+28,Oxygen saturations remained above 92% on low-flow oxygen during the session.,REMOVE,Duplicates prior oxygenation stability during therapy with no new change.
+28,Patient tolerated the exercises well.,REMOVE,Repetition of prior tolerance statement without additional clinical progression.
+28,Plan established to gradually increase mobilisation distance in future sessions.,REMOVE,Same future mobilisation plan already captured earlier; no new management change.
+29,Referral sent to tertiary PH center for management and consideration of PEA/advanced treatment,REMOVE,Duplicates the earlier documented referral to a tertiary PH centre for pulmonary endarterectomy/advanced management.
+29,Awaiting feedback from tertiary PH center,KEEP,"New disposition/status update indicating the referral is pending tertiary centre feedback, which is not already captured."
+30,Patient attended physiotherapy session for structured breathing exercises and light stretching,REMOVE,Restates ongoing physiotherapy/breathing exercise session already captured in earlier events.
+30,Patient performed guided diaphragmatic breathing and gentle stretches,REMOVE,Duplicate description of the same guided diaphragmatic breathing/stretching activity.
+30,No significant desaturation observed during session,REMOVE,No new clinically meaningful change; similar oxygenation tolerance already documented in prior sessions.
+30,Improved endurance noted compared to prior sessions,KEEP,Represents a new functional improvement in endurance compared with earlier sessions.
+30,Plan to continue daily physiotherapy with emphasis on breathing exercises and light mobility tasks to promote discharge readiness,KEEP,New ongoing care plan to continue physiotherapy with discharge-focused mobility and breathing exercises.
+31,Patient reports feeling less short of breath and is mobilising lightly,REMOVE,Restates prior improvement in breathlessness and light mobilisation without a new clinical change.
+31,Recent V/Q scan confirms mismatched perfusion defects,REMOVE,Duplicates the earlier V/Q scan result showing mismatched perfusion defects.
+31,Initiated long-term anticoagulation therapy with Rivaroxaban 20 mg OD,KEEP,New medication state: long-term rivaroxaban at 20 mg OD is a treatment continuation/change not previously captured.
+31,Continued sildenafil 20 mg TID,REMOVE,Duplicates the earlier event that sildenafil 20 mg TID was continued.
+31,Discharge planning initiated with plan to ensure pharmacy provides medication pre-discharge,KEEP,New discharge-related action: pharmacy medication supply planning before discharge is a distinct disposition step.
+31,Tertiary referral to pulmonary hypertension centre confirmed,REMOVE,Duplicates the earlier tertiary PH centre referral/PEA consideration already recorded.
+31,Outpatient follow-up and home oxygen assessment arranged,REMOVE,Duplicates earlier discharge planning with outpatient follow-up and home oxygen assessment already arranged.
+31,Awaiting feedback from tertiary pulmonary hypertension centre regarding referral,REMOVE,"Restates that feedback from the tertiary PH centre is still pending, which was already noted."
+32,Patient reports decreased breathlessness at rest and increased tolerance for light activity,KEEP,New symptomatic improvement in breathlessness and activity tolerance represents clinical progression.
+32,"Hemoglobin level noted as 110 g/L, representing a decrease from previous 120 g/L",KEEP,New hemoglobin value with a decrease from prior level is a meaningful lab change.
+32,Anemia attributed to chronic disease,KEEP,New diagnosis/attribution of anemia to chronic disease is a distinct clinical assessment.
+32,Ferrous sulfate 200 mg twice daily started for anemia,KEEP,New treatment started for anemia.
+32,Discharge medications confirmed including sildenafil 20 mg three times daily and rivaroxaban,KEEP,Discharge medication reconciliation is a new disposition-related event with confirmed meds.
+32,Repeat hemoglobin check arranged in outpatient department,KEEP,New follow-up plan for repeat hemoglobin monitoring is a distinct management step.
+32,Referral made to tertiary pulmonary hypertension centre for consideration of endarterectomy,REMOVE,Duplicates the earlier referral to tertiary PH centre for endarterectomy consideration.
+33,Patient completed a session of low-intensity walking exercises within the ward to assess mobility and endurance.,REMOVE,Restates already consolidated ward walking/mobilisation and endurance assessment without a new clinical change.
+33,Patient demonstrated improved walking distance compared to prior physiotherapy sessions.,REMOVE,Duplicate of prior documented improved endurance/walking tolerance during physiotherapy sessions.
+33,"Minimal oxygen desaturation was observed during activity, with SpO2 maintained at 94% on room air.",KEEP,"New oxygenation finding during activity on room air, representing a meaningful physiologic state change."
+33,Patient reported less shortness of breath than in previous sessions.,REMOVE,Repetition of previously documented reduced breathlessness at rest/exertion.
+33,A home exercise programme was planned to support gradual improvement in endurance post-discharge.,KEEP,New discharge-related rehabilitation plan for ongoing home exercise support.
+34,Patient provided with detailed instruction on self-administering SC enoxaparin injections,KEEP,"New patient education event about self-injecting enoxaparin, not previously documented."
+34,Patient instructed on correct technique including site rotation to prevent bruising,KEEP,Additional specific injection technique instruction is a distinct education detail.
+34,Patient emphasized to monitor for bleeding or adverse effects,KEEP,New counseling on monitoring for bleeding/adverse effects is clinically meaningful education.
+34,Plan for patient to commence self-administration of enoxaparin 40 mg OD post-discharge,KEEP,New discharge anticoagulation plan to start self-administered enoxaparin 40 mg daily.
+35,Patient attended a group therapy session focused on managing chronic respiratory conditions,KEEP,New therapy/education session not previously documented; a distinct rehabilitation event.
+35,"Patient participated fully in guided breathing exercises, light stretching, and energy conservation techniques",REMOVE,"Duplicates earlier physiotherapy/education content about breathing exercises, stretching, and energy conservation without new clinical change."
+35,Patient demonstrated improved walking distance and mobility with minimal O2 desaturation,KEEP,"Represents new functional progress with improved walking distance and minimal desaturation, a meaningful mobility/oxygenation update."
+35,Patient encouraged to continue independent practice of breathing exercises and light physical activity to improve stamina and oxygenation ahead of discharge,REMOVE,Restates ongoing home exercise/breathing advice already captured in prior rehabilitation and discharge planning events.
+36,Patient reports improved breathlessness and increased activity tolerance,KEEP,"New clinical improvement in symptoms and functional tolerance, not previously stated in this exact state."
+36,V/Q scan reviewed confirming mismatched perfusion defects consistent with CTEPH,REMOVE,Duplicates the earlier V/Q scan result showing mismatched perfusion defects.
+36,Laboratory results reviewed showing Hb 10 g/L (mild anaemia) and persistently elevated NT-proBNP,KEEP,New lab review with a lower Hb value and persistent NT-proBNP elevation represents updated findings.
+36,Furosemide 20 mg OD PO started for mild peripheral oedema,REMOVE,Furosemide was already started earlier; this is a duplicate dose statement without clear new change.
+36,Sildenafil 20 mg TDS continued,REMOVE,Sildenafil continuation was already documented earlier.
+36,Ferrous sulfate 200 mg BD prescribed for mild anaemia,REMOVE,Ferrous sulfate had already been started earlier for anemia; this is a duplicate prescription statement.
+36,Discharge planning initiated including home exercise program and follow-up at tertiary PH center,KEEP,Discharge planning with home exercise program and tertiary PH follow-up is a new disposition/planning update.
+36,Repeat Hb and NT-proBNP ordered for outpatient follow-up,KEEP,New outpatient repeat lab orders represent a new follow-up plan.
+37,Patient reports improved breathlessness with no new symptoms,REMOVE,Restates previously documented improvement in breathlessness without new clinical change.
+37,NT-proBNP found to be mildly elevated,REMOVE,NT-proBNP elevation has already been documented; this adds no new result or progression.
+37,Hemoglobin level recorded as 110 g/L,REMOVE,Hemoglobin 110 g/L was already recorded earlier as a known finding.
+37,Rivaroxaban assessed as effective and well-tolerated,REMOVE,Effectiveness and tolerance of rivaroxaban are already implied by prior continuation/discharge medication notes; no new change.
+37,Rivaroxaban 20 mg OD prescribed,REMOVE,Rivaroxaban 20 mg OD was already captured as initiated/continued earlier.
+37,Follow-up arranged at tertiary PH centre in 4 weeks,KEEP,New specific follow-up timing at the tertiary PH centre is a new disposition detail.
+37,Discharge planned for tomorrow if patient remains stable,KEEP,New discharge timing/plan for tomorrow if stable is a meaningful disposition update.
+38,Personalised home exercise plan finalised for Ms. Abena Bonsu,REMOVE,Restates the already documented home exercise programme/planned discharge exercise support without new clinical change.
+38,Instruction provided on specific breathing exercises to improve O2 and light aerobic movements to enhance physical endurance,REMOVE,Duplicates prior breathing exercise and light mobility education already recorded.
+38,Safety precautions reviewed to prevent overexertion,REMOVE,Safety/overexertion precautions are part of prior physiotherapy education and do not add a new event.
+38,Education provided on recognising signs of worsening symptoms (severe SOB or chest pain) and the importance of seeking immediate medical help,REMOVE,Reiterates previously documented patient education on warning signs and complication prevention.
+38,Patient advised to perform prescribed exercises daily at home to maintain progress,REMOVE,Same home exercise adherence instruction already captured in earlier events.
+39,Contact made with patient's brother (NOK) to confirm discharge arrangements and ensure availability for transportation and home support,KEEP,"New discharge coordination/disposition event involving family contact and transport/home support planning, not previously represented."
+40,Personalised home exercise programme finalised for chronic thromboembolic pulmonary hypertension,REMOVE,Same discharge/home exercise planning already captured in earlier events; no new clinical change.
+40,"Patient educated on breathing exercises, light aerobic movements, and strategies to avoid overexertion",REMOVE,Breathing exercise and activity pacing education already documented previously.
+40,"Patient instructed to recognize warning signs of worsening symptoms (severe breathlessness, chest pain) and seek medical help",REMOVE,Safety-netting/warning sign advice is part of prior patient education and not a new clinical event.
+40,Patient expressed understanding and willingness to adhere to the exercise plan,REMOVE,Patient understanding/adherence is a repeat of prior education response with no new change.
+41,Patient reports reduced shortness of breath and is mobilising well with no new symptoms.,REMOVE,Restates improving breathlessness and mobility already captured in earlier progress notes without a new clinical change.
+41,V/Q scan confirmed mismatched perfusion defects consistent with Chronic Thromboembolic Pulmonary Hypertension.,REMOVE,Duplicates the previously consolidated V/Q scan finding of mismatched perfusion defects.
+41,Laboratory results show mild anaemia (Hb 110 g/L) and persistently raised NT-proBNP.,REMOVE,Repeats the already consolidated lab findings of mild anaemia and persistently elevated NT-proBNP.
+41,"Clinical examination reveals stable vitals (SpO2 94% on room air), clear chest, no elevated JVP, and no peripheral oedema.",REMOVE,"Rephrases the later stable examination findings already represented, with no new progression."
+41,"Discharge medications finalized: Rivaroxaban 15 mg twice daily for 21 days, followed by 20 mg once daily.",REMOVE,Same discharge anticoagulation regimen already captured earlier as rivaroxaban 15 mg BD then 20 mg OD.
+41,Follow-up arranged at tertiary Pulmonary Hypertension centre in 4 weeks.,REMOVE,Duplicate of the already recorded tertiary PH centre follow-up in 4 weeks.
+41,Plan to review Hemoglobin and NT-proBNP levels in outpatient department.,REMOVE,Repeats the existing plan for outpatient repeat Hb and NT-proBNP monitoring.
+42,Patient reported reduced shortness of breath and is mobilising well,REMOVE,Restates previously documented improvement in breathlessness and mobility without new clinical change.
+42,Hemoglobin level confirmed at 110 g/L,REMOVE,Same hemoglobin value already captured earlier as 110 g/L; no new result or change.
+42,NT-proBNP confirmed as persistently elevated,REMOVE,Persistent NT-proBNP elevation was already documented; this is a restatement without new measurement.
+42,Discharge planned for today,REMOVE,Duplicate discharge planning already noted earlier; no new disposition change.
+42,"Rivaroxaban 15 mg twice daily for 3 weeks, then 20 mg once daily prescribed",REMOVE,Same rivaroxaban regimen already recorded earlier; no new treatment change.
+42,Sildenafil 20 mg three times daily prescribed for pulmonary hypertension,REMOVE,Same sildenafil prescription already documented earlier; no new treatment change.
+42,Ferrous sulfate 200 mg twice daily prescribed for anemia,REMOVE,Same ferrous sulfate start already captured earlier; no new event.
+42,Home exercise plan provided,REMOVE,Home exercise programme was already planned earlier; this repeats the same plan.
+42,Follow-up appointment scheduled at tertiary PH centre in 4 weeks,REMOVE,Same tertiary PH centre follow-up in 4 weeks already documented earlier; no new appointment.
+43,Provided patient with detailed discharge summary,REMOVE,Administrative discharge documentation already covered by prior discharge planning and medication/follow-up arrangements.
+43,Explained outpatient follow-up plan,REMOVE,Outpatient follow-up was already arranged in earlier events; this restates the same plan.
+43,Shared contact details for local pulmonary HTN support services,KEEP,New supportive referral/resource information not previously documented.
+43,Advised no new medications or treatment changes,REMOVE,"This is a restatement that there were no medication changes, with no new clinical event."
+43,Instructed patient to contact support services if concerns or assistance needed post-discharge,KEEP,New discharge advice to contact support services if concerns arise; distinct patient instruction.
+44,Final physiotherapy session conducted focusing on diaphragmatic breathing exercises and light mobilisation progress,REMOVE,Final physiotherapy with diaphragmatic breathing and light mobilisation is already represented by prior physiotherapy sessions and progression notes.
+44,Tailored home exercise programme demonstrated to improve endurance and oxygenation,REMOVE,Home exercise programme was already planned earlier as part of discharge preparation.
+44,Patient instructed on energy conservation strategies and safety precautions to prevent overexertion,REMOVE,Energy conservation and safety precautions were already taught in earlier occupational therapy education.
+44,Patient discharged with home exercise programme,KEEP,This is a new disposition event indicating discharge with a home exercise programme.
+44,Plan established for outpatient physiotherapy follow-up to monitor progress,KEEP,Outpatient physiotherapy follow-up is a new post-discharge plan not previously captured.
