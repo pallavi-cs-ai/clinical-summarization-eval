@@ -1,0 +1,409 @@
+configuration,claim_id,claim,label,max_entailment,max_contradiction
+Whole + Gemini,C01,Patient is a 43-year-old female named Abena Bonsu.,SUPPORTED,0.9995793700218201,0.8889174461364746
+Whole + Gemini,C02,"Presented to the emergency department with progressive breathlessness for two weeks, worse on exertion.",SUPPORTED,0.9995354413986206,0.9956617951393127
+Whole + Gemini,C03,Past medical history includes hypertension.,SUPPORTED,0.9997853636741638,0.06939546018838882
+Whole + Gemini,C04,Past medical history includes asthma.,SUPPORTED,0.9997832179069519,0.002429270651191473
+Whole + Gemini,C05,Has a nut allergy.,SUPPORTED,0.9974048733711243,0.003333356464281678
+Whole + Gemini,C06,No regular medications were reported on presentation.,CONTRADICTED,0.9158146977424622,0.9995662569999695
+Whole + Gemini,C07,"On arrival, SpO2 was 89% on room air.",CONTRADICTED,0.5808546543121338,0.9996442794799805
+Whole + Gemini,C08,"On arrival, blood pressure was 92/64 mmHg.",CONTRADICTED,0.00835664663463831,0.9996459484100342
+Whole + Gemini,C09,"On arrival, heart rate was 112 bpm.",CONTRADICTED,0.03284607455134392,0.9995825886726379
+Whole + Gemini,C10,"On arrival, respiratory rate was 28 breaths per minute.",CONTRADICTED,0.0327770970761776,0.9992924928665161
+Whole + Gemini,C11,"On arrival, temperature was 36.8°C.",CONTRADICTED,0.5831669569015503,0.9991530179977417
+Whole + Gemini,C12,Emergency department diagnosis was chronic thromboembolic pulmonary hypertension (CTEPH).,SUPPORTED,0.9996956586837769,0.9863622784614563
+Whole + Gemini,C13,"Received low-flow oxygen via nasal cannula, which increased SpO2 to 92%.",SUPPORTED,0.999714195728302,0.9655832648277283
+Whole + Gemini,C14,Chest X-ray showed bilateral pulmonary congestion.,SUPPORTED,0.999650239944458,0.9967830181121826
+Whole + Gemini,C15,Arterial blood gas showed PaO2 of 8.5 kPa and compensated respiratory alkalosis.,SUPPORTED,0.9997527003288269,0.9992594122886658
+Whole + Gemini,C16,Initial NT-proBNP level was 3200 pg/mL.,SUPPORTED,0.9995618462562561,0.9988101720809937
+Whole + Gemini,C17,D-dimer was elevated.,SUPPORTED,0.9996100068092346,0.9965754151344299
+Whole + Gemini,C18,Transferred to respiratory high-dependency unit under Dr Elizabeth K. Singh.,SUPPORTED,0.9996181726455688,0.9977566599845886
+Whole + Gemini,C19,Started therapeutic enoxaparin 1.5 mg/kg daily.,SUPPORTED,0.9942347407341003,0.9911190867424011
+Whole + Gemini,C20,CT pulmonary angiogram confirmed chronic thromboembolic disease.,SUPPORTED,0.9994612336158752,0.5057284832000732
+Whole + Gemini,C21,Transthoracic echocardiogram showed severe pulmonary hypertension with right-ventricular strain.,SUPPORTED,0.9997345805168152,0.8714887499809265
+Whole + Gemini,C22,NT-proBNP rose to 4500 pg/mL.,SUPPORTED,0.9993475079536438,0.9118056297302246
+Whole + Gemini,C23,"Anticoagulation was switched to apixaban 10 mg twice daily for seven days, then 5 mg twice daily.",CONTRADICTED,0.7888188362121582,0.9992050528526306
+Whole + Gemini,C24,"Anticoagulation was later switched to rivaroxaban 15 mg twice daily for 21 days, then 20 mg once daily for long-term therapy.",SUPPORTED,0.9989829659461975,0.9980913996696472
+Whole + Gemini,C25,Sildenafil 20 mg three times daily was initiated for pulmonary hypertension.,SUPPORTED,0.9996901750564575,0.9993570446968079
+Whole + Gemini,C26,Furosemide 40 mg once daily was started for mild peripheral edema and right-heart strain.,SUPPORTED,0.9997214674949646,0.9993496537208557
+Whole + Gemini,C27,"Daily physiotherapy included diaphragmatic breathing, energy-conservation education, and progressive mobilisation with a rollator.",SUPPORTED,0.9997671246528625,0.9434982538223267
+Whole + Gemini,C28,Oxygen requirement remained low-flow (2 L nasal cannula) with SpO2 improving to at least 94% on oxygen.,SUPPORTED,0.9996156692504883,0.9989774227142334
+Whole + Gemini,C29,SpO2 eventually reached 95% on room air.,SUPPORTED,0.9996191263198853,0.9978528022766113
+Whole + Gemini,C30,Mild anemia was identified with hemoglobin 110 g/L.,SUPPORTED,0.9998142123222351,0.975077211856842
+Whole + Gemini,C31,Ferrous sulfate 200 mg twice daily was started.,SUPPORTED,0.9997572302818298,0.9556849598884583
+Whole + Gemini,C32,"Ventilation-perfusion scan demonstrated mismatched perfusion defects, confirming CTEPH.",SUPPORTED,0.999790608882904,0.2422841340303421
+Whole + Gemini,C33,Heart rate on discharge day was 82-88 bpm.,CONTRADICTED,0.025316884741187096,0.99953293800354
+Whole + Gemini,C34,Blood pressure on discharge day was 110-118/70-76 mmHg.,CONTRADICTED,0.9059182405471802,0.9989387392997742
+Whole + Gemini,C35,Respiratory rate on discharge day was 16-18 breaths per minute.,CONTRADICTED,0.08481714874505997,0.9993895292282104
+Whole + Gemini,C36,SpO2 on discharge day was 94-95% on room air.,CONTRADICTED,0.8823168277740479,0.9995675683021545
+Whole + Gemini,C37,Jugular venous pressure was no longer raised.,SUPPORTED,0.9885622262954712,0.8847410678863525
+Whole + Gemini,C38,Lung examination was clear.,CONTRADICTED,0.001030679210089147,0.9997015595436096
+Whole + Gemini,C39,No peripheral edema was present.,CONTRADICTED,0.4366568922996521,0.9996963739395142
+Whole + Gemini,C40,Discharge medications included sildenafil 20 mg three times daily.,SUPPORTED,0.9993124008178711,0.9912678599357605
+Whole + Gemini,C41,Discharge medications included rivaroxaban 20 mg once daily.,SUPPORTED,0.9996943473815918,0.9853425025939941
+Whole + Gemini,C42,Discharge medications included furosemide 20 mg once daily.,SUPPORTED,0.9984412789344788,0.9935063123703003
+Whole + Gemini,C43,Discharge medications included ferrous sulfate 200 mg twice daily.,SUPPORTED,0.999193012714386,0.9984452128410339
+Whole + Gemini,C44,Referral was arranged to a tertiary pulmonary hypertension centre for assessment of pulmonary endarterectomy.,SUPPORTED,0.999816358089447,0.6878910064697266
+Whole + Gemini,C45,Outpatient follow-up was scheduled at the tertiary centre in four weeks with repeat hemoglobin and NT-proBNP planned.,SUPPORTED,0.9997615218162537,0.08859911561012268
+Whole + Gemini,C46,Home oxygen assessment and pulmonary-rehabilitation exercise program were provided.,SUPPORTED,0.9998101592063904,0.46355727314949036
+Whole + Gemini,C47,Patient was instructed on use of a rollator and energy-conservation strategies.,SUPPORTED,0.9997075200080872,0.9857807755470276
+Whole + BGE,C01,The patient has a history of hypertension.,SUPPORTED,0.9998204112052917,0.5996821522712708
+Whole + BGE,C02,The patient has a history of asthma.,SUPPORTED,0.9996581077575684,0.02212110534310341
+Whole + BGE,C03,The patient presented with progressive breathlessness limiting daily activity.,SUPPORTED,0.9998378753662109,0.9158703088760376
+Whole + BGE,C04,Initial heart rate was 112 beats per minute.,CONTRADICTED,0.003273952519521117,0.9996122717857361
+Whole + BGE,C05,Initial blood pressure was 92/64 mmHg.,CONTRADICTED,0.006119727622717619,0.9995947480201721
+Whole + BGE,C06,Initial respiratory rate was 28 breaths per minute.,CONTRADICTED,0.04308999329805374,0.9993686079978943
+Whole + BGE,C07,Initial peripheral oxygen saturation was 89% on room air.,CONTRADICTED,0.9043145179748535,0.9996563196182251
+Whole + BGE,C08,Peripheral oxygen saturation improved to 92% with low‑flow oxygen.,SUPPORTED,0.9996629953384399,0.9973172545433044
+Whole + BGE,C09,Physical examination revealed raised jugular venous pressure.,SUPPORTED,0.9995899796485901,0.9978836178779602
+Whole + BGE,C10,Physical examination revealed a loud second heart sound (P2).,SUPPORTED,0.9997631907463074,0.9990715980529785
+Whole + BGE,C11,Physical examination revealed clear lungs.,CONTRADICTED,0.0014574741944670677,0.9997112154960632
+Whole + BGE,C12,Arterial blood gas showed mild hypoxia with PaO2 of 8.5 kPa and compensated respiratory alkalosis.,SUPPORTED,0.9997721314430237,0.9836046099662781
+Whole + BGE,C13,NT‑proBNP was 3200 pg/mL.,SUPPORTED,0.9996622800827026,0.9977437257766724
+Whole + BGE,C14,NT‑proBNP later increased to 4500 pg/mL.,SUPPORTED,0.9981188178062439,0.9923301339149475
+Whole + BGE,C15,Chest X‑ray showed cardiomegaly.,CONTRADICTED,0.9919955730438232,0.9996021389961243
+Whole + BGE,C16,Computed tomography pulmonary angiography confirmed chronic thromboembolic disease.,SUPPORTED,0.9995918869972229,0.8325031399726868
+Whole + BGE,C17,Transthoracic echocardiogram demonstrated severe pulmonary hypertension with right‑ventricular strain.,SUPPORTED,0.9996402263641357,0.9610162377357483
+Whole + BGE,C18,Enoxaparin 1.5 mg/kg daily was started.,SUPPORTED,0.9989175796508789,0.256369411945343
+Whole + BGE,C19,Low‑flow oxygen was administered to maintain SpO₂ > 92%.,SUPPORTED,0.9997695088386536,0.14223423600196838
+Whole + BGE,C20,Physiotherapy introduced diaphragmatic breathing exercises three times daily.,SUPPORTED,0.9998058676719666,0.027223026379942894
+Whole + BGE,C21,Apixaban 10 mg twice daily was initiated in place of enoxaparin.,SUPPORTED,0.9984847903251648,0.9964697360992432
+Whole + BGE,C22,Heart rate later stabilized at 96 beats per minute.,CONTRADICTED,0.3915300965309143,0.9988231062889099
+Whole + BGE,C23,Blood pressure later stabilized at 118/72 mmHg.,CONTRADICTED,0.9055061340332031,0.976772129535675
+Whole + BGE,C24,Peripheral oxygen saturation later stabilized at 94% on 2 L oxygen.,SUPPORTED,0.9997164607048035,0.9678521752357483
+Whole + BGE,C25,Oral furosemide 40 mg once daily was added for fluid management.,SUPPORTED,0.9997867941856384,0.9835641384124756
+Whole + BGE,C26,Oxygen therapy was continued at 2 L nasal cannula.,CONTRADICTED,0.9639151096343994,0.9952065348625183
+Whole + BGE,C27,"Physiotherapy provided energy‑conservation training, pacing strategies, and a rollator for ambulation.",SUPPORTED,0.9998040795326233,0.8841093182563782
+Whole + BGE,C28,Sildenafil 20 mg three times daily was started to lower pulmonary arterial pressure.,SUPPORTED,0.9996774196624756,0.9922299981117249
+Whole + BGE,C29,Rivaroxaban was started at 15 mg twice daily for 21 days.,SUPPORTED,0.9995637536048889,0.8497864007949829
+Whole + BGE,C30,Rivaroxaban dose was later increased to 20 mg once daily.,SUPPORTED,0.9993472695350647,0.9978737831115723
+Whole + BGE,C31,Ventilation‑perfusion scan showed mismatched perfusion defects confirming the extent of chronic thromboembolic pulmonary hypertension.,SUPPORTED,0.9998206496238708,0.09674892574548721
+Whole + BGE,C32,Referral to a tertiary pulmonary hypertension centre for pulmonary endarterectomy assessment was arranged.,SUPPORTED,0.9997933506965637,0.9250263571739197
+Whole + BGE,C33,"Oxygen requirement decreased from 2 L to 1 L and then to room air, with SpO₂ 94‑95% on room air.",CONTRADICTED,0.9786677956581116,0.9969801306724548
+Whole + BGE,C34,Raised jugular venous pressure resolved.,CONTRADICTED,0.03314491733908653,0.9988054037094116
+Whole + BGE,C35,"Peripheral oedema resolved, with brief recurrence managed by reducing furosemide to 20 mg once daily.",CONTRADICTED,0.0022219945676624775,0.9995601773262024
+Whole + BGE,C36,"Hemoglobin fell to 110 g/L, indicating mild anemia.",SUPPORTED,0.9997696280479431,0.032861366868019104
+Whole + BGE,C37,Ferrous sulfate 200 mg twice daily was started.,SUPPORTED,0.9997572302818298,0.9556849598884583
+Whole + BGE,C38,"At discharge, the patient was prescribed rivaroxaban 15 mg twice daily for 21 days then 20 mg once daily.",SUPPORTED,0.9992836117744446,0.9768308401107788
+Whole + BGE,C39,"At discharge, the patient was prescribed sildenafil 20 mg three times daily.",SUPPORTED,0.9989707469940186,0.990608811378479
+Whole + BGE,C40,"At discharge, the patient was prescribed furosemide 20 mg once daily.",CONTRADICTED,0.6851623058319092,0.9929459691047668
+Whole + BGE,C41,"At discharge, the patient was prescribed ferrous sulfate 200 mg twice daily.",SUPPORTED,0.9993687272071838,0.8078939914703369
+Whole + BGE,C42,No supplemental oxygen was required at rest; SpO₂ was 94‑95% on room air.,CONTRADICTED,0.9932275414466858,0.9995042085647583
+Whole + BGE,C43,"The patient was given a home exercise programme including breathing exercises, light aerobic activity, and pacing strategies, with use of a rollator as needed.",SUPPORTED,0.9997890591621399,0.3876815438270569
+Whole + BGE,C44,The patient is scheduled for an outpatient review at the tertiary pulmonary hypertension centre in four weeks.,SUPPORTED,0.9982774257659912,0.996178150177002
+Whole + BGE,C45,The patient is scheduled for repeat hemoglobin measurement in clinic.,CONTRADICTED,0.9934385418891907,0.9935141801834106
+Whole + BGE,C46,The patient is scheduled for repeat NT‑proBNP measurement in clinic.,CONTRADICTED,0.9971320629119873,0.9991078972816467
+Whole + BGE,C47,The patient was instructed to seek urgent care for worsening breathlessness or chest pain.,CONTRADICTED,0.9969704151153564,0.9987273812294006
+Whole + BGE,C48,The patient was diagnosed with chronic thromboembolic pulmonary hypertension with right‑ventricular strain.,SUPPORTED,0.9997418522834778,0.9436506628990173
+Whole + MedCPT,C01,The patient is a 43-year-old female named Abena Bonsu.,SUPPORTED,0.9995473027229309,0.8478628993034363
+Whole + MedCPT,C02,The patient has a past medical history of hypertension.,SUPPORTED,0.9997966885566711,0.022341551259160042
+Whole + MedCPT,C03,The patient has a past medical history of asthma.,SUPPORTED,0.9997891783714294,0.009347466751933098
+Whole + MedCPT,C04,The patient has a nut allergy.,SUPPORTED,0.9991517066955566,0.0020657959394156933
+Whole + MedCPT,C05,The patient presented with 2-week progressive exertional dyspnoea.,SUPPORTED,0.9998247027397156,0.9852675199508667
+Whole + MedCPT,C06,The patient denied chest pain at presentation.,CONTRADICTED,0.004354215692728758,0.999671459197998
+Whole + MedCPT,C07,The patient denied cough at presentation.,CONTRADICTED,0.0035178044345229864,0.9996472597122192
+Whole + MedCPT,C08,The patient denied wheeze at presentation.,CONTRADICTED,0.01850029267370701,0.9996496438980103
+Whole + MedCPT,C09,The patient denied fever at presentation.,CONTRADICTED,0.005572787951678038,0.9996503591537476
+Whole + MedCPT,C10,The patient denied syncope at presentation.,CONTRADICTED,0.00750688835978508,0.9996640682220459
+Whole + MedCPT,C11,The patient's blood pressure on presentation was 92/64 mmHg.,CONTRADICTED,0.017270421609282494,0.9996168613433838
+Whole + MedCPT,C12,The patient's heart rate on presentation was 112 bpm.,CONTRADICTED,0.01160002313554287,0.9996106028556824
+Whole + MedCPT,C13,The patient's respiratory rate on presentation was 28 per minute.,CONTRADICTED,0.12454001605510712,0.9976587295532227
+Whole + MedCPT,C14,The patient's oxygen saturation on presentation was 90% on 2 L nasal cannula.,CONTRADICTED,0.2011004090309143,0.9997112154960632
+Whole + MedCPT,C15,The patient's temperature on presentation was 36.8°C.,CONTRADICTED,0.9049951434135437,0.9973746538162231
+Whole + MedCPT,C16,Physical examination showed mild distress.,SUPPORTED,0.9997605681419373,0.9992115497589111
+Whole + MedCPT,C17,Physical examination showed raised jugular venous pressure.,SUPPORTED,0.9995649456977844,0.9982672929763794
+Whole + MedCPT,C18,Physical examination showed bibasal crepitations.,CONTRADICTED,0.9982860684394836,0.9996957778930664
+Whole + MedCPT,C19,Physical examination showed mild hepatomegaly.,CONTRADICTED,0.03901210054755211,0.9997335076332092
+Whole + MedCPT,C20,Physical examination showed no peripheral oedema.,CONTRADICTED,0.9988455772399902,0.999738872051239
+Whole + MedCPT,C21,Arterial blood gas showed a PaO2 of 8.5 kPa.,SUPPORTED,0.999783456325531,0.9996453523635864
+Whole + MedCPT,C22,Arterial blood gas showed a PaCO2 of 3.8 kPa.,CONTRADICTED,0.9951323866844177,0.998407781124115
+Whole + MedCPT,C23,Arterial blood gas showed a pH of 7.46.,CONTRADICTED,0.9755747318267822,0.9994872808456421
+Whole + MedCPT,C24,The arterial blood gas indicated compensated respiratory alkalosis and mild hypoxia.,SUPPORTED,0.9997896552085876,0.9988490343093872
+Whole + MedCPT,C25,Initial NT-proBNP level was 3200 pg/mL.,SUPPORTED,0.9995618462562561,0.9988101720809937
+Whole + MedCPT,C26,D-dimer was elevated.,SUPPORTED,0.9996100068092346,0.9965754151344299
+Whole + MedCPT,C27,Chest X-ray showed bilateral pulmonary congestion.,SUPPORTED,0.999650239944458,0.9967830181121826
+Whole + MedCPT,C28,Chest X-ray showed cardiomegaly.,CONTRADICTED,0.9930956959724426,0.999626636505127
+Whole + MedCPT,C29,CT pulmonary angiogram confirmed chronic thromboembolic disease.,SUPPORTED,0.9994612336158752,0.5057284832000732
+Whole + MedCPT,C30,Transthoracic echocardiogram showed severe pulmonary hypertension.,SUPPORTED,0.9996080994606018,0.9986215829849243
+Whole + MedCPT,C31,Transthoracic echocardiogram showed right‑ventricular strain.,SUPPORTED,0.9996435642242432,0.9947010278701782
+Whole + MedCPT,C32,Transthoracic echocardiogram showed a loud P2.,CONTRADICTED,0.9992837309837341,0.9997096657752991
+Whole + MedCPT,C33,The initial impression was suspected chronic thromboembolic pulmonary hypertension with cardiac strain.,SUPPORTED,0.9998025298118591,0.9952688813209534
+Whole + MedCPT,C34,Initial management included low‑flow oxygen.,SUPPORTED,0.9997966885566711,0.8647417426109314
+Whole + MedCPT,C35,Initial management included therapeutic enoxaparin 1.5 mg/kg subcutaneously daily.,CONTRADICTED,0.9982749223709106,0.99928879737854
+Whole + MedCPT,C36,The patient was admitted to a respiratory high‑dependency unit.,SUPPORTED,0.9998347759246826,0.9840381145477295
+Whole + MedCPT,C37,Anticoagulation was switched to apixaban 10 mg twice daily after enoxaparin.,CONTRADICTED,0.1790088564157486,0.9996496438980103
+Whole + MedCPT,C38,Diuretic therapy included furosemide 40 mg once daily.,SUPPORTED,0.999660849571228,0.7304583191871643
+Whole + MedCPT,C39,The patient received diaphragmatic breathing exercises as physiotherapy.,SUPPORTED,0.9997976422309875,0.0933343917131424
+Whole + MedCPT,C40,Oxygen requirement fell to 2 L O2 with SpO2 94% on oxygen.,SUPPORTED,0.9989497065544128,0.9983715415000916
+Whole + MedCPT,C41,Ventilation‑perfusion scan demonstrated mismatched perfusion defects confirming the extent of CTEPH.,SUPPORTED,0.9998096823692322,0.7837293744087219
+Whole + MedCPT,C42,NT-proBNP later measured 4500 pg/mL then 3200 pg/mL and remained elevated but stable.,SUPPORTED,0.9455131888389587,0.8648877143859863
+Whole + MedCPT,C43,Oxygen requirement reduced to 1 L O2 then to room air with SpO2 94‑95%.,SUPPORTED,0.9985557198524475,0.9899492263793945
+Whole + MedCPT,C44,Sildenafil 20 mg three times daily was initiated for pulmonary hypertension.,SUPPORTED,0.9996901750564575,0.9993570446968079
+Whole + MedCPT,C45,"Anticoagulation was changed to rivaroxaban 15 mg twice daily for 21 days, then planned 20 mg once daily.",CONTRADICTED,0.9992510676383972,0.9992708563804626
+Whole + MedCPT,C46,Mild anaemia was identified with hemoglobin 10 g/dL (110 g/L).,SUPPORTED,0.9996296167373657,0.0958356261253357
+Whole + MedCPT,C47,Ferrous sulfate 200 mg twice daily was started.,SUPPORTED,0.9997572302818298,0.9556849598884583
+Whole + MedCPT,C48,Furosemide dose was reduced to 20 mg once daily when peripheral oedema appeared mild.,SUPPORTED,0.9994568228721619,0.9971524477005005
+Whole + MedCPT,C49,"At discharge, the patient was alert.",CONTRADICTED,0.4428873062133789,0.9996670484542847
+Whole + MedCPT,C50,"At discharge, the patient had no dyspnoea at rest.",CONTRADICTED,0.02984365075826645,0.9996893405914307
+Whole + MedCPT,C51,"At discharge, the patient could mobilise independently.",SUPPORTED,0.9997875094413757,0.9995648264884949
+Whole + MedCPT,C52,"At discharge, jugular venous pressure was no longer raised.",SUPPORTED,0.9976403713226318,0.8941096067428589
+Whole + MedCPT,C53,"At discharge, chest examination was clear.",CONTRADICTED,0.41824716329574585,0.9997239708900452
+Whole + MedCPT,C54,"At discharge, there was no peripheral oedema.",CONTRADICTED,0.9858198165893555,0.9997040629386902
+Whole + MedCPT,C55,"At discharge, oxygen saturation was stable 94‑95% on room air.",CONTRADICTED,0.7881431579589844,0.9997039437294006
+Whole + MedCPT,C56,Ongoing issues included persistently elevated NT-proBNP.,SUPPORTED,0.9998065829277039,0.9981480836868286
+Whole + MedCPT,C57,Ongoing issues included mild anaemia.,SUPPORTED,0.9998268485069275,0.05109405890107155
+Whole + MedCPT,C58,Ongoing issues included chronic CTEPH.,SUPPORTED,0.9997718930244446,0.7100266814231873
+Whole + MedCPT,C59,Final medication list included rivaroxaban 15 mg twice daily for 21 days then 20 mg once daily.,CONTRADICTED,0.9992511868476868,0.9996040463447571
+Whole + MedCPT,C60,Final medication list included sildenafil 20 mg three times daily.,SUPPORTED,0.9997108578681946,0.999653697013855
+Whole + MedCPT,C61,Final medication list included furosemide 20 mg once daily.,CONTRADICTED,0.9989060163497925,0.9995354413986206
+Whole + MedCPT,C62,Final medication list included ferrous sulfate 200 mg twice daily.,SUPPORTED,0.9997900128364563,0.9995090961456299
+Whole + MedCPT,C63,The patient was referred to a tertiary pulmonary hypertension centre for assessment of pulmonary endarterectomy.,SUPPORTED,0.9998118281364441,0.9546039700508118
+Whole + MedCPT,C64,Cardiology input was noted.,SUPPORTED,0.9998078942298889,0.80404132604599
+Whole + MedCPT,C65,Discharge instructions included a home exercise programme.,SUPPORTED,0.9998273849487305,0.8771539330482483
+Whole + MedCPT,C66,Discharge instructions included an oxygen assessment if needed.,SUPPORTED,0.9997956156730652,0.12792055308818817
+Whole + MedCPT,C67,Discharge instructions included follow‑up at the tertiary PH centre in 4 weeks.,SUPPORTED,0.999626636505127,0.17259186506271362
+Whole + MedCPT,C68,Discharge instructions included safety‑net advice to seek urgent care for worsening dyspnoea or chest pain.,SUPPORTED,0.9996628761291504,0.9845544695854187
+Fixed + Gemini,C01,The patient is a 43-year-old female.,SUPPORTED,0.9997207522392273,0.8052778840065002
+Fixed + Gemini,C02,"She presented to the emergency department with progressive breathlessness for two weeks, worse on exertion.",SUPPORTED,0.9995051622390747,0.9927629828453064
+Fixed + Gemini,C03,Her past medical history includes hypertension.,SUPPORTED,0.9997460246086121,0.14278210699558258
+Fixed + Gemini,C04,Her past medical history includes asthma.,SUPPORTED,0.9997970461845398,0.0036918134428560734
+Fixed + Gemini,C05,She has an allergy to nuts.,SUPPORTED,0.9986750483512878,0.003226986387744546
+Fixed + Gemini,C06,No home medications were reported on admission.,CONTRADICTED,0.02518857829272747,0.9997087121009827
+Fixed + Gemini,C07,The emergency department diagnosis was chronic thromboembolic pulmonary hypertension (CTEPH).,SUPPORTED,0.9997168183326721,0.9734411835670471
+Fixed + Gemini,C08,Initial SpO2 on room air was 89%.,CONTRADICTED,0.11206541210412979,0.9995303153991699
+Fixed + Gemini,C09,Initial blood pressure was 92/64 mmHg.,CONTRADICTED,0.006119727622717619,0.9995947480201721
+Fixed + Gemini,C10,Initial heart rate was 112 beats per minute.,CONTRADICTED,0.003273952519521117,0.9996122717857361
+Fixed + Gemini,C11,Initial respiratory rate was 28 breaths per minute.,CONTRADICTED,0.04308999329805374,0.9993686079978943
+Fixed + Gemini,C12,Initial temperature was 36.8°C.,CONTRADICTED,0.02202252857387066,0.9993993043899536
+Fixed + Gemini,C13,Physical examination showed mild distress.,SUPPORTED,0.9997605681419373,0.9992115497589111
+Fixed + Gemini,C14,Physical examination showed laboured breathing.,SUPPORTED,0.9994351267814636,0.999394416809082
+Fixed + Gemini,C15,Physical examination showed elevated jugular venous pressure.,SUPPORTED,0.9992837309837341,0.998457670211792
+Fixed + Gemini,C16,Physical examination showed a loud second heart sound (P2).,SUPPORTED,0.9997904896736145,0.9990854263305664
+Fixed + Gemini,C17,Physical examination showed bilateral basal crepitations.,CONTRADICTED,0.9985792636871338,0.9997215867042542
+Fixed + Gemini,C18,Physical examination showed mild tender hepatomegaly.,CONTRADICTED,0.22911207377910614,0.9997105002403259
+Fixed + Gemini,C19,Physical examination showed no peripheral oedema.,CONTRADICTED,0.9988455772399902,0.999738872051239
+Fixed + Gemini,C20,Physical examination showed no signs of deep vein thrombosis.,CONTRADICTED,0.007276399061083794,0.9997401833534241
+Fixed + Gemini,C21,Low‑flow oxygen via nasal cannula at 2 L increased SpO2 to 92%.,SUPPORTED,0.9996956586837769,0.9557324647903442
+Fixed + Gemini,C22,Oxygen therapy was continued throughout admission.,CONTRADICTED,0.2420848160982132,0.9976916313171387
+Fixed + Gemini,C23,Chest X‑ray demonstrated bilateral pulmonary congestion and cardiomegaly without consolidation.,CONTRADICTED,0.9992944002151489,0.9996274709701538
+Fixed + Gemini,C24,"Arterial blood gas showed PaO2 8.5 kPa, PaCO2 3.8 kPa, pH 7.46, indicating mild hypoxia with compensated respiratory alkalosis.",SUPPORTED,0.9997456669807434,0.9958479404449463
+Fixed + Gemini,C25,NT‑proBNP was elevated at 3 200 pg/mL.,SUPPORTED,0.9997977614402771,0.9884446859359741
+Fixed + Gemini,C26,"Enoxaparin 1.5 mg/kg daily was administered, with the first dose given in the emergency department.",CONTRADICTED,0.2220274657011032,0.9555260539054871
+Fixed + Gemini,C27,Anticoagulation was changed to apixaban 10 mg twice daily for seven days followed by 5 mg twice daily.,CONTRADICTED,0.9956278800964355,0.999372661113739
+Fixed + Gemini,C28,Furosemide 40 mg once daily was started for mild fluid retention.,SUPPORTED,0.9997792840003967,0.9966089725494385
+Fixed + Gemini,C29,Diaphragmatic breathing exercises were introduced three times daily.,SUPPORTED,0.9998255372047424,0.00433926610276103
+Fixed + Gemini,C30,"Light mobilisation, energy‑conservation education, and rollator training were provided.",SUPPORTED,0.9998277425765991,0.5070927143096924
+Fixed + Gemini,C31,CT pulmonary angiogram confirmed chronic thromboembolic disease.,SUPPORTED,0.9994612336158752,0.5057284832000732
+Fixed + Gemini,C32,Transthoracic echocardiogram showed severe pulmonary hypertension with right‑ventricular strain.,SUPPORTED,0.9997299313545227,0.8050469160079956
+Fixed + Gemini,C33,Cardiology referral was made and pulmonary endarterectomy was discussed.,SUPPORTED,0.9997645020484924,0.2056242972612381
+Fixed + Gemini,C34,Sildenafil 20 mg three times daily was initiated for pulmonary hypertension.,SUPPORTED,0.9996901750564575,0.9993570446968079
+Fixed + Gemini,C35,Rivaroxaban was started at 15 mg twice daily for 21 days then increased to 20 mg once daily for long‑term anticoagulation.,SUPPORTED,0.9989768266677856,0.9976775050163269
+Fixed + Gemini,C36,Furosemide 40 mg daily was continued.,CONTRADICTED,0.9992314577102661,0.9993544220924377
+Fixed + Gemini,C37,"The patient became oxygen independent, maintaining SpO2 94‑95% on room air.",CONTRADICTED,0.9976910352706909,0.9997084736824036
+Fixed + Gemini,C38,Heart rate stabilized to 82‑88 bpm.,CONTRADICTED,0.008167636580765247,0.9996044039726257
+Fixed + Gemini,C39,Blood pressure stabilized to 110‑118/72 mmHg.,CONTRADICTED,0.07887516915798187,0.9996517896652222
+Fixed + Gemini,C40,Jugular venous pressure was no longer elevated.,SUPPORTED,0.979806661605835,0.9496124982833862
+Fixed + Gemini,C41,Peripheral oedema resolved.,CONTRADICTED,0.002599055180326104,0.9996829032897949
+Fixed + Gemini,C42,Hepatomegaly was absent.,CONTRADICTED,0.0012588563840836287,0.9997069239616394
+Fixed + Gemini,C43,Mild anemia was identified with hemoglobin 110 g/L.,SUPPORTED,0.9998142123222351,0.975077211856842
+Fixed + Gemini,C44,Ferrous sulfate 200 mg twice daily was started.,SUPPORTED,0.9997572302818298,0.9556849598884583
+Fixed + Gemini,C45,NT‑proBNP remained mildly elevated at approximately 3 200 pg/mL.,SUPPORTED,0.999584972858429,0.9995797276496887
+Fixed + Gemini,C46,Ventilation‑perfusion scan confirmed mismatched perfusion defects consistent with CTEPH.,SUPPORTED,0.9997474551200867,0.5147949457168579
+Fixed + Gemini,C47,The patient reported continued improvement in breathlessness.,CONTRADICTED,0.9994547963142395,0.9996699094772339
+Fixed + Gemini,C48,The patient tolerated walking 10 m with a walking frame without desaturation.,CONTRADICTED,0.6799690127372742,0.999480664730072
+Fixed + Gemini,C49,"Discharge medications included sildenafil 20 mg three times daily, rivaroxaban 20 mg once daily, furosemide 40 mg once daily, and ferrous sulfate 200 mg twice daily.",CONTRADICTED,0.9971520900726318,0.9997010231018066
+Fixed + Gemini,C50,No supplemental oxygen was required at discharge.,CONTRADICTED,0.6361896395683289,0.999674916267395
+Fixed + Gemini,C51,Outpatient follow‑up was arranged at a tertiary pulmonary hypertension centre in four weeks.,SUPPORTED,0.999687671661377,0.33231034874916077
+Fixed + Gemini,C52,The patient was discharged in stable condition.,CONTRADICTED,0.06513570249080658,0.9997087121009827
+Fixed + BGE,C01,Past medical history includes hypertension.,SUPPORTED,0.9997853636741638,0.06939546018838882
+Fixed + BGE,C02,Past medical history includes asthma.,SUPPORTED,0.9997832179069519,0.002429270651191473
+Fixed + BGE,C03,Presented with progressive breathlessness.,SUPPORTED,0.9998261332511902,0.9620540142059326
+Fixed + BGE,C04,Arterial blood gas showed mild hypoxia with PaO₂ of 8.5 kPa.,SUPPORTED,0.999743640422821,0.9987092018127441
+Fixed + BGE,C05,Arterial blood gas showed compensated respiratory alkalosis.,CONTRADICTED,0.9986661672592163,0.9995243549346924
+Fixed + BGE,C06,NT‑proBNP level was approximately 3 200 pg/mL.,SUPPORTED,0.9998070597648621,0.9816526770591736
+Fixed + BGE,C07,Low‑flow oxygen therapy was started at 2 L nasal cannula.,SUPPORTED,0.9883564114570618,0.4096197783946991
+Fixed + BGE,C08,SpO₂ increased from 89 % to 92 % after oxygen initiation.,SUPPORTED,0.9997398257255554,0.9984927177429199
+Fixed + BGE,C09,CTPA confirmed chronic thromboembolic disease.,SUPPORTED,0.9997259974479675,0.9969496130943298
+Fixed + BGE,C10,Diagnosed with chronic thromboembolic pulmonary hypertension.,SUPPORTED,0.9997839331626892,0.8865310549736023
+Fixed + BGE,C11,Anticoagulation was initiated with apixaban 10 mg twice daily.,CONTRADICTED,0.8158503770828247,0.9983505010604858
+Fixed + BGE,C12,Diaphragmatic breathing exercises were introduced.,SUPPORTED,0.9997953772544861,0.6387179493904114
+Fixed + BGE,C13,Echocardiogram demonstrated severe pulmonary hypertension with right‑ventricular strain.,SUPPORTED,0.999754011631012,0.866134762763977
+Fixed + BGE,C14,Furosemide 40 mg once daily was started for fluid retention.,SUPPORTED,0.9997420907020569,0.9963952898979187
+Fixed + BGE,C15,Anticoagulation was switched to rivaroxaban 15 mg twice daily.,CONTRADICTED,0.9811707735061646,0.9996458292007446
+Fixed + BGE,C16,Sildenafil 20 mg three times daily was commenced for pulmonary hypertension.,SUPPORTED,0.9996800422668457,0.9989172220230103
+Fixed + BGE,C17,Energy‑conservation education was provided.,SUPPORTED,0.9998173117637634,0.976061224937439
+Fixed + BGE,C18,A rollator was fitted.,SUPPORTED,0.9997767806053162,0.11347714066505432
+Fixed + BGE,C19,Pacing strategies were taught.,SUPPORTED,0.9997653365135193,0.93980473279953
+Fixed + BGE,C20,A ventilation‑perfusion scan was scheduled.,SUPPORTED,0.9997132420539856,0.3530998229980469
+Fixed + BGE,C21,Referred to cardiology for definitive pulmonary hypertension management.,SUPPORTED,0.9996496438980103,0.9973434805870056
+Fixed + BGE,C22,V/Q scan showed mismatched perfusion defects confirming the extent of CTEPH.,SUPPORTED,0.9998044371604919,0.6828299760818481
+Fixed + BGE,C23,Referred to a tertiary pulmonary hypertension centre for pulmonary endarterectomy assessment.,SUPPORTED,0.9997343420982361,0.778553307056427
+Fixed + BGE,C24,Received oxygen at 1 L nasal cannula.,SUPPORTED,0.9996836185455322,0.3609682321548462
+Fixed + BGE,C25,SpO₂ was 94‑95 % while on oxygen.,CONTRADICTED,0.9880961179733276,0.9994770884513855
+Fixed + BGE,C26,Jugular venous pressure was not raised.,CONTRADICTED,0.005175834055989981,0.9996455907821655
+Fixed + BGE,C27,No peripheral oedema was present.,CONTRADICTED,0.5882789492607117,0.9996994733810425
+Fixed + BGE,C28,Sildenafil 20 mg three times daily was continued.,CONTRADICTED,0.9974589943885803,0.9995918869972229
+Fixed + BGE,C29,Furosemide was continued.,CONTRADICTED,0.9399706125259399,0.9995866417884827
+Fixed + BGE,C30,Structured breathing exercises and light stretching were performed.,SUPPORTED,0.9998257756233215,0.22358763217926025
+Fixed + BGE,C31,Improved endurance was noted.,SUPPORTED,0.9998372793197632,0.4390125870704651
+Fixed + BGE,C32,Oxygen therapy was weaned to room air.,UNSUPPORTED,0.5865989327430725,0.4438684284687042
+Fixed + BGE,C33,SpO₂ was 94‑95 % on room air.,CONTRADICTED,0.38687676191329956,0.9996005892753601
+Fixed + BGE,C34,Rivaroxaban dose was increased to 20 mg once daily for long‑term anticoagulation.,SUPPORTED,0.9994090795516968,0.9968794584274292
+Fixed + BGE,C35,"Hemoglobin was approximately 110 g/L, indicating mild anaemia.",SUPPORTED,0.9998142123222351,0.03593149781227112
+Fixed + BGE,C36,Ferrous sulfate 200 mg twice daily was started.,SUPPORTED,0.9997572302818298,0.9556849598884583
+Fixed + BGE,C37,At discharge the patient was comfortable at rest.,CONTRADICTED,0.5768951177597046,0.9996999502182007
+Fixed + BGE,C38,At discharge the patient was mobilising independently.,CONTRADICTED,0.9996603727340698,0.9997153878211975
+Fixed + BGE,C39,No new symptoms were reported at discharge.,CONTRADICTED,0.9428058862686157,0.9996789693832397
+Fixed + BGE,C40,NT‑proBNP remained persistently elevated but stable.,SUPPORTED,0.9989596605300903,0.7173832654953003
+Fixed + BGE,C41,"Discharge plan: rivaroxaban 15 mg twice daily for 21 days, then 20 mg once daily.",CONTRADICTED,0.9595906138420105,0.999097466468811
+Fixed + BGE,C42,Discharge plan: sildenafil 20 mg three times daily.,SUPPORTED,0.9989480376243591,0.9963493347167969
+Fixed + BGE,C43,Discharge plan: furosemide 20 mg once daily for mild peripheral oedema.,CONTRADICTED,0.9810106158256531,0.9995786547660828
+Fixed + BGE,C44,Discharge plan: ferrous sulfate 200 mg twice daily.,SUPPORTED,0.9995285272598267,0.9921187162399292
+Fixed + BGE,C45,Home‑exercise programme consisting of breathing and light aerobic activity was prescribed.,SUPPORTED,0.9997995495796204,0.6615245342254639
+Fixed + BGE,C46,No home oxygen was required at discharge.,CONTRADICTED,0.8875170350074768,0.999688982963562
+Fixed + BGE,C47,Follow‑up appointment at the tertiary pulmonary hypertension centre was scheduled in four weeks.,SUPPORTED,0.9998156428337097,0.29113760590553284
+Fixed + BGE,C48,Repeat hemoglobin was to be measured in the outpatient clinic.,CONTRADICTED,0.21956491470336914,0.9988411068916321
+Fixed + BGE,C49,Repeat NT‑proBNP was to be measured in the outpatient clinic.,CONTRADICTED,0.11102545261383057,0.9996094107627869
+Fixed + BGE,C50,Patient was advised to seek urgent review for worsening breathlessness or chest pain.,SUPPORTED,0.9997921586036682,0.9986590147018433
+Section + Gemini,C01,The patient is a 43‑year‑old female named Abena Bonsu.,SUPPORTED,0.999521017074585,0.9479053616523743
+Section + Gemini,C02,The patient has a past medical history of hypertension.,SUPPORTED,0.9997966885566711,0.022341551259160042
+Section + Gemini,C03,The patient has a past medical history of asthma.,SUPPORTED,0.9997891783714294,0.009347466751933098
+Section + Gemini,C04,The patient’s father has hypertension.,CONTRADICTED,0.2645951807498932,0.9927531480789185
+Section + Gemini,C05,The patient’s mother has asthma.,UNSUPPORTED,0.01895313523709774,0.24280515313148499
+Section + Gemini,C06,The patient lives alone.,CONTRADICTED,0.10985276103019714,0.9995881915092468
+Section + Gemini,C07,The patient works as a school teacher.,SUPPORTED,0.9924545288085938,0.8208343982696533
+Section + Gemini,C08,The patient is a non‑smoker.,CONTRADICTED,0.11144906282424927,0.996013879776001
+Section + Gemini,C09,The patient uses alcohol rarely.,CONTRADICTED,0.08286608755588531,0.9994503855705261
+Section + Gemini,C10,The patient does not use recreational drugs.,CONTRADICTED,0.008912215009331703,0.9996956586837769
+Section + Gemini,C11,The patient has not had recent travel.,CONTRADICTED,0.012178928591310978,0.9996718168258667
+Section + Gemini,C12,The chief complaint on admission was progressive exertional breathlessness.,SUPPORTED,0.9998190999031067,0.9980756044387817
+Section + Gemini,C13,The initial assessment suspected chronic thromboembolic pulmonary hypertension causing cardiac strain.,SUPPORTED,0.9997654557228088,0.988186240196228
+Section + Gemini,C14,Transthoracic echocardiography showed severe pulmonary hypertension with right‑ventricular strain.,SUPPORTED,0.9997113347053528,0.8889500498771667
+Section + Gemini,C15,Initial NT‑proBNP level was 3200 pg/mL.,SUPPORTED,0.9995884299278259,0.998650848865509
+Section + Gemini,C16,The patient was started on nasal cannula oxygen at 2 L/min.,SUPPORTED,0.9997228980064392,0.06785457581281662
+Section + Gemini,C17,Rivaroxaban was noted as effective and well‑tolerated.,SUPPORTED,0.9997233748435974,0.5258402824401855
+Section + Gemini,C18,"Initial vital signs were HR 88 bpm, BP 110/70 mmHg, RR 20 /min, SpO₂ 94 % on 2 L oxygen, temperature 36.8 °C.",CONTRADICTED,0.9945982694625854,0.9987215399742126
+Section + Gemini,C19,The patient was admitted to the Respiratory HDU under Dr Elizabeth Kathryn Singh.,SUPPORTED,0.9996472597122192,0.9942094087600708
+Section + Gemini,C20,During early inpatient review the patient remained clinically stable.,CONTRADICTED,0.8354955315589905,0.9996342658996582
+Section + Gemini,C21,The patient continued to have exertional dyspnoea.,SUPPORTED,0.9996335506439209,0.9950662851333618
+Section + Gemini,C22,NT‑proBNP remained unchanged at 3200 pg/mL during early review.,CONTRADICTED,0.35625556111335754,0.9995514750480652
+Section + Gemini,C23,The patient continued to require 2 L/min supplemental oxygen during early review.,CONTRADICTED,0.9979071617126465,0.9994742274284363
+Section + Gemini,C24,On a subsequent review the patient reported feeling less breathless.,SUPPORTED,0.9997807145118713,0.9964221715927124
+Section + Gemini,C25,The patient required less supplemental oxygen on the subsequent review.,SUPPORTED,0.9994562268257141,0.9663896560668945
+Section + Gemini,C26,CT pulmonary angiography confirmed chronic thromboembolic disease.,SUPPORTED,0.9995668530464172,0.5949668884277344
+Section + Gemini,C27,Repeat echocardiography confirmed severe pulmonary hypertension and right‑ventricular strain.,SUPPORTED,0.9995705485343933,0.9946046471595764
+Section + Gemini,C28,Arterial blood gas showed PaO₂ 8.5 kPa and PaCO₂ 4.2 kPa.,CONTRADICTED,0.9910881519317627,0.9983928799629211
+Section + Gemini,C29,NT‑proBNP increased to 4500 pg/mL on the subsequent review.,SUPPORTED,0.9995079040527344,0.9574143290519714
+Section + Gemini,C30,Sildenafil was initiated to manage pulmonary hypertension.,CONTRADICTED,0.9996191263198853,0.9996929168701172
+Section + Gemini,C31,A referral was made to a tertiary pulmonary hypertension centre for consideration of pulmonary endarterectomy.,SUPPORTED,0.9998047947883606,0.8955148458480835
+Section + Gemini,C32,"Physiotherapy included diaphragmatic breathing, light mobility, and two short corridor walks with rest breaks.",SUPPORTED,0.9998010993003845,0.07317861914634705
+Section + Gemini,C33,The patient tolerated physiotherapy with oxygen saturations >92 % on 2 L and no significant dyspnoea.,SUPPORTED,0.9997606873512268,0.9995635151863098
+Section + Gemini,C34,"Physiotherapy also included light mobilisation, diaphragmatic breathing, and ambulation of 10 m using a walking frame with minimal assistance.",SUPPORTED,0.9997963309288025,0.0075982119888067245
+Section + Gemini,C35,The patient tolerated this physiotherapy with oxygen saturations >92 % on low‑flow oxygen and no medication changes.,SUPPORTED,0.9994580149650574,0.9988114833831787
+Section + Gemini,C36,"General examination showed the patient alert, without distress, no peripheral oedema, non‑raised JVP, clear chest, soft abdomen, and no hepatomegaly.",CONTRADICTED,0.9920525550842285,0.9996789693832397
+Section + Gemini,C37,"Recorded vital signs ranged HR 84‑88 bpm, BP 112‑118/70‑72 mmHg, RR 16‑18 /min, temperature 36.8 °C, SpO₂ 94‑95 % on room air.",CONTRADICTED,0.9943118095397949,0.9983208775520325
+Section + Gemini,C38,Hemoglobin was 110 g/L.,CONTRADICTED,0.9994964599609375,0.999648928642273
+Section + Gemini,C39,NT‑proBNP was described as mildly elevated consistent with chronic thromboembolic pulmonary hypertension.,SUPPORTED,0.9997947812080383,0.9851341247558594
+Section + Gemini,C40,No new imaging abnormalities were identified.,CONTRADICTED,0.9935100674629211,0.9996588230133057
+Section + Gemini,C41,No infections were identified.,CONTRADICTED,0.3698935806751251,0.9995693564414978
+Section + Gemini,C42,A detailed discharge summary and outpatient follow‑up plan were provided.,SUPPORTED,0.9997395873069763,0.6893466114997864
+Section + Gemini,C43,Contact details for local pulmonary hypertension support services were supplied.,SUPPORTED,0.9997884631156921,0.208732008934021
+Section + Gemini,C44,No new medications or treatment changes were prescribed at discharge.,CONTRADICTED,0.9984133243560791,0.9996529817581177
+Section + Gemini,C45,The patient was instructed to contact support services if concerns arise.,SUPPORTED,0.9998019337654114,0.9974260926246643
+Section + Gemini,C46,Clinical status remained stable with mild improvement in symptoms and oxygen requirements.,CONTRADICTED,0.9994432330131531,0.9995964169502258
+Section + BGE,C01,Patient presented with progressive breathlessness.,SUPPORTED,0.9998325109481812,0.9105619192123413
+Section + BGE,C02,Patient has a past medical history of hypertension.,SUPPORTED,0.9998038411140442,0.0074601685628294945
+Section + BGE,C03,Patient has a past medical history of asthma.,SUPPORTED,0.9997846484184265,0.0074077630415558815
+Section + BGE,C04,Patient was placed on low-flow oxygen.,SUPPORTED,0.9997733235359192,0.26047226786613464
+Section + BGE,C05,Patient’s SpO₂ increased from 89% to 92% on low-flow oxygen.,SUPPORTED,0.9997435212135315,0.9968860745429993
+Section + BGE,C06,Patient’s arterial blood gas showed a PaO₂ of 8.5 kPa indicating mild hypoxia.,SUPPORTED,0.9996650218963623,0.9984408020973206
+Section + BGE,C07,Patient’s arterial blood gas demonstrated compensated respiratory alkalosis.,CONTRADICTED,0.9984090924263,0.9995505213737488
+Section + BGE,C08,"NT-proBNP was measured at 3,200 pg/mL.",SUPPORTED,0.999803364276886,0.9935492873191833
+Section + BGE,C09,Patient was started on apixaban 10 mg twice daily.,CONTRADICTED,0.854065477848053,0.9948829412460327
+Section + BGE,C10,"After 7 days, apixaban dose was reduced to 5 mg twice daily.",CONTRADICTED,0.3644803762435913,0.9004952907562256
+Section + BGE,C11,Patient received low-molecular-weight heparin until apixaban was therapeutic.,SUPPORTED,0.9993895292282104,0.49397942423820496
+Section + BGE,C12,CTPA confirmed chronic thromboembolic disease.,SUPPORTED,0.9997259974479675,0.9969496130943298
+Section + BGE,C13,Transthoracic echocardiogram demonstrated severe pulmonary hypertension with right-ventricular strain.,SUPPORTED,0.9996521472930908,0.978991687297821
+Section + BGE,C14,"NT-proBNP later measured at 4,500 pg/mL.",SUPPORTED,0.9995429515838623,0.9470705986022949
+Section + BGE,C15,No infection was identified.,CONTRADICTED,0.25970351696014404,0.9996472597122192
+Section + BGE,C16,Patient was diagnosed with chronic thromboembolic pulmonary hypertension.,SUPPORTED,0.9997981190681458,0.8798529505729675
+Section + BGE,C17,Anticoagulation was switched to rivaroxaban 15 mg twice daily.,CONTRADICTED,0.9811707735061646,0.9996458292007446
+Section + BGE,C18,Plan to increase rivaroxaban to 20 mg once daily long-term.,SUPPORTED,0.9991483688354492,0.8591155409812927
+Section + BGE,C19,Patient was prescribed furosemide 40 mg once daily for fluid management and right-ventricular load reduction.,SUPPORTED,0.9997144341468811,0.8281539082527161
+Section + BGE,C20,Patient was started on sildenafil 20 mg three times daily.,SUPPORTED,0.9995306730270386,0.9990552067756653
+Section + BGE,C21,Patient was referred to a tertiary pulmonary hypertension centre for assessment of pulmonary endarterectomy.,SUPPORTED,0.9997976422309875,0.9650247693061829
+Section + BGE,C22,Diaphragmatic breathing exercises were introduced.,SUPPORTED,0.9997953772544861,0.6387179493904114
+Section + BGE,C23,"Patient received energy-conservation education, pacing strategies, and a rollator for ambulation.",SUPPORTED,0.9998326301574707,0.3616475462913513
+Section + BGE,C24,"Structured breathing, light stretching, and low-intensity walking sessions resulted in progressive improvement in endurance and SpO₂.",SUPPORTED,0.9998249411582947,0.01665312983095646
+Section + BGE,C25,"A home-exercise programme was finalized focusing on gradual aerobic activity, breathing techniques, and warning-sign education.",SUPPORTED,0.9996345043182373,0.9969075322151184
+Section + BGE,C26,V/Q scan showed mismatched perfusion defects confirming chronic thromboembolic pulmonary hypertension.,SUPPORTED,0.9998148083686829,0.043179530650377274
+Section + BGE,C27,Discharge plan includes rivaroxaban 15 mg twice daily for 21 days then 20 mg once daily long-term.,CONTRADICTED,0.9991438388824463,0.9996336698532104
+Section + BGE,C28,Discharge plan includes sildenafil 20 mg three times daily.,SUPPORTED,0.9996016621589661,0.9995402097702026
+Section + BGE,C29,Discharge plan includes furosemide 40 mg once daily.,CONTRADICTED,0.9995618462562561,0.9996815919876099
+Section + BGE,C30,Follow-up appointment at the tertiary pulmonary hypertension centre is scheduled in 4 weeks.,SUPPORTED,0.9997939467430115,0.31215527653694153
+Section + BGE,C31,Outpatient review of haemoglobin is planned.,SUPPORTED,0.9996397495269775,0.9930922985076904
+Section + BGE,C32,Outpatient review of NT-proBNP is planned.,SUPPORTED,0.9995487332344055,0.8873212337493896
+Section + BGE,C33,Home oxygen assessment was arranged.,SUPPORTED,0.9998217225074768,0.8690032958984375
+Section + BGE,C34,Patient remained clinically stable at discharge.,CONTRADICTED,0.11388087272644043,0.999687910079956
+Section + MedCPT,C01,Patient is a 43-year-old female.,SUPPORTED,0.9996960163116455,0.9251990914344788
+Section + MedCPT,C02,Past medical history includes hypertension.,SUPPORTED,0.9997853636741638,0.06939546018838882
+Section + MedCPT,C03,Past medical history includes asthma.,SUPPORTED,0.9997832179069519,0.002429270651191473
+Section + MedCPT,C04,Family history is negative for thromboembolism.,CONTRADICTED,0.0006014245445840061,0.9995700716972351
+Section + MedCPT,C05,Family history is negative for pulmonary hypertension.,CONTRADICTED,0.0006047285278327763,0.9996933937072754
+Section + MedCPT,C06,Patient lives alone.,CONTRADICTED,0.43466848134994507,0.9995999932289124
+Section + MedCPT,C07,Patient is independent in activities of daily living.,CONTRADICTED,0.9976441264152527,0.9997217059135437
+Section + MedCPT,C08,Patient is a non-smoker.,CONTRADICTED,0.3355407416820526,0.9978356957435608
+Section + MedCPT,C09,Patient consumes alcohol rarely.,CONTRADICTED,0.3678654134273529,0.9995182752609253
+Section + MedCPT,C10,Patient does not use recreational drugs.,CONTRADICTED,0.012010819278657436,0.9996392726898193
+Section + MedCPT,C11,Patient has not traveled recently.,CONTRADICTED,0.02515694871544838,0.9995929598808289
+Section + MedCPT,C12,"Patient presented with progressive breathlessness over two weeks, worse on exertion.",SUPPORTED,0.9996814727783203,0.8477486968040466
+Section + MedCPT,C13,"Patient reported chest tightness without chest pain, wheeze, haemoptysis, fever, or syncope.",CONTRADICTED,0.9912946820259094,0.9997236132621765
+Section + MedCPT,C14,CTPA confirmed chronic thromboembolic disease.,SUPPORTED,0.9997259974479675,0.9969496130943298
+Section + MedCPT,C15,Transthoracic echocardiogram showed severe pulmonary hypertension with right-ventricular strain.,SUPPORTED,0.9997345805168152,0.8714887499809265
+Section + MedCPT,C16,"NT-proBNP level was 3,200 pg/mL.",SUPPORTED,0.9997722506523132,0.9773065447807312
+Section + MedCPT,C17,V/Q scan demonstrated mismatched perfusion defects consistent with CTEPH.,SUPPORTED,0.9998056292533875,0.7541018724441528
+Section + MedCPT,C18,Hemoglobin was 110 g/L.,CONTRADICTED,0.9994964599609375,0.999648928642273
+Section + MedCPT,C19,Mild anemia was noted.,SUPPORTED,0.999809205532074,0.008310988545417786
+Section + MedCPT,C20,Diagnosis of chronic thromboembolic pulmonary hypertension (CTEPH) was confirmed.,SUPPORTED,0.9997522234916687,0.980581521987915
+Section + MedCPT,C21,Patient required supplemental oxygen at 2 L/min initially.,SUPPORTED,0.9992305040359497,0.9934819340705872
+Section + MedCPT,C22,Patient was weaned to room air.,CONTRADICTED,0.031785305589437485,0.9976442456245422
+Section + MedCPT,C23,Patient’s SpO₂ was 94% while receiving 2 L/min oxygen.,CONTRADICTED,0.9989823698997498,0.9994088411331177
+Section + MedCPT,C24,Patient’s SpO₂ was 95% on room air.,CONTRADICTED,0.06014527752995491,0.9996432065963745
+Section + MedCPT,C25,Patient was started on rivaroxaban 20 mg once daily.,SUPPORTED,0.9987388253211975,0.9978697299957275
+Section + MedCPT,C26,"At discharge, patient was prescribed rivaroxaban 15 mg twice daily for 21 days then 20 mg once daily.",SUPPORTED,0.9991770386695862,0.9888505339622498
+Section + MedCPT,C27,Patient was scheduled for follow-up at a tertiary pulmonary hypertension centre in four weeks.,SUPPORTED,0.9998039603233337,0.8478182554244995
+Section + MedCPT,C28,Outpatient review of hemoglobin and NT-proBNP was planned.,SUPPORTED,0.9997193217277527,0.14166736602783203
+Fixed + MedCPT,C01,The patient is a 43-year-old female named Abena Bonsu.,SUPPORTED,0.9995473027229309,0.8478628993034363
+Fixed + MedCPT,C02,The patient has a past medical history of hypertension and asthma.,SUPPORTED,0.9998182654380798,0.113623708486557
+Fixed + MedCPT,C03,The patient presented to the emergency department with progressive exertional dyspnoea for two weeks.,SUPPORTED,0.9995428323745728,0.9948703050613403
+Fixed + MedCPT,C04,"The patient denied chest pain, haemoptysis, fever, and syncope on presentation.",CONTRADICTED,0.036385394632816315,0.9997019171714783
+Fixed + MedCPT,C05,Initial peripheral oxygen saturation was 89% on room air and improved to 92% with low‑flow oxygen at 2 L/min.,SUPPORTED,0.9994657635688782,0.9994068145751953
+Fixed + MedCPT,C06,Arterial blood gas showed mild hypoxia (PaO₂ 8.5 kPa) with compensated respiratory alkalosis.,SUPPORTED,0.999715268611908,0.9970947504043579
+Fixed + MedCPT,C07,NT‑proBNP measured 3 200 pg/mL.,SUPPORTED,0.9997655749320984,0.9955989122390747
+Fixed + MedCPT,C08,The patient received low‑flow oxygen therapy.,SUPPORTED,0.9998193383216858,0.07797451317310333
+Fixed + MedCPT,C09,The patient was started on low molecular weight heparin (LMWH).,CONTRADICTED,0.9930552840232849,0.9979204535484314
+Fixed + MedCPT,C10,The treatment plan included apixaban 10 mg twice daily for seven days followed by 5 mg twice daily.,SUPPORTED,0.9994413256645203,0.8366303443908691
+Fixed + MedCPT,C11,A computed tomography pulmonary angiogram (CTPA) was performed to evaluate for chronic thrombo‑embolic pulmonary hypertension.,SUPPORTED,0.999664306640625,0.9608718156814575
+Fixed + MedCPT,C12,A transthoracic echocardiogram was performed to assess right‑ventricular function.,SUPPORTED,0.9994385838508606,0.9953576922416687
+Fixed + MedCPT,C13,LMWH was continued on days 1‑2 of admission.,UNSUPPORTED,0.018808579072356224,0.7322670817375183
+Fixed + MedCPT,C14,Apixaban was initiated as per protocol.,CONTRADICTED,0.09427857398986816,0.9966588020324707
+Fixed + MedCPT,C15,Physiotherapy provided diaphragmatic breathing training and mobilisation.,SUPPORTED,0.9997537732124329,0.9787311553955078
+Fixed + MedCPT,C16,CTPA findings prompted a ventilation‑perfusion (V/Q) scan.,SUPPORTED,0.9997532963752747,0.026997903361916542
+Fixed + MedCPT,C17,The V/Q scan showed mismatched perfusion defects confirming chronic thrombo‑embolic pulmonary hypertension.,SUPPORTED,0.9997349381446838,0.7712671160697937
+Fixed + MedCPT,C18,Echocardiography demonstrated severe pulmonary hypertension with right‑ventricular strain.,SUPPORTED,0.9997455477714539,0.8225802183151245
+Fixed + MedCPT,C19,Sildenafil 20 mg three times daily was started for pulmonary hypertension.,SUPPORTED,0.9997580647468567,0.99893718957901
+Fixed + MedCPT,C20,Low‑flow oxygen was weaned from 2 L/min to 1 L/min.,UNSUPPORTED,0.10489466041326523,0.3766893744468689
+Fixed + MedCPT,C21,Mild peripheral oedema was noted.,SUPPORTED,0.9998099207878113,0.999630331993103
+Fixed + MedCPT,C22,"Furosemide 20 mg once daily was started, resulting in improvement of oedema.",SUPPORTED,0.9987934827804565,0.8939806222915649
+Fixed + MedCPT,C23,"Hemoglobin decreased to 10 g/dL, indicating mild anaemia.",SUPPORTED,0.9997411370277405,0.0339660719037056
+Fixed + MedCPT,C24,Ferrous sulfate 200 mg twice daily was started for iron deficiency.,SUPPORTED,0.9946756362915039,0.7551205158233643
+Fixed + MedCPT,C25,"Oxygen requirement was further reduced, and SpO₂ was 94‑95% on room air.",SUPPORTED,0.9984986782073975,0.9974453449249268
+Fixed + MedCPT,C26,Anticoagulation was switched from apixaban to rivaroxaban 15 mg twice daily for 21 days followed by 20 mg once daily.,CONTRADICTED,0.9462293386459351,0.999575674533844
+Fixed + MedCPT,C27,Rivaroxaban was tolerated without side effects.,CONTRADICTED,0.9983972907066345,0.9996522665023804
+Fixed + MedCPT,C28,"The patient’s clinical status was stable with improved dyspnoea, independent mobilisation, and no new chest pain or syncope.",CONTRADICTED,0.999136745929718,0.9996569156646729
+Fixed + MedCPT,C29,Jugular venous pressure was not raised and peripheral oedema had resolved.,CONTRADICTED,0.016236696392297745,0.9996353387832642
+Fixed + MedCPT,C30,A referral was sent to a tertiary pulmonary‑hypertension centre for assessment of pulmonary endarterectomy.,SUPPORTED,0.999805748462677,0.9540223479270935
+Fixed + MedCPT,C31,"At discharge, the patient was prescribed rivaroxaban (15 mg twice daily for 21 days then 20 mg once daily), sildenafil 20 mg three times daily, furosemide 20 mg once daily, and ferrous sulfate 200 mg twice daily.",SUPPORTED,0.9991312623023987,0.9987590312957764
+Fixed + MedCPT,C32,No supplemental oxygen was required at discharge; SpO₂ was 94% on room air.,CONTRADICTED,0.9988620281219482,0.9997017979621887
+Fixed + MedCPT,C33,The patient is scheduled for an outpatient review at the tertiary pulmonary‑hypertension centre in four weeks.,SUPPORTED,0.998670220375061,0.9974623918533325
+Fixed + MedCPT,C34,The patient was given a home exercise programme.,SUPPORTED,0.9998396635055542,0.965957522392273
+Fixed + MedCPT,C35,The patient received safety‑net advice to seek urgent care for worsening dyspnoea or chest pain.,SUPPORTED,0.9996820688247681,0.9960052371025085

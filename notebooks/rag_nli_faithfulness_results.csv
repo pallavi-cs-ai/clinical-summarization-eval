@@ -1,0 +1,10 @@
+Configuration,Total Claims,Supported,Unsupported,Faithfulness %
+Section + BGE,34,30,4,88.24
+Fixed + MedCPT,35,30,5,85.71
+Whole + BGE,48,40,8,83.33
+Fixed + BGE,50,41,9,82.0
+Section + Gemini,46,36,10,78.26
+Whole + MedCPT,68,53,15,77.94
+Whole + Gemini,47,36,11,76.6
+Section + MedCPT,28,19,9,67.86
+Fixed + Gemini,52,35,17,67.31
