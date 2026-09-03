@@ -1,0 +1,5240 @@
+{
+  "Whole + Gemini": [
+    {
+      "reference_event_id": 0,
+      "match": "MATCH",
+      "summary_unit": 1
+    },
+    {
+      "reference_event_id": 1,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 2,
+      "match": "MATCH",
+      "summary_unit": 6
+    },
+    {
+      "reference_event_id": 3,
+      "match": "MATCH",
+      "summary_unit": 5
+    },
+    {
+      "reference_event_id": 4,
+      "match": "MATCH",
+      "summary_unit": 7
+    },
+    {
+      "reference_event_id": 5,
+      "match": "MATCH",
+      "summary_unit": 9
+    },
+    {
+      "reference_event_id": 6,
+      "match": "MATCH",
+      "summary_unit": 7
+    },
+    {
+      "reference_event_id": 7,
+      "match": "MATCH",
+      "summary_unit": 8
+    },
+    {
+      "reference_event_id": 8,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 9,
+      "match": "MATCH",
+      "summary_unit": 8
+    },
+    {
+      "reference_event_id": 10,
+      "match": "MATCH",
+      "summary_unit": 8
+    },
+    {
+      "reference_event_id": 11,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 12,
+      "match": "MATCH",
+      "summary_unit": 12
+    },
+    {
+      "reference_event_id": 13,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 14,
+      "match": "MATCH",
+      "summary_unit": 5
+    },
+    {
+      "reference_event_id": 15,
+      "match": "MATCH",
+      "summary_unit": 8
+    },
+    {
+      "reference_event_id": 16,
+      "match": "MATCH",
+      "summary_unit": 14
+    },
+    {
+      "reference_event_id": 17,
+      "match": "MATCH",
+      "summary_unit": 8
+    },
+    {
+      "reference_event_id": 18,
+      "match": "MATCH",
+      "summary_unit": 11
+    },
+    {
+      "reference_event_id": 19,
+      "match": "MATCH",
+      "summary_unit": 12
+    },
+    {
+      "reference_event_id": 20,
+      "match": "MATCH",
+      "summary_unit": 7
+    },
+    {
+      "reference_event_id": 21,
+      "match": "MATCH",
+      "summary_unit": 8
+    },
+    {
+      "reference_event_id": 22,
+      "match": "MATCH",
+      "summary_unit": 39
+    },
+    {
+      "reference_event_id": 23,
+      "match": "MATCH",
+      "summary_unit": 28
+    },
+    {
+      "reference_event_id": 24,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 25,
+      "match": "MATCH",
+      "summary_unit": 15
+    },
+    {
+      "reference_event_id": 26,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 27,
+      "match": "MATCH",
+      "summary_unit": 18
+    },
+    {
+      "reference_event_id": 28,
+      "match": "MATCH",
+      "summary_unit": 18
+    },
+    {
+      "reference_event_id": 29,
+      "match": "MATCH",
+      "summary_unit": 18
+    },
+    {
+      "reference_event_id": 30,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 31,
+      "match": "MATCH",
+      "summary_unit": 30
+    },
+    {
+      "reference_event_id": 32,
+      "match": "MATCH",
+      "summary_unit": 30
+    },
+    {
+      "reference_event_id": 33,
+      "match": "MATCH",
+      "summary_unit": 30
+    },
+    {
+      "reference_event_id": 34,
+      "match": "MATCH",
+      "summary_unit": 30
+    },
+    {
+      "reference_event_id": 35,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 36,
+      "match": "MATCH",
+      "summary_unit": 30
+    },
+    {
+      "reference_event_id": 37,
+      "match": "MATCH",
+      "summary_unit": 30
+    },
+    {
+      "reference_event_id": 38,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 39,
+      "match": "MATCH",
+      "summary_unit": 14
+    },
+    {
+      "reference_event_id": 40,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 41,
+      "match": "MATCH",
+      "summary_unit": 13
+    },
+    {
+      "reference_event_id": 42,
+      "match": "MATCH",
+      "summary_unit": 19
+    },
+    {
+      "reference_event_id": 43,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 44,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 45,
+      "match": "MATCH",
+      "summary_unit": 18
+    },
+    {
+      "reference_event_id": 46,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 47,
+      "match": "MATCH",
+      "summary_unit": 18
+    },
+    {
+      "reference_event_id": 48,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 49,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 50,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 51,
+      "match": "MATCH",
+      "summary_unit": 15
+    },
+    {
+      "reference_event_id": 52,
+      "match": "MATCH",
+      "summary_unit": 15
+    },
+    {
+      "reference_event_id": 53,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 54,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 55,
+      "match": "MATCH",
+      "summary_unit": 26
+    },
+    {
+      "reference_event_id": 56,
+      "match": "MATCH",
+      "summary_unit": 24
+    },
+    {
+      "reference_event_id": 57,
+      "match": "MATCH",
+      "summary_unit": 26
+    },
+    {
+      "reference_event_id": 58,
+      "match": "MATCH",
+      "summary_unit": 24
+    },
+    {
+      "reference_event_id": 59,
+      "match": "MATCH",
+      "summary_unit": 28
+    },
+    {
+      "reference_event_id": 60,
+      "match": "MATCH",
+      "summary_unit": 16
+    },
+    {
+      "reference_event_id": 61,
+      "match": "MATCH",
+      "summary_unit": 28
+    },
+    {
+      "reference_event_id": 62,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 63,
+      "match": "MATCH",
+      "summary_unit": 19
+    },
+    {
+      "reference_event_id": 64,
+      "match": "MATCH",
+      "summary_unit": 26
+    },
+    {
+      "reference_event_id": 65,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 66,
+      "match": "MATCH",
+      "summary_unit": 26
+    },
+    {
+      "reference_event_id": 67,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 68,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 69,
+      "match": "MATCH",
+      "summary_unit": 25
+    },
+    {
+      "reference_event_id": 70,
+      "match": "MATCH",
+      "summary_unit": 25
+    },
+    {
+      "reference_event_id": 71,
+      "match": "MATCH",
+      "summary_unit": 22
+    },
+    {
+      "reference_event_id": 72,
+      "match": "MATCH",
+      "summary_unit": 30
+    },
+    {
+      "reference_event_id": 73,
+      "match": "MATCH",
+      "summary_unit": 30
+    },
+    {
+      "reference_event_id": 74,
+      "match": "MATCH",
+      "summary_unit": 30
+    },
+    {
+      "reference_event_id": 75,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 76,
+      "match": "MATCH",
+      "summary_unit": 30
+    },
+    {
+      "reference_event_id": 77,
+      "match": "MATCH",
+      "summary_unit": 30
+    },
+    {
+      "reference_event_id": 78,
+      "match": "MATCH",
+      "summary_unit": 30
+    },
+    {
+      "reference_event_id": 79,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 80,
+      "match": "MATCH",
+      "summary_unit": 23
+    },
+    {
+      "reference_event_id": 81,
+      "match": "MATCH",
+      "summary_unit": 26
+    },
+    {
+      "reference_event_id": 82,
+      "match": "MATCH",
+      "summary_unit": 26
+    },
+    {
+      "reference_event_id": 83,
+      "match": "MATCH",
+      "summary_unit": 29
+    },
+    {
+      "reference_event_id": 84,
+      "match": "MATCH",
+      "summary_unit": 30
+    },
+    {
+      "reference_event_id": 85,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 86,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 87,
+      "match": "MATCH",
+      "summary_unit": 42
+    },
+    {
+      "reference_event_id": 88,
+      "match": "MATCH",
+      "summary_unit": 42
+    },
+    {
+      "reference_event_id": 89,
+      "match": "MATCH",
+      "summary_unit": 15
+    },
+    {
+      "reference_event_id": 90,
+      "match": "MATCH",
+      "summary_unit": 27
+    },
+    {
+      "reference_event_id": 91,
+      "match": "MATCH",
+      "summary_unit": 26
+    },
+    {
+      "reference_event_id": 92,
+      "match": "MATCH",
+      "summary_unit": 20
+    },
+    {
+      "reference_event_id": 93,
+      "match": "MATCH",
+      "summary_unit": 38
+    },
+    {
+      "reference_event_id": 94,
+      "match": "MATCH",
+      "summary_unit": 21
+    },
+    {
+      "reference_event_id": 95,
+      "match": "MATCH",
+      "summary_unit": 27
+    },
+    {
+      "reference_event_id": 96,
+      "match": "MATCH",
+      "summary_unit": 29
+    },
+    {
+      "reference_event_id": 97,
+      "match": "MATCH",
+      "summary_unit": 19
+    },
+    {
+      "reference_event_id": 98,
+      "match": "MATCH",
+      "summary_unit": 30
+    },
+    {
+      "reference_event_id": 99,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 100,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 101,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 102,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 103,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 104,
+      "match": "MATCH",
+      "summary_unit": 30
+    },
+    {
+      "reference_event_id": 105,
+      "match": "MATCH",
+      "summary_unit": 42
+    },
+    {
+      "reference_event_id": 106,
+      "match": "MATCH",
+      "summary_unit": 20
+    },
+    {
+      "reference_event_id": 107,
+      "match": "MATCH",
+      "summary_unit": 29
+    },
+    {
+      "reference_event_id": 108,
+      "match": "MATCH",
+      "summary_unit": 29
+    },
+    {
+      "reference_event_id": 109,
+      "match": "MATCH",
+      "summary_unit": 29
+    },
+    {
+      "reference_event_id": 110,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 111,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 112,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 113,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 114,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 115,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    }
+  ],
+  "Whole + BGE": [
+    {
+      "reference_event_id": 0,
+      "match": "MATCH",
+      "summary_unit": 1
+    },
+    {
+      "reference_event_id": 1,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 2,
+      "match": "MATCH",
+      "summary_unit": 11
+    },
+    {
+      "reference_event_id": 3,
+      "match": "MATCH",
+      "summary_unit": 2
+    },
+    {
+      "reference_event_id": 4,
+      "match": "MATCH",
+      "summary_unit": 9
+    },
+    {
+      "reference_event_id": 5,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 6,
+      "match": "MATCH",
+      "summary_unit": 12
+    },
+    {
+      "reference_event_id": 7,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 8,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 9,
+      "match": "MATCH",
+      "summary_unit": 4
+    },
+    {
+      "reference_event_id": 10,
+      "match": "MATCH",
+      "summary_unit": 5
+    },
+    {
+      "reference_event_id": 11,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 12,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 13,
+      "match": "MATCH",
+      "summary_unit": 3
+    },
+    {
+      "reference_event_id": 14,
+      "match": "MATCH",
+      "summary_unit": 2
+    },
+    {
+      "reference_event_id": 15,
+      "match": "MATCH",
+      "summary_unit": 6
+    },
+    {
+      "reference_event_id": 16,
+      "match": "MATCH",
+      "summary_unit": 5
+    },
+    {
+      "reference_event_id": 17,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 18,
+      "match": "MATCH",
+      "summary_unit": 8
+    },
+    {
+      "reference_event_id": 19,
+      "match": "MATCH",
+      "summary_unit": 7
+    },
+    {
+      "reference_event_id": 20,
+      "match": "MATCH",
+      "summary_unit": 9
+    },
+    {
+      "reference_event_id": 21,
+      "match": "MATCH",
+      "summary_unit": 6
+    },
+    {
+      "reference_event_id": 22,
+      "match": "MATCH",
+      "summary_unit": 11
+    },
+    {
+      "reference_event_id": 23,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 24,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 25,
+      "match": "MATCH",
+      "summary_unit": 13
+    },
+    {
+      "reference_event_id": 26,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 27,
+      "match": "MATCH",
+      "summary_unit": 10
+    },
+    {
+      "reference_event_id": 28,
+      "match": "MATCH",
+      "summary_unit": 10
+    },
+    {
+      "reference_event_id": 29,
+      "match": "MATCH",
+      "summary_unit": 18
+    },
+    {
+      "reference_event_id": 30,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 31,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 32,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 33,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 34,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 35,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 36,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 37,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 38,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 39,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 40,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 41,
+      "match": "MATCH",
+      "summary_unit": 15
+    },
+    {
+      "reference_event_id": 42,
+      "match": "MATCH",
+      "summary_unit": 23
+    },
+    {
+      "reference_event_id": 43,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 44,
+      "match": "MATCH",
+      "summary_unit": 16
+    },
+    {
+      "reference_event_id": 45,
+      "match": "MATCH",
+      "summary_unit": 18
+    },
+    {
+      "reference_event_id": 46,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 47,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 48,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 49,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 50,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 51,
+      "match": "MATCH",
+      "summary_unit": 20
+    },
+    {
+      "reference_event_id": 52,
+      "match": "MATCH",
+      "summary_unit": 20
+    },
+    {
+      "reference_event_id": 53,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 54,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 55,
+      "match": "MATCH",
+      "summary_unit": 23
+    },
+    {
+      "reference_event_id": 56,
+      "match": "MATCH",
+      "summary_unit": 12
+    },
+    {
+      "reference_event_id": 57,
+      "match": "MATCH",
+      "summary_unit": 33
+    },
+    {
+      "reference_event_id": 58,
+      "match": "MATCH",
+      "summary_unit": 24
+    },
+    {
+      "reference_event_id": 59,
+      "match": "MATCH",
+      "summary_unit": 22
+    },
+    {
+      "reference_event_id": 60,
+      "match": "MATCH",
+      "summary_unit": 19
+    },
+    {
+      "reference_event_id": 61,
+      "match": "MATCH",
+      "summary_unit": 22
+    },
+    {
+      "reference_event_id": 62,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 63,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 64,
+      "match": "MATCH",
+      "summary_unit": 18
+    },
+    {
+      "reference_event_id": 65,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 66,
+      "match": "MATCH",
+      "summary_unit": 23
+    },
+    {
+      "reference_event_id": 67,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 68,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 69,
+      "match": "MATCH",
+      "summary_unit": 19
+    },
+    {
+      "reference_event_id": 70,
+      "match": "MATCH",
+      "summary_unit": 16
+    },
+    {
+      "reference_event_id": 71,
+      "match": "MATCH",
+      "summary_unit": 21
+    },
+    {
+      "reference_event_id": 72,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 73,
+      "match": "MATCH",
+      "summary_unit": 29
+    },
+    {
+      "reference_event_id": 74,
+      "match": "MATCH",
+      "summary_unit": 29
+    },
+    {
+      "reference_event_id": 75,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 76,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 77,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 78,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 79,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 80,
+      "match": "MATCH",
+      "summary_unit": 23
+    },
+    {
+      "reference_event_id": 81,
+      "match": "MATCH",
+      "summary_unit": 33
+    },
+    {
+      "reference_event_id": 82,
+      "match": "MATCH",
+      "summary_unit": 33
+    },
+    {
+      "reference_event_id": 83,
+      "match": "MATCH",
+      "summary_unit": 30
+    },
+    {
+      "reference_event_id": 84,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 85,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 86,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 87,
+      "match": "MATCH",
+      "summary_unit": 18
+    },
+    {
+      "reference_event_id": 88,
+      "match": "MATCH",
+      "summary_unit": 29
+    },
+    {
+      "reference_event_id": 89,
+      "match": "MATCH",
+      "summary_unit": 20
+    },
+    {
+      "reference_event_id": 90,
+      "match": "MATCH",
+      "summary_unit": 27
+    },
+    {
+      "reference_event_id": 91,
+      "match": "MATCH",
+      "summary_unit": 33
+    },
+    {
+      "reference_event_id": 92,
+      "match": "MATCH",
+      "summary_unit": 25
+    },
+    {
+      "reference_event_id": 93,
+      "match": "MATCH",
+      "summary_unit": 25
+    },
+    {
+      "reference_event_id": 94,
+      "match": "MATCH",
+      "summary_unit": 26
+    },
+    {
+      "reference_event_id": 95,
+      "match": "MATCH",
+      "summary_unit": 27
+    },
+    {
+      "reference_event_id": 96,
+      "match": "MATCH",
+      "summary_unit": 30
+    },
+    {
+      "reference_event_id": 97,
+      "match": "MATCH",
+      "summary_unit": 28
+    },
+    {
+      "reference_event_id": 98,
+      "match": "MATCH",
+      "summary_unit": 29
+    },
+    {
+      "reference_event_id": 99,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 100,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 101,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 102,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 103,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 104,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 105,
+      "match": "MATCH",
+      "summary_unit": 33
+    },
+    {
+      "reference_event_id": 106,
+      "match": "MATCH",
+      "summary_unit": 25
+    },
+    {
+      "reference_event_id": 107,
+      "match": "MATCH",
+      "summary_unit": 30
+    },
+    {
+      "reference_event_id": 108,
+      "match": "MATCH",
+      "summary_unit": 30
+    },
+    {
+      "reference_event_id": 109,
+      "match": "MATCH",
+      "summary_unit": 30
+    },
+    {
+      "reference_event_id": 110,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 111,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 112,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 113,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 114,
+      "match": "MATCH",
+      "summary_unit": 29
+    },
+    {
+      "reference_event_id": 115,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    }
+  ],
+  "Whole + MedCPT": [
+    {
+      "reference_event_id": 0,
+      "match": "MATCH",
+      "summary_unit": 1
+    },
+    {
+      "reference_event_id": 1,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 2,
+      "match": "MATCH",
+      "summary_unit": 6
+    },
+    {
+      "reference_event_id": 3,
+      "match": "MATCH",
+      "summary_unit": 2
+    },
+    {
+      "reference_event_id": 4,
+      "match": "MATCH",
+      "summary_unit": 7
+    },
+    {
+      "reference_event_id": 5,
+      "match": "MATCH",
+      "summary_unit": 7
+    },
+    {
+      "reference_event_id": 6,
+      "match": "MATCH",
+      "summary_unit": 13
+    },
+    {
+      "reference_event_id": 7,
+      "match": "MATCH",
+      "summary_unit": 5
+    },
+    {
+      "reference_event_id": 8,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 9,
+      "match": "MATCH",
+      "summary_unit": 4
+    },
+    {
+      "reference_event_id": 10,
+      "match": "MATCH",
+      "summary_unit": 4
+    },
+    {
+      "reference_event_id": 11,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 12,
+      "match": "MATCH",
+      "summary_unit": 5
+    },
+    {
+      "reference_event_id": 13,
+      "match": "MATCH",
+      "summary_unit": 3
+    },
+    {
+      "reference_event_id": 14,
+      "match": "MATCH",
+      "summary_unit": 2
+    },
+    {
+      "reference_event_id": 15,
+      "match": "MATCH",
+      "summary_unit": 5
+    },
+    {
+      "reference_event_id": 16,
+      "match": "MATCH",
+      "summary_unit": 4
+    },
+    {
+      "reference_event_id": 17,
+      "match": "MATCH",
+      "summary_unit": 4
+    },
+    {
+      "reference_event_id": 18,
+      "match": "MATCH",
+      "summary_unit": 7
+    },
+    {
+      "reference_event_id": 19,
+      "match": "MATCH",
+      "summary_unit": 5
+    },
+    {
+      "reference_event_id": 20,
+      "match": "MATCH",
+      "summary_unit": 7
+    },
+    {
+      "reference_event_id": 21,
+      "match": "MATCH",
+      "summary_unit": 5
+    },
+    {
+      "reference_event_id": 22,
+      "match": "MATCH",
+      "summary_unit": 6
+    },
+    {
+      "reference_event_id": 23,
+      "match": "MATCH",
+      "summary_unit": 25
+    },
+    {
+      "reference_event_id": 24,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 25,
+      "match": "MATCH",
+      "summary_unit": 10
+    },
+    {
+      "reference_event_id": 26,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 27,
+      "match": "MATCH",
+      "summary_unit": 12
+    },
+    {
+      "reference_event_id": 28,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 29,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 30,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 31,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 32,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 33,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 34,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 35,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 36,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 37,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 38,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 39,
+      "match": "MATCH",
+      "summary_unit": 15
+    },
+    {
+      "reference_event_id": 40,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 41,
+      "match": "MATCH",
+      "summary_unit": 9
+    },
+    {
+      "reference_event_id": 42,
+      "match": "MATCH",
+      "summary_unit": 13
+    },
+    {
+      "reference_event_id": 43,
+      "match": "MATCH",
+      "summary_unit": 9
+    },
+    {
+      "reference_event_id": 44,
+      "match": "MATCH",
+      "summary_unit": 11
+    },
+    {
+      "reference_event_id": 45,
+      "match": "MATCH",
+      "summary_unit": 12
+    },
+    {
+      "reference_event_id": 46,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 47,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 48,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 49,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 50,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 51,
+      "match": "MATCH",
+      "summary_unit": 18
+    },
+    {
+      "reference_event_id": 52,
+      "match": "MATCH",
+      "summary_unit": 18
+    },
+    {
+      "reference_event_id": 53,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 54,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 55,
+      "match": "MATCH",
+      "summary_unit": 21
+    },
+    {
+      "reference_event_id": 56,
+      "match": "MATCH",
+      "summary_unit": 21
+    },
+    {
+      "reference_event_id": 57,
+      "match": "MATCH",
+      "summary_unit": 21
+    },
+    {
+      "reference_event_id": 58,
+      "match": "MATCH",
+      "summary_unit": 21
+    },
+    {
+      "reference_event_id": 59,
+      "match": "MATCH",
+      "summary_unit": 25
+    },
+    {
+      "reference_event_id": 60,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 61,
+      "match": "MATCH",
+      "summary_unit": 25
+    },
+    {
+      "reference_event_id": 62,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 63,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 64,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 65,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 66,
+      "match": "MATCH",
+      "summary_unit": 21
+    },
+    {
+      "reference_event_id": 67,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 68,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 69,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 70,
+      "match": "MATCH",
+      "summary_unit": 11
+    },
+    {
+      "reference_event_id": 71,
+      "match": "MATCH",
+      "summary_unit": 14
+    },
+    {
+      "reference_event_id": 72,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 73,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 74,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 75,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 76,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 77,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 78,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 79,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 80,
+      "match": "MATCH",
+      "summary_unit": 16
+    },
+    {
+      "reference_event_id": 81,
+      "match": "MATCH",
+      "summary_unit": 21
+    },
+    {
+      "reference_event_id": 82,
+      "match": "MATCH",
+      "summary_unit": 26
+    },
+    {
+      "reference_event_id": 83,
+      "match": "MATCH",
+      "summary_unit": 26
+    },
+    {
+      "reference_event_id": 84,
+      "match": "MATCH",
+      "summary_unit": 26
+    },
+    {
+      "reference_event_id": 85,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 86,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 87,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 88,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 89,
+      "match": "MATCH",
+      "summary_unit": 24
+    },
+    {
+      "reference_event_id": 90,
+      "match": "MATCH",
+      "summary_unit": 26
+    },
+    {
+      "reference_event_id": 91,
+      "match": "MATCH",
+      "summary_unit": 21
+    },
+    {
+      "reference_event_id": 92,
+      "match": "MATCH",
+      "summary_unit": 19
+    },
+    {
+      "reference_event_id": 93,
+      "match": "MATCH",
+      "summary_unit": 19
+    },
+    {
+      "reference_event_id": 94,
+      "match": "MATCH",
+      "summary_unit": 19
+    },
+    {
+      "reference_event_id": 95,
+      "match": "MATCH",
+      "summary_unit": 24
+    },
+    {
+      "reference_event_id": 96,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 97,
+      "match": "MATCH",
+      "summary_unit": 22
+    },
+    {
+      "reference_event_id": 98,
+      "match": "MATCH",
+      "summary_unit": 26
+    },
+    {
+      "reference_event_id": 99,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 100,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 101,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 102,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 103,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 104,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 105,
+      "match": "MATCH",
+      "summary_unit": 21
+    },
+    {
+      "reference_event_id": 106,
+      "match": "MATCH",
+      "summary_unit": 23
+    },
+    {
+      "reference_event_id": 107,
+      "match": "MATCH",
+      "summary_unit": 26
+    },
+    {
+      "reference_event_id": 108,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 109,
+      "match": "MATCH",
+      "summary_unit": 26
+    },
+    {
+      "reference_event_id": 110,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 111,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 112,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 113,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 114,
+      "match": "MATCH",
+      "summary_unit": 26
+    },
+    {
+      "reference_event_id": 115,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    }
+  ],
+  "Fixed + Gemini": [
+    {
+      "reference_event_id": 0,
+      "match": "MATCH",
+      "summary_unit": 1
+    },
+    {
+      "reference_event_id": 1,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 2,
+      "match": "MATCH",
+      "summary_unit": 5
+    },
+    {
+      "reference_event_id": 3,
+      "match": "MATCH",
+      "summary_unit": 6
+    },
+    {
+      "reference_event_id": 4,
+      "match": "MATCH",
+      "summary_unit": 8
+    },
+    {
+      "reference_event_id": 5,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 6,
+      "match": "MATCH",
+      "summary_unit": 8
+    },
+    {
+      "reference_event_id": 7,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 8,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 9,
+      "match": "MATCH",
+      "summary_unit": 10
+    },
+    {
+      "reference_event_id": 10,
+      "match": "MATCH",
+      "summary_unit": 11
+    },
+    {
+      "reference_event_id": 11,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 12,
+      "match": "MATCH",
+      "summary_unit": 12
+    },
+    {
+      "reference_event_id": 13,
+      "match": "MATCH",
+      "summary_unit": 7
+    },
+    {
+      "reference_event_id": 14,
+      "match": "MATCH",
+      "summary_unit": 6
+    },
+    {
+      "reference_event_id": 15,
+      "match": "MATCH",
+      "summary_unit": 9
+    },
+    {
+      "reference_event_id": 16,
+      "match": "MATCH",
+      "summary_unit": 11
+    },
+    {
+      "reference_event_id": 17,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 18,
+      "match": "MATCH",
+      "summary_unit": 13
+    },
+    {
+      "reference_event_id": 19,
+      "match": "MATCH",
+      "summary_unit": 12
+    },
+    {
+      "reference_event_id": 20,
+      "match": "MATCH",
+      "summary_unit": 14
+    },
+    {
+      "reference_event_id": 21,
+      "match": "MATCH",
+      "summary_unit": 9
+    },
+    {
+      "reference_event_id": 22,
+      "match": "MATCH",
+      "summary_unit": 16
+    },
+    {
+      "reference_event_id": 23,
+      "match": "MATCH",
+      "summary_unit": 22
+    },
+    {
+      "reference_event_id": 24,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 25,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 26,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 27,
+      "match": "MATCH",
+      "summary_unit": 19
+    },
+    {
+      "reference_event_id": 28,
+      "match": "MATCH",
+      "summary_unit": 19
+    },
+    {
+      "reference_event_id": 29,
+      "match": "MATCH",
+      "summary_unit": 20
+    },
+    {
+      "reference_event_id": 30,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 31,
+      "match": "MATCH",
+      "summary_unit": 20
+    },
+    {
+      "reference_event_id": 32,
+      "match": "MATCH",
+      "summary_unit": 20
+    },
+    {
+      "reference_event_id": 33,
+      "match": "MATCH",
+      "summary_unit": 20
+    },
+    {
+      "reference_event_id": 34,
+      "match": "MATCH",
+      "summary_unit": 20
+    },
+    {
+      "reference_event_id": 35,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 36,
+      "match": "MATCH",
+      "summary_unit": 20
+    },
+    {
+      "reference_event_id": 37,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 38,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 39,
+      "match": "MATCH",
+      "summary_unit": 11
+    },
+    {
+      "reference_event_id": 40,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 41,
+      "match": "MATCH",
+      "summary_unit": 21
+    },
+    {
+      "reference_event_id": 42,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 43,
+      "match": "MATCH",
+      "summary_unit": 21
+    },
+    {
+      "reference_event_id": 44,
+      "match": "MATCH",
+      "summary_unit": 18
+    },
+    {
+      "reference_event_id": 45,
+      "match": "MATCH",
+      "summary_unit": 19
+    },
+    {
+      "reference_event_id": 46,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 47,
+      "match": "MATCH",
+      "summary_unit": 20
+    },
+    {
+      "reference_event_id": 48,
+      "match": "MATCH",
+      "summary_unit": 20
+    },
+    {
+      "reference_event_id": 49,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 50,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 51,
+      "match": "MATCH",
+      "summary_unit": 24
+    },
+    {
+      "reference_event_id": 52,
+      "match": "MATCH",
+      "summary_unit": 24
+    },
+    {
+      "reference_event_id": 53,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 54,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 55,
+      "match": "MATCH",
+      "summary_unit": 32
+    },
+    {
+      "reference_event_id": 56,
+      "match": "MATCH",
+      "summary_unit": 28
+    },
+    {
+      "reference_event_id": 57,
+      "match": "MATCH",
+      "summary_unit": 32
+    },
+    {
+      "reference_event_id": 58,
+      "match": "MATCH",
+      "summary_unit": 28
+    },
+    {
+      "reference_event_id": 59,
+      "match": "MATCH",
+      "summary_unit": 22
+    },
+    {
+      "reference_event_id": 60,
+      "match": "MATCH",
+      "summary_unit": 23
+    },
+    {
+      "reference_event_id": 61,
+      "match": "MATCH",
+      "summary_unit": 22
+    },
+    {
+      "reference_event_id": 62,
+      "match": "MATCH",
+      "summary_unit": 22
+    },
+    {
+      "reference_event_id": 63,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 64,
+      "match": "MATCH",
+      "summary_unit": 32
+    },
+    {
+      "reference_event_id": 65,
+      "match": "MATCH",
+      "summary_unit": 35
+    },
+    {
+      "reference_event_id": 66,
+      "match": "MATCH",
+      "summary_unit": 32
+    },
+    {
+      "reference_event_id": 67,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 68,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 69,
+      "match": "MATCH",
+      "summary_unit": 23
+    },
+    {
+      "reference_event_id": 70,
+      "match": "MATCH",
+      "summary_unit": 25
+    },
+    {
+      "reference_event_id": 71,
+      "match": "MATCH",
+      "summary_unit": 31
+    },
+    {
+      "reference_event_id": 72,
+      "match": "MATCH",
+      "summary_unit": 20
+    },
+    {
+      "reference_event_id": 73,
+      "match": "MATCH",
+      "summary_unit": 20
+    },
+    {
+      "reference_event_id": 74,
+      "match": "MATCH",
+      "summary_unit": 20
+    },
+    {
+      "reference_event_id": 75,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 76,
+      "match": "MATCH",
+      "summary_unit": 32
+    },
+    {
+      "reference_event_id": 77,
+      "match": "MATCH",
+      "summary_unit": 32
+    },
+    {
+      "reference_event_id": 78,
+      "match": "MATCH",
+      "summary_unit": 32
+    },
+    {
+      "reference_event_id": 79,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 80,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 81,
+      "match": "MATCH",
+      "summary_unit": 32
+    },
+    {
+      "reference_event_id": 82,
+      "match": "MATCH",
+      "summary_unit": 34
+    },
+    {
+      "reference_event_id": 83,
+      "match": "MATCH",
+      "summary_unit": 34
+    },
+    {
+      "reference_event_id": 84,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 85,
+      "match": "MATCH",
+      "summary_unit": 32
+    },
+    {
+      "reference_event_id": 86,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 87,
+      "match": "MATCH",
+      "summary_unit": 32
+    },
+    {
+      "reference_event_id": 88,
+      "match": "MATCH",
+      "summary_unit": 32
+    },
+    {
+      "reference_event_id": 89,
+      "match": "MATCH",
+      "summary_unit": 33
+    },
+    {
+      "reference_event_id": 90,
+      "match": "MATCH",
+      "summary_unit": 33
+    },
+    {
+      "reference_event_id": 91,
+      "match": "MATCH",
+      "summary_unit": 32
+    },
+    {
+      "reference_event_id": 92,
+      "match": "MATCH",
+      "summary_unit": 29
+    },
+    {
+      "reference_event_id": 93,
+      "match": "MATCH",
+      "summary_unit": 29
+    },
+    {
+      "reference_event_id": 94,
+      "match": "MATCH",
+      "summary_unit": 29
+    },
+    {
+      "reference_event_id": 95,
+      "match": "MATCH",
+      "summary_unit": 33
+    },
+    {
+      "reference_event_id": 96,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 97,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 98,
+      "match": "MATCH",
+      "summary_unit": 33
+    },
+    {
+      "reference_event_id": 99,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 100,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 101,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 102,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 103,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 104,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 105,
+      "match": "MATCH",
+      "summary_unit": 32
+    },
+    {
+      "reference_event_id": 106,
+      "match": "MATCH",
+      "summary_unit": 29
+    },
+    {
+      "reference_event_id": 107,
+      "match": "MATCH",
+      "summary_unit": 34
+    },
+    {
+      "reference_event_id": 108,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 109,
+      "match": "MATCH",
+      "summary_unit": 34
+    },
+    {
+      "reference_event_id": 110,
+      "match": "MATCH",
+      "summary_unit": 34
+    },
+    {
+      "reference_event_id": 111,
+      "match": "MATCH",
+      "summary_unit": 34
+    },
+    {
+      "reference_event_id": 112,
+      "match": "MATCH",
+      "summary_unit": 34
+    },
+    {
+      "reference_event_id": 113,
+      "match": "MATCH",
+      "summary_unit": 34
+    },
+    {
+      "reference_event_id": 114,
+      "match": "MATCH",
+      "summary_unit": 34
+    },
+    {
+      "reference_event_id": 115,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    }
+  ],
+  "Fixed + BGE": [
+    {
+      "reference_event_id": 0,
+      "match": "MATCH",
+      "summary_unit": 1
+    },
+    {
+      "reference_event_id": 1,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 2,
+      "match": "MATCH",
+      "summary_unit": 4
+    },
+    {
+      "reference_event_id": 3,
+      "match": "MATCH",
+      "summary_unit": 3
+    },
+    {
+      "reference_event_id": 4,
+      "match": "MATCH",
+      "summary_unit": 3
+    },
+    {
+      "reference_event_id": 5,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 6,
+      "match": "MATCH",
+      "summary_unit": 3
+    },
+    {
+      "reference_event_id": 7,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 8,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 9,
+      "match": "MATCH",
+      "summary_unit": 2
+    },
+    {
+      "reference_event_id": 10,
+      "match": "MATCH",
+      "summary_unit": 2
+    },
+    {
+      "reference_event_id": 11,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 12,
+      "match": "MATCH",
+      "summary_unit": 12
+    },
+    {
+      "reference_event_id": 13,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 14,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 15,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 16,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 17,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 18,
+      "match": "MATCH",
+      "summary_unit": 5
+    },
+    {
+      "reference_event_id": 19,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 20,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 21,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 22,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 23,
+      "match": "MATCH",
+      "summary_unit": 14
+    },
+    {
+      "reference_event_id": 24,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 25,
+      "match": "MATCH",
+      "summary_unit": 24
+    },
+    {
+      "reference_event_id": 26,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 27,
+      "match": "MATCH",
+      "summary_unit": 6
+    },
+    {
+      "reference_event_id": 28,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 29,
+      "match": "MATCH",
+      "summary_unit": 6
+    },
+    {
+      "reference_event_id": 30,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 31,
+      "match": "MATCH",
+      "summary_unit": 11
+    },
+    {
+      "reference_event_id": 32,
+      "match": "MATCH",
+      "summary_unit": 11
+    },
+    {
+      "reference_event_id": 33,
+      "match": "MATCH",
+      "summary_unit": 11
+    },
+    {
+      "reference_event_id": 34,
+      "match": "MATCH",
+      "summary_unit": 11
+    },
+    {
+      "reference_event_id": 35,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 36,
+      "match": "MATCH",
+      "summary_unit": 11
+    },
+    {
+      "reference_event_id": 37,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 38,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 39,
+      "match": "MATCH",
+      "summary_unit": 23
+    },
+    {
+      "reference_event_id": 40,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 41,
+      "match": "MATCH",
+      "summary_unit": 7
+    },
+    {
+      "reference_event_id": 42,
+      "match": "MATCH",
+      "summary_unit": 15
+    },
+    {
+      "reference_event_id": 43,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 44,
+      "match": "MATCH",
+      "summary_unit": 8
+    },
+    {
+      "reference_event_id": 45,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 46,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 47,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 48,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 49,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 50,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 51,
+      "match": "MATCH",
+      "summary_unit": 9
+    },
+    {
+      "reference_event_id": 52,
+      "match": "MATCH",
+      "summary_unit": 24
+    },
+    {
+      "reference_event_id": 53,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 54,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 55,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 56,
+      "match": "MATCH",
+      "summary_unit": 15
+    },
+    {
+      "reference_event_id": 57,
+      "match": "MATCH",
+      "summary_unit": 23
+    },
+    {
+      "reference_event_id": 58,
+      "match": "MATCH",
+      "summary_unit": 15
+    },
+    {
+      "reference_event_id": 59,
+      "match": "MATCH",
+      "summary_unit": 14
+    },
+    {
+      "reference_event_id": 60,
+      "match": "MATCH",
+      "summary_unit": 10
+    },
+    {
+      "reference_event_id": 61,
+      "match": "MATCH",
+      "summary_unit": 14
+    },
+    {
+      "reference_event_id": 62,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 63,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 64,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 65,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 66,
+      "match": "MATCH",
+      "summary_unit": 23
+    },
+    {
+      "reference_event_id": 67,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 68,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 69,
+      "match": "MATCH",
+      "summary_unit": 16
+    },
+    {
+      "reference_event_id": 70,
+      "match": "MATCH",
+      "summary_unit": 16
+    },
+    {
+      "reference_event_id": 71,
+      "match": "MATCH",
+      "summary_unit": 13
+    },
+    {
+      "reference_event_id": 72,
+      "match": "MATCH",
+      "summary_unit": 11
+    },
+    {
+      "reference_event_id": 73,
+      "match": "MATCH",
+      "summary_unit": 11
+    },
+    {
+      "reference_event_id": 74,
+      "match": "MATCH",
+      "summary_unit": 11
+    },
+    {
+      "reference_event_id": 75,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 76,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 77,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 78,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 79,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 80,
+      "match": "MATCH",
+      "summary_unit": 18
+    },
+    {
+      "reference_event_id": 81,
+      "match": "MATCH",
+      "summary_unit": 23
+    },
+    {
+      "reference_event_id": 82,
+      "match": "MATCH",
+      "summary_unit": 20
+    },
+    {
+      "reference_event_id": 83,
+      "match": "MATCH",
+      "summary_unit": 29
+    },
+    {
+      "reference_event_id": 84,
+      "match": "MATCH",
+      "summary_unit": 28
+    },
+    {
+      "reference_event_id": 85,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 86,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 87,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 88,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 89,
+      "match": "MATCH",
+      "summary_unit": 19
+    },
+    {
+      "reference_event_id": 90,
+      "match": "MATCH",
+      "summary_unit": 20
+    },
+    {
+      "reference_event_id": 91,
+      "match": "MATCH",
+      "summary_unit": 23
+    },
+    {
+      "reference_event_id": 92,
+      "match": "MATCH",
+      "summary_unit": 21
+    },
+    {
+      "reference_event_id": 93,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 94,
+      "match": "MATCH",
+      "summary_unit": 22
+    },
+    {
+      "reference_event_id": 95,
+      "match": "MATCH",
+      "summary_unit": 24
+    },
+    {
+      "reference_event_id": 96,
+      "match": "MATCH",
+      "summary_unit": 29
+    },
+    {
+      "reference_event_id": 97,
+      "match": "MATCH",
+      "summary_unit": 18
+    },
+    {
+      "reference_event_id": 98,
+      "match": "MATCH",
+      "summary_unit": 28
+    },
+    {
+      "reference_event_id": 99,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 100,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 101,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 102,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 103,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 104,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 105,
+      "match": "MATCH",
+      "summary_unit": 33
+    },
+    {
+      "reference_event_id": 106,
+      "match": "MATCH",
+      "summary_unit": 21
+    },
+    {
+      "reference_event_id": 107,
+      "match": "MATCH",
+      "summary_unit": 33
+    },
+    {
+      "reference_event_id": 108,
+      "match": "MATCH",
+      "summary_unit": 29
+    },
+    {
+      "reference_event_id": 109,
+      "match": "MATCH",
+      "summary_unit": 29
+    },
+    {
+      "reference_event_id": 110,
+      "match": "MATCH",
+      "summary_unit": 20
+    },
+    {
+      "reference_event_id": 111,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 112,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 113,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 114,
+      "match": "MATCH",
+      "summary_unit": 28
+    },
+    {
+      "reference_event_id": 115,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    }
+  ],
+  "Fixed + MedCPT": [
+    {
+      "reference_event_id": 0,
+      "match": "MATCH",
+      "summary_unit": 1
+    },
+    {
+      "reference_event_id": 1,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 2,
+      "match": "MATCH",
+      "summary_unit": 34
+    },
+    {
+      "reference_event_id": 3,
+      "match": "MATCH",
+      "summary_unit": 2
+    },
+    {
+      "reference_event_id": 4,
+      "match": "MATCH",
+      "summary_unit": 5
+    },
+    {
+      "reference_event_id": 5,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 6,
+      "match": "MATCH",
+      "summary_unit": 2
+    },
+    {
+      "reference_event_id": 7,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 8,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 9,
+      "match": "MATCH",
+      "summary_unit": 3
+    },
+    {
+      "reference_event_id": 10,
+      "match": "MATCH",
+      "summary_unit": 4
+    },
+    {
+      "reference_event_id": 11,
+      "match": "MATCH",
+      "summary_unit": 4
+    },
+    {
+      "reference_event_id": 12,
+      "match": "MATCH",
+      "summary_unit": 10
+    },
+    {
+      "reference_event_id": 13,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 14,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 15,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 16,
+      "match": "MATCH",
+      "summary_unit": 20
+    },
+    {
+      "reference_event_id": 17,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 18,
+      "match": "MATCH",
+      "summary_unit": 5
+    },
+    {
+      "reference_event_id": 19,
+      "match": "MATCH",
+      "summary_unit": 12
+    },
+    {
+      "reference_event_id": 20,
+      "match": "MATCH",
+      "summary_unit": 5
+    },
+    {
+      "reference_event_id": 21,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 22,
+      "match": "MATCH",
+      "summary_unit": 34
+    },
+    {
+      "reference_event_id": 23,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 24,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 25,
+      "match": "MATCH",
+      "summary_unit": 8
+    },
+    {
+      "reference_event_id": 26,
+      "match": "MATCH",
+      "summary_unit": 13
+    },
+    {
+      "reference_event_id": 27,
+      "match": "MATCH",
+      "summary_unit": 14
+    },
+    {
+      "reference_event_id": 28,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 29,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 30,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 31,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 32,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 33,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 34,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 35,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 36,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 37,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 38,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 39,
+      "match": "MATCH",
+      "summary_unit": 20
+    },
+    {
+      "reference_event_id": 40,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 41,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 42,
+      "match": "MATCH",
+      "summary_unit": 19
+    },
+    {
+      "reference_event_id": 43,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 44,
+      "match": "MATCH",
+      "summary_unit": 21
+    },
+    {
+      "reference_event_id": 45,
+      "match": "MATCH",
+      "summary_unit": 14
+    },
+    {
+      "reference_event_id": 46,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 47,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 48,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 49,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 50,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 51,
+      "match": "MATCH",
+      "summary_unit": 25
+    },
+    {
+      "reference_event_id": 52,
+      "match": "MATCH",
+      "summary_unit": 25
+    },
+    {
+      "reference_event_id": 53,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 54,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 55,
+      "match": "MATCH",
+      "summary_unit": 27
+    },
+    {
+      "reference_event_id": 56,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 57,
+      "match": "MATCH",
+      "summary_unit": 27
+    },
+    {
+      "reference_event_id": 58,
+      "match": "MATCH",
+      "summary_unit": 28
+    },
+    {
+      "reference_event_id": 59,
+      "match": "MATCH",
+      "summary_unit": 29
+    },
+    {
+      "reference_event_id": 60,
+      "match": "MATCH",
+      "summary_unit": 18
+    },
+    {
+      "reference_event_id": 61,
+      "match": "MATCH",
+      "summary_unit": 29
+    },
+    {
+      "reference_event_id": 62,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 63,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 64,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 65,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 66,
+      "match": "MATCH",
+      "summary_unit": 27
+    },
+    {
+      "reference_event_id": 67,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 68,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 69,
+      "match": "MATCH",
+      "summary_unit": 18
+    },
+    {
+      "reference_event_id": 70,
+      "match": "MATCH",
+      "summary_unit": 21
+    },
+    {
+      "reference_event_id": 71,
+      "match": "MATCH",
+      "summary_unit": 16
+    },
+    {
+      "reference_event_id": 72,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 73,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 74,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 75,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 76,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 77,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 78,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 79,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 80,
+      "match": "MATCH",
+      "summary_unit": 24
+    },
+    {
+      "reference_event_id": 81,
+      "match": "MATCH",
+      "summary_unit": 27
+    },
+    {
+      "reference_event_id": 82,
+      "match": "MATCH",
+      "summary_unit": 30
+    },
+    {
+      "reference_event_id": 83,
+      "match": "MATCH",
+      "summary_unit": 33
+    },
+    {
+      "reference_event_id": 84,
+      "match": "MATCH",
+      "summary_unit": 33
+    },
+    {
+      "reference_event_id": 85,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 86,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 87,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 88,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 89,
+      "match": "MATCH",
+      "summary_unit": 31
+    },
+    {
+      "reference_event_id": 90,
+      "match": "MATCH",
+      "summary_unit": 30
+    },
+    {
+      "reference_event_id": 91,
+      "match": "MATCH",
+      "summary_unit": 27
+    },
+    {
+      "reference_event_id": 92,
+      "match": "MATCH",
+      "summary_unit": 22
+    },
+    {
+      "reference_event_id": 93,
+      "match": "MATCH",
+      "summary_unit": 22
+    },
+    {
+      "reference_event_id": 94,
+      "match": "MATCH",
+      "summary_unit": 23
+    },
+    {
+      "reference_event_id": 95,
+      "match": "MATCH",
+      "summary_unit": 31
+    },
+    {
+      "reference_event_id": 96,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 97,
+      "match": "MATCH",
+      "summary_unit": 24
+    },
+    {
+      "reference_event_id": 98,
+      "match": "MATCH",
+      "summary_unit": 33
+    },
+    {
+      "reference_event_id": 99,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 100,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 101,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 102,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 103,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 104,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 105,
+      "match": "MATCH",
+      "summary_unit": 27
+    },
+    {
+      "reference_event_id": 106,
+      "match": "MATCH",
+      "summary_unit": 22
+    },
+    {
+      "reference_event_id": 107,
+      "match": "MATCH",
+      "summary_unit": 33
+    },
+    {
+      "reference_event_id": 108,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 109,
+      "match": "MATCH",
+      "summary_unit": 33
+    },
+    {
+      "reference_event_id": 110,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 111,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 112,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 113,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 114,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 115,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    }
+  ],
+  "Section + Gemini": [
+    {
+      "reference_event_id": 0,
+      "match": "MATCH",
+      "summary_unit": 2
+    },
+    {
+      "reference_event_id": 1,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 2,
+      "match": "MATCH",
+      "summary_unit": 3
+    },
+    {
+      "reference_event_id": 3,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 4,
+      "match": "MATCH",
+      "summary_unit": 5
+    },
+    {
+      "reference_event_id": 5,
+      "match": "MATCH",
+      "summary_unit": 6
+    },
+    {
+      "reference_event_id": 6,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 7,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 8,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 9,
+      "match": "MATCH",
+      "summary_unit": 11
+    },
+    {
+      "reference_event_id": 10,
+      "match": "MATCH",
+      "summary_unit": 11
+    },
+    {
+      "reference_event_id": 11,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 12,
+      "match": "MATCH",
+      "summary_unit": 11
+    },
+    {
+      "reference_event_id": 13,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 14,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 15,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 16,
+      "match": "MATCH",
+      "summary_unit": 11
+    },
+    {
+      "reference_event_id": 17,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 18,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 19,
+      "match": "MATCH",
+      "summary_unit": 12
+    },
+    {
+      "reference_event_id": 20,
+      "match": "MATCH",
+      "summary_unit": 5
+    },
+    {
+      "reference_event_id": 21,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 22,
+      "match": "MATCH",
+      "summary_unit": 31
+    },
+    {
+      "reference_event_id": 23,
+      "match": "MATCH",
+      "summary_unit": 12
+    },
+    {
+      "reference_event_id": 24,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 25,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 26,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 27,
+      "match": "MATCH",
+      "summary_unit": 15
+    },
+    {
+      "reference_event_id": 28,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 29,
+      "match": "MATCH",
+      "summary_unit": 33
+    },
+    {
+      "reference_event_id": 30,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 31,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 32,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 33,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 34,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 35,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 36,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 37,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 38,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 39,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 40,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 41,
+      "match": "MATCH",
+      "summary_unit": 4
+    },
+    {
+      "reference_event_id": 42,
+      "match": "MATCH",
+      "summary_unit": 5
+    },
+    {
+      "reference_event_id": 43,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 44,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 45,
+      "match": "MATCH",
+      "summary_unit": 33
+    },
+    {
+      "reference_event_id": 46,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 47,
+      "match": "MATCH",
+      "summary_unit": 15
+    },
+    {
+      "reference_event_id": 48,
+      "match": "MATCH",
+      "summary_unit": 16
+    },
+    {
+      "reference_event_id": 49,
+      "match": "MATCH",
+      "summary_unit": 16
+    },
+    {
+      "reference_event_id": 50,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 51,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 52,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 53,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 54,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 55,
+      "match": "MATCH",
+      "summary_unit": 34
+    },
+    {
+      "reference_event_id": 56,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 57,
+      "match": "MATCH",
+      "summary_unit": 34
+    },
+    {
+      "reference_event_id": 58,
+      "match": "MATCH",
+      "summary_unit": 22
+    },
+    {
+      "reference_event_id": 59,
+      "match": "MATCH",
+      "summary_unit": 12
+    },
+    {
+      "reference_event_id": 60,
+      "match": "MATCH",
+      "summary_unit": 12
+    },
+    {
+      "reference_event_id": 61,
+      "match": "MATCH",
+      "summary_unit": 12
+    },
+    {
+      "reference_event_id": 62,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 63,
+      "match": "MATCH",
+      "summary_unit": 16
+    },
+    {
+      "reference_event_id": 64,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 65,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 66,
+      "match": "MATCH",
+      "summary_unit": 34
+    },
+    {
+      "reference_event_id": 67,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 68,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 69,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 70,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 71,
+      "match": "MATCH",
+      "summary_unit": 11
+    },
+    {
+      "reference_event_id": 72,
+      "match": "MATCH",
+      "summary_unit": 19
+    },
+    {
+      "reference_event_id": 73,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 74,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 75,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 76,
+      "match": "MATCH",
+      "summary_unit": 15
+    },
+    {
+      "reference_event_id": 77,
+      "match": "MATCH",
+      "summary_unit": 16
+    },
+    {
+      "reference_event_id": 78,
+      "match": "MATCH",
+      "summary_unit": 16
+    },
+    {
+      "reference_event_id": 79,
+      "match": "MATCH",
+      "summary_unit": 16
+    },
+    {
+      "reference_event_id": 80,
+      "match": "MATCH",
+      "summary_unit": 23
+    },
+    {
+      "reference_event_id": 81,
+      "match": "MATCH",
+      "summary_unit": 34
+    },
+    {
+      "reference_event_id": 82,
+      "match": "MATCH",
+      "summary_unit": 27
+    },
+    {
+      "reference_event_id": 83,
+      "match": "MATCH",
+      "summary_unit": 27
+    },
+    {
+      "reference_event_id": 84,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 85,
+      "match": "MATCH",
+      "summary_unit": 19
+    },
+    {
+      "reference_event_id": 86,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 87,
+      "match": "MATCH",
+      "summary_unit": 34
+    },
+    {
+      "reference_event_id": 88,
+      "match": "MATCH",
+      "summary_unit": 33
+    },
+    {
+      "reference_event_id": 89,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 90,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 91,
+      "match": "MATCH",
+      "summary_unit": 34
+    },
+    {
+      "reference_event_id": 92,
+      "match": "MATCH",
+      "summary_unit": 24
+    },
+    {
+      "reference_event_id": 93,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 94,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 95,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 96,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 97,
+      "match": "MATCH",
+      "summary_unit": 23
+    },
+    {
+      "reference_event_id": 98,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 99,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 100,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 101,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 102,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 103,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 104,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 105,
+      "match": "MATCH",
+      "summary_unit": 34
+    },
+    {
+      "reference_event_id": 106,
+      "match": "MATCH",
+      "summary_unit": 24
+    },
+    {
+      "reference_event_id": 107,
+      "match": "MATCH",
+      "summary_unit": 27
+    },
+    {
+      "reference_event_id": 108,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 109,
+      "match": "MATCH",
+      "summary_unit": 27
+    },
+    {
+      "reference_event_id": 110,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 111,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 112,
+      "match": "MATCH",
+      "summary_unit": 28
+    },
+    {
+      "reference_event_id": 113,
+      "match": "MATCH",
+      "summary_unit": 30
+    },
+    {
+      "reference_event_id": 114,
+      "match": "MATCH",
+      "summary_unit": 35
+    },
+    {
+      "reference_event_id": 115,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    }
+  ],
+  "Section + BGE": [
+    {
+      "reference_event_id": 0,
+      "match": "MATCH",
+      "summary_unit": 1
+    },
+    {
+      "reference_event_id": 1,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 2,
+      "match": "MATCH",
+      "summary_unit": 10
+    },
+    {
+      "reference_event_id": 3,
+      "match": "MATCH",
+      "summary_unit": 3
+    },
+    {
+      "reference_event_id": 4,
+      "match": "MATCH",
+      "summary_unit": 3
+    },
+    {
+      "reference_event_id": 5,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 6,
+      "match": "MATCH",
+      "summary_unit": 3
+    },
+    {
+      "reference_event_id": 7,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 8,
+      "match": "MATCH",
+      "summary_unit": 9
+    },
+    {
+      "reference_event_id": 9,
+      "match": "MATCH",
+      "summary_unit": 3
+    },
+    {
+      "reference_event_id": 10,
+      "match": "MATCH",
+      "summary_unit": 4
+    },
+    {
+      "reference_event_id": 11,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 12,
+      "match": "MATCH",
+      "summary_unit": 6
+    },
+    {
+      "reference_event_id": 13,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 14,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 15,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 16,
+      "match": "MATCH",
+      "summary_unit": 9
+    },
+    {
+      "reference_event_id": 17,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 18,
+      "match": "MATCH",
+      "summary_unit": 5
+    },
+    {
+      "reference_event_id": 19,
+      "match": "MATCH",
+      "summary_unit": 6
+    },
+    {
+      "reference_event_id": 20,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 21,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 22,
+      "match": "MATCH",
+      "summary_unit": 25
+    },
+    {
+      "reference_event_id": 23,
+      "match": "MATCH",
+      "summary_unit": 14
+    },
+    {
+      "reference_event_id": 24,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 25,
+      "match": "MATCH",
+      "summary_unit": 5
+    },
+    {
+      "reference_event_id": 26,
+      "match": "MATCH",
+      "summary_unit": 5
+    },
+    {
+      "reference_event_id": 27,
+      "match": "MATCH",
+      "summary_unit": 15
+    },
+    {
+      "reference_event_id": 28,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 29,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 30,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 31,
+      "match": "MATCH",
+      "summary_unit": 16
+    },
+    {
+      "reference_event_id": 32,
+      "match": "MATCH",
+      "summary_unit": 16
+    },
+    {
+      "reference_event_id": 33,
+      "match": "MATCH",
+      "summary_unit": 16
+    },
+    {
+      "reference_event_id": 34,
+      "match": "MATCH",
+      "summary_unit": 16
+    },
+    {
+      "reference_event_id": 35,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 36,
+      "match": "MATCH",
+      "summary_unit": 16
+    },
+    {
+      "reference_event_id": 37,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 38,
+      "match": "MATCH",
+      "summary_unit": 9
+    },
+    {
+      "reference_event_id": 39,
+      "match": "MATCH",
+      "summary_unit": 9
+    },
+    {
+      "reference_event_id": 40,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 41,
+      "match": "MATCH",
+      "summary_unit": 8
+    },
+    {
+      "reference_event_id": 42,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 43,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 44,
+      "match": "MATCH",
+      "summary_unit": 12
+    },
+    {
+      "reference_event_id": 45,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 46,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 47,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 48,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 49,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 50,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 51,
+      "match": "MATCH",
+      "summary_unit": 11
+    },
+    {
+      "reference_event_id": 52,
+      "match": "MATCH",
+      "summary_unit": 20
+    },
+    {
+      "reference_event_id": 53,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 54,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 55,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 56,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 57,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 58,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 59,
+      "match": "MATCH",
+      "summary_unit": 14
+    },
+    {
+      "reference_event_id": 60,
+      "match": "MATCH",
+      "summary_unit": 13
+    },
+    {
+      "reference_event_id": 61,
+      "match": "MATCH",
+      "summary_unit": 14
+    },
+    {
+      "reference_event_id": 62,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 63,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 64,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 65,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 66,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 67,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 68,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 69,
+      "match": "MATCH",
+      "summary_unit": 21
+    },
+    {
+      "reference_event_id": 70,
+      "match": "MATCH",
+      "summary_unit": 22
+    },
+    {
+      "reference_event_id": 71,
+      "match": "MATCH",
+      "summary_unit": 19
+    },
+    {
+      "reference_event_id": 72,
+      "match": "MATCH",
+      "summary_unit": 16
+    },
+    {
+      "reference_event_id": 73,
+      "match": "MATCH",
+      "summary_unit": 16
+    },
+    {
+      "reference_event_id": 74,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 75,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 76,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 77,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 78,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 79,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 80,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 81,
+      "match": "MATCH",
+      "summary_unit": 25
+    },
+    {
+      "reference_event_id": 82,
+      "match": "MATCH",
+      "summary_unit": 24
+    },
+    {
+      "reference_event_id": 83,
+      "match": "MATCH",
+      "summary_unit": 23
+    },
+    {
+      "reference_event_id": 84,
+      "match": "MATCH",
+      "summary_unit": 24
+    },
+    {
+      "reference_event_id": 85,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 86,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 87,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 88,
+      "match": "MATCH",
+      "summary_unit": 18
+    },
+    {
+      "reference_event_id": 89,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 90,
+      "match": "MATCH",
+      "summary_unit": 20
+    },
+    {
+      "reference_event_id": 91,
+      "match": "MATCH",
+      "summary_unit": 25
+    },
+    {
+      "reference_event_id": 92,
+      "match": "MATCH",
+      "summary_unit": 23
+    },
+    {
+      "reference_event_id": 93,
+      "match": "MATCH",
+      "summary_unit": 23
+    },
+    {
+      "reference_event_id": 94,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 95,
+      "match": "MATCH",
+      "summary_unit": 20
+    },
+    {
+      "reference_event_id": 96,
+      "match": "MATCH",
+      "summary_unit": 23
+    },
+    {
+      "reference_event_id": 97,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 98,
+      "match": "MATCH",
+      "summary_unit": 18
+    },
+    {
+      "reference_event_id": 99,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 100,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 101,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 102,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 103,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 104,
+      "match": "MATCH",
+      "summary_unit": 17
+    },
+    {
+      "reference_event_id": 105,
+      "match": "MATCH",
+      "summary_unit": 25
+    },
+    {
+      "reference_event_id": 106,
+      "match": "MATCH",
+      "summary_unit": 23
+    },
+    {
+      "reference_event_id": 107,
+      "match": "MATCH",
+      "summary_unit": 18
+    },
+    {
+      "reference_event_id": 108,
+      "match": "MATCH",
+      "summary_unit": 23
+    },
+    {
+      "reference_event_id": 109,
+      "match": "MATCH",
+      "summary_unit": 23
+    },
+    {
+      "reference_event_id": 110,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 111,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 112,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 113,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 114,
+      "match": "MATCH",
+      "summary_unit": 18
+    },
+    {
+      "reference_event_id": 115,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    }
+  ],
+  "Section + MedCPT": [
+    {
+      "reference_event_id": 0,
+      "match": "MATCH",
+      "summary_unit": 2
+    },
+    {
+      "reference_event_id": 1,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 2,
+      "match": "MATCH",
+      "summary_unit": 7
+    },
+    {
+      "reference_event_id": 3,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 4,
+      "match": "MATCH",
+      "summary_unit": 44
+    },
+    {
+      "reference_event_id": 5,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 6,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 7,
+      "match": "MATCH",
+      "summary_unit": 22
+    },
+    {
+      "reference_event_id": 8,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 9,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 10,
+      "match": "MATCH",
+      "summary_unit": 10
+    },
+    {
+      "reference_event_id": 11,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 12,
+      "match": "MATCH",
+      "summary_unit": 22
+    },
+    {
+      "reference_event_id": 13,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 14,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 15,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 16,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 17,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 18,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 19,
+      "match": "MATCH",
+      "summary_unit": 4
+    },
+    {
+      "reference_event_id": 20,
+      "match": "MATCH",
+      "summary_unit": 44
+    },
+    {
+      "reference_event_id": 21,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 22,
+      "match": "MATCH",
+      "summary_unit": 51
+    },
+    {
+      "reference_event_id": 23,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 24,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 25,
+      "match": "MATCH",
+      "summary_unit": 34
+    },
+    {
+      "reference_event_id": 26,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 27,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 28,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 29,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 30,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 31,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 32,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 33,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 34,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 35,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 36,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 37,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 38,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 39,
+      "match": "MATCH",
+      "summary_unit": 31
+    },
+    {
+      "reference_event_id": 40,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 41,
+      "match": "MATCH",
+      "summary_unit": 19
+    },
+    {
+      "reference_event_id": 42,
+      "match": "MATCH",
+      "summary_unit": 14
+    },
+    {
+      "reference_event_id": 43,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 44,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 45,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 46,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 47,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 48,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 49,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 50,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 51,
+      "match": "MATCH",
+      "summary_unit": 34
+    },
+    {
+      "reference_event_id": 52,
+      "match": "MATCH",
+      "summary_unit": 34
+    },
+    {
+      "reference_event_id": 53,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 54,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 55,
+      "match": "MATCH",
+      "summary_unit": 29
+    },
+    {
+      "reference_event_id": 56,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 57,
+      "match": "MATCH",
+      "summary_unit": 29
+    },
+    {
+      "reference_event_id": 58,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 59,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 60,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 61,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 62,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 63,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 64,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 65,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 66,
+      "match": "MATCH",
+      "summary_unit": 29
+    },
+    {
+      "reference_event_id": 67,
+      "match": "MATCH",
+      "summary_unit": 35
+    },
+    {
+      "reference_event_id": 68,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 69,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 70,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 71,
+      "match": "MATCH",
+      "summary_unit": 25
+    },
+    {
+      "reference_event_id": 72,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 73,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 74,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 75,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 76,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 77,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 78,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 79,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 80,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 81,
+      "match": "MATCH",
+      "summary_unit": 29
+    },
+    {
+      "reference_event_id": 82,
+      "match": "MATCH",
+      "summary_unit": 35
+    },
+    {
+      "reference_event_id": 83,
+      "match": "MATCH",
+      "summary_unit": 35
+    },
+    {
+      "reference_event_id": 84,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 85,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 86,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 87,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 88,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 89,
+      "match": "MATCH",
+      "summary_unit": 45
+    },
+    {
+      "reference_event_id": 90,
+      "match": "MATCH",
+      "summary_unit": 35
+    },
+    {
+      "reference_event_id": 91,
+      "match": "MATCH",
+      "summary_unit": 29
+    },
+    {
+      "reference_event_id": 92,
+      "match": "MATCH",
+      "summary_unit": 30
+    },
+    {
+      "reference_event_id": 93,
+      "match": "MATCH",
+      "summary_unit": 30
+    },
+    {
+      "reference_event_id": 94,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 95,
+      "match": "MATCH",
+      "summary_unit": 34
+    },
+    {
+      "reference_event_id": 96,
+      "match": "MATCH",
+      "summary_unit": 35
+    },
+    {
+      "reference_event_id": 97,
+      "match": "MATCH",
+      "summary_unit": 26
+    },
+    {
+      "reference_event_id": 98,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 99,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 100,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 101,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 102,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 103,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 104,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 105,
+      "match": "MATCH",
+      "summary_unit": 29
+    },
+    {
+      "reference_event_id": 106,
+      "match": "MATCH",
+      "summary_unit": 30
+    },
+    {
+      "reference_event_id": 107,
+      "match": "MATCH",
+      "summary_unit": 35
+    },
+    {
+      "reference_event_id": 108,
+      "match": "MATCH",
+      "summary_unit": 35
+    },
+    {
+      "reference_event_id": 109,
+      "match": "MATCH",
+      "summary_unit": 35
+    },
+    {
+      "reference_event_id": 110,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 111,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 112,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 113,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 114,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    },
+    {
+      "reference_event_id": 115,
+      "match": "NO_MATCH",
+      "summary_unit": null
+    }
+  ]
+}
