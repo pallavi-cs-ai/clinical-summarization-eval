@@ -1,0 +1,21 @@
+Fact ID,Category,Reference Fact,Whole + Gemini,Whole + BGE,Whole + MedCPT,Fixed + Gemini,Fixed + BGE,Fixed + MedCPT,Section + Gemini,Section + BGE,Section + MedCPT
+F01,presentation,Patient presented with progressive exertional breathlessness.,2,2,2,2,2,2,2,2,2
+F02,presentation,"Patient was hypoxic at presentation, with SpO2 89% on room air.",2,2,1,2,2,2,0,2,0
+F03,diagnosis,Chronic thromboembolic pulmonary hypertension (CTEPH) was diagnosed.,2,2,2,2,2,2,2,2,2
+F04,investigation,CT pulmonary angiography confirmed chronic thromboembolic disease.,2,2,2,2,2,0,2,2,2
+F05,investigation,Echocardiography demonstrated severe pulmonary hypertension with right ventricular strain.,2,2,2,2,2,2,2,2,2
+F06,investigation,V/Q scanning demonstrated mismatched perfusion defects consistent with CTEPH.,2,2,2,2,2,2,0,2,2
+F07,investigation,NT-proBNP was markedly elevated during the clinical course.,2,2,2,2,2,2,2,2,2
+F08,treatment,Supplemental low-flow oxygen therapy was used to treat hypoxia.,2,2,2,2,2,2,2,2,2
+F09,treatment,Therapeutic anticoagulation was initiated during the clinical course.,2,2,2,2,2,2,2,2,2
+F10,treatment,Rivaroxaban was used for ongoing/long-term anticoagulation.,2,2,2,2,2,2,2,2,2
+F11,treatment,Furosemide was used during management of pulmonary hypertension/right-heart strain and fluid retention.,2,2,2,2,2,2,0,2,0
+F12,treatment,Sildenafil 20 mg three times daily was introduced for pulmonary hypertension management.,2,2,2,2,2,2,1,2,0
+F13,treatment,Physiotherapy included breathing exercises and progressive mobilisation.,2,2,1,2,2,2,2,2,0
+F14,treatment,Energy-conservation/pacing strategies and a home exercise programme were provided.,2,2,1,1,2,1,0,2,0
+F15,treatment,Mild anaemia was documented later in the course and treated with ferrous sulfate.,2,2,2,2,2,2,1,0,1
+F16,progression,Breathlessness and exercise tolerance improved during the clinical course.,2,2,2,2,2,2,2,2,2
+F17,progression,"Supplemental oxygen requirements decreased, with the patient later maintaining approximately 94-95% SpO2 on room air.",2,2,2,2,2,2,2,1,2
+F18,outcome,The patient was referred to a tertiary pulmonary hypertension centre for pulmonary endarterectomy assessment.,2,2,2,2,2,2,2,2,1
+F19,outcome,The patient was ultimately discharged after clinical improvement.,2,2,2,2,2,2,2,2,2
+F20,outcome,Follow-up at the tertiary pulmonary hypertension centre was planned after discharge.,2,2,2,2,2,2,1,2,2

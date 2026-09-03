@@ -1,0 +1,10 @@
+Configuration,Coverage Points,Max Points,Coverage %,Fully Captured,Partially Captured,Absent
+Whole + Gemini,40,40,100.0,20,0,0
+Whole + BGE,40,40,100.0,20,0,0
+Fixed + BGE,40,40,100.0,20,0,0
+Fixed + Gemini,39,40,97.5,19,1,0
+Whole + MedCPT,37,40,92.5,17,3,0
+Fixed + MedCPT,37,40,92.5,18,1,1
+Section + BGE,37,40,92.5,18,1,1
+Section + Gemini,29,40,72.5,13,3,4
+Section + MedCPT,28,40,70.0,13,2,5
