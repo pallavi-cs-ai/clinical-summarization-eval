@@ -1,0 +1,4904 @@
+{
+  "Whole + Gemini": {
+    "C01": {
+      "claim": "Abena Bonsu is a 43-year-old woman with hypertension.",
+      "label": "SUPPORTED",
+      "reason": "Source note 0 explicitly identifies Abena Bonsu as a 43-year-old female and states that her past medical history includes hypertension (HTN).",
+      "evidence_quote": "Patient Abena Bonsu, a 43-year-old female... Past medical history includes HTN",
+      "retrieved_note_indices": [
+        28,
+        0,
+        13,
+        4,
+        30
+      ]
+    },
+    "C02": {
+      "claim": "She has asthma.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly lists asthma in her past medical history.",
+      "evidence_quote": "Past Medical History - HTN - Asthma",
+      "retrieved_note_indices": [
+        28,
+        4,
+        3,
+        9,
+        7
+      ]
+    },
+    "C03": {
+      "claim": "She has a nut allergy.",
+      "label": "SUPPORTED",
+      "reason": "The source notes explicitly document that the patient is allergic to nuts.",
+      "evidence_quote": "Allergies - Nuts",
+      "retrieved_note_indices": [
+        28,
+        0,
+        4,
+        3,
+        11
+      ]
+    },
+    "C04": {
+      "claim": "She reported no regular medications.",
+      "label": "UNSUPPORTED",
+      "reason": "The notes state that no medication changes or new medications were made, but do not establish that she was taking no regular medications.",
+      "evidence_quote": "No medication changes made.",
+      "retrieved_note_indices": [
+        20,
+        38,
+        40,
+        13,
+        11
+      ]
+    },
+    "C05": {
+      "claim": "She presented with two weeks of progressive exertional breathlessness.",
+      "label": "SUPPORTED",
+      "reason": "The history explicitly states that breathlessness progressively worsened over the last two weeks and was worse on exertion.",
+      "evidence_quote": "Progressive worsening of SOB over the last 2 weks - SOB worse on exertion",
+      "retrieved_note_indices": [
+        4,
+        5,
+        6,
+        3,
+        1
+      ]
+    },
+    "C06": {
+      "claim": "She was tachycardic.",
+      "label": "SUPPORTED",
+      "reason": "The observations document a heart rate of 112 bpm, and the ward-round note explicitly describes persistent tachycardia.",
+      "evidence_quote": "HR 112 bpm",
+      "retrieved_note_indices": [
+        3,
+        4,
+        6,
+        0,
+        9
+      ]
+    },
+    "C07": {
+      "claim": "She was tachypnoeic.",
+      "label": "SUPPORTED",
+      "reason": "The recorded respiratory rate was 28 breaths per minute, supporting tachypnoea.",
+      "evidence_quote": "RR 28 breaths/min",
+      "retrieved_note_indices": [
+        4,
+        3,
+        0,
+        7,
+        28
+      ]
+    },
+    "C08": {
+      "claim": "She was borderline hypotensive.",
+      "label": "SUPPORTED",
+      "reason": "The recorded blood pressure was 92/64 mmHg, which supports describing her as borderline hypotensive.",
+      "evidence_quote": "BP 92/64 mmHg",
+      "retrieved_note_indices": [
+        3,
+        4,
+        28,
+        1,
+        2
+      ]
+    },
+    "C09": {
+      "claim": "Her oxygen saturation was 89\u201390% on room air.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence explicitly supports 89% on room air, but does not establish that the 90% reading was also on room air.",
+      "evidence_quote": "SpO2 noted to remain low at 89% on room air",
+      "retrieved_note_indices": [
+        2,
+        1,
+        19,
+        28,
+        3
+      ]
+    },
+    "C10": {
+      "claim": "She required low-flow oxygen.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that she was placed on low-flow oxygen therapy for mild hypoxia.",
+      "evidence_quote": "Patient placed on low-flow oxygen therapy to improve oxygenation",
+      "retrieved_note_indices": [
+        2,
+        19,
+        3,
+        1,
+        9
+      ]
+    },
+    "C11": {
+      "claim": "Her oxygen saturation improved to approximately 92% on 2 L nasal cannula.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence supports improvement to 92% with oxygen via nasal cannula, but does not specify that the oxygen flow rate was 2 L.",
+      "evidence_quote": "oxygen saturation improved to 92%.",
+      "retrieved_note_indices": [
+        2,
+        1,
+        19,
+        3,
+        25
+      ]
+    },
+    "C12": {
+      "claim": "She had a raised JVP.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents a raised JVP.",
+      "evidence_quote": "JVP raised to angle of jaw at 45\u00b0.",
+      "retrieved_note_indices": [
+        5,
+        4,
+        11,
+        6,
+        12
+      ]
+    },
+    "C13": {
+      "claim": "She had basal crepitations.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents basal crepitations on auscultation.",
+      "evidence_quote": "Respiratory: Bilateral basal creps heard on auscultation.",
+      "retrieved_note_indices": [
+        4,
+        5,
+        28,
+        0,
+        3
+      ]
+    },
+    "C14": {
+      "claim": "She had mild hepatomegaly.",
+      "label": "SUPPORTED",
+      "reason": "The abdominal examination explicitly documents mild hepatomegaly.",
+      "evidence_quote": "Abdomen: Mildly tenddr hepatomegaly.",
+      "retrieved_note_indices": [
+        4,
+        11,
+        6,
+        3,
+        2
+      ]
+    },
+    "C15": {
+      "claim": "She later had a loud P2.",
+      "label": "UNSUPPORTED",
+      "reason": "The source evidence does not document a loud P2 or any accentuated second heart sound.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        29,
+        4,
+        3,
+        20,
+        13
+      ]
+    },
+    "C16": {
+      "claim": "ABG showed mild hypoxia with a PaO\u2082 of 8.5 kPa.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly reports an ABG PaO\u2082 of 8.5 kPa and describes it as indicating mild hypoxia.",
+      "evidence_quote": "ABG results reviewed: PaO2 8.5 kPa, indicating mild hypoxia",
+      "retrieved_note_indices": [
+        3,
+        2,
+        1,
+        4,
+        19
+      ]
+    },
+    "C17": {
+      "claim": "ABG showed respiratory alkalosis.",
+      "label": "SUPPORTED",
+      "reason": "The ABG is explicitly documented as showing compensated respiratory alkalosis, with pH 7.46 and low PaCO2 of 3.8 kPa.",
+      "evidence_quote": "ABG: PaO2 8.5 kPa, PaCO2 3.8 kPa, pH 7.46, HCO3- 24 mmol/L (compensated respiratory alkalosis, mild hypoxia)",
+      "retrieved_note_indices": [
+        3,
+        4,
+        6,
+        5,
+        7
+      ]
+    },
+    "C18": {
+      "claim": "NT-proBNP was elevated at 3,200\u20134,500 pg/mL.",
+      "label": "SUPPORTED",
+      "reason": "The evidence explicitly reports NT-proBNP values of 3,200 pg/mL and 4,500 pg/mL.",
+      "evidence_quote": "NT-proBNP: 4,500 pg/mL (elevated, subsequent result after earlier 3,200 pg/mL reading)",
+      "retrieved_note_indices": [
+        11,
+        4,
+        3,
+        6,
+        5
+      ]
+    },
+    "C19": {
+      "claim": "D-dimer was elevated.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the D-dimer was elevated.",
+      "evidence_quote": "Blood tests: D-dimer elevated",
+      "retrieved_note_indices": [
+        4,
+        6,
+        5,
+        11,
+        21
+      ]
+    },
+    "C20": {
+      "claim": "Chest X-ray showed bilateral pulmonary congestion.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 4 explicitly states that the chest X-ray showed bilateral pulmonary congestion.",
+      "evidence_quote": "Chest X-ray: Bilateral pulmonary congestion",
+      "retrieved_note_indices": [
+        4,
+        5,
+        11,
+        6,
+        16
+      ]
+    },
+    "C21": {
+      "claim": "Chest X-ray showed no focal consolidation.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly reports that the chest X-ray showed no focal consolidation.",
+      "evidence_quote": "Chest X-ray: Bilateral pulmonary congestion, no focal consolidation or pneumothorax.",
+      "retrieved_note_indices": [
+        4,
+        5,
+        11,
+        13,
+        3
+      ]
+    },
+    "C22": {
+      "claim": "Chest X-ray showed no pneumothorax.",
+      "label": "SUPPORTED",
+      "reason": "The chest X-ray findings explicitly state there was no pneumothorax.",
+      "evidence_quote": "Chest X-ray: Bilateral pulmonary congestion, no focal consolidation or pneumothorax.",
+      "retrieved_note_indices": [
+        4,
+        5,
+        28,
+        25,
+        11
+      ]
+    },
+    "C23": {
+      "claim": "She was admitted to the Respiratory HDU for suspected chronic thromboembolic pulmonary hypertension.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that admission to the Respiratory HDU was planned for suspected chronic thromboembolic pulmonary hypertension.",
+      "evidence_quote": "Admit to Respiratory HDU for close monitoring and specialist input.",
+      "retrieved_note_indices": [
+        4,
+        6,
+        0,
+        22,
+        16
+      ]
+    },
+    "C24": {
+      "claim": "Therapeutic anticoagulation with enoxaparin was initially planned.",
+      "label": "SUPPORTED",
+      "reason": "The ED plan explicitly states to start therapeutic-dose enoxaparin 1.5 mg/kg daily for anticoagulation.",
+      "evidence_quote": "Start therapeutic-dose enoxaparin 1.5 mg/kg daily subcutaneously for anticoagulation.",
+      "retrieved_note_indices": [
+        14,
+        34,
+        6,
+        4,
+        20
+      ]
+    },
+    "C25": {
+      "claim": "Apixaban was planned at 10 mg twice daily for 7 days followed by 5 mg twice daily.",
+      "label": "SUPPORTED",
+      "reason": "The plan explicitly specifies apixaban 10 mg twice daily for 7 days, followed by 5 mg twice daily.",
+      "evidence_quote": "Start apixaban 10 mg BD x 7 days, then 5 mg BD.",
+      "retrieved_note_indices": [
+        14,
+        6,
+        34,
+        10,
+        31
+      ]
+    },
+    "C26": {
+      "claim": "LMWH was planned to continue until anticoagulation was established.",
+      "label": "SUPPORTED",
+      "reason": "The plan explicitly states that LMWH should continue until apixaban therapy is fully initiated.",
+      "evidence_quote": "Continue LMWH until apixaban therapy si fully initiated.",
+      "retrieved_note_indices": [
+        14,
+        6,
+        34,
+        20,
+        8
+      ]
+    },
+    "C27": {
+      "claim": "CTPA and echocardiography were requested.",
+      "label": "SUPPORTED",
+      "reason": "The sources explicitly state that CTPA and echocardiography were requested/planned.",
+      "evidence_quote": "CTPA and echo requested.",
+      "retrieved_note_indices": [
+        6,
+        4,
+        5,
+        23,
+        18
+      ]
+    },
+    "C28": {
+      "claim": "Physiotherapy began with diaphragmatic breathing exercises.",
+      "label": "SUPPORTED",
+      "reason": "The earliest documented physiotherapy session states that diaphragmatic breathing exercises were introduced, supporting that physiotherapy began with them.",
+      "evidence_quote": "Diaphragmatic breathing exercises introduced",
+      "retrieved_note_indices": [
+        7,
+        13,
+        44,
+        25,
+        30
+      ]
+    },
+    "C29": {
+      "claim": "Physiotherapy included light mobilisation.",
+      "label": "SUPPORTED",
+      "reason": "The physiotherapy sessions explicitly included light mobilisation.",
+      "evidence_quote": "The session focused on breathing exercises and light mobilisation.",
+      "retrieved_note_indices": [
+        13,
+        19,
+        25,
+        28,
+        38
+      ]
+    },
+    "C30": {
+      "claim": "Echocardiography showed severe pulmonary hypertension.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that echocardiography confirmed severe pulmonary hypertension.",
+      "evidence_quote": "Echo confirmed severe pulmonary HTN with right ventricular strain.",
+      "retrieved_note_indices": [
+        4,
+        5,
+        6,
+        16,
+        18
+      ]
+    },
+    "C31": {
+      "claim": "Echocardiography showed right ventricular strain.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that echocardiography confirmed right ventricular strain.",
+      "evidence_quote": "Echo confirmed severe pulmonary HTN with right ventricular strain.",
+      "retrieved_note_indices": [
+        11,
+        4,
+        5,
+        6,
+        16
+      ]
+    },
+    "C32": {
+      "claim": "She remained dependent on 2 L oxygen with an oxygen saturation of 91%.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents oxygen therapy via nasal cannula with saturations of 89% on room air and improving to 92%, but does not establish that she remained on 2 L oxygen or had a saturation of 91%.",
+      "evidence_quote": "O2 therapy ... continued at 02:15 with an improvement in SpO2 to 92%",
+      "retrieved_note_indices": [
+        2,
+        1,
+        19,
+        28,
+        25
+      ]
+    },
+    "C33": {
+      "claim": "She had persistent tachycardia.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly documents persistent tachycardia, with a recorded heart rate of 112 bpm.",
+      "evidence_quote": "Persistent tachycardia and borderline hypotension",
+      "retrieved_note_indices": [
+        4,
+        6,
+        3,
+        11,
+        0
+      ]
+    },
+    "C34": {
+      "claim": "She developed mild peripheral oedema.",
+      "label": "UNSUPPORTED",
+      "reason": "The examination explicitly documents that no peripheral oedema was present.",
+      "evidence_quote": "No peripheral oedema noted.",
+      "retrieved_note_indices": [
+        4,
+        28,
+        3,
+        1,
+        2
+      ]
+    },
+    "C35": {
+      "claim": "Oral furosemide 40 mg daily was started.",
+      "label": "SUPPORTED",
+      "reason": "The plan explicitly states to start oral furosemide 40 mg once daily.",
+      "evidence_quote": "Start oral furosemide 40 mg OD",
+      "retrieved_note_indices": [
+        12,
+        36,
+        16,
+        17,
+        21
+      ]
+    },
+    "C36": {
+      "claim": "CTPA and echocardiography confirmed CTEPH.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents that CTPA was requested or pending, not that it confirmed CTEPH. Echocardiography is documented as confirming severe pulmonary hypertension, while CTEPH was confirmed by V/Q scan.",
+      "evidence_quote": "V/Q scan reviewed. Mismatched perfusion defects - CTEPH.",
+      "retrieved_note_indices": [
+        6,
+        23,
+        17,
+        5,
+        22
+      ]
+    },
+    "C37": {
+      "claim": "Her breathlessness improved.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence describes treatment for breathlessness and improved oxygen saturation, but does not state that the patient's breathlessness itself improved.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        28,
+        1,
+        9,
+        3,
+        4
+      ]
+    },
+    "C38": {
+      "claim": "Her oxygen saturation was 94% on 2 L oxygen.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence reports oxygen saturation improving to 92% on low-flow oxygen, but does not establish a saturation of 94% or oxygen delivery at 2 L.",
+      "evidence_quote": "oxygen saturation improved to 92%",
+      "retrieved_note_indices": [
+        2,
+        1,
+        19,
+        3,
+        28
+      ]
+    },
+    "C39": {
+      "claim": "Sildenafil 20 mg three times daily was continued.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states to continue sildenafil 20 mg TID.",
+      "evidence_quote": "Continue sildenafil 20 mg TID.",
+      "retrieved_note_indices": [
+        26,
+        27,
+        42,
+        22,
+        21
+      ]
+    },
+    "C40": {
+      "claim": "She was referred to a tertiary pulmonary hypertension centre for pulmonary endarterectomy assessment.",
+      "label": "SUPPORTED",
+      "reason": "The notes explicitly document referral to a tertiary pulmonary hypertension centre for pulmonary endarterectomy assessment.",
+      "evidence_quote": "Refer to tertiary PH centre for pulmonary ednarterectomy assessment",
+      "retrieved_note_indices": [
+        23,
+        18,
+        29,
+        4,
+        17
+      ]
+    },
+    "C41": {
+      "claim": "Physiotherapy progressed to corridor walking with rest breaks.",
+      "label": "SUPPORTED",
+      "reason": "The physiotherapy session explicitly documented corridor walking with rest breaks, following earlier light mobility sessions.",
+      "evidence_quote": "Patient completed two short walks along the ward corridor with rest breaks as required.",
+      "retrieved_note_indices": [
+        33,
+        25,
+        19,
+        28,
+        30
+      ]
+    },
+    "C42": {
+      "claim": "Her oxygen saturations remained above 92% during mobilisation.",
+      "label": "SUPPORTED",
+      "reason": "The physiotherapy note states that oxygen saturations remained above 92% throughout a session involving light mobilisation and ambulation.",
+      "evidence_quote": "Oxygen saturations remained above 92% on low-flow oxygen throughout the session.",
+      "retrieved_note_indices": [
+        28,
+        25,
+        1,
+        2,
+        33
+      ]
+    },
+    "C43": {
+      "claim": "V/Q scanning showed mismatched perfusion defects consistent with CTEPH.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents mismatched perfusion defects on V/Q scan and associates them with CTEPH.",
+      "evidence_quote": "V/Q scan reviewed. Mismatched perfusion defects - CTEPH.",
+      "retrieved_note_indices": [
+        23,
+        22,
+        6,
+        41,
+        31
+      ]
+    },
+    "C44": {
+      "claim": "She maintained an oxygen saturation of 95% on room air.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents SpO2 of 89% on room air, improving to 92% with oxygen, and does not establish 95% on room air.",
+      "evidence_quote": "SpO2 noted to remain low at 89% on room air.",
+      "retrieved_note_indices": [
+        1,
+        2,
+        25,
+        3,
+        28
+      ]
+    },
+    "C45": {
+      "claim": "Long-term anticoagulation with rivaroxaban 20 mg daily was initiated.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that long-term anticoagulation with rivaroxaban 20 mg once daily was initiated and planned.",
+      "evidence_quote": "Initiated long-term anticoagulation therapy with Rivaroxaban 20 mg OD",
+      "retrieved_note_indices": [
+        14,
+        31,
+        37,
+        6,
+        17
+      ]
+    },
+    "C46": {
+      "claim": "She reported improved activity tolerance.",
+      "label": "SUPPORTED",
+      "reason": "The evidence documents improved walking distance and reduced shortness of breath during activity, supporting improved activity tolerance.",
+      "evidence_quote": "The patient demonstrated improved walking distance compared to prior physio sessions.",
+      "retrieved_note_indices": [
+        33,
+        35,
+        19,
+        28,
+        9
+      ]
+    },
+    "C47": {
+      "claim": "She had mild anaemia with a haemoglobin of 110 g/L.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents mild anemia and a haemoglobin level of 110 g/L.",
+      "evidence_quote": "Mild Anemia -Hb 110 g/L",
+      "retrieved_note_indices": [
+        32,
+        2,
+        3,
+        28,
+        42
+      ]
+    },
+    "C48": {
+      "claim": "Ferrous sulfate 200 mg twice daily was started.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round plan explicitly states to start/prescribe ferrous sulfate 200 mg twice daily (BD) for anemia.",
+      "evidence_quote": "Start ferrous sulfate 200 mg BD for anemia.",
+      "retrieved_note_indices": [
+        32,
+        14,
+        36,
+        2,
+        19
+      ]
+    },
+    "C49": {
+      "claim": "Furosemide 20 mg daily was prescribed for mild peripheral oedema.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 36 explicitly documents starting furosemide 20 mg once daily for mild peripheral oedema.",
+      "evidence_quote": "Start furosemide 20 mg OD PO for mild peripheral oedema",
+      "retrieved_note_indices": [
+        14,
+        12,
+        36,
+        16,
+        17
+      ]
+    },
+    "C50": {
+      "claim": "She participated in breathing exercises, energy-conservation training, and mobility sessions.",
+      "label": "SUPPORTED",
+      "reason": "The evidence states that she participated in guided breathing exercises and energy-conservation activities, and documents mobility training including walking with a frame and improved mobility.",
+      "evidence_quote": "Activities included guided breathing exercises, light stretching, and techniques for energy conservation during daily activities. Patient participated fully... improved walking distance and mobility",
+      "retrieved_note_indices": [
+        15,
+        9,
+        28,
+        13,
+        35
+      ]
+    },
+    "C51": {
+      "claim": "She was clinically stable with improving breathlessness.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly states that the patient was clinically stable and reported improved breathlessness.",
+      "evidence_quote": "Clinically stable with SpO2 94% on room air; Pt reports improved breathlessness.",
+      "retrieved_note_indices": [
+        28,
+        3,
+        4,
+        37,
+        25
+      ]
+    },
+    "C52": {
+      "claim": "She had good mobilisation.",
+      "label": "SUPPORTED",
+      "reason": "The notes document that she completed short walks and tolerated mobilisation exercises well.",
+      "evidence_quote": "Patient completed two short walks along the ward corridor with rest breaks as required ... and the patient tolerated the exercises well",
+      "retrieved_note_indices": [
+        28,
+        9,
+        24,
+        13,
+        25
+      ]
+    },
+    "C53": {
+      "claim": "Her lungs were clear.",
+      "label": "UNSUPPORTED",
+      "reason": "The examination documented bilateral basal crepitations, indicating the lungs were not clear.",
+      "evidence_quote": "Respiratory: Bilateral basal creps heard on auscultation.",
+      "retrieved_note_indices": [
+        4,
+        28,
+        25,
+        13,
+        30
+      ]
+    },
+    "C54": {
+      "claim": "She no longer had a raised JVP.",
+      "label": "UNSUPPORTED",
+      "reason": "The source documents continue to describe an elevated JVP, not resolution.",
+      "evidence_quote": "JVP elevated at 4cm.",
+      "retrieved_note_indices": [
+        11,
+        17,
+        5,
+        4,
+        21
+      ]
+    },
+    "C55": {
+      "claim": "She no longer had peripheral oedema.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documented that there was no peripheral oedema.",
+      "evidence_quote": "No peripheral oedema.",
+      "retrieved_note_indices": [
+        33,
+        1,
+        17,
+        28,
+        4
+      ]
+    },
+    "C56": {
+      "claim": "Her oxygen saturation was 94% on room air.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents oxygen saturation of 89% on room air, not 94%.",
+      "evidence_quote": "SpO2 at 89% on room air",
+      "retrieved_note_indices": [
+        1,
+        2,
+        28,
+        4,
+        3
+      ]
+    },
+    "C57": {
+      "claim": "She was discharged on rivaroxaban 15 mg twice daily for 3 weeks followed by 20 mg daily.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly states rivaroxaban 15 mg twice daily for 3 weeks, followed by 20 mg once daily.",
+      "evidence_quote": "Discharge today with rivaroxaban 15 mg BD x 3 weeks, then 20 mg OD.",
+      "retrieved_note_indices": [
+        14,
+        34,
+        37,
+        31,
+        42
+      ]
+    },
+    "C58": {
+      "claim": "She was discharged on sildenafil 20 mg three times daily.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly states that sildenafil 20 mg three times daily was prescribed.",
+      "evidence_quote": "Discharge today ... Prescribed sildenafil 20 mg TID for PH.",
+      "retrieved_note_indices": [
+        42,
+        26,
+        43,
+        27,
+        31
+      ]
+    },
+    "C59": {
+      "claim": "She was discharged on ferrous sulfate 200 mg twice daily.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly states that ferrous sulfate 200 mg twice daily was prescribed.",
+      "evidence_quote": "Discharge today ... Prescrbed ferrous sulfate 200 mg BD for anemia.",
+      "retrieved_note_indices": [
+        32,
+        14,
+        42,
+        43,
+        34
+      ]
+    },
+    "C60": {
+      "claim": "A home exercise programme was arranged.",
+      "label": "SUPPORTED",
+      "reason": "The sources explicitly state that a personalised home exercise programme was finalised and that the patient was discharged with it.",
+      "evidence_quote": "The patient was discharged with the home exercise programme",
+      "retrieved_note_indices": [
+        40,
+        44,
+        38,
+        33,
+        24
+      ]
+    },
+    "C61": {
+      "claim": "Safety-netting advice was provided.",
+      "label": "SUPPORTED",
+      "reason": "The patient was instructed to recognize warning signs of worsening symptoms and seek medical help, which constitutes safety-netting advice.",
+      "evidence_quote": "instructed to seek medical help if these occur",
+      "retrieved_note_indices": [
+        24,
+        43,
+        40,
+        15,
+        20
+      ]
+    },
+    "C62": {
+      "claim": "Follow-up at a tertiary pulmonary hypertension centre was arranged.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents that a referral to a tertiary pulmonary hypertension centre was planned or sent, with feedback awaited, but does not establish that follow-up at the centre was arranged.",
+      "evidence_quote": "Referral sent to tertiary PH ctr for mgmt & consideration of PEA/adv tx. Await feedback from ctr.",
+      "retrieved_note_indices": [
+        29,
+        20,
+        23,
+        18,
+        17
+      ]
+    },
+    "C63": {
+      "claim": "Pulmonary endarterectomy was to be considered.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents referral for pulmonary endarterectomy consideration.",
+      "evidence_quote": "Referral to tertiary PH centre for PEA consideration.",
+      "retrieved_note_indices": [
+        18,
+        23,
+        17,
+        32,
+        21
+      ]
+    }
+  },
+  "Whole + BGE": {
+    "C01": {
+      "claim": "The patient was admitted with several weeks of progressive exertional breathlessness.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence supports progressive exertional breathlessness and admission, but specifies a duration of about two weeks rather than several weeks.",
+      "evidence_quote": "Progressive worsening of SOB over the last 2 weks; SOB worse on exertion",
+      "retrieved_note_indices": [
+        4,
+        5,
+        6,
+        32,
+        3
+      ]
+    },
+    "C02": {
+      "claim": "The breathlessness limited her daily activities.",
+      "label": "SUPPORTED",
+      "reason": "Significant exertional breathlessness required a rollator for short-distance ambulation and pacing techniques to conserve energy, establishing limitation of routine activity.",
+      "evidence_quote": "significant breathlessness on exertion... A rollator frame was introduced to assist with short-distance ambulation",
+      "retrieved_note_indices": [
+        28,
+        7,
+        9,
+        4,
+        13
+      ]
+    },
+    "C03": {
+      "claim": "Her past medical history included hypertension.",
+      "label": "SUPPORTED",
+      "reason": "The past medical history explicitly lists HTN, meaning hypertension.",
+      "evidence_quote": "Past Medical History - HTN",
+      "retrieved_note_indices": [
+        4,
+        28,
+        21,
+        6,
+        0
+      ]
+    },
+    "C04": {
+      "claim": "Her past medical history included asthma.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly lists asthma in the patient's past medical history.",
+      "evidence_quote": "Past medical history: HTN, Asthma.",
+      "retrieved_note_indices": [
+        3,
+        4,
+        28,
+        0,
+        1
+      ]
+    },
+    "C05": {
+      "claim": "She had a nut allergy.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents that the patient was allergic to nuts.",
+      "evidence_quote": "Allergies - Nuts",
+      "retrieved_note_indices": [
+        28,
+        0,
+        4,
+        3,
+        43
+      ]
+    },
+    "C06": {
+      "claim": "She denied chest pain.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that she reported no associated chest pain and denied chest pain on cardiovascular review.",
+      "evidence_quote": "No associated CP, haemoptysis, fever, or syncope reported",
+      "retrieved_note_indices": [
+        4,
+        3,
+        28,
+        9,
+        11
+      ]
+    },
+    "C07": {
+      "claim": "She denied syncope.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents that she reported no syncope.",
+      "evidence_quote": "No associated CP, haemoptysis, fever, or syncope reported",
+      "retrieved_note_indices": [
+        4,
+        20,
+        11,
+        3,
+        5
+      ]
+    },
+    "C08": {
+      "claim": "She denied palpitations.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that she denied palpitations in the history and cardiovascular review.",
+      "evidence_quote": "denies palpitations",
+      "retrieved_note_indices": [
+        4,
+        20,
+        3,
+        11,
+        6
+      ]
+    },
+    "C09": {
+      "claim": "She denied fever.",
+      "label": "SUPPORTED",
+      "reason": "The history explicitly states that no fever was reported, and the systems review also documents no fever.",
+      "evidence_quote": "No associated CP, haemoptysis, fever, or syncope reported",
+      "retrieved_note_indices": [
+        4,
+        11,
+        9,
+        3,
+        0
+      ]
+    },
+    "C10": {
+      "claim": "She denied cough.",
+      "label": "SUPPORTED",
+      "reason": "The systems review explicitly states that she had no significant cough.",
+      "evidence_quote": "No haemoptysis, wheezing, or significant cough.",
+      "retrieved_note_indices": [
+        4,
+        13,
+        3,
+        28,
+        9
+      ]
+    },
+    "C11": {
+      "claim": "She denied sputum production.",
+      "label": "SUPPORTED",
+      "reason": "The clerking note explicitly states that she had no sputum.",
+      "evidence_quote": "No fever, cough, or sputum.",
+      "retrieved_note_indices": [
+        4,
+        28,
+        13,
+        3,
+        5
+      ]
+    },
+    "C12": {
+      "claim": "She denied haemoptysis.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents that she reported no haemoptysis.",
+      "evidence_quote": "No associated CP, haemoptysis, fever, or syncope reported",
+      "retrieved_note_indices": [
+        4,
+        28,
+        20,
+        5,
+        0
+      ]
+    },
+    "C13": {
+      "claim": "She denied recent travel.",
+      "label": "UNSUPPORTED",
+      "reason": "The source evidence does not mention recent travel or that she denied it.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        4,
+        11,
+        0,
+        28,
+        3
+      ]
+    },
+    "C14": {
+      "claim": "She denied recent surgery.",
+      "label": "UNSUPPORTED",
+      "reason": "The provided evidence does not state that she denied recent surgery.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        2,
+        20,
+        28,
+        13,
+        4
+      ]
+    },
+    "C15": {
+      "claim": "She was tachycardic.",
+      "label": "SUPPORTED",
+      "reason": "The observations explicitly record a heart rate of 112 bpm, and the ward-round note describes persistent tachycardia.",
+      "evidence_quote": "HR 112 bpm",
+      "retrieved_note_indices": [
+        3,
+        4,
+        6,
+        0,
+        9
+      ]
+    },
+    "C16": {
+      "claim": "She was tachypnoeic.",
+      "label": "SUPPORTED",
+      "reason": "The observation records a respiratory rate of 28 breaths per minute, supporting tachypnoea.",
+      "evidence_quote": "RR 28 breaths/min",
+      "retrieved_note_indices": [
+        4,
+        3,
+        0,
+        7,
+        28
+      ]
+    },
+    "C17": {
+      "claim": "She was hypoxic.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents mild hypoxia, including SpO2 of 89% on room air and low PaO2, and treatment with oxygen therapy.",
+      "evidence_quote": "Oxygen saturation 89% on room air, indicating mild hypoxia.",
+      "retrieved_note_indices": [
+        2,
+        1,
+        3,
+        4,
+        0
+      ]
+    },
+    "C18": {
+      "claim": "She had a raised JVP.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents a raised JVP.",
+      "evidence_quote": "JVP raised to angle of jaw at 45\u00b0.",
+      "retrieved_note_indices": [
+        5,
+        4,
+        11,
+        6,
+        12
+      ]
+    },
+    "C19": {
+      "claim": "She had a loud P2.",
+      "label": "SUPPORTED",
+      "reason": "The clerking examination explicitly documents a loud P2.",
+      "evidence_quote": "HS: normal S1/S2, no murmurs, loud P2.",
+      "retrieved_note_indices": [
+        4,
+        3,
+        5,
+        20,
+        28
+      ]
+    },
+    "C20": {
+      "claim": "ABG showed a PaO\u2082 of 8.5 kPa.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly reports an ABG PaO\u2082 of 8.5 kPa.",
+      "evidence_quote": "ABG: PaO2 8.5 kPa",
+      "retrieved_note_indices": [
+        3,
+        2,
+        1,
+        4,
+        5
+      ]
+    },
+    "C21": {
+      "claim": "ABG showed a PaCO\u2082 of 3.5 kPa.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 5 explicitly reports the ABG PaCO\u2082 as 3.5 kPa.",
+      "evidence_quote": "ABG: PaO2 8.5 kPa, PaCO2 3.5 kPq, pH 7.47.",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        6,
+        1
+      ]
+    },
+    "C22": {
+      "claim": "ABG showed a pH of 7.47.",
+      "label": "UNSUPPORTED",
+      "reason": "The source reports an ABG pH of 7.46, not 7.47.",
+      "evidence_quote": "ABG: PaO2 8.5 kPa, PaCO2 3.8 kPa, pH 7.46",
+      "retrieved_note_indices": [
+        3,
+        4,
+        2,
+        1,
+        28
+      ]
+    },
+    "C23": {
+      "claim": "Chest radiography showed cardiomegaly.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents cardiomegaly on chest radiography.",
+      "evidence_quote": "CXR: Cardiomegaly.",
+      "retrieved_note_indices": [
+        5,
+        4,
+        11,
+        6,
+        12
+      ]
+    },
+    "C24": {
+      "claim": "NT-proBNP was elevated at 3,200\u20134,500 pg/mL.",
+      "label": "SUPPORTED",
+      "reason": "The evidence explicitly reports NT-proBNP values of 3,200 pg/mL and 4,500 pg/mL, both described as elevated.",
+      "evidence_quote": "NT-proBNP: 4,500 pg/mL (elevated, subsequent result after earlier 3,200 pg/mL reading)",
+      "retrieved_note_indices": [
+        11,
+        4,
+        3,
+        6,
+        5
+      ]
+    },
+    "C25": {
+      "claim": "Low-flow oxygen improved her oxygen saturation.",
+      "label": "SUPPORTED",
+      "reason": "The evidence states that low-flow oxygen was given and SpO2 improved from 89% to 92%.",
+      "evidence_quote": "Patient placed on low-flow oxygen therapy to improve oxygenation, with SpO2 improving from 89% to 92%.",
+      "retrieved_note_indices": [
+        1,
+        2,
+        19,
+        3,
+        28
+      ]
+    },
+    "C26": {
+      "claim": "CTPA confirmed chronic thromboembolic disease.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 10 explicitly states that CTPA confirmed chronic thromboembolic disease.",
+      "evidence_quote": "CTPA confirmed chronic thromboembolic disease",
+      "retrieved_note_indices": [
+        6,
+        5,
+        10,
+        22,
+        4
+      ]
+    },
+    "C27": {
+      "claim": "Chronic thromboembolic pulmonary hypertension was diagnosed.",
+      "label": "SUPPORTED",
+      "reason": "The clinical notes explicitly identify chronic thromboembolic pulmonary hypertension as an issue and refer to a confirmed CTEPH diagnosis.",
+      "evidence_quote": "Refer to tertiary PH centre for pulmonary ednarterectomy assessment based on confirmed CTEPH diagnosis",
+      "retrieved_note_indices": [
+        6,
+        17,
+        4,
+        5,
+        22
+      ]
+    },
+    "C28": {
+      "claim": "Enoxaparin was initially administered.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the initial enoxaparin dose had already been given in the ED.",
+      "evidence_quote": "initial dose already given in ED",
+      "retrieved_note_indices": [
+        34,
+        14,
+        4,
+        6,
+        5
+      ]
+    },
+    "C29": {
+      "claim": "Oral anticoagulation was subsequently given.",
+      "label": "SUPPORTED",
+      "reason": "The evidence documents anticoagulation treatment, including rivaroxaban dosing and a plan for long-term therapy, as well as enoxaparin self-administration.",
+      "evidence_quote": "Initiated long-term anticoagulation therapy with Rivaroxaban 20 mg OD",
+      "retrieved_note_indices": [
+        14,
+        34,
+        20,
+        6,
+        31
+      ]
+    },
+    "C30": {
+      "claim": "Echocardiography was arranged to assess right-heart strain and pulmonary pressures.",
+      "label": "SUPPORTED",
+      "reason": "The plan explicitly states that an echocardiogram would assess right-heart strain and pulmonary pressures.",
+      "evidence_quote": "Perform echocardiogram today to assess right heart strain and pulmonary pressures.",
+      "retrieved_note_indices": [
+        11,
+        4,
+        5,
+        6,
+        18
+      ]
+    },
+    "C31": {
+      "claim": "Echocardiography confirmed severe pulmonary hypertension.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 16 explicitly states that echocardiography confirmed severe pulmonary hypertension.",
+      "evidence_quote": "Echo confirmed severe pulmonary HTN with right ventricular strain.",
+      "retrieved_note_indices": [
+        4,
+        5,
+        6,
+        20,
+        16
+      ]
+    },
+    "C32": {
+      "claim": "Echocardiography showed right ventricular strain.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that echocardiography confirmed right ventricular strain.",
+      "evidence_quote": "Echo confirmed severe pulmonary HTN with right ventricular strain.",
+      "retrieved_note_indices": [
+        11,
+        4,
+        5,
+        6,
+        16
+      ]
+    },
+    "C33": {
+      "claim": "She remained dependent on approximately 2 L/min of oxygen.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence supports continued oxygen therapy via nasal cannula/low-flow oxygen, but it does not specify an oxygen flow rate of approximately 2 L/min.",
+      "evidence_quote": "Oxygen saturations remained above 92% on low-flow oxygen throughout the session.",
+      "retrieved_note_indices": [
+        2,
+        1,
+        19,
+        28,
+        25
+      ]
+    },
+    "C34": {
+      "claim": "She had persistent exertional breathlessness.",
+      "label": "SUPPORTED",
+      "reason": "The notes repeatedly document breathlessness that is worse on exertion, including persistent exertional dyspnoea and ongoing exertional breathlessness.",
+      "evidence_quote": "SOB worse on exertion",
+      "retrieved_note_indices": [
+        4,
+        7,
+        5,
+        28,
+        1
+      ]
+    },
+    "C35": {
+      "claim": "She had intermittent mild oedema.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents no peripheral oedema, and does not establish intermittent mild oedema.",
+      "evidence_quote": "No peripheral oedema noted.",
+      "retrieved_note_indices": [
+        4,
+        28,
+        3,
+        19,
+        13
+      ]
+    },
+    "C36": {
+      "claim": "She had intermittent crackles.",
+      "label": "UNSUPPORTED",
+      "reason": "The source documents bilateral basal creps on auscultation, but does not describe them as intermittent.",
+      "evidence_quote": "Respiratory: Bilateral basal creps heard on auscultation.",
+      "retrieved_note_indices": [
+        4,
+        3,
+        28,
+        5,
+        2
+      ]
+    },
+    "C37": {
+      "claim": "Anticoagulation was documented as apixaban initially.",
+      "label": "SUPPORTED",
+      "reason": "The notes document that apixaban was started initially, with apixaban 10 mg BD already initiated earlier that day.",
+      "evidence_quote": "Start apixaban 10 mg BD x 7 days, then 5 mg BD.",
+      "retrieved_note_indices": [
+        14,
+        6,
+        34,
+        20,
+        10
+      ]
+    },
+    "C38": {
+      "claim": "Anticoagulation was later documented as rivaroxaban.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents rivaroxaban as the anticoagulant, including a later prescription for 20 mg once daily.",
+      "evidence_quote": "Rivaroxaban 20 mg OD prescribed.",
+      "retrieved_note_indices": [
+        14,
+        31,
+        34,
+        37,
+        6
+      ]
+    },
+    "C39": {
+      "claim": "Furosemide 40 mg daily was started for fluid retention and right-heart strain.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents starting oral furosemide 40 mg once daily to manage fluid retention and reduce right-heart strain.",
+      "evidence_quote": "Start oral furosemide 40 mg OD to manage fluid retention and reduce R heart strain.",
+      "retrieved_note_indices": [
+        11,
+        12,
+        16,
+        36,
+        17
+      ]
+    },
+    "C40": {
+      "claim": "Physiotherapy provided diaphragmatic breathing exercises.",
+      "label": "SUPPORTED",
+      "reason": "The physiotherapy notes explicitly state that diaphragmatic breathing exercises were introduced and practised.",
+      "evidence_quote": "Diaphragmatic breathing exercises introduced to improve oxygenation and reduce dyspnoea.",
+      "retrieved_note_indices": [
+        7,
+        44,
+        25,
+        13,
+        9
+      ]
+    },
+    "C41": {
+      "claim": "Physiotherapy provided energy-conservation and pacing advice.",
+      "label": "SUPPORTED",
+      "reason": "The physiotherapy notes explicitly document education on energy-conservation techniques and pacing strategies, including rest periods and breaking tasks into smaller steps.",
+      "evidence_quote": "Education provided on energy conaervation techniques to manage fatigue during daily activities. Discussed pacing strategies",
+      "retrieved_note_indices": [
+        15,
+        44,
+        33,
+        9,
+        38
+      ]
+    },
+    "C42": {
+      "claim": "A rollator frame was provided for short-distance mobilisation.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that a rollator frame was introduced and prescribed to assist with short-distance ambulation.",
+      "evidence_quote": "A rollator frame was introduced to assist with short-distance ambulation within the ward.",
+      "retrieved_note_indices": [
+        9,
+        15,
+        24,
+        33,
+        25
+      ]
+    },
+    "C43": {
+      "claim": "Her breathlessness gradually improved.",
+      "label": "UNSUPPORTED",
+      "reason": "The notes document persistent shortness of breath with moderate exertion and later tolerance of exercises without significant SOB, but do not explicitly establish that breathlessness gradually improved.",
+      "evidence_quote": "Persistent SOB noted with moderate exertion.",
+      "retrieved_note_indices": [
+        28,
+        1,
+        3,
+        19,
+        25
+      ]
+    },
+    "C44": {
+      "claim": "Her symptoms at rest decreased.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence describes reduced breathlessness during activity or exertion, but does not establish that symptoms at rest decreased.",
+      "evidence_quote": "The patient reported les SOB than in previous sessions.",
+      "retrieved_note_indices": [
+        9,
+        33,
+        1,
+        28,
+        3
+      ]
+    },
+    "C45": {
+      "claim": "Sildenafil 20 mg three times daily was commenced.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states a plan to initiate/start sildenafil 20 mg TDS, which means three times daily.",
+      "evidence_quote": "Initiate sildenafil 20 mg TDS",
+      "retrieved_note_indices": [
+        26,
+        27,
+        42,
+        21,
+        14
+      ]
+    },
+    "C46": {
+      "claim": "An inpatient V/Q scan demonstrated mismatched perfusion defects.",
+      "label": "SUPPORTED",
+      "reason": "The notes document that an inpatient V/Q scan was performed and demonstrated mismatched perfusion defects.",
+      "evidence_quote": "V/Q scan reviewed. Mismatched perfusion defects - CTEPH.",
+      "retrieved_note_indices": [
+        23,
+        4,
+        22,
+        5,
+        31
+      ]
+    },
+    "C47": {
+      "claim": "The V/Q findings were consistent with chronic thromboembolic pulmonary hypertension.",
+      "label": "SUPPORTED",
+      "reason": "The V/Q scan was documented as showing mismatched perfusion defects consistent with CTEPH.",
+      "evidence_quote": "V/Q scan reviewed. Mismatched perfusion defects - CTEPH.",
+      "retrieved_note_indices": [
+        23,
+        22,
+        6,
+        4,
+        5
+      ]
+    },
+    "C48": {
+      "claim": "The MDT was informed of the findings.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the MDT was informed.",
+      "evidence_quote": "MDT informed.",
+      "retrieved_note_indices": [
+        29,
+        23,
+        20,
+        43,
+        24
+      ]
+    },
+    "C49": {
+      "claim": "Referral to a tertiary pulmonary hypertension centre was planned.",
+      "label": "SUPPORTED",
+      "reason": "The notes explicitly document a planned referral to a tertiary pulmonary hypertension centre.",
+      "evidence_quote": "Referral to tertiary PH centre for PEA consideration.",
+      "retrieved_note_indices": [
+        29,
+        18,
+        23,
+        4,
+        17
+      ]
+    },
+    "C50": {
+      "claim": "The referral was for surgical assessment and possible pulmonary endarterectomy.",
+      "label": "SUPPORTED",
+      "reason": "The notes explicitly document referral to a tertiary pulmonary hypertension centre for surgical assessment and pulmonary endarterectomy (PEA) consideration.",
+      "evidence_quote": "Plan: tertiary PH ctr referral for surg assess + PEA.",
+      "retrieved_note_indices": [
+        23,
+        18,
+        4,
+        17,
+        22
+      ]
+    },
+    "C51": {
+      "claim": "Her oxygen requirement decreased to 1 L/min.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents oxygen therapy and low-flow oxygen but does not specify that the requirement decreased to 1 L/min.",
+      "evidence_quote": "Oxygen saturations remained above 92% on low-flow oxygen throughout the session.",
+      "retrieved_note_indices": [
+        1,
+        2,
+        28,
+        19,
+        25
+      ]
+    },
+    "C52": {
+      "claim": "Her oxygen saturations were around 94\u201395%.",
+      "label": "UNSUPPORTED",
+      "reason": "The source documents saturations of 89%, 90%, 92%, and above 92%, but does not establish values around 94\u201395%.",
+      "evidence_quote": "improvement in SpO2 to 92%",
+      "retrieved_note_indices": [
+        2,
+        1,
+        25,
+        28,
+        19
+      ]
+    },
+    "C53": {
+      "claim": "Her exertional tolerance improved.",
+      "label": "SUPPORTED",
+      "reason": "The notes document improved walking distance, less shortness of breath than in previous sessions, and improved mobility with minimal oxygen desaturation, supporting improved exertional tolerance.",
+      "evidence_quote": "The patient demonstrated improved walking distance compared to prior physio sessions.",
+      "retrieved_note_indices": [
+        33,
+        9,
+        19,
+        28,
+        35
+      ]
+    },
+    "C54": {
+      "claim": "She was later documented to have no oedema.",
+      "label": "SUPPORTED",
+      "reason": "Later ward-round examinations explicitly documented no peripheral oedema.",
+      "evidence_quote": "No perkpheral oedema.",
+      "retrieved_note_indices": [
+        4,
+        28,
+        37,
+        17,
+        3
+      ]
+    },
+    "C55": {
+      "claim": "She maintained an oxygen saturation of 95% on room air.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents SpO2 of 89% on room air and improvement to 92% with oxygen; later saturations were above 92% while on low-flow oxygen, not 95% on room air.",
+      "evidence_quote": "SpO2 at 89% on room air",
+      "retrieved_note_indices": [
+        1,
+        2,
+        25,
+        3,
+        28
+      ]
+    },
+    "C56": {
+      "claim": "Long-term rivaroxaban 20 mg daily was initiated or documented.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents initiation of long-term rivaroxaban 20 mg once daily and later records it as prescribed.",
+      "evidence_quote": "Initiated long-term anticoagulation therapy with Rivaroxaban 20 mg OD",
+      "retrieved_note_indices": [
+        14,
+        31,
+        34,
+        37,
+        6
+      ]
+    },
+    "C57": {
+      "claim": "Sildenafil was continued.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents continuation of sildenafil.",
+      "evidence_quote": "Continue sildenafil 20 mg TDS.",
+      "retrieved_note_indices": [
+        27,
+        26,
+        42,
+        22,
+        36
+      ]
+    },
+    "C58": {
+      "claim": "Assessment of her home oxygen requirements was arranged.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents inpatient oxygen therapy and monitoring of oxygen saturation, but does not state that assessment of home oxygen requirements was arranged.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        9,
+        2,
+        1,
+        7,
+        25
+      ]
+    },
+    "C59": {
+      "claim": "Mild anaemia was noted.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly documents mild anemia and provides a low hemoglobin value.",
+      "evidence_quote": "Mild Anemia - Hb 110 g/L",
+      "retrieved_note_indices": [
+        32,
+        3,
+        2,
+        19,
+        4
+      ]
+    },
+    "C60": {
+      "claim": "Her haemoglobin was 110 g/L.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly records haemoglobin (Hb) as 110 g/L.",
+      "evidence_quote": "Hb 110 g/L",
+      "retrieved_note_indices": [
+        32,
+        2,
+        1,
+        28,
+        4
+      ]
+    },
+    "C61": {
+      "claim": "Ferrous sulfate 200 mg twice daily was prescribed.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that ferrous sulfate 200 mg twice daily (BD) was to be started/prescribed for anemia.",
+      "evidence_quote": "Start ferrous sulfate 200 mg BD for anemia.",
+      "retrieved_note_indices": [
+        14,
+        32,
+        34,
+        9,
+        36
+      ]
+    },
+    "C62": {
+      "claim": "Outpatient haemoglobin monitoring was planned.",
+      "label": "SUPPORTED",
+      "reason": "The plan explicitly states that a repeat haemoglobin check would be arranged in the outpatient department.",
+      "evidence_quote": "Arrange repeat Hb check in OPD.",
+      "retrieved_note_indices": [
+        32,
+        28,
+        29,
+        40,
+        42
+      ]
+    },
+    "C63": {
+      "claim": "Furosemide was documented at 20 mg daily for mild oedema.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 36 explicitly documents furosemide 20 mg once daily for mild peripheral oedema.",
+      "evidence_quote": "Start furosemide 20 mg OD PO for mild peripheral oedema",
+      "retrieved_note_indices": [
+        36,
+        12,
+        14,
+        16,
+        17
+      ]
+    },
+    "C64": {
+      "claim": "Her activity tolerance continued to improve.",
+      "label": "SUPPORTED",
+      "reason": "Serial physiotherapy notes document improved endurance and walking distance compared with prior sessions, supporting continued improvement in activity tolerance.",
+      "evidence_quote": "Improved endurance noted compared to prior sessions.",
+      "retrieved_note_indices": [
+        33,
+        19,
+        25,
+        30,
+        35
+      ]
+    },
+    "C65": {
+      "claim": "She had minimal symptoms during mobilisation.",
+      "label": "SUPPORTED",
+      "reason": "The notes describe mobilisation as well tolerated, with no significant SOB, minimal desaturation, and less SOB than in prior sessions.",
+      "evidence_quote": "the patient tolerated the exercises well without significant SOB",
+      "retrieved_note_indices": [
+        28,
+        13,
+        33,
+        25,
+        9
+      ]
+    },
+    "C66": {
+      "claim": "She was clinically stable on room air.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents mild hypoxia on room air with SpO2 89% and need for low-flow oxygen; it does not establish clinical stability on room air.",
+      "evidence_quote": "SpO2 noted to remain low at 89% on room air. O2 therapy administered via nasal cannula",
+      "retrieved_note_indices": [
+        1,
+        2,
+        28,
+        25,
+        3
+      ]
+    },
+    "C67": {
+      "claim": "Her oxygen saturation was 94%.",
+      "label": "UNSUPPORTED",
+      "reason": "The source documents oxygen saturation of 89% on room air, improvement to 92%, and remaining above 92%, but does not establish a value of 94%.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        2,
+        1,
+        3,
+        25,
+        28
+      ]
+    },
+    "C68": {
+      "claim": "She had no raised JVP.",
+      "label": "UNSUPPORTED",
+      "reason": "The source evidence documents a raised JVP, not an absent elevation.",
+      "evidence_quote": "JVP raised to angle of jaw at 45\u00b0.",
+      "retrieved_note_indices": [
+        11,
+        5,
+        4,
+        6,
+        12
+      ]
+    },
+    "C69": {
+      "claim": "She had no peripheral oedema.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents no peripheral oedema.",
+      "evidence_quote": "No peripheral oedema noted.",
+      "retrieved_note_indices": [
+        4,
+        20,
+        5,
+        12,
+        6
+      ]
+    },
+    "C70": {
+      "claim": "Her mobility improved.",
+      "label": "SUPPORTED",
+      "reason": "The patient demonstrated improved walking distance compared with prior physiotherapy sessions, and improved endurance was also noted.",
+      "evidence_quote": "The patient demonstrated improved walking distance compared to prior physio sessions.",
+      "retrieved_note_indices": [
+        9,
+        24,
+        33,
+        28,
+        30
+      ]
+    },
+    "C71": {
+      "claim": "Rivaroxaban was considered effective and well tolerated.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 37 explicitly states that rivaroxaban was assessed as effective and well tolerated, with no side effects.",
+      "evidence_quote": "Rivaroxaban assessed as effective and well-tolerated with no side effects",
+      "retrieved_note_indices": [
+        14,
+        37,
+        31,
+        42,
+        17
+      ]
+    },
+    "C72": {
+      "claim": "A personalised home exercise programme was provided.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that a personalised home exercise programme was finalised and that the patient was discharged with it.",
+      "evidence_quote": "A personalised home exercise plan was finalised for Ms. Abena Bonsu.",
+      "retrieved_note_indices": [
+        40,
+        44,
+        38,
+        33,
+        24
+      ]
+    },
+    "C73": {
+      "claim": "Safety-net advice was provided.",
+      "label": "SUPPORTED",
+      "reason": "The evidence documents advice to recognize worsening symptoms and seek medical help, as well as contacting support services if concerns arise.",
+      "evidence_quote": "Patient was taught to recognize warning signs of worsening symptoms, including severe breathlessness and chest pain, and instructed to seek medical help if these occur.",
+      "retrieved_note_indices": [
+        43,
+        20,
+        40,
+        24,
+        34
+      ]
+    },
+    "C74": {
+      "claim": "Discharge anticoagulation was finalised as rivaroxaban 15 mg twice daily for 21 days followed by 20 mg once daily.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly specifies rivaroxaban 15 mg twice daily for 3 weeks followed by 20 mg once daily.",
+      "evidence_quote": "Discharge today with rivaroxaban 15 mg BD x 3 weeks, then 20 mg OD.",
+      "retrieved_note_indices": [
+        14,
+        34,
+        31,
+        37,
+        42
+      ]
+    },
+    "C75": {
+      "claim": "Follow-up at the tertiary pulmonary hypertension centre was planned in four weeks.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents referral to a tertiary pulmonary hypertension centre but does not specify that follow-up was planned in four weeks.",
+      "evidence_quote": "Referral sent to tertiary PH ctr for mgmt & consideration of PEA/adv tx. Await feedback from ctr.",
+      "retrieved_note_indices": [
+        18,
+        22,
+        29,
+        23,
+        17
+      ]
+    },
+    "C76": {
+      "claim": "She was discharged feeling well.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents discharge instructions and that she tolerated physiotherapy well with less shortness of breath, but it does not state that she was discharged feeling well.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        43,
+        25,
+        33,
+        24,
+        44
+      ]
+    },
+    "C77": {
+      "claim": "She had reduced breathlessness at discharge.",
+      "label": "SUPPORTED",
+      "reason": "The patient reported less shortness of breath than in previous sessions, supporting reduced breathlessness.",
+      "evidence_quote": "The patient reported les SOB than in previous sessions.",
+      "retrieved_note_indices": [
+        28,
+        9,
+        25,
+        4,
+        33
+      ]
+    },
+    "C78": {
+      "claim": "She had good mobilisation at discharge.",
+      "label": "SUPPORTED",
+      "reason": "The evidence describes improving mobility, including increased walking distance and progress in light mobilisation before discharge.",
+      "evidence_quote": "The patient demonstrated improved walking distance compared to prior physio sessions.",
+      "retrieved_note_indices": [
+        25,
+        33,
+        24,
+        44,
+        9
+      ]
+    },
+    "C79": {
+      "claim": "Discharge medications included rivaroxaban 15 mg twice daily for three weeks followed by 20 mg once daily.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly specifies rivaroxaban 15 mg twice daily for 3 weeks, followed by 20 mg once daily.",
+      "evidence_quote": "Discharge today with rivaroxaban 15 mg BD x 3 weeks, then 20 mg OD.",
+      "retrieved_note_indices": [
+        14,
+        34,
+        37,
+        31,
+        42
+      ]
+    },
+    "C80": {
+      "claim": "Discharge medications included sildenafil 20 mg three times daily.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly states that sildenafil 20 mg three times daily was prescribed.",
+      "evidence_quote": "Discharge today... Prescribed sildenafil 20 mg TID for PH.",
+      "retrieved_note_indices": [
+        43,
+        42,
+        26,
+        31,
+        27
+      ]
+    },
+    "C81": {
+      "claim": "Discharge medications included ferrous sulfate 200 mg twice daily.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly states that ferrous sulfate 200 mg twice daily was prescribed.",
+      "evidence_quote": "Discharge today ... Prescrbed ferrous sulfate 200 mg BD for anemia.",
+      "retrieved_note_indices": [
+        43,
+        34,
+        32,
+        14,
+        42
+      ]
+    },
+    "C82": {
+      "claim": "A home exercise plan was provided.",
+      "label": "SUPPORTED",
+      "reason": "The sources explicitly state that a personalised home exercise plan/programme was finalised and that the patient was discharged with it.",
+      "evidence_quote": "A personalised home exercise plan was finalised for Ms. Abena Bonsu.",
+      "retrieved_note_indices": [
+        40,
+        38,
+        44,
+        24,
+        33
+      ]
+    },
+    "C83": {
+      "claim": "Outpatient review of haemoglobin was planned.",
+      "label": "SUPPORTED",
+      "reason": "The plan explicitly states that a repeat haemoglobin check would be arranged in the outpatient department.",
+      "evidence_quote": "Arrange repeat Hb check in OPD.",
+      "retrieved_note_indices": [
+        32,
+        33,
+        25,
+        11,
+        14
+      ]
+    },
+    "C84": {
+      "claim": "Outpatient review of NT-proBNP was planned.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents elevated NT-proBNP and inpatient monitoring, but does not state that an outpatient review of NT-proBNP was planned.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        11,
+        4,
+        6,
+        5,
+        17
+      ]
+    },
+    "C85": {
+      "claim": "Tertiary-centre assessment for pulmonary endarterectomy was planned.",
+      "label": "SUPPORTED",
+      "reason": "The notes explicitly document a plan for referral to a tertiary pulmonary hypertension centre for pulmonary endarterectomy assessment.",
+      "evidence_quote": "Plan: tertiary PH ctr referral for surg assess + PEA.",
+      "retrieved_note_indices": [
+        23,
+        18,
+        29,
+        17,
+        22
+      ]
+    },
+    "C86": {
+      "claim": "She was advised to seek urgent care for worsening breathlessness.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents urgent assessment and hospital admission for progressive breathlessness, but does not state that she was advised to seek urgent care.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        4,
+        3,
+        0,
+        7,
+        1
+      ]
+    },
+    "C87": {
+      "claim": "She was advised to seek urgent care for chest pain.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents progressive breathlessness and urgent high-risk assessment, but specifically states she denied chest pain and does not document advice to seek urgent care for chest pain.",
+      "evidence_quote": "No associated CP",
+      "retrieved_note_indices": [
+        4,
+        3,
+        0,
+        7,
+        11
+      ]
+    }
+  },
+  "Whole + MedCPT": {
+    "C01": {
+      "claim": "The patient is a 43-year-old woman.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly identifies the patient as age 43 and female.",
+      "evidence_quote": "Age 43\n\nSex\nFemale",
+      "retrieved_note_indices": [
+        4,
+        0,
+        20,
+        28,
+        13
+      ]
+    },
+    "C02": {
+      "claim": "She has hypertension.",
+      "label": "SUPPORTED",
+      "reason": "The past medical history explicitly lists HTN.",
+      "evidence_quote": "Past Medical History - HTN",
+      "retrieved_note_indices": [
+        4,
+        28,
+        6,
+        20,
+        21
+      ]
+    },
+    "C03": {
+      "claim": "She has asthma.",
+      "label": "SUPPORTED",
+      "reason": "The patient's past medical history explicitly includes asthma.",
+      "evidence_quote": "Past Medical History - HTN - Asthma",
+      "retrieved_note_indices": [
+        28,
+        4,
+        3,
+        9,
+        7
+      ]
+    },
+    "C04": {
+      "claim": "She has a nut allergy.",
+      "label": "SUPPORTED",
+      "reason": "The source notes explicitly document that she is allergic to nuts.",
+      "evidence_quote": "Allergies - Nuts",
+      "retrieved_note_indices": [
+        28,
+        0,
+        4,
+        3,
+        11
+      ]
+    },
+    "C05": {
+      "claim": "She reported no regular medications.",
+      "label": "UNSUPPORTED",
+      "reason": "The notes state that no medication changes or new medications occurred, but they do not establish that she had no regular medications.",
+      "evidence_quote": "No medication changes made.",
+      "retrieved_note_indices": [
+        20,
+        38,
+        40,
+        13,
+        11
+      ]
+    },
+    "C06": {
+      "claim": "She presented with a 2-week history of progressive exertional breathlessness limiting daily activities.",
+      "label": "SUPPORTED",
+      "reason": "The evidence documents progressive breathlessness over two weeks, worse on exertion, and limiting daily activity.",
+      "evidence_quote": "Progressive worsening of SOB over the last 2 weks; SOB worse on exertion; Now limits daily acti vity.",
+      "retrieved_note_indices": [
+        4,
+        5,
+        6,
+        3,
+        21
+      ]
+    },
+    "C07": {
+      "claim": "She denied chest pain.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents that she reported no chest pain.",
+      "evidence_quote": "No associated CP",
+      "retrieved_note_indices": [
+        4,
+        3,
+        28,
+        9,
+        11
+      ]
+    },
+    "C08": {
+      "claim": "She denied haemoptysis.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents that she had no haemoptysis.",
+      "evidence_quote": "No associated CP, haemoptysis, fever, or syncope reported",
+      "retrieved_note_indices": [
+        4,
+        28,
+        20,
+        5,
+        0
+      ]
+    },
+    "C09": {
+      "claim": "She denied fever.",
+      "label": "SUPPORTED",
+      "reason": "The history and systems review explicitly document that she had no fever.",
+      "evidence_quote": "No associated CP, haemoptysis, fever, or syncope reported",
+      "retrieved_note_indices": [
+        4,
+        11,
+        9,
+        3,
+        0
+      ]
+    },
+    "C10": {
+      "claim": "She denied syncope.",
+      "label": "SUPPORTED",
+      "reason": "The history explicitly states that the patient reported no syncope.",
+      "evidence_quote": "No associated CP, haemoptysis, fever, or syncope reported",
+      "retrieved_note_indices": [
+        4,
+        20,
+        11,
+        3,
+        5
+      ]
+    },
+    "C11": {
+      "claim": "She denied palpitations.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that she denied palpitations in the history and cardiovascular systems review.",
+      "evidence_quote": "denies palpitations",
+      "retrieved_note_indices": [
+        4,
+        20,
+        3,
+        11,
+        6
+      ]
+    },
+    "C12": {
+      "claim": "She denied wheeze.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that she denied wheezing.",
+      "evidence_quote": "denies palpitations or wheezing",
+      "retrieved_note_indices": [
+        4,
+        28,
+        3,
+        9,
+        13
+      ]
+    },
+    "C13": {
+      "claim": "Initial examination showed respiratory distress.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documented mild distress with laboured breathing, consistent with respiratory distress.",
+      "evidence_quote": "Appears mildly distressed with laboured breathing",
+      "retrieved_note_indices": [
+        4,
+        3,
+        7,
+        25,
+        5
+      ]
+    },
+    "C14": {
+      "claim": "Initial examination showed tachycardia.",
+      "label": "SUPPORTED",
+      "reason": "The initial observations documented a heart rate of 112 bpm, indicating tachycardia.",
+      "evidence_quote": "HR 112 bpm",
+      "retrieved_note_indices": [
+        4,
+        3,
+        6,
+        11,
+        5
+      ]
+    },
+    "C15": {
+      "claim": "Initial examination showed tachypnoea.",
+      "label": "SUPPORTED",
+      "reason": "The recorded respiratory rate was 28 breaths per minute, supporting tachypnoea, with laboured breathing noted on examination.",
+      "evidence_quote": "RR 28 breaths/min",
+      "retrieved_note_indices": [
+        4,
+        3,
+        5,
+        0,
+        7
+      ]
+    },
+    "C16": {
+      "claim": "Initial examination showed hypotension.",
+      "label": "SUPPORTED",
+      "reason": "Initial observations documented a blood pressure of 92/64 mmHg, and the ward-round note described this as borderline hypotension.",
+      "evidence_quote": "BP 92/64 mmHg",
+      "retrieved_note_indices": [
+        4,
+        3,
+        6,
+        11,
+        5
+      ]
+    },
+    "C17": {
+      "claim": "Initial examination showed raised jugular venous pressure.",
+      "label": "SUPPORTED",
+      "reason": "The initial examination explicitly documented an elevated jugular venous pressure.",
+      "evidence_quote": "Cardiovascular: Elevated JVP.",
+      "retrieved_note_indices": [
+        5,
+        4,
+        11,
+        6,
+        12
+      ]
+    },
+    "C18": {
+      "claim": "Initial examination showed basal crepitations.",
+      "label": "SUPPORTED",
+      "reason": "The initial examination explicitly documented bilateral basal crepitations on auscultation.",
+      "evidence_quote": "Respiratory: Bilateral basal creps heard on auscultation.",
+      "retrieved_note_indices": [
+        4,
+        5,
+        6,
+        22,
+        16
+      ]
+    },
+    "C19": {
+      "claim": "Initial examination showed a loud P2.",
+      "label": "SUPPORTED",
+      "reason": "The initial examination explicitly documented a loud P2.",
+      "evidence_quote": "HS: normal S1/S2, no murmurs, loud P2.",
+      "retrieved_note_indices": [
+        5,
+        4,
+        21,
+        12,
+        22
+      ]
+    },
+    "C20": {
+      "claim": "Initial examination showed mild tender hepatomegaly.",
+      "label": "SUPPORTED",
+      "reason": "The initial examination explicitly documented mildly tender hepatomegaly.",
+      "evidence_quote": "Abdomen: Mildly tenddr hepatomegaly.",
+      "retrieved_note_indices": [
+        4,
+        6,
+        11,
+        3,
+        5
+      ]
+    },
+    "C21": {
+      "claim": "There was no peripheral oedema initially.",
+      "label": "SUPPORTED",
+      "reason": "Initial examinations explicitly document that there was no peripheral oedema.",
+      "evidence_quote": "No peripheral oedema noted.",
+      "retrieved_note_indices": [
+        4,
+        12,
+        5,
+        17,
+        6
+      ]
+    },
+    "C22": {
+      "claim": "Initial oxygen saturation was 89\u201390%.",
+      "label": "UNSUPPORTED",
+      "reason": "The initial oxygen saturation is documented as 89% on room air, but 90% is only documented during a later physiotherapy session, not initially.",
+      "evidence_quote": "mild hypoxia was noted with SpO2 at 89% on room air",
+      "retrieved_note_indices": [
+        2,
+        1,
+        19,
+        3,
+        25
+      ]
+    },
+    "C23": {
+      "claim": "Oxygen saturation improved to 92% with low-flow oxygen.",
+      "label": "SUPPORTED",
+      "reason": "The evidence states that low-flow oxygen via nasal cannula was administered and oxygen saturation improved from 89% on room air to 92%.",
+      "evidence_quote": "Patient placed on low-flow oxygen therapy to improve oxygenation, with SpO2 improving from 89%to 92%.",
+      "retrieved_note_indices": [
+        1,
+        19,
+        2,
+        3,
+        33
+      ]
+    },
+    "C24": {
+      "claim": "Arterial blood gas analysis showed mild hypoxia.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly reports ABG results with PaO2 8.5 kPa, indicating mild hypoxia.",
+      "evidence_quote": "ABG results reviewed: PaO2 8.5 kPa, indicating mild hypoxia",
+      "retrieved_note_indices": [
+        2,
+        1,
+        3,
+        4,
+        19
+      ]
+    },
+    "C25": {
+      "claim": "Arterial blood gas analysis showed respiratory alkalosis.",
+      "label": "SUPPORTED",
+      "reason": "The ABG results explicitly document compensated respiratory alkalosis, with pH 7.46, low PaCO2, and PaO2 8.5 kPa.",
+      "evidence_quote": "ABG: PaO2 8.5 kPa, PaCO2 3.8 kPa, pH 7.46, HCO3- 24 mmol/L (compensated respiratory alkalosis, mild hypoxia)",
+      "retrieved_note_indices": [
+        3,
+        4,
+        6,
+        5,
+        7
+      ]
+    },
+    "C26": {
+      "claim": "PaO2 was 8.5 kPa.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly reports an arterial blood gas PaO2 of 8.5 kPa.",
+      "evidence_quote": "ABG results reviewed: PaO2 8.5 kPa",
+      "retrieved_note_indices": [
+        3,
+        2,
+        1,
+        4,
+        5
+      ]
+    },
+    "C27": {
+      "claim": "Arterial pH was 7.46\u20137.47.",
+      "label": "SUPPORTED",
+      "reason": "The ABG results explicitly report an arterial pH of 7.46, which falls within the claimed range of 7.46\u20137.47.",
+      "evidence_quote": "ABG: PaO2 8.5 kPa, PaCO2 3.8 kPa, pH 7.46",
+      "retrieved_note_indices": [
+        3,
+        4,
+        25,
+        2,
+        1
+      ]
+    },
+    "C28": {
+      "claim": "PaCO2 was low.",
+      "label": "SUPPORTED",
+      "reason": "ABG results documented PaCO2 values of 3.8 kPa and 3.5 kPa, with respiratory alkalosis.",
+      "evidence_quote": "PaCO2 3.8 kPa",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        6,
+        2
+      ]
+    },
+    "C29": {
+      "claim": "NT-proBNP was markedly elevated at 3,200\u20134,500 pg/mL.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly reports NT-proBNP values of 3,200 pg/mL and 4,500 pg/mL.",
+      "evidence_quote": "NT-proBNP: 4,500 pg/mL (elevated, subsequent result after earlier 3,200 pg/mL reading)",
+      "retrieved_note_indices": [
+        11,
+        4,
+        3,
+        5,
+        6
+      ]
+    },
+    "C30": {
+      "claim": "D-dimer was elevated.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the D-dimer was elevated.",
+      "evidence_quote": "Blood tests: D-dimer elevated",
+      "retrieved_note_indices": [
+        4,
+        6,
+        5,
+        11,
+        21
+      ]
+    },
+    "C31": {
+      "claim": "Chest radiography showed pulmonary congestion.",
+      "label": "SUPPORTED",
+      "reason": "The chest X-ray explicitly showed bilateral pulmonary congestion.",
+      "evidence_quote": "Chest X-ray: Bilateral pulmonary congestion",
+      "retrieved_note_indices": [
+        4,
+        5,
+        16,
+        12,
+        11
+      ]
+    },
+    "C32": {
+      "claim": "Chest radiography showed cardiomegaly.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the chest X-ray showed cardiomegaly.",
+      "evidence_quote": "CXR: Cardiomegaly.",
+      "retrieved_note_indices": [
+        5,
+        4,
+        11,
+        6,
+        12
+      ]
+    },
+    "C33": {
+      "claim": "Chest radiography showed no focal consolidation.",
+      "label": "SUPPORTED",
+      "reason": "The chest X-ray result explicitly states there was no focal consolidation.",
+      "evidence_quote": "Chest X-ray: Bilateral pulmonary congestion, no focal consolidation or pneumothorax.",
+      "retrieved_note_indices": [
+        4,
+        5,
+        11,
+        3,
+        13
+      ]
+    },
+    "C34": {
+      "claim": "Chest radiography showed no pneumothorax.",
+      "label": "SUPPORTED",
+      "reason": "The chest X-ray is explicitly documented as showing no pneumothorax.",
+      "evidence_quote": "Chest X-ray: Bilateral pulmonary congestion, no focal consolidation or pneumothorax.",
+      "retrieved_note_indices": [
+        4,
+        5,
+        28,
+        25,
+        1
+      ]
+    },
+    "C35": {
+      "claim": "She was admitted to the Respiratory HDU.",
+      "label": "SUPPORTED",
+      "reason": "The evidence explicitly states that admission to the Respiratory HDU was planned and that the patient was accepted by the Respiratory HDU, with the plan to admit there.",
+      "evidence_quote": "Admit to Respiratory HDU for close monitoring and specialist input.",
+      "retrieved_note_indices": [
+        0,
+        4,
+        1,
+        3,
+        2
+      ]
+    },
+    "C36": {
+      "claim": "She was initially suspected to have chronic thromboembolic pulmonary hypertension.",
+      "label": "SUPPORTED",
+      "reason": "The initial ED note explicitly states that chronic thromboembolic pulmonary hypertension was suspected and that CTPA and echocardiography were planned to confirm it.",
+      "evidence_quote": "CT pulmonary angiogram and echocardiogram planned to confirm suspected chronic thromboembolic pulmonary HTN",
+      "retrieved_note_indices": [
+        4,
+        6,
+        22,
+        5,
+        17
+      ]
+    },
+    "C37": {
+      "claim": "She was initially treated with therapeutic enoxaparin.",
+      "label": "SUPPORTED",
+      "reason": "The records specify therapeutic-dose enoxaparin and state that the initial dose was already given in the ED.",
+      "evidence_quote": "Start enoxaparin 1.5 mg/kg daily (initial dose already given in ED).",
+      "retrieved_note_indices": [
+        34,
+        4,
+        6,
+        14,
+        5
+      ]
+    },
+    "C38": {
+      "claim": "She was initially treated with supplemental oxygen.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that oxygen therapy was initiated to address mild hypoxia, with oxygen given via nasal cannula.",
+      "evidence_quote": "To address this, the patient was placed on oxygen therapy via nasal cannula.",
+      "retrieved_note_indices": [
+        2,
+        1,
+        19,
+        3,
+        28
+      ]
+    },
+    "C39": {
+      "claim": "CT pulmonary angiography confirmed chronic thromboembolic disease.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 10 explicitly states that CTPA confirmed chronic thromboembolic disease.",
+      "evidence_quote": "CTPA confirmed chronic thromboembolic disease",
+      "retrieved_note_indices": [
+        6,
+        22,
+        4,
+        10,
+        5
+      ]
+    },
+    "C40": {
+      "claim": "Echocardiography demonstrated severe pulmonary hypertension.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 16 explicitly states that severe pulmonary hypertension was confirmed on echocardiogram.",
+      "evidence_quote": "Severe pulmonary hypertension confirmed on echocardiogram",
+      "retrieved_note_indices": [
+        4,
+        5,
+        6,
+        16,
+        21
+      ]
+    },
+    "C41": {
+      "claim": "Echocardiography demonstrated right ventricular strain.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that echocardiography confirmed right ventricular strain.",
+      "evidence_quote": "Echo confirmed severe pulmonary HTN with right ventricular strain.",
+      "retrieved_note_indices": [
+        11,
+        4,
+        5,
+        6,
+        16
+      ]
+    },
+    "C42": {
+      "claim": "Ventilation/perfusion scanning showed mismatched perfusion defects.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the V/Q scan showed mismatched perfusion defects.",
+      "evidence_quote": "V/Q scan reviewed. Mismatched perfusion defects",
+      "retrieved_note_indices": [
+        23,
+        4,
+        22,
+        6,
+        5
+      ]
+    },
+    "C43": {
+      "claim": "The ventilation/perfusion scan confirmed the extent of chronic thromboembolic pulmonary hypertension.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence reports mismatched perfusion defects consistent with CTEPH, but does not state that the scan confirmed the extent of the disease.",
+      "evidence_quote": "V/Q scan reviewed. Mismatched perfusion defects - CTEPH.",
+      "retrieved_note_indices": [
+        22,
+        23,
+        6,
+        21,
+        17
+      ]
+    },
+    "C44": {
+      "claim": "There was no evidence of acute infection.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents no acute infection, with no fever or focal consolidation reported.",
+      "evidence_quote": "No acute infxn.",
+      "retrieved_note_indices": [
+        11,
+        4,
+        25,
+        3,
+        5
+      ]
+    },
+    "C45": {
+      "claim": "Renal function remained stable.",
+      "label": "UNSUPPORTED",
+      "reason": "The provided notes do not mention renal function or any renal laboratory values to establish stability.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        28,
+        25,
+        11,
+        13,
+        35
+      ]
+    },
+    "C46": {
+      "claim": "She was referred to a tertiary pulmonary hypertension centre for pulmonary endarterectomy assessment.",
+      "label": "SUPPORTED",
+      "reason": "The notes explicitly document referral to a tertiary pulmonary hypertension centre for pulmonary endarterectomy assessment.",
+      "evidence_quote": "Refer to tertiary PH centre for pulmonary ednarterectomy assessment",
+      "retrieved_note_indices": [
+        23,
+        18,
+        29,
+        4,
+        17
+      ]
+    },
+    "C47": {
+      "claim": "Anticoagulation was transitioned to apixaban during admission.",
+      "label": "SUPPORTED",
+      "reason": "The notes document initial LMWH/enoxaparin therapy followed by initiation of apixaban, with LMWH to continue only until apixaban was fully initiated.",
+      "evidence_quote": "Continue LMWH until apixaban therapy is fully initiated.",
+      "retrieved_note_indices": [
+        14,
+        6,
+        34,
+        4,
+        10
+      ]
+    },
+    "C48": {
+      "claim": "Anticoagulation was subsequently transitioned to rivaroxaban.",
+      "label": "SUPPORTED",
+      "reason": "Earlier anticoagulation was planned with apixaban, while later documentation states that long-term anticoagulation was initiated and continued with rivaroxaban.",
+      "evidence_quote": "Plan: Start apixaban 10 mg BD x 7 days, then 5 mg BD... Initiated long-term anticoagulation therapy with Rivaroxaban 20 mg OD",
+      "retrieved_note_indices": [
+        14,
+        31,
+        34,
+        37,
+        6
+      ]
+    },
+    "C49": {
+      "claim": "The discharge rivaroxaban regimen was 15 mg twice daily for 21 days.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly states rivaroxaban 15 mg twice daily for 3 weeks, equivalent to 21 days.",
+      "evidence_quote": "Discharge today with rivaroxaban 15 mg BD x 3 weeks, then 20 mg OD.",
+      "retrieved_note_indices": [
+        14,
+        34,
+        37,
+        31,
+        42
+      ]
+    },
+    "C50": {
+      "claim": "The discharge rivaroxaban regimen was scheduled to continue at 20 mg once daily thereafter.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly states rivaroxaban 15 mg twice daily for 3 weeks, then 20 mg once daily, establishing the subsequent 20 mg once-daily regimen.",
+      "evidence_quote": "Discharge today with rivaroxaban 15 mg BD x 3 weeks, then 20 mg OD.",
+      "retrieved_note_indices": [
+        14,
+        34,
+        31,
+        37,
+        42
+      ]
+    },
+    "C51": {
+      "claim": "Sildenafil 20 mg three times daily was started for pulmonary hypertension.",
+      "label": "SUPPORTED",
+      "reason": "The notes explicitly document initiation of sildenafil 20 mg three times daily for pulmonary hypertension.",
+      "evidence_quote": "Initiate sildenafil 20 mg TDS to improve pulmonary arterial pressure.",
+      "retrieved_note_indices": [
+        26,
+        27,
+        42,
+        21,
+        36
+      ]
+    },
+    "C52": {
+      "claim": "Furosemide 40 mg once daily was used during admission.",
+      "label": "SUPPORTED",
+      "reason": "Source notes explicitly document furosemide 40 mg once daily (OD) as started and continued during the admission.",
+      "evidence_quote": "Start oral furosemide 40 mg OD to manage fluid retention",
+      "retrieved_note_indices": [
+        36,
+        12,
+        16,
+        17,
+        4
+      ]
+    },
+    "C53": {
+      "claim": "Furosemide was later given at 20 mg once daily for mild oedema.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly orders furosemide 20 mg once daily for mild peripheral oedema.",
+      "evidence_quote": "Start furosemide 20 mg OD PO for mild peripheral oedema",
+      "retrieved_note_indices": [
+        36,
+        12,
+        16,
+        14,
+        17
+      ]
+    },
+    "C54": {
+      "claim": "Ferrous sulfate 200 mg twice daily was prescribed for mild anaemia.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that ferrous sulfate 200 mg BD (twice daily) was prescribed/started for mild anaemia.",
+      "evidence_quote": "Prescrbed ferrous sulfate 200 mg BD for anemia.",
+      "retrieved_note_indices": [
+        32,
+        14,
+        36,
+        42,
+        19
+      ]
+    },
+    "C55": {
+      "claim": "Her haemoglobin was 110 g/L.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly records haemoglobin (Hb) as 110 g/L.",
+      "evidence_quote": "Hb 110 g/L, previously 120 g/L",
+      "retrieved_note_indices": [
+        32,
+        2,
+        1,
+        28,
+        4
+      ]
+    },
+    "C56": {
+      "claim": "Physiotherapy provided breathing exercises.",
+      "label": "SUPPORTED",
+      "reason": "The physiotherapy notes explicitly document diaphragmatic, guided, and other breathing exercises provided during sessions.",
+      "evidence_quote": "Physio session focused on breathing exercises and light mobility. Diaphragmatic breathing techniques were practised",
+      "retrieved_note_indices": [
+        7,
+        44,
+        25,
+        19,
+        38
+      ]
+    },
+    "C57": {
+      "claim": "Physiotherapy provided mobilisation support.",
+      "label": "SUPPORTED",
+      "reason": "The physiotherapy notes explicitly document supervised light walking and mobility exercises.",
+      "evidence_quote": "Interventions included guided breathing exercises and supervised light walking exercises.",
+      "retrieved_note_indices": [
+        44,
+        25,
+        33,
+        19,
+        38
+      ]
+    },
+    "C58": {
+      "claim": "Physiotherapy provided a home exercise plan.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that physiotherapy finalised and discharged the patient with a personalised home exercise plan/programme.",
+      "evidence_quote": "A personalised home exercise plan was finalised for Ms. Abena Bonsu.",
+      "retrieved_note_indices": [
+        38,
+        44,
+        40,
+        33,
+        19
+      ]
+    },
+    "C59": {
+      "claim": "Her breathlessness progressively improved.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents tolerance of exercises, no significant shortness of breath, and improved endurance, but does not explicitly establish that breathlessness progressively improved.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        28,
+        1,
+        3,
+        30,
+        25
+      ]
+    },
+    "C60": {
+      "claim": "Her exercise tolerance progressively improved.",
+      "label": "SUPPORTED",
+      "reason": "The notes document improved walking distance and mobility compared with prior sessions, along with less shortness of breath and plans for gradual endurance improvement.",
+      "evidence_quote": "The patient demonstrated improved walking distance compared to prior physio sessions.",
+      "retrieved_note_indices": [
+        33,
+        19,
+        28,
+        40,
+        35
+      ]
+    },
+    "C61": {
+      "claim": "Her oxygen requirement decreased from 2 L/min to 1 L/min.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents oxygen therapy and low-flow oxygen with oxygen saturation changes, but does not state oxygen requirements of 2 L/min or 1 L/min or a decrease between them.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        1,
+        2,
+        28,
+        19,
+        25
+      ]
+    },
+    "C62": {
+      "claim": "She subsequently remained stable on room air.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents continued oxygen therapy, with saturations above 92% on low-flow oxygen, but does not establish that she remained stable on room air.",
+      "evidence_quote": "Oxygen saturations remained above 92% on low-flow oxygen throughout the session.",
+      "retrieved_note_indices": [
+        2,
+        1,
+        28,
+        9,
+        25
+      ]
+    },
+    "C63": {
+      "claim": "Her oxygen saturations were around 94\u201395% on room air.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents oxygen saturations of 89% on room air and 92% after oxygen therapy, but does not establish saturations around 94\u201395% on room air.",
+      "evidence_quote": "SpO2 noted to remain low at 89% on room air.",
+      "retrieved_note_indices": [
+        2,
+        1,
+        25,
+        28,
+        4
+      ]
+    },
+    "C64": {
+      "claim": "At discharge, she was mobilising independently.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence describes walking with a rollator or wheeled walker and ongoing mobility training, but does not establish that she was mobilising independently at discharge.",
+      "evidence_quote": "Plan to provide a wheeled walker for home use.",
+      "retrieved_note_indices": [
+        9,
+        24,
+        44,
+        33,
+        25
+      ]
+    },
+    "C65": {
+      "claim": "At discharge, she was comfortable at rest.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence describes breathlessness and exercise tolerance but does not establish that she was comfortable at rest at discharge.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        43,
+        25,
+        44,
+        33,
+        9
+      ]
+    },
+    "C66": {
+      "claim": "At discharge, her chest was clear.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence describes breathing exercises, mobility, oxygen saturation, and discharge planning, but does not document a chest examination or that her chest was clear.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        25,
+        44,
+        43,
+        28,
+        35
+      ]
+    },
+    "C67": {
+      "claim": "At discharge, there was no raised jugular venous pressure.",
+      "label": "SUPPORTED",
+      "reason": "The examination documented that the JVP was not elevated.",
+      "evidence_quote": "JVP not elevated.",
+      "retrieved_note_indices": [
+        43,
+        11,
+        37,
+        17,
+        5
+      ]
+    },
+    "C68": {
+      "claim": "At discharge, there was no peripheral oedema.",
+      "label": "SUPPORTED",
+      "reason": "The clinical examination documented no peripheral oedema.",
+      "evidence_quote": "No perkpheral oedema.",
+      "retrieved_note_indices": [
+        43,
+        44,
+        33,
+        37,
+        25
+      ]
+    },
+    "C69": {
+      "claim": "NT-proBNP remained elevated at discharge.",
+      "label": "SUPPORTED",
+      "reason": "The evidence documents persistent elevation of NT-proBNP at 3200 pg/mL.",
+      "evidence_quote": "Persistent NT-proBNP elevation (3200 pg/mL)",
+      "retrieved_note_indices": [
+        11,
+        4,
+        5,
+        43,
+        17
+      ]
+    },
+    "C70": {
+      "claim": "She was discharged on rivaroxaban.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly states that she was discharged with rivaroxaban.",
+      "evidence_quote": "Discharge today with rivaroxaban 15 mg BD x 3 weeks, then 20 mg OD.",
+      "retrieved_note_indices": [
+        14,
+        37,
+        31,
+        34,
+        42
+      ]
+    },
+    "C71": {
+      "claim": "She was discharged on sildenafil.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly states that sildenafil was prescribed at 20 mg three times daily.",
+      "evidence_quote": "Discharge today ... Prescribed sildenafil 20 mg TID for PH.",
+      "retrieved_note_indices": [
+        43,
+        42,
+        26,
+        27,
+        31
+      ]
+    },
+    "C72": {
+      "claim": "She was discharged on ferrous sulfate.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly states that ferrous sulfate 200 mg twice daily was prescribed.",
+      "evidence_quote": "Discharge today ... Prescrbed ferrous sulfate 200 mg BD for anemia.",
+      "retrieved_note_indices": [
+        32,
+        43,
+        42,
+        36,
+        34
+      ]
+    },
+    "C73": {
+      "claim": "Tertiary pulmonary hypertension follow-up was planned in four weeks.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence supports referral to a tertiary pulmonary hypertension centre, but does not specify that follow-up was planned in four weeks.",
+      "evidence_quote": "Referral to tertiary PH centre for PEA consideration.",
+      "retrieved_note_indices": [
+        22,
+        18,
+        23,
+        20,
+        17
+      ]
+    },
+    "C74": {
+      "claim": "Repeat haemoglobin testing was planned.",
+      "label": "SUPPORTED",
+      "reason": "The plan explicitly included repeat haemoglobin testing in the outpatient department.",
+      "evidence_quote": "Arrange repeat Hb check in OPD.",
+      "retrieved_note_indices": [
+        11,
+        32,
+        29,
+        2,
+        36
+      ]
+    },
+    "C75": {
+      "claim": "Repeat NT-proBNP testing was planned.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents serial NT-proBNP results but does not state that repeat NT-proBNP testing was planned.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        11,
+        4,
+        6,
+        17,
+        5
+      ]
+    },
+    "C76": {
+      "claim": "She was advised to seek urgent care for worsening breathlessness.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents urgent assessment and hospital admission for progressive breathlessness, but does not state that she was advised to seek urgent care.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        4,
+        3,
+        0,
+        7,
+        1
+      ]
+    },
+    "C77": {
+      "claim": "She was advised to seek urgent care for chest pain.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents urgent assessment for progressive breathlessness, while repeatedly stating that she denied chest pain; it does not state that she was advised to seek urgent care for chest pain.",
+      "evidence_quote": "No associated CP",
+      "retrieved_note_indices": [
+        4,
+        3,
+        0,
+        7,
+        11
+      ]
+    }
+  },
+  "Fixed + Gemini": {
+    "C01": {
+      "claim": "She is a 43-year-old woman.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly identifies her age as 43 and sex as female.",
+      "evidence_quote": "Age 43\nSex Female",
+      "retrieved_note_indices": [
+        4,
+        13,
+        0,
+        28,
+        20
+      ]
+    },
+    "C02": {
+      "claim": "She has hypertension.",
+      "label": "SUPPORTED",
+      "reason": "The patient's past medical history explicitly includes hypertension.",
+      "evidence_quote": "Past Medical History - HTN",
+      "retrieved_note_indices": [
+        4,
+        28,
+        6,
+        20,
+        21
+      ]
+    },
+    "C03": {
+      "claim": "She has asthma.",
+      "label": "SUPPORTED",
+      "reason": "The patient's past medical history explicitly includes asthma.",
+      "evidence_quote": "Past Medical History - HTN - Asthma",
+      "retrieved_note_indices": [
+        28,
+        4,
+        3,
+        9,
+        7
+      ]
+    },
+    "C04": {
+      "claim": "She has a nut allergy.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents that she is allergic to nuts.",
+      "evidence_quote": "Allergies - Nuts",
+      "retrieved_note_indices": [
+        28,
+        0,
+        4,
+        3,
+        11
+      ]
+    },
+    "C05": {
+      "claim": "She presented with a two-week history of progressive exertional breathlessness.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents progressive worsening of shortness of breath over the last two weeks and that it is worse on exertion.",
+      "evidence_quote": "Progressive worsening of SOB over the last 2 weks; SOB worse on exertion",
+      "retrieved_note_indices": [
+        4,
+        5,
+        6,
+        3,
+        1
+      ]
+    },
+    "C06": {
+      "claim": "Her room-air oxygen saturation was 89\u201390%.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence explicitly supports a room-air saturation of 89%, but the 90% value is not documented as being on room air.",
+      "evidence_quote": "SpO2 at 89% on room air",
+      "retrieved_note_indices": [
+        2,
+        1,
+        28,
+        19,
+        3
+      ]
+    },
+    "C07": {
+      "claim": "She was tachycardic.",
+      "label": "SUPPORTED",
+      "reason": "The observations document a heart rate of 112 bpm, and the ward-round note explicitly describes persistent tachycardia.",
+      "evidence_quote": "HR 112 bpm",
+      "retrieved_note_indices": [
+        3,
+        4,
+        6,
+        0,
+        9
+      ]
+    },
+    "C08": {
+      "claim": "She was tachypnoeic.",
+      "label": "SUPPORTED",
+      "reason": "The recorded respiratory rate was 28 breaths per minute, supporting tachypnoea.",
+      "evidence_quote": "RR 28 breaths/min",
+      "retrieved_note_indices": [
+        4,
+        3,
+        0,
+        7,
+        28
+      ]
+    },
+    "C09": {
+      "claim": "She was borderline hypotensive.",
+      "label": "SUPPORTED",
+      "reason": "The documented blood pressure was 92/64 mmHg, supporting a borderline low blood pressure description.",
+      "evidence_quote": "BP 92/64 mmHg",
+      "retrieved_note_indices": [
+        3,
+        4,
+        28,
+        1,
+        2
+      ]
+    },
+    "C10": {
+      "claim": "She had a raised JVP.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents a raised JVP.",
+      "evidence_quote": "JVP raised to angle of jaw at 45\u00b0.",
+      "retrieved_note_indices": [
+        5,
+        4,
+        11,
+        6,
+        12
+      ]
+    },
+    "C11": {
+      "claim": "She had a loud P2.",
+      "label": "SUPPORTED",
+      "reason": "The clerking examination explicitly documents a loud P2.",
+      "evidence_quote": "HS: normal S1/S2, no murmurs, loud P2.",
+      "retrieved_note_indices": [
+        4,
+        3,
+        5,
+        20,
+        28
+      ]
+    },
+    "C12": {
+      "claim": "She had bibasal crepitations.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents bilateral basal crepitations.",
+      "evidence_quote": "Respiratory: Bilateral basal creps heard on auscultation.",
+      "retrieved_note_indices": [
+        4,
+        5,
+        6,
+        0,
+        3
+      ]
+    },
+    "C13": {
+      "claim": "She had mild hepatomegaly.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents mildly tender hepatomegaly, supporting mild hepatomegaly.",
+      "evidence_quote": "Abdomen: Mildly tenddr hepatomegaly.",
+      "retrieved_note_indices": [
+        4,
+        11,
+        6,
+        3,
+        2
+      ]
+    },
+    "C14": {
+      "claim": "Chest X-ray showed pulmonary congestion.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents that the chest X-ray showed bilateral pulmonary congestion.",
+      "evidence_quote": "Chest X-ray: Bilateral pulmonary congestion",
+      "retrieved_note_indices": [
+        4,
+        5,
+        6,
+        11,
+        16
+      ]
+    },
+    "C15": {
+      "claim": "Chest X-ray showed cardiomegaly.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents cardiomegaly on chest X-ray.",
+      "evidence_quote": "CXR: Cardiomegaly.",
+      "retrieved_note_indices": [
+        5,
+        4,
+        11,
+        6,
+        12
+      ]
+    },
+    "C16": {
+      "claim": "Chest X-ray showed no focal consolidation or pneumothorax.",
+      "label": "SUPPORTED",
+      "reason": "The chest X-ray finding is explicitly documented as showing no focal consolidation or pneumothorax.",
+      "evidence_quote": "Chest X-ray: Bilateral pulmonary congestion, no focal consolidation or pneumothorax.",
+      "retrieved_note_indices": [
+        4,
+        5,
+        11,
+        28,
+        3
+      ]
+    },
+    "C17": {
+      "claim": "ABG demonstrated mild hypoxia with a PaO\u2082 of 8.5 kPa.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly reports an ABG PaO\u2082 of 8.5 kPa and characterizes it as mild hypoxia.",
+      "evidence_quote": "ABG results reviewed: PaO2 8.5 kPa, indicating mild hypoxia",
+      "retrieved_note_indices": [
+        3,
+        2,
+        1,
+        4,
+        19
+      ]
+    },
+    "C18": {
+      "claim": "ABG demonstrated respiratory alkalosis with a pH of 7.46\u20137.47.",
+      "label": "SUPPORTED",
+      "reason": "The ABG is explicitly documented as showing compensated respiratory alkalosis with a pH of 7.46, which falls within the stated 7.46\u20137.47 range.",
+      "evidence_quote": "ABG: PaO2 8.5 kPa, PaCO2 3.8 kPa, pH 7.46, HCO3- 24 mmol/L (compensated respiratory alkalosis, mild hypoxia)",
+      "retrieved_note_indices": [
+        3,
+        4,
+        6,
+        28,
+        7
+      ]
+    },
+    "C19": {
+      "claim": "NT-proBNP was elevated to 4,500 pg/mL.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly reports NT-proBNP at 4,500 pg/mL and describes it as elevated.",
+      "evidence_quote": "NT-proBNP: 4,500 pg/mL (elevated)",
+      "retrieved_note_indices": [
+        11,
+        4,
+        6,
+        5,
+        3
+      ]
+    },
+    "C20": {
+      "claim": "D-dimer was elevated.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the D-dimer was elevated.",
+      "evidence_quote": "Blood tests: D-dimer elevated",
+      "retrieved_note_indices": [
+        4,
+        6,
+        5,
+        11,
+        21
+      ]
+    },
+    "C21": {
+      "claim": "Low-flow oxygen was started.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the patient was placed on low-flow oxygen therapy.",
+      "evidence_quote": "Patient placed on low-flow oxygen therapy to improve oxygenation",
+      "retrieved_note_indices": [
+        2,
+        3,
+        19,
+        1,
+        25
+      ]
+    },
+    "C22": {
+      "claim": "Her oxygen saturation improved to approximately 92% with low-flow oxygen.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that oxygen saturation improved to 92% after low-flow oxygen via nasal cannula.",
+      "evidence_quote": "Patient placed on low-flow oxygen therapy to improve oxygenation, with SpO2 improving from 89% to 92%.",
+      "retrieved_note_indices": [
+        2,
+        1,
+        19,
+        3,
+        28
+      ]
+    },
+    "C23": {
+      "claim": "She subsequently maintained oxygen saturations of 90\u201394% on 2 L nasal oxygen.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence supports improvement to 92% with nasal oxygen, but does not document oxygen flow at 2 L or that saturations were maintained within 90\u201394%.",
+      "evidence_quote": "oxygen saturation improved to 92%",
+      "retrieved_note_indices": [
+        2,
+        1,
+        19,
+        25,
+        3
+      ]
+    },
+    "C24": {
+      "claim": "She was admitted to the Respiratory HDU with suspected chronic thromboembolic pulmonary hypertension.",
+      "label": "SUPPORTED",
+      "reason": "The evidence states that she was accepted for admission to the Respiratory HDU and had suspected chronic thromboembolic pulmonary hypertension.",
+      "evidence_quote": "Accepted by Respiratory HDU ... Impression: Suspected chronic thromboembolic pulmonary HTN",
+      "retrieved_note_indices": [
+        4,
+        6,
+        0,
+        22,
+        16
+      ]
+    },
+    "C25": {
+      "claim": "She received therapeutic enoxaparin.",
+      "label": "SUPPORTED",
+      "reason": "The source documents initiation of therapeutic-dose enoxaparin at 1.5 mg/kg daily subcutaneously.",
+      "evidence_quote": "Start therapeutic-dose enoxaparin 1.5 mg/kg daily subcutaneously for anticoagulation.",
+      "retrieved_note_indices": [
+        34,
+        14,
+        4,
+        6,
+        20
+      ]
+    },
+    "C26": {
+      "claim": "She was anticoagulated with apixaban during the admission.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round notes explicitly state that apixaban was started and had already been initiated during the admission.",
+      "evidence_quote": "Start apixaban 10 mg BD x 7 days, then 5 mg BD.",
+      "retrieved_note_indices": [
+        14,
+        6,
+        10,
+        34,
+        4
+      ]
+    },
+    "C27": {
+      "claim": "She was subsequently anticoagulated with rivaroxaban.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that long-term anticoagulation with rivaroxaban was initiated and later prescribed.",
+      "evidence_quote": "Initiated long-term anticoagulation therapy with Rivaroxaban 20 mg OD",
+      "retrieved_note_indices": [
+        14,
+        31,
+        37,
+        6,
+        34
+      ]
+    },
+    "C28": {
+      "claim": "CTPA confirmed chronic thromboembolic disease.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 10 explicitly states that CTPA confirmed chronic thromboembolic disease.",
+      "evidence_quote": "CTPA confirmed chronic thromboembolic disease",
+      "retrieved_note_indices": [
+        6,
+        5,
+        10,
+        22,
+        4
+      ]
+    },
+    "C29": {
+      "claim": "Echocardiography demonstrated severe pulmonary hypertension.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 16 explicitly states that echocardiography confirmed severe pulmonary hypertension.",
+      "evidence_quote": "Echo confirmed severe pulmonary HTN with right ventricular strain.",
+      "retrieved_note_indices": [
+        4,
+        5,
+        6,
+        16,
+        21
+      ]
+    },
+    "C30": {
+      "claim": "Echocardiography demonstrated right ventricular strain.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the echocardiogram confirmed right ventricular strain.",
+      "evidence_quote": "Echo confirmed severe pulmonary HTN with right ventricular strain.",
+      "retrieved_note_indices": [
+        11,
+        4,
+        5,
+        6,
+        16
+      ]
+    },
+    "C31": {
+      "claim": "Sildenafil 20 mg three times daily was commenced.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states a plan to initiate sildenafil 20 mg TDS, equivalent to three times daily.",
+      "evidence_quote": "Initiate sildenafil 20 mg TDS",
+      "retrieved_note_indices": [
+        26,
+        27,
+        42,
+        21,
+        14
+      ]
+    },
+    "C32": {
+      "claim": "Furosemide 40 mg daily was commenced.",
+      "label": "SUPPORTED",
+      "reason": "The plan explicitly states that furosemide 40 mg once daily was started.",
+      "evidence_quote": "Start furosemide 40mg OD",
+      "retrieved_note_indices": [
+        16,
+        12,
+        36,
+        17,
+        14
+      ]
+    },
+    "C33": {
+      "claim": "She was referred to a tertiary pulmonary hypertension centre for consideration of pulmonary endarterectomy.",
+      "label": "SUPPORTED",
+      "reason": "The notes explicitly document referral to a tertiary pulmonary hypertension centre for consideration of pulmonary endarterectomy.",
+      "evidence_quote": "Referral sent to tertiary PH ctr for mgmt & consideration of PEA/adv tx.",
+      "retrieved_note_indices": [
+        23,
+        29,
+        18,
+        17,
+        4
+      ]
+    },
+    "C34": {
+      "claim": "She received breathing exercises from physiotherapy.",
+      "label": "SUPPORTED",
+      "reason": "The physiotherapy notes explicitly document instruction and reinforcement of diaphragmatic/breathing exercises by the physiotherapist.",
+      "evidence_quote": "Diaphragmatic breathing exercises introduced",
+      "retrieved_note_indices": [
+        7,
+        44,
+        13,
+        30,
+        38
+      ]
+    },
+    "C35": {
+      "claim": "She received energy-conservation education.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that education was provided on energy-conservation techniques, including pacing, rest periods, and task modifications.",
+      "evidence_quote": "Education provided on energy conaervation techniques to manage fatigue during daily activities.",
+      "retrieved_note_indices": [
+        15,
+        20,
+        9,
+        38,
+        40
+      ]
+    },
+    "C36": {
+      "claim": "She received graded mobilisation with physiotherapy.",
+      "label": "SUPPORTED",
+      "reason": "The physiotherapy notes document progressive and gradually intensified mobilisation, including walking exercises and plans to increase walking distance.",
+      "evidence_quote": "Plan to progressively increase walking distance over the next two days",
+      "retrieved_note_indices": [
+        25,
+        13,
+        44,
+        33,
+        9
+      ]
+    },
+    "C37": {
+      "claim": "She progressed to walking 10 metres with a frame and minimal assistance.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the patient ambulated 10 metres using a walking frame with minimal assistance.",
+      "evidence_quote": "The patient ambulated 10 metres using a walking frame with minimal assistance.",
+      "retrieved_note_indices": [
+        9,
+        28,
+        24,
+        25,
+        33
+      ]
+    },
+    "C38": {
+      "claim": "Her oxygen saturations remained above 92% during therapy.",
+      "label": "SUPPORTED",
+      "reason": "The physiotherapy notes explicitly state that oxygen saturations remained above 92% throughout the therapy sessions.",
+      "evidence_quote": "O2 sats remained above 92% throughout the session.",
+      "retrieved_note_indices": [
+        2,
+        1,
+        19,
+        28,
+        25
+      ]
+    },
+    "C39": {
+      "claim": "V/Q scanning showed mismatched perfusion defects consistent with chronic thromboembolic pulmonary hypertension.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the V/Q scan showed mismatched perfusion defects associated with CTEPH.",
+      "evidence_quote": "V/Q scan reviewed. Mismatched perfusion defects - CTEPH.",
+      "retrieved_note_indices": [
+        23,
+        22,
+        6,
+        21,
+        41
+      ]
+    },
+    "C40": {
+      "claim": "Her breathlessness improved.",
+      "label": "UNSUPPORTED",
+      "reason": "The sources document persistent/progressive breathlessness and interventions intended to manage it, but do not state that the patient's breathlessness improved.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        28,
+        1,
+        9,
+        3,
+        4
+      ]
+    },
+    "C41": {
+      "claim": "Her exercise tolerance improved.",
+      "label": "SUPPORTED",
+      "reason": "The patient demonstrated improved walking distance compared with prior sessions and reported less shortness of breath, supporting improved exercise tolerance.",
+      "evidence_quote": "The patient demonstrated improved walking distance compared to prior physio sessions.",
+      "retrieved_note_indices": [
+        33,
+        19,
+        9,
+        28,
+        40
+      ]
+    },
+    "C42": {
+      "claim": "She later maintained an oxygen saturation of 95% on room air.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents 89% on room air initially and saturations above 92% on oxygen, but does not establish a later saturation of 95% on room air.",
+      "evidence_quote": "O2 sats remained above 92% throughout the session",
+      "retrieved_note_indices": [
+        1,
+        2,
+        25,
+        3,
+        28
+      ]
+    },
+    "C43": {
+      "claim": "She had no raised JVP at that assessment.",
+      "label": "UNSUPPORTED",
+      "reason": "The source evidence documents a raised/elevated JVP, contradicting the claim that there was no raised JVP.",
+      "evidence_quote": "JVP raised to angle of jaw at 45\u00b0.",
+      "retrieved_note_indices": [
+        11,
+        4,
+        5,
+        3,
+        20
+      ]
+    },
+    "C44": {
+      "claim": "She had no oedema at that assessment.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly states that no peripheral oedema was noted.",
+      "evidence_quote": "No peripheral oedema noted.",
+      "retrieved_note_indices": [
+        4,
+        28,
+        25,
+        9,
+        0
+      ]
+    },
+    "C45": {
+      "claim": "She had no respiratory distress at that assessment.",
+      "label": "UNSUPPORTED",
+      "reason": "The assessment documented mild respiratory distress with laboured breathing, not an absence of respiratory distress.",
+      "evidence_quote": "Appears mildly distressed with laboured breathing",
+      "retrieved_note_indices": [
+        3,
+        25,
+        9,
+        4,
+        28
+      ]
+    },
+    "C46": {
+      "claim": "She was clinically comfortable with reduced breathlessness.",
+      "label": "SUPPORTED",
+      "reason": "The patient tolerated the session well and had no significant shortness of breath during mobility, supporting clinical comfort with reduced breathlessness.",
+      "evidence_quote": "the patient tolerated the exercises well without significant SOB",
+      "retrieved_note_indices": [
+        28,
+        1,
+        25,
+        3,
+        9
+      ]
+    },
+    "C47": {
+      "claim": "She had improved activity tolerance.",
+      "label": "SUPPORTED",
+      "reason": "The evidence documents improved walking distance compared with prior sessions, less shortness of breath, and minimal desaturation during activity, supporting improved activity tolerance.",
+      "evidence_quote": "The patient demonstrated improved walking distance compared to prior physio sessions.",
+      "retrieved_note_indices": [
+        33,
+        9,
+        35,
+        28,
+        19
+      ]
+    },
+    "C48": {
+      "claim": "She maintained an oxygen saturation of 94% on room air.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents an oxygen saturation of 89% on room air and improvement to 92% with oxygen therapy, but does not establish 94% on room air.",
+      "evidence_quote": "SpO2 at 89% on room air",
+      "retrieved_note_indices": [
+        1,
+        2,
+        28,
+        25,
+        3
+      ]
+    },
+    "C49": {
+      "claim": "Mild anaemia was noted, with haemoglobin of 110 g/L compared with 120 g/L previously.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 32 explicitly documents mild anemia with Hb 110 g/L, previously 120 g/L.",
+      "evidence_quote": "Mild Anemia -Hb 110 g/L, previously 120 g/L",
+      "retrieved_note_indices": [
+        32,
+        2,
+        3,
+        36,
+        19
+      ]
+    },
+    "C50": {
+      "claim": "Ferrous sulfate 200 mg twice daily was started.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round plan explicitly states to start ferrous sulfate 200 mg twice daily (BD) for anemia.",
+      "evidence_quote": "Start ferrous sulfate 200 mg BD for anemia.",
+      "retrieved_note_indices": [
+        32,
+        14,
+        36,
+        2,
+        19
+      ]
+    },
+    "C51": {
+      "claim": "Outpatient repeat haemoglobin was planned.",
+      "label": "SUPPORTED",
+      "reason": "The plan explicitly includes an outpatient repeat haemoglobin check.",
+      "evidence_quote": "Arrange repeat Hb check in OPD.",
+      "retrieved_note_indices": [
+        32,
+        11,
+        29,
+        42,
+        36
+      ]
+    },
+    "C52": {
+      "claim": "Discharge medications were to include sildenafil 20 mg three times daily.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly states that sildenafil 20 mg three times daily was prescribed.",
+      "evidence_quote": "Discharge today with ... Prescribed sildenafil 20 mg TID for PH.",
+      "retrieved_note_indices": [
+        43,
+        42,
+        14,
+        26,
+        31
+      ]
+    },
+    "C53": {
+      "claim": "Discharge medications were to include rivaroxaban 20 mg daily.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan specifies rivaroxaban 15 mg twice daily for 3 weeks, then 20 mg once daily, and another note states rivaroxaban 20 mg once daily was prescribed.",
+      "evidence_quote": "Discharge today with rivaroxaban 15 mg BD x 3 weeks, then 20 mg OD.",
+      "retrieved_note_indices": [
+        14,
+        34,
+        31,
+        37,
+        42
+      ]
+    },
+    "C54": {
+      "claim": "Outpatient follow-up arrangements were provided.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the patient was discharged with a plan for outpatient physiotherapy follow-up.",
+      "evidence_quote": "a plan for outpatient phywio follow-up to monitor progress",
+      "retrieved_note_indices": [
+        43,
+        44,
+        35,
+        40,
+        24
+      ]
+    },
+    "C55": {
+      "claim": "She was given contact details for pulmonary hypertension support services.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that contact details for local pulmonary hypertension support services were shared with the patient.",
+      "evidence_quote": "Shared contact details for local pulmonary HTN support services.",
+      "retrieved_note_indices": [
+        43,
+        20,
+        40,
+        18,
+        7
+      ]
+    }
+  },
+  "Fixed + BGE": {
+    "C01": {
+      "claim": "She presented with progressive breathlessness.",
+      "label": "SUPPORTED",
+      "reason": "Multiple source notes explicitly document progressive breathlessness, including the presenting complaint and history.",
+      "evidence_quote": "Presenting Complaint: Progressive breathlessness",
+      "retrieved_note_indices": [
+        4,
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "C02": {
+      "claim": "She had a history of hypertension.",
+      "label": "SUPPORTED",
+      "reason": "The past medical history explicitly lists hypertension (HTN).",
+      "evidence_quote": "Past Medical History - HTN",
+      "retrieved_note_indices": [
+        4,
+        21,
+        6,
+        28,
+        0
+      ]
+    },
+    "C03": {
+      "claim": "She had a history of asthma.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly lists asthma in her past medical history.",
+      "evidence_quote": "Past medical history: HTN, Asthma.",
+      "retrieved_note_indices": [
+        3,
+        4,
+        28,
+        0,
+        1
+      ]
+    },
+    "C04": {
+      "claim": "Her oxygen saturation was 89%.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents oxygen saturation (SpO2) of 89% on room air.",
+      "evidence_quote": "SpO2 noted to remain low at 89% on room air.",
+      "retrieved_note_indices": [
+        2,
+        1,
+        19,
+        3,
+        28
+      ]
+    },
+    "C05": {
+      "claim": "Her oxygen saturation improved to 92% on low-flow oxygen.",
+      "label": "SUPPORTED",
+      "reason": "The notes state that oxygen saturation improved from 89% on room air to 92% after low-flow oxygen via nasal cannula.",
+      "evidence_quote": "Patient placed on low-flow oxygen therapy to improve oxygenation, with SpO2 improving from 89% to 92%.",
+      "retrieved_note_indices": [
+        2,
+        1,
+        19,
+        3,
+        28
+      ]
+    },
+    "C06": {
+      "claim": "ABG showed mild hypoxia with a PaO\u2082 of 8.5 kPa.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly reports an ABG PaO\u2082 of 8.5 kPa and characterizes it as mild hypoxia.",
+      "evidence_quote": "ABG results reviewed: PaO2 8.5 kPa, indicating mild hypoxia",
+      "retrieved_note_indices": [
+        3,
+        2,
+        1,
+        4,
+        19
+      ]
+    },
+    "C07": {
+      "claim": "ABG showed compensated respiratory alkalosis.",
+      "label": "SUPPORTED",
+      "reason": "The ABG is explicitly described as showing compensated respiratory alkalosis, with pH 7.46, PaCO2 3.8 kPa, and HCO3- 24 mmol/L.",
+      "evidence_quote": "ABG: PaO2 8.5 kPa, PaCO2 3.8 kPa, pH 7.46, HCO3- 24 mmol/L (compensated respiratory alkalosis, mild hypoxia)",
+      "retrieved_note_indices": [
+        3,
+        4,
+        6,
+        5,
+        7
+      ]
+    },
+    "C08": {
+      "claim": "NT-proBNP was elevated at 3,200 pg/mL.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 3 explicitly reports an elevated NT-proBNP of 3,200 pg/mL.",
+      "evidence_quote": "NT-proBNP elevated at 3,200 pg/mL",
+      "retrieved_note_indices": [
+        11,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "C09": {
+      "claim": "NT-proBNP later increased to 4,500 pg/mL.",
+      "label": "SUPPORTED",
+      "reason": "The evidence documents NT-proBNP rising from an earlier 3,200 pg/mL to 4,500 pg/mL.",
+      "evidence_quote": "NT-proBNP: 4,500 pg/mL (elevated, subsequent result after earlier 3,200 pg/mL reading)",
+      "retrieved_note_indices": [
+        11,
+        4,
+        3,
+        5,
+        6
+      ]
+    },
+    "C10": {
+      "claim": "CTPA confirmed chronic thromboembolic disease.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 10 explicitly states that CTPA confirmed chronic thromboembolic disease.",
+      "evidence_quote": "CTPA confirmed chronic thromboembolic disease",
+      "retrieved_note_indices": [
+        6,
+        5,
+        10,
+        22,
+        4
+      ]
+    },
+    "C11": {
+      "claim": "She had a raised JVP.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents a raised JVP.",
+      "evidence_quote": "JVP raised to angle of jaw at 45\u00b0.",
+      "retrieved_note_indices": [
+        5,
+        4,
+        11,
+        6,
+        12
+      ]
+    },
+    "C12": {
+      "claim": "She had bibasal crackles.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documented bilateral basal crepitations, equivalent to bibasal crackles.",
+      "evidence_quote": "Respiratory: Bilateral basal creps heard on auscultation.",
+      "retrieved_note_indices": [
+        4,
+        5,
+        3,
+        6,
+        0
+      ]
+    },
+    "C13": {
+      "claim": "Apixaban 10 mg twice daily was documented as initiated.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 10 explicitly documents that apixaban 10 mg BD was already initiated earlier that day.",
+      "evidence_quote": "Anticoagulation with apixaban 10 mg BD already initiated earlier today.",
+      "retrieved_note_indices": [
+        14,
+        34,
+        6,
+        31,
+        10
+      ]
+    },
+    "C14": {
+      "claim": "Echocardiography demonstrated severe pulmonary hypertension.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 16 explicitly states that echocardiography confirmed severe pulmonary hypertension.",
+      "evidence_quote": "Echo confirmed severe pulmonary HTN with right ventricular strain.",
+      "retrieved_note_indices": [
+        4,
+        5,
+        6,
+        16,
+        21
+      ]
+    },
+    "C15": {
+      "claim": "Echocardiography demonstrated right ventricular strain.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that echocardiography confirmed right ventricular strain.",
+      "evidence_quote": "Echo confirmed severe pulmonary HTN with right ventricular strain.",
+      "retrieved_note_indices": [
+        11,
+        4,
+        5,
+        6,
+        16
+      ]
+    },
+    "C16": {
+      "claim": "She remained dependent on 2 L/min oxygen.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence supports ongoing oxygen therapy, but it does not specify a flow rate of 2 L/min or establish oxygen dependence.",
+      "evidence_quote": "Oxygen saturations remained above 92% on low-flow oxygen throughout the session.",
+      "retrieved_note_indices": [
+        2,
+        1,
+        19,
+        28,
+        25
+      ]
+    },
+    "C17": {
+      "claim": "She had exertional breathlessness.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that her shortness of breath was worse on exertion and describes progressive exertional dyspnoea.",
+      "evidence_quote": "SOB worse on exertion",
+      "retrieved_note_indices": [
+        4,
+        7,
+        5,
+        28,
+        9
+      ]
+    },
+    "C18": {
+      "claim": "She had mild peripheral oedema.",
+      "label": "UNSUPPORTED",
+      "reason": "The examination explicitly states that no peripheral oedema was noted.",
+      "evidence_quote": "No peripheral oedema noted.",
+      "retrieved_note_indices": [
+        4,
+        28,
+        3,
+        1,
+        19
+      ]
+    },
+    "C19": {
+      "claim": "Furosemide 40 mg daily was started for fluid retention and right heart strain.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents starting furosemide 40 mg once daily for fluid retention and to reduce right heart strain.",
+      "evidence_quote": "Start oral furosemide 40 mg OD to manage fluid retention and reduce R heart strain.",
+      "retrieved_note_indices": [
+        11,
+        12,
+        16,
+        36,
+        17
+      ]
+    },
+    "C20": {
+      "claim": "Physiotherapy provided breathing exercises.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents physiotherapy sessions that introduced, practised, and reinforced diaphragmatic breathing exercises.",
+      "evidence_quote": "Diaphragmatic breathing exercises introduced",
+      "retrieved_note_indices": [
+        7,
+        44,
+        25,
+        19,
+        38
+      ]
+    },
+    "C21": {
+      "claim": "Physiotherapy provided energy-conservation advice.",
+      "label": "SUPPORTED",
+      "reason": "The physiotherapist explicitly provided education and instruction on energy conservation strategies for daily activities.",
+      "evidence_quote": "Education provided on energy conaervation techniques to manage fatigue during daily activities.",
+      "retrieved_note_indices": [
+        15,
+        44,
+        38,
+        40,
+        33
+      ]
+    },
+    "C22": {
+      "claim": "Physiotherapy provided pacing strategies.",
+      "label": "SUPPORTED",
+      "reason": "The physiotherapy notes explicitly state that pacing strategies were discussed and that education was provided on pacing techniques.",
+      "evidence_quote": "Discussed pacing strategies, including breaking tasks into smaller steps, scheduling rest periods, and prioritising demanding activities earlier in the day.",
+      "retrieved_note_indices": [
+        15,
+        44,
+        33,
+        9,
+        19
+      ]
+    },
+    "C23": {
+      "claim": "A rollator frame was provided for short-distance mobilisation.",
+      "label": "SUPPORTED",
+      "reason": "The evidence states that a rollator frame was introduced and prescribed to assist with short-distance ambulation.",
+      "evidence_quote": "A rollator frame was introduced to assist with short-distance ambulation within the ward.",
+      "retrieved_note_indices": [
+        9,
+        15,
+        24,
+        33,
+        25
+      ]
+    },
+    "C24": {
+      "claim": "Breathlessness improved at rest.",
+      "label": "UNSUPPORTED",
+      "reason": "The source states that breathlessness was unchanged at rest, not improved.",
+      "evidence_quote": "Worse on exertion, unchanged at rest.",
+      "retrieved_note_indices": [
+        4,
+        3,
+        1,
+        9,
+        5
+      ]
+    },
+    "C25": {
+      "claim": "Exertional limitation persisted.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents ongoing exertional symptoms, establishing persistent exertional limitation.",
+      "evidence_quote": "Persistent SOB noted with moderate exertion.",
+      "retrieved_note_indices": [
+        19,
+        40,
+        33,
+        9,
+        7
+      ]
+    },
+    "C26": {
+      "claim": "Sildenafil 20 mg three times daily was prescribed.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that sildenafil 20 mg three times daily was prescribed.",
+      "evidence_quote": "Prescribed sildenafil 20 mg TID for PH.",
+      "retrieved_note_indices": [
+        26,
+        27,
+        42,
+        14,
+        32
+      ]
+    },
+    "C27": {
+      "claim": "An inpatient V/Q scan showed mismatched perfusion defects consistent with CTEPH.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the V/Q scan showed mismatched perfusion defects consistent with CTEPH.",
+      "evidence_quote": "V/Q scan reviewed. Mismatched perfusion defects - CTEPH.",
+      "retrieved_note_indices": [
+        23,
+        22,
+        6,
+        41,
+        4
+      ]
+    },
+    "C28": {
+      "claim": "Referral to a tertiary pulmonary hypertension centre was planned for surgical assessment.",
+      "label": "SUPPORTED",
+      "reason": "The notes explicitly document a planned referral to a tertiary pulmonary hypertension centre for surgical assessment and possible pulmonary endarterectomy.",
+      "evidence_quote": "Plan: tertiary PH ctr referral for surg assess + PEA.",
+      "retrieved_note_indices": [
+        29,
+        23,
+        18,
+        4,
+        17
+      ]
+    },
+    "C29": {
+      "claim": "Possible pulmonary endarterectomy was being considered.",
+      "label": "SUPPORTED",
+      "reason": "The notes explicitly document referral to a tertiary pulmonary hypertension centre for pulmonary endarterectomy consideration.",
+      "evidence_quote": "Referral to tertiary PH centre for PEA consideration.",
+      "retrieved_note_indices": [
+        18,
+        23,
+        17,
+        21,
+        32
+      ]
+    },
+    "C30": {
+      "claim": "Her oxygen requirement decreased from 2 L/min to 1 L/min.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents oxygen therapy and low-flow oxygen but does not state that the requirement decreased from 2 L/min to 1 L/min.",
+      "evidence_quote": "Oxygen saturations remained above 92% on low-flow oxygen throughout the session.",
+      "retrieved_note_indices": [
+        1,
+        2,
+        28,
+        19,
+        25
+      ]
+    },
+    "C31": {
+      "claim": "Her oxygen saturation was 94\u201395% on 1 L/min oxygen.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents oxygen saturation of 89% on room air improving to 92% with oxygen, but does not establish 94\u201395% saturation or oxygen flow at 1 L/min.",
+      "evidence_quote": "O2 therapy ... continued at 02:15 with an improvement in SpO2 to 92%",
+      "retrieved_note_indices": [
+        2,
+        1,
+        3,
+        25,
+        19
+      ]
+    },
+    "C32": {
+      "claim": "Physiotherapy documented improved endurance without significant desaturation.",
+      "label": "SUPPORTED",
+      "reason": "Physiotherapy documented improved walking distance indicating improved endurance, with minimal desaturation and SpO2 maintained at 94% on room air during activity.",
+      "evidence_quote": "The patient demonstrated improved walking distance compared to prior physio sessions. Minimal O2 desaturation was observed, with SpO2 maintained at 94% on room air during activity.",
+      "retrieved_note_indices": [
+        19,
+        33,
+        25,
+        44,
+        38
+      ]
+    },
+    "C33": {
+      "claim": "Her oxygen saturation was 95% on room air.",
+      "label": "UNSUPPORTED",
+      "reason": "The sources document oxygen saturation of 89% on room air, improving to 92% with oxygen, and 90% on 2L nasal cannula; they do not support 95% on room air.",
+      "evidence_quote": "SpO2 noted to remain low at 89% on room air",
+      "retrieved_note_indices": [
+        1,
+        2,
+        3,
+        25,
+        4
+      ]
+    },
+    "C34": {
+      "claim": "Long-term anticoagulation with rivaroxaban was documented.",
+      "label": "SUPPORTED",
+      "reason": "The evidence explicitly documents initiation of long-term anticoagulation with rivaroxaban and a plan to continue rivaroxaban 20 mg once daily.",
+      "evidence_quote": "Initiated long-term anticoagulation therapy with Rivaroxaban 20 mg OD",
+      "retrieved_note_indices": [
+        14,
+        31,
+        37,
+        34,
+        20
+      ]
+    },
+    "C35": {
+      "claim": "She was mobilising independently on room air.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence describes ambulation using a walking frame with minimal assistance, not independent mobilisation. Room-air activity was documented later, but independent mobility was not established.",
+      "evidence_quote": "The patient ambulated 10 metres using a walking frame with minimal assistance.",
+      "retrieved_note_indices": [
+        9,
+        28,
+        25,
+        33,
+        13
+      ]
+    },
+    "C36": {
+      "claim": "Furosemide 20 mg daily was documented for mild peripheral oedema.",
+      "label": "SUPPORTED",
+      "reason": "The plan explicitly documents furosemide 20 mg once daily for mild peripheral oedema.",
+      "evidence_quote": "Start furosemide 20 mg OD PO for mild peripheral oedema",
+      "retrieved_note_indices": [
+        36,
+        14,
+        12,
+        16,
+        17
+      ]
+    },
+    "C37": {
+      "claim": "Mild anaemia was noted with haemoglobin of 110 g/L.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents mild anaemia and a haemoglobin level of 110 g/L.",
+      "evidence_quote": "Mild anemia -Hb 110 g/L",
+      "retrieved_note_indices": [
+        32,
+        2,
+        42,
+        36,
+        3
+      ]
+    },
+    "C38": {
+      "claim": "Ferrous sulfate 200 mg twice daily was started.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round plan explicitly states to start ferrous sulfate 200 mg twice daily (BD) for anemia.",
+      "evidence_quote": "Start ferrous sulfate 200 mg BD for anemia.",
+      "retrieved_note_indices": [
+        32,
+        14,
+        36,
+        2,
+        19
+      ]
+    },
+    "C39": {
+      "claim": "Rivaroxaban was prescribed as 15 mg twice daily for 21 days followed by 20 mg once daily.",
+      "label": "SUPPORTED",
+      "reason": "The pharmacist documented 15 mg twice daily for 21 days followed by 20 mg once daily, and the discharge plan confirms the same regimen.",
+      "evidence_quote": "Continue 15 mg BD for 21 days, then adjust to 20 mg OD.",
+      "retrieved_note_indices": [
+        14,
+        34,
+        31,
+        37,
+        42
+      ]
+    },
+    "C40": {
+      "claim": "A personalised home exercise programme was provided.",
+      "label": "SUPPORTED",
+      "reason": "The evidence explicitly states that a personalised home exercise programme was finalised and that the patient was discharged with it.",
+      "evidence_quote": "A personalised home exercise plan was finalised for Ms. Abena Bonsu.",
+      "retrieved_note_indices": [
+        40,
+        44,
+        38,
+        33,
+        24
+      ]
+    },
+    "C41": {
+      "claim": "She was discharged clinically stable.",
+      "label": "SUPPORTED",
+      "reason": "The notes document that she was clinically stable, comfortable at rest, and undergoing discharge planning with a discharge summary and follow-up instructions.",
+      "evidence_quote": "Clinically stable with SpO2 94% on room air",
+      "retrieved_note_indices": [
+        43,
+        37,
+        25,
+        28,
+        44
+      ]
+    },
+    "C42": {
+      "claim": "She had reduced breathlessness at discharge.",
+      "label": "SUPPORTED",
+      "reason": "The source documents that the patient reported less shortness of breath than in previous sessions.",
+      "evidence_quote": "The patient reported les SOB than in previous sessions.",
+      "retrieved_note_indices": [
+        28,
+        9,
+        25,
+        4,
+        33
+      ]
+    },
+    "C43": {
+      "claim": "She had good mobility at discharge.",
+      "label": "UNSUPPORTED",
+      "reason": "The notes describe improved walking distance and mobility with therapy, but do not establish that she had good mobility at discharge.",
+      "evidence_quote": "demonstrated improved walking distance and mobility",
+      "retrieved_note_indices": [
+        24,
+        33,
+        9,
+        25,
+        35
+      ]
+    },
+    "C44": {
+      "claim": "Follow-up at the tertiary pulmonary hypertension centre was planned.",
+      "label": "SUPPORTED",
+      "reason": "The notes document a planned referral to the tertiary pulmonary hypertension centre for assessment and management.",
+      "evidence_quote": "Plan: tertiary PH ctr referral for surg assess + PEA.",
+      "retrieved_note_indices": [
+        18,
+        23,
+        29,
+        20,
+        17
+      ]
+    },
+    "C45": {
+      "claim": "Outpatient haemoglobin review was planned.",
+      "label": "SUPPORTED",
+      "reason": "The plan explicitly includes a repeat haemoglobin check in the outpatient department.",
+      "evidence_quote": "Arrange repeat Hb check in OPD.",
+      "retrieved_note_indices": [
+        32,
+        33,
+        20,
+        14,
+        25
+      ]
+    },
+    "C46": {
+      "claim": "Outpatient NT-proBNP review was planned.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents review of NT-proBNP and a plan for echo review, but does not state that an outpatient NT-proBNP review was planned.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        11,
+        4,
+        6,
+        5,
+        17
+      ]
+    },
+    "C47": {
+      "claim": "She was advised to seek urgent care for worsening breathlessness or chest pain.",
+      "label": "UNSUPPORTED",
+      "reason": "The source documents acute assessment and admission for progressive breathlessness but does not state that she was advised to seek urgent care for worsening breathlessness or chest pain.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        4,
+        3,
+        7,
+        6,
+        0
+      ]
+    }
+  },
+  "Fixed + MedCPT": {
+    "C01": {
+      "claim": "The patient was a 43-year-old woman with hypertension and asthma.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly identifies the patient as 43 years old, female, with a past medical history of hypertension and asthma.",
+      "evidence_quote": "Age 43; Sex Female; Past Medical History - HTN - Asthma",
+      "retrieved_note_indices": [
+        4,
+        0,
+        28,
+        3,
+        5
+      ]
+    },
+    "C02": {
+      "claim": "She presented with a 2-week history of progressive exertional breathlessness and chest tightness.",
+      "label": "SUPPORTED",
+      "reason": "The source documents progressive shortness of breath over the last two weeks, worse on exertion, and a sensation of chest tightness.",
+      "evidence_quote": "Progressive worsening of SOB over the last 2 weks; SOB worse on exertion; Describes a sensation of tightness in the chest",
+      "retrieved_note_indices": [
+        4,
+        5,
+        6,
+        12,
+        21
+      ]
+    },
+    "C03": {
+      "claim": "She denied chest pain, haemoptysis, fever, syncope, palpitations, and wheeze.",
+      "label": "SUPPORTED",
+      "reason": "The history and systems review explicitly document denial of chest pain, haemoptysis, fever, syncope, palpitations, and wheezing.",
+      "evidence_quote": "No associated CP, haemoptysis, fever, or syncope reported ... denies palpitations or wheezing",
+      "retrieved_note_indices": [
+        4,
+        5,
+        28,
+        6,
+        20
+      ]
+    },
+    "C04": {
+      "claim": "Her oxygen saturation was 89% and improved to 92% with low-flow oxygen.",
+      "label": "SUPPORTED",
+      "reason": "The evidence states that SpO2 improved from 89% to 92% after low-flow oxygen therapy.",
+      "evidence_quote": "Patient placed on low-flow oxygen therapy ... with SpO2 improving from 89% to 92%.",
+      "retrieved_note_indices": [
+        2,
+        1,
+        19,
+        3,
+        28
+      ]
+    },
+    "C05": {
+      "claim": "Arterial blood gas analysis showed mild hypoxia with a PaO\u2082 of 8.5 kPa.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly reports ABG PaO\u2082 of 8.5 kPa and describes it as mild hypoxia.",
+      "evidence_quote": "ABG: PaO2 8.5 kPa ... (compensated respiratory alkalosis, mild hypoxia)",
+      "retrieved_note_indices": [
+        3,
+        2,
+        1,
+        4,
+        19
+      ]
+    },
+    "C06": {
+      "claim": "Arterial blood gas analysis showed compensated respiratory alkalosis.",
+      "label": "SUPPORTED",
+      "reason": "The ABG is explicitly documented as showing compensated respiratory alkalosis.",
+      "evidence_quote": "ABG: PaO2 8.5 kPa, PaCO2 3.8 kPa, pH 7.46, HCO3- 24 mmol/L (compensated respiratory alkalosis, mild hypoxia)",
+      "retrieved_note_indices": [
+        3,
+        4,
+        6,
+        5,
+        1
+      ]
+    },
+    "C07": {
+      "claim": "NT-proBNP was elevated at 3,200 pg/mL.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 3 explicitly states that NT-proBNP was elevated at 3,200 pg/mL.",
+      "evidence_quote": "NT-proBNP elevated at 3,200 pg/mL",
+      "retrieved_note_indices": [
+        11,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "C08": {
+      "claim": "Chronic thromboembolic pulmonary hypertension was diagnosed.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly describes the CTEPH diagnosis as confirmed.",
+      "evidence_quote": "based on confirmed CTEPH diagnosis",
+      "retrieved_note_indices": [
+        6,
+        17,
+        4,
+        5,
+        22
+      ]
+    },
+    "C09": {
+      "claim": "Initial management plans included CTPA confirmation and echocardiographic assessment of right ventricular function.",
+      "label": "SUPPORTED",
+      "reason": "The initial management plan explicitly included CTPA to confirm CTEPH and echocardiography to assess right ventricular function.",
+      "evidence_quote": "Perform CTPA to confirm CTEPH. Request echo to assess RV function.",
+      "retrieved_note_indices": [
+        6,
+        4,
+        5,
+        18,
+        22
+      ]
+    },
+    "C10": {
+      "claim": "Initial management plans included anticoagulation with LMWH until oral anticoagulation was established.",
+      "label": "SUPPORTED",
+      "reason": "The management plan explicitly states continuation of LMWH until oral apixaban therapy was fully initiated.",
+      "evidence_quote": "Continue LMWH until apixaban therapy is fully initiated.",
+      "retrieved_note_indices": [
+        14,
+        6,
+        34,
+        8,
+        20
+      ]
+    },
+    "C11": {
+      "claim": "Apixaban was initially proposed.",
+      "label": "SUPPORTED",
+      "reason": "The plan explicitly proposed starting apixaban.",
+      "evidence_quote": "Plan: 1. Start apixaban 10 mg BD x 7 days, then 5 mg BD.",
+      "retrieved_note_indices": [
+        14,
+        6,
+        10,
+        34,
+        31
+      ]
+    },
+    "C12": {
+      "claim": "She subsequently received rivaroxaban.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents initiation and prescription of rivaroxaban.",
+      "evidence_quote": "Initiated long-term anticoagulation therapy with Rivaroxaban 20 mg OD",
+      "retrieved_note_indices": [
+        14,
+        31,
+        37,
+        34,
+        6
+      ]
+    },
+    "C13": {
+      "claim": "She received physiotherapy and breathing exercises.",
+      "label": "SUPPORTED",
+      "reason": "The source notes explicitly document physiotherapy sessions involving breathing exercises and mobilisation.",
+      "evidence_quote": "The session focused on breathing exercises and light mobilisation.",
+      "retrieved_note_indices": [
+        13,
+        7,
+        25,
+        28,
+        30
+      ]
+    },
+    "C14": {
+      "claim": "She remained oxygen-dependent at 2 L/min with an oxygen saturation of 91%.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence supports oxygen therapy via nasal cannula, but does not document a flow rate of 2 L/min or an oxygen saturation of 91%. Reported saturations were 89% on room air and improved to 92%.",
+      "evidence_quote": "SpO2 noted to remain low at 89% on room air... improvement in SpO2 to 92%",
+      "retrieved_note_indices": [
+        2,
+        1,
+        19,
+        3,
+        25
+      ]
+    },
+    "C15": {
+      "claim": "Examination showed an elevated JVP without oedema.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents a raised/elevated JVP and no peripheral oedema.",
+      "evidence_quote": "JVP raised to angle of jaw at 45\u00b0. ... No peripheral oedema.",
+      "retrieved_note_indices": [
+        5,
+        4,
+        12,
+        17,
+        6
+      ]
+    },
+    "C16": {
+      "claim": "Echocardiography confirmed severe pulmonary hypertension.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 16 explicitly states that severe pulmonary hypertension was confirmed on echocardiogram.",
+      "evidence_quote": "Severe pulmonary hypertension confirmed on echocardiogram",
+      "retrieved_note_indices": [
+        4,
+        5,
+        6,
+        20,
+        16
+      ]
+    },
+    "C17": {
+      "claim": "Referral to a tertiary pulmonary hypertension centre for pulmonary endarterectomy assessment was planned.",
+      "label": "SUPPORTED",
+      "reason": "The notes explicitly document referral to a tertiary pulmonary hypertension centre for pulmonary endarterectomy assessment/consideration.",
+      "evidence_quote": "Referral to tertiary PH centre for PEA consideration.",
+      "retrieved_note_indices": [
+        18,
+        29,
+        23,
+        17,
+        4
+      ]
+    },
+    "C18": {
+      "claim": "Rivaroxaban was continued.",
+      "label": "SUPPORTED",
+      "reason": "The plan explicitly states to continue rivaroxaban.",
+      "evidence_quote": "Continue Rivaroxaban 15 mg BD as per protocol.",
+      "retrieved_note_indices": [
+        14,
+        37,
+        31,
+        6,
+        17
+      ]
+    },
+    "C19": {
+      "claim": "Furosemide 40 mg daily was continued.",
+      "label": "SUPPORTED",
+      "reason": "The plan explicitly states that furosemide 40 mg once daily was to continue.",
+      "evidence_quote": "furosemide 40 mg OD to continue",
+      "retrieved_note_indices": [
+        36,
+        12,
+        16,
+        17,
+        11
+      ]
+    },
+    "C20": {
+      "claim": "She received education about pulmonary hypertension and anticoagulation.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that education covered pulmonary hypertension and anticoagulation therapy.",
+      "evidence_quote": "Discussed pulmonary HTN, anticoagulation therapy",
+      "retrieved_note_indices": [
+        20,
+        43,
+        40,
+        4,
+        6
+      ]
+    },
+    "C21": {
+      "claim": "A V/Q scan demonstrated mismatched perfusion defects.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the V/Q scan showed mismatched perfusion defects.",
+      "evidence_quote": "V/Q scan reviewed. Mismatched perfusion defects",
+      "retrieved_note_indices": [
+        23,
+        4,
+        22,
+        21,
+        5
+      ]
+    },
+    "C22": {
+      "claim": "Sildenafil 20 mg three times daily was initiated or continued.",
+      "label": "SUPPORTED",
+      "reason": "The notes explicitly document sildenafil 20 mg TDS being initiated and continued.",
+      "evidence_quote": "Initiate sildenafil 20 mg TDS",
+      "retrieved_note_indices": [
+        26,
+        27,
+        36,
+        42,
+        21
+      ]
+    },
+    "C23": {
+      "claim": "Her oxygen requirement decreased to 1 L/min with an oxygen saturation of 94\u201395%.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents oxygen saturation of 92% initially and later above 92% on low-flow oxygen, but does not establish an oxygen requirement of 1 L/min or saturation of 94\u201395%.",
+      "evidence_quote": "Oxygen saturations remained above 92% on low-flow oxygen throughout the session.",
+      "retrieved_note_indices": [
+        1,
+        2,
+        19,
+        28,
+        25
+      ]
+    },
+    "C24": {
+      "claim": "The JVP was no longer raised and there was no oedema.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents no peripheral oedema but states that the JVP remained elevated, so it does not support that the JVP was no longer raised.",
+      "evidence_quote": "JVP elevated at 4cm. No peripheral oedema.",
+      "retrieved_note_indices": [
+        17,
+        5,
+        4,
+        12,
+        21
+      ]
+    },
+    "C25": {
+      "claim": "Severe pulmonary hypertension with right ventricular strain was documented.",
+      "label": "SUPPORTED",
+      "reason": "The echocardiogram explicitly confirmed severe pulmonary hypertension and right ventricular strain.",
+      "evidence_quote": "Echo: severe PH, RV strain.",
+      "retrieved_note_indices": [
+        4,
+        5,
+        6,
+        11,
+        18
+      ]
+    },
+    "C26": {
+      "claim": "NT-proBNP remained elevated.",
+      "label": "SUPPORTED",
+      "reason": "The notes explicitly describe NT-proBNP as persistently or continually elevated, including a value of 3,200 pg/mL.",
+      "evidence_quote": "NT-proBNP remains elevated at 3200 pg/mL",
+      "retrieved_note_indices": [
+        11,
+        6,
+        4,
+        5,
+        17
+      ]
+    },
+    "C27": {
+      "claim": "She was later stable on room air with an oxygen saturation of 95%.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents oxygen saturation of 89% on room air and improvement to 92% with oxygen therapy; later saturations were above 92% on low-flow oxygen, but 95% on room air is not established.",
+      "evidence_quote": "SpO2 noted to remain low at 89% on room air",
+      "retrieved_note_indices": [
+        2,
+        1,
+        3,
+        25,
+        28
+      ]
+    },
+    "C28": {
+      "claim": "Long-term rivaroxaban 20 mg daily was planned.",
+      "label": "SUPPORTED",
+      "reason": "The plan explicitly states long-term anticoagulation with rivaroxaban 20 mg once daily.",
+      "evidence_quote": "Start Rivaroxaban 20 mg OD for long-term anticoagulation.",
+      "retrieved_note_indices": [
+        14,
+        31,
+        37,
+        6,
+        34
+      ]
+    },
+    "C29": {
+      "claim": "She had improved activity tolerance with minimal breathlessness on mobilisation.",
+      "label": "SUPPORTED",
+      "reason": "The notes document improved walking distance and reduced breathlessness, with mobilisation tolerated without significant SOB.",
+      "evidence_quote": "The patient demonstrated improved walking distance compared to prior physio sessions... The patient reported less SOB than in previous sessions.",
+      "retrieved_note_indices": [
+        28,
+        9,
+        25,
+        33,
+        13
+      ]
+    },
+    "C30": {
+      "claim": "Mild anaemia was documented.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly documents mild anaemia and reports Hb 110 g/L, previously 120 g/L.",
+      "evidence_quote": "2. Mild Anemia -Hb 110 g/L, previously 120 g/L",
+      "retrieved_note_indices": [
+        32,
+        2,
+        3,
+        4,
+        19
+      ]
+    },
+    "C31": {
+      "claim": "Ferrous sulfate 200 mg twice daily was prescribed.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that ferrous sulfate 200 mg twice daily (BD) was prescribed.",
+      "evidence_quote": "Start ferrous sulfate 200 mg BD for anemia.",
+      "retrieved_note_indices": [
+        14,
+        32,
+        34,
+        9,
+        36
+      ]
+    },
+    "C32": {
+      "claim": "Furosemide 20 mg daily was started for mild peripheral oedema.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 36 explicitly states that furosemide 20 mg once daily was started for mild peripheral oedema.",
+      "evidence_quote": "Start furosemide 20 mg OD PO for mild peripheral oedema",
+      "retrieved_note_indices": [
+        14,
+        12,
+        36,
+        16,
+        17
+      ]
+    },
+    "C33": {
+      "claim": "Haemoglobin was 110 g/L.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly records haemoglobin as 110 g/L.",
+      "evidence_quote": "Hb 110 g/L",
+      "retrieved_note_indices": [
+        32,
+        42,
+        11,
+        2,
+        36
+      ]
+    },
+    "C34": {
+      "claim": "Rivaroxaban 20 mg daily was tolerated without reported side effects.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 37 states that rivaroxaban was well-tolerated with no side effects and documents rivaroxaban 20 mg OD.",
+      "evidence_quote": "Rivaroxaban assessed as effective and well-tolerated with no side effects",
+      "retrieved_note_indices": [
+        14,
+        37,
+        31,
+        42,
+        17
+      ]
+    },
+    "C35": {
+      "claim": "At discharge, she was comfortable and mobilising well with an oxygen saturation of 94% on room air.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence supports improved mobility and SpO2 of 94% on room air during activity, but it does not explicitly establish that she was comfortable.",
+      "evidence_quote": "SpO2 maintained at 94% on room air during activity",
+      "retrieved_note_indices": [
+        33,
+        25,
+        28,
+        44,
+        1
+      ]
+    },
+    "C36": {
+      "claim": "At discharge, she had no peripheral oedema.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round examination documented that she had no peripheral oedema, and discharge planning was underway.",
+      "evidence_quote": "No perkpheral oedema.",
+      "retrieved_note_indices": [
+        43,
+        44,
+        37,
+        33,
+        4
+      ]
+    },
+    "C37": {
+      "claim": "Her discharge treatment included rivaroxaban 15 mg twice daily for three weeks followed by 20 mg daily.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly states rivaroxaban 15 mg twice daily for three weeks followed by 20 mg once daily.",
+      "evidence_quote": "Discharge today with rivaroxaban 15 mg BD x 3 weeks, then 20 mg OD.",
+      "retrieved_note_indices": [
+        14,
+        34,
+        37,
+        31,
+        42
+      ]
+    },
+    "C38": {
+      "claim": "Her discharge treatment included sildenafil 20 mg three times daily.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly prescribed sildenafil 20 mg three times daily for pulmonary hypertension.",
+      "evidence_quote": "Discharge today ... Prescribed sildenafil 20 mg TID for PH.",
+      "retrieved_note_indices": [
+        43,
+        42,
+        26,
+        27,
+        31
+      ]
+    },
+    "C39": {
+      "claim": "Her discharge treatment included ferrous sulfate 200 mg twice daily.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly states that ferrous sulfate 200 mg twice daily was prescribed for anemia.",
+      "evidence_quote": "Discharge today ... Prescrbed ferrous sulfate 200 mg BD for anemia.",
+      "retrieved_note_indices": [
+        32,
+        43,
+        42,
+        34,
+        14
+      ]
+    },
+    "C40": {
+      "claim": "A home exercise plan was arranged.",
+      "label": "SUPPORTED",
+      "reason": "The sources explicitly state that a personalised home exercise plan/programme was finalised and that the patient was discharged with it.",
+      "evidence_quote": "A personalised home exercise plan was finalised for Ms. Abena Bonsu.",
+      "retrieved_note_indices": [
+        40,
+        38,
+        44,
+        24,
+        9
+      ]
+    },
+    "C41": {
+      "claim": "Outpatient review of haemoglobin and NT-proBNP was arranged.",
+      "label": "SUPPORTED",
+      "reason": "The plan explicitly arranges outpatient repeat testing of both haemoglobin and NT-proBNP.",
+      "evidence_quote": "Repeat Hb and NT-proBNP in OPD",
+      "retrieved_note_indices": [
+        11,
+        36,
+        4,
+        17,
+        32
+      ]
+    },
+    "C42": {
+      "claim": "Tertiary pulmonary hypertension follow-up was planned.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents referral to a tertiary pulmonary hypertension centre for pulmonary endarterectomy assessment, but does not explicitly establish that tertiary pulmonary hypertension follow-up was planned.",
+      "evidence_quote": "Refer patient to a tertiary PH centre for consideration of PEA.",
+      "retrieved_note_indices": [
+        20,
+        23,
+        18,
+        22,
+        17
+      ]
+    },
+    "C43": {
+      "claim": "She was advised to seek urgent care for worsening breathlessness or chest pain.",
+      "label": "UNSUPPORTED",
+      "reason": "The sources document progressive breathlessness, urgent assessment, and hospital admission, but do not state that she was advised to seek urgent care for worsening breathlessness or chest pain.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        4,
+        3,
+        7,
+        6,
+        0
+      ]
+    }
+  },
+  "Section + Gemini": {
+    "C01": {
+      "claim": "The patient had hypertension.",
+      "label": "SUPPORTED",
+      "reason": "The patient's past medical history explicitly lists HTN.",
+      "evidence_quote": "Past Medical History - HTN",
+      "retrieved_note_indices": [
+        4,
+        28,
+        5,
+        6,
+        3
+      ]
+    },
+    "C02": {
+      "claim": "The patient had asthma.",
+      "label": "SUPPORTED",
+      "reason": "The source notes explicitly list asthma in the patient's past medical history.",
+      "evidence_quote": "Past medical history: HTN, Asthma.",
+      "retrieved_note_indices": [
+        3,
+        4,
+        28,
+        1,
+        0
+      ]
+    },
+    "C03": {
+      "claim": "The patient presented with progressive exertional dyspnoea.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents progressive breathlessness/dyspnoea that is worse on exertion.",
+      "evidence_quote": "Progressive worsening of SOB over the last 2 weeks; SOB worse on exertion.",
+      "retrieved_note_indices": [
+        4,
+        5,
+        1,
+        6,
+        7
+      ]
+    },
+    "C04": {
+      "claim": "The patient was a non-smoker.",
+      "label": "SUPPORTED",
+      "reason": "The social history explicitly states that the patient was a non-smoker.",
+      "evidence_quote": "Social History - Lives alone - Non-smoker",
+      "retrieved_note_indices": [
+        28,
+        4,
+        13,
+        20,
+        1
+      ]
+    }
+  }
+}

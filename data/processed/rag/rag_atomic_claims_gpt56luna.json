@@ -1,0 +1,2100 @@
+{
+  "Whole + Gemini": [
+    {
+      "claim_id": "C01",
+      "claim": "Abena Bonsu is a 43-year-old woman with hypertension."
+    },
+    {
+      "claim_id": "C02",
+      "claim": "She has asthma."
+    },
+    {
+      "claim_id": "C03",
+      "claim": "She has a nut allergy."
+    },
+    {
+      "claim_id": "C04",
+      "claim": "She reported no regular medications."
+    },
+    {
+      "claim_id": "C05",
+      "claim": "She presented with two weeks of progressive exertional breathlessness."
+    },
+    {
+      "claim_id": "C06",
+      "claim": "She was tachycardic."
+    },
+    {
+      "claim_id": "C07",
+      "claim": "She was tachypnoeic."
+    },
+    {
+      "claim_id": "C08",
+      "claim": "She was borderline hypotensive."
+    },
+    {
+      "claim_id": "C09",
+      "claim": "Her oxygen saturation was 89\u201390% on room air."
+    },
+    {
+      "claim_id": "C10",
+      "claim": "She required low-flow oxygen."
+    },
+    {
+      "claim_id": "C11",
+      "claim": "Her oxygen saturation improved to approximately 92% on 2 L nasal cannula."
+    },
+    {
+      "claim_id": "C12",
+      "claim": "She had a raised JVP."
+    },
+    {
+      "claim_id": "C13",
+      "claim": "She had basal crepitations."
+    },
+    {
+      "claim_id": "C14",
+      "claim": "She had mild hepatomegaly."
+    },
+    {
+      "claim_id": "C15",
+      "claim": "She later had a loud P2."
+    },
+    {
+      "claim_id": "C16",
+      "claim": "ABG showed mild hypoxia with a PaO\u2082 of 8.5 kPa."
+    },
+    {
+      "claim_id": "C17",
+      "claim": "ABG showed respiratory alkalosis."
+    },
+    {
+      "claim_id": "C18",
+      "claim": "NT-proBNP was elevated at 3,200\u20134,500 pg/mL."
+    },
+    {
+      "claim_id": "C19",
+      "claim": "D-dimer was elevated."
+    },
+    {
+      "claim_id": "C20",
+      "claim": "Chest X-ray showed bilateral pulmonary congestion."
+    },
+    {
+      "claim_id": "C21",
+      "claim": "Chest X-ray showed no focal consolidation."
+    },
+    {
+      "claim_id": "C22",
+      "claim": "Chest X-ray showed no pneumothorax."
+    },
+    {
+      "claim_id": "C23",
+      "claim": "She was admitted to the Respiratory HDU for suspected chronic thromboembolic pulmonary hypertension."
+    },
+    {
+      "claim_id": "C24",
+      "claim": "Therapeutic anticoagulation with enoxaparin was initially planned."
+    },
+    {
+      "claim_id": "C25",
+      "claim": "Apixaban was planned at 10 mg twice daily for 7 days followed by 5 mg twice daily."
+    },
+    {
+      "claim_id": "C26",
+      "claim": "LMWH was planned to continue until anticoagulation was established."
+    },
+    {
+      "claim_id": "C27",
+      "claim": "CTPA and echocardiography were requested."
+    },
+    {
+      "claim_id": "C28",
+      "claim": "Physiotherapy began with diaphragmatic breathing exercises."
+    },
+    {
+      "claim_id": "C29",
+      "claim": "Physiotherapy included light mobilisation."
+    },
+    {
+      "claim_id": "C30",
+      "claim": "Echocardiography showed severe pulmonary hypertension."
+    },
+    {
+      "claim_id": "C31",
+      "claim": "Echocardiography showed right ventricular strain."
+    },
+    {
+      "claim_id": "C32",
+      "claim": "She remained dependent on 2 L oxygen with an oxygen saturation of 91%."
+    },
+    {
+      "claim_id": "C33",
+      "claim": "She had persistent tachycardia."
+    },
+    {
+      "claim_id": "C34",
+      "claim": "She developed mild peripheral oedema."
+    },
+    {
+      "claim_id": "C35",
+      "claim": "Oral furosemide 40 mg daily was started."
+    },
+    {
+      "claim_id": "C36",
+      "claim": "CTPA and echocardiography confirmed CTEPH."
+    },
+    {
+      "claim_id": "C37",
+      "claim": "Her breathlessness improved."
+    },
+    {
+      "claim_id": "C38",
+      "claim": "Her oxygen saturation was 94% on 2 L oxygen."
+    },
+    {
+      "claim_id": "C39",
+      "claim": "Sildenafil 20 mg three times daily was continued."
+    },
+    {
+      "claim_id": "C40",
+      "claim": "She was referred to a tertiary pulmonary hypertension centre for pulmonary endarterectomy assessment."
+    },
+    {
+      "claim_id": "C41",
+      "claim": "Physiotherapy progressed to corridor walking with rest breaks."
+    },
+    {
+      "claim_id": "C42",
+      "claim": "Her oxygen saturations remained above 92% during mobilisation."
+    },
+    {
+      "claim_id": "C43",
+      "claim": "V/Q scanning showed mismatched perfusion defects consistent with CTEPH."
+    },
+    {
+      "claim_id": "C44",
+      "claim": "She maintained an oxygen saturation of 95% on room air."
+    },
+    {
+      "claim_id": "C45",
+      "claim": "Long-term anticoagulation with rivaroxaban 20 mg daily was initiated."
+    },
+    {
+      "claim_id": "C46",
+      "claim": "She reported improved activity tolerance."
+    },
+    {
+      "claim_id": "C47",
+      "claim": "She had mild anaemia with a haemoglobin of 110 g/L."
+    },
+    {
+      "claim_id": "C48",
+      "claim": "Ferrous sulfate 200 mg twice daily was started."
+    },
+    {
+      "claim_id": "C49",
+      "claim": "Furosemide 20 mg daily was prescribed for mild peripheral oedema."
+    },
+    {
+      "claim_id": "C50",
+      "claim": "She participated in breathing exercises, energy-conservation training, and mobility sessions."
+    },
+    {
+      "claim_id": "C51",
+      "claim": "She was clinically stable with improving breathlessness."
+    },
+    {
+      "claim_id": "C52",
+      "claim": "She had good mobilisation."
+    },
+    {
+      "claim_id": "C53",
+      "claim": "Her lungs were clear."
+    },
+    {
+      "claim_id": "C54",
+      "claim": "She no longer had a raised JVP."
+    },
+    {
+      "claim_id": "C55",
+      "claim": "She no longer had peripheral oedema."
+    },
+    {
+      "claim_id": "C56",
+      "claim": "Her oxygen saturation was 94% on room air."
+    },
+    {
+      "claim_id": "C57",
+      "claim": "She was discharged on rivaroxaban 15 mg twice daily for 3 weeks followed by 20 mg daily."
+    },
+    {
+      "claim_id": "C58",
+      "claim": "She was discharged on sildenafil 20 mg three times daily."
+    },
+    {
+      "claim_id": "C59",
+      "claim": "She was discharged on ferrous sulfate 200 mg twice daily."
+    },
+    {
+      "claim_id": "C60",
+      "claim": "A home exercise programme was arranged."
+    },
+    {
+      "claim_id": "C61",
+      "claim": "Safety-netting advice was provided."
+    },
+    {
+      "claim_id": "C62",
+      "claim": "Follow-up at a tertiary pulmonary hypertension centre was arranged."
+    },
+    {
+      "claim_id": "C63",
+      "claim": "Pulmonary endarterectomy was to be considered."
+    }
+  ],
+  "Whole + BGE": [
+    {
+      "claim_id": "C01",
+      "claim": "The patient was admitted with several weeks of progressive exertional breathlessness."
+    },
+    {
+      "claim_id": "C02",
+      "claim": "The breathlessness limited her daily activities."
+    },
+    {
+      "claim_id": "C03",
+      "claim": "Her past medical history included hypertension."
+    },
+    {
+      "claim_id": "C04",
+      "claim": "Her past medical history included asthma."
+    },
+    {
+      "claim_id": "C05",
+      "claim": "She had a nut allergy."
+    },
+    {
+      "claim_id": "C06",
+      "claim": "She denied chest pain."
+    },
+    {
+      "claim_id": "C07",
+      "claim": "She denied syncope."
+    },
+    {
+      "claim_id": "C08",
+      "claim": "She denied palpitations."
+    },
+    {
+      "claim_id": "C09",
+      "claim": "She denied fever."
+    },
+    {
+      "claim_id": "C10",
+      "claim": "She denied cough."
+    },
+    {
+      "claim_id": "C11",
+      "claim": "She denied sputum production."
+    },
+    {
+      "claim_id": "C12",
+      "claim": "She denied haemoptysis."
+    },
+    {
+      "claim_id": "C13",
+      "claim": "She denied recent travel."
+    },
+    {
+      "claim_id": "C14",
+      "claim": "She denied recent surgery."
+    },
+    {
+      "claim_id": "C15",
+      "claim": "She was tachycardic."
+    },
+    {
+      "claim_id": "C16",
+      "claim": "She was tachypnoeic."
+    },
+    {
+      "claim_id": "C17",
+      "claim": "She was hypoxic."
+    },
+    {
+      "claim_id": "C18",
+      "claim": "She had a raised JVP."
+    },
+    {
+      "claim_id": "C19",
+      "claim": "She had a loud P2."
+    },
+    {
+      "claim_id": "C20",
+      "claim": "ABG showed a PaO\u2082 of 8.5 kPa."
+    },
+    {
+      "claim_id": "C21",
+      "claim": "ABG showed a PaCO\u2082 of 3.5 kPa."
+    },
+    {
+      "claim_id": "C22",
+      "claim": "ABG showed a pH of 7.47."
+    },
+    {
+      "claim_id": "C23",
+      "claim": "Chest radiography showed cardiomegaly."
+    },
+    {
+      "claim_id": "C24",
+      "claim": "NT-proBNP was elevated at 3,200\u20134,500 pg/mL."
+    },
+    {
+      "claim_id": "C25",
+      "claim": "Low-flow oxygen improved her oxygen saturation."
+    },
+    {
+      "claim_id": "C26",
+      "claim": "CTPA confirmed chronic thromboembolic disease."
+    },
+    {
+      "claim_id": "C27",
+      "claim": "Chronic thromboembolic pulmonary hypertension was diagnosed."
+    },
+    {
+      "claim_id": "C28",
+      "claim": "Enoxaparin was initially administered."
+    },
+    {
+      "claim_id": "C29",
+      "claim": "Oral anticoagulation was subsequently given."
+    },
+    {
+      "claim_id": "C30",
+      "claim": "Echocardiography was arranged to assess right-heart strain and pulmonary pressures."
+    },
+    {
+      "claim_id": "C31",
+      "claim": "Echocardiography confirmed severe pulmonary hypertension."
+    },
+    {
+      "claim_id": "C32",
+      "claim": "Echocardiography showed right ventricular strain."
+    },
+    {
+      "claim_id": "C33",
+      "claim": "She remained dependent on approximately 2 L/min of oxygen."
+    },
+    {
+      "claim_id": "C34",
+      "claim": "She had persistent exertional breathlessness."
+    },
+    {
+      "claim_id": "C35",
+      "claim": "She had intermittent mild oedema."
+    },
+    {
+      "claim_id": "C36",
+      "claim": "She had intermittent crackles."
+    },
+    {
+      "claim_id": "C37",
+      "claim": "Anticoagulation was documented as apixaban initially."
+    },
+    {
+      "claim_id": "C38",
+      "claim": "Anticoagulation was later documented as rivaroxaban."
+    },
+    {
+      "claim_id": "C39",
+      "claim": "Furosemide 40 mg daily was started for fluid retention and right-heart strain."
+    },
+    {
+      "claim_id": "C40",
+      "claim": "Physiotherapy provided diaphragmatic breathing exercises."
+    },
+    {
+      "claim_id": "C41",
+      "claim": "Physiotherapy provided energy-conservation and pacing advice."
+    },
+    {
+      "claim_id": "C42",
+      "claim": "A rollator frame was provided for short-distance mobilisation."
+    },
+    {
+      "claim_id": "C43",
+      "claim": "Her breathlessness gradually improved."
+    },
+    {
+      "claim_id": "C44",
+      "claim": "Her symptoms at rest decreased."
+    },
+    {
+      "claim_id": "C45",
+      "claim": "Sildenafil 20 mg three times daily was commenced."
+    },
+    {
+      "claim_id": "C46",
+      "claim": "An inpatient V/Q scan demonstrated mismatched perfusion defects."
+    },
+    {
+      "claim_id": "C47",
+      "claim": "The V/Q findings were consistent with chronic thromboembolic pulmonary hypertension."
+    },
+    {
+      "claim_id": "C48",
+      "claim": "The MDT was informed of the findings."
+    },
+    {
+      "claim_id": "C49",
+      "claim": "Referral to a tertiary pulmonary hypertension centre was planned."
+    },
+    {
+      "claim_id": "C50",
+      "claim": "The referral was for surgical assessment and possible pulmonary endarterectomy."
+    },
+    {
+      "claim_id": "C51",
+      "claim": "Her oxygen requirement decreased to 1 L/min."
+    },
+    {
+      "claim_id": "C52",
+      "claim": "Her oxygen saturations were around 94\u201395%."
+    },
+    {
+      "claim_id": "C53",
+      "claim": "Her exertional tolerance improved."
+    },
+    {
+      "claim_id": "C54",
+      "claim": "She was later documented to have no oedema."
+    },
+    {
+      "claim_id": "C55",
+      "claim": "She maintained an oxygen saturation of 95% on room air."
+    },
+    {
+      "claim_id": "C56",
+      "claim": "Long-term rivaroxaban 20 mg daily was initiated or documented."
+    },
+    {
+      "claim_id": "C57",
+      "claim": "Sildenafil was continued."
+    },
+    {
+      "claim_id": "C58",
+      "claim": "Assessment of her home oxygen requirements was arranged."
+    },
+    {
+      "claim_id": "C59",
+      "claim": "Mild anaemia was noted."
+    },
+    {
+      "claim_id": "C60",
+      "claim": "Her haemoglobin was 110 g/L."
+    },
+    {
+      "claim_id": "C61",
+      "claim": "Ferrous sulfate 200 mg twice daily was prescribed."
+    },
+    {
+      "claim_id": "C62",
+      "claim": "Outpatient haemoglobin monitoring was planned."
+    },
+    {
+      "claim_id": "C63",
+      "claim": "Furosemide was documented at 20 mg daily for mild oedema."
+    },
+    {
+      "claim_id": "C64",
+      "claim": "Her activity tolerance continued to improve."
+    },
+    {
+      "claim_id": "C65",
+      "claim": "She had minimal symptoms during mobilisation."
+    },
+    {
+      "claim_id": "C66",
+      "claim": "She was clinically stable on room air."
+    },
+    {
+      "claim_id": "C67",
+      "claim": "Her oxygen saturation was 94%."
+    },
+    {
+      "claim_id": "C68",
+      "claim": "She had no raised JVP."
+    },
+    {
+      "claim_id": "C69",
+      "claim": "She had no peripheral oedema."
+    },
+    {
+      "claim_id": "C70",
+      "claim": "Her mobility improved."
+    },
+    {
+      "claim_id": "C71",
+      "claim": "Rivaroxaban was considered effective and well tolerated."
+    },
+    {
+      "claim_id": "C72",
+      "claim": "A personalised home exercise programme was provided."
+    },
+    {
+      "claim_id": "C73",
+      "claim": "Safety-net advice was provided."
+    },
+    {
+      "claim_id": "C74",
+      "claim": "Discharge anticoagulation was finalised as rivaroxaban 15 mg twice daily for 21 days followed by 20 mg once daily."
+    },
+    {
+      "claim_id": "C75",
+      "claim": "Follow-up at the tertiary pulmonary hypertension centre was planned in four weeks."
+    },
+    {
+      "claim_id": "C76",
+      "claim": "She was discharged feeling well."
+    },
+    {
+      "claim_id": "C77",
+      "claim": "She had reduced breathlessness at discharge."
+    },
+    {
+      "claim_id": "C78",
+      "claim": "She had good mobilisation at discharge."
+    },
+    {
+      "claim_id": "C79",
+      "claim": "Discharge medications included rivaroxaban 15 mg twice daily for three weeks followed by 20 mg once daily."
+    },
+    {
+      "claim_id": "C80",
+      "claim": "Discharge medications included sildenafil 20 mg three times daily."
+    },
+    {
+      "claim_id": "C81",
+      "claim": "Discharge medications included ferrous sulfate 200 mg twice daily."
+    },
+    {
+      "claim_id": "C82",
+      "claim": "A home exercise plan was provided."
+    },
+    {
+      "claim_id": "C83",
+      "claim": "Outpatient review of haemoglobin was planned."
+    },
+    {
+      "claim_id": "C84",
+      "claim": "Outpatient review of NT-proBNP was planned."
+    },
+    {
+      "claim_id": "C85",
+      "claim": "Tertiary-centre assessment for pulmonary endarterectomy was planned."
+    },
+    {
+      "claim_id": "C86",
+      "claim": "She was advised to seek urgent care for worsening breathlessness."
+    },
+    {
+      "claim_id": "C87",
+      "claim": "She was advised to seek urgent care for chest pain."
+    }
+  ],
+  "Whole + MedCPT": [
+    {
+      "claim_id": "C01",
+      "claim": "The patient is a 43-year-old woman."
+    },
+    {
+      "claim_id": "C02",
+      "claim": "She has hypertension."
+    },
+    {
+      "claim_id": "C03",
+      "claim": "She has asthma."
+    },
+    {
+      "claim_id": "C04",
+      "claim": "She has a nut allergy."
+    },
+    {
+      "claim_id": "C05",
+      "claim": "She reported no regular medications."
+    },
+    {
+      "claim_id": "C06",
+      "claim": "She presented with a 2-week history of progressive exertional breathlessness limiting daily activities."
+    },
+    {
+      "claim_id": "C07",
+      "claim": "She denied chest pain."
+    },
+    {
+      "claim_id": "C08",
+      "claim": "She denied haemoptysis."
+    },
+    {
+      "claim_id": "C09",
+      "claim": "She denied fever."
+    },
+    {
+      "claim_id": "C10",
+      "claim": "She denied syncope."
+    },
+    {
+      "claim_id": "C11",
+      "claim": "She denied palpitations."
+    },
+    {
+      "claim_id": "C12",
+      "claim": "She denied wheeze."
+    },
+    {
+      "claim_id": "C13",
+      "claim": "Initial examination showed respiratory distress."
+    },
+    {
+      "claim_id": "C14",
+      "claim": "Initial examination showed tachycardia."
+    },
+    {
+      "claim_id": "C15",
+      "claim": "Initial examination showed tachypnoea."
+    },
+    {
+      "claim_id": "C16",
+      "claim": "Initial examination showed hypotension."
+    },
+    {
+      "claim_id": "C17",
+      "claim": "Initial examination showed raised jugular venous pressure."
+    },
+    {
+      "claim_id": "C18",
+      "claim": "Initial examination showed basal crepitations."
+    },
+    {
+      "claim_id": "C19",
+      "claim": "Initial examination showed a loud P2."
+    },
+    {
+      "claim_id": "C20",
+      "claim": "Initial examination showed mild tender hepatomegaly."
+    },
+    {
+      "claim_id": "C21",
+      "claim": "There was no peripheral oedema initially."
+    },
+    {
+      "claim_id": "C22",
+      "claim": "Initial oxygen saturation was 89\u201390%."
+    },
+    {
+      "claim_id": "C23",
+      "claim": "Oxygen saturation improved to 92% with low-flow oxygen."
+    },
+    {
+      "claim_id": "C24",
+      "claim": "Arterial blood gas analysis showed mild hypoxia."
+    },
+    {
+      "claim_id": "C25",
+      "claim": "Arterial blood gas analysis showed respiratory alkalosis."
+    },
+    {
+      "claim_id": "C26",
+      "claim": "PaO2 was 8.5 kPa."
+    },
+    {
+      "claim_id": "C27",
+      "claim": "Arterial pH was 7.46\u20137.47."
+    },
+    {
+      "claim_id": "C28",
+      "claim": "PaCO2 was low."
+    },
+    {
+      "claim_id": "C29",
+      "claim": "NT-proBNP was markedly elevated at 3,200\u20134,500 pg/mL."
+    },
+    {
+      "claim_id": "C30",
+      "claim": "D-dimer was elevated."
+    },
+    {
+      "claim_id": "C31",
+      "claim": "Chest radiography showed pulmonary congestion."
+    },
+    {
+      "claim_id": "C32",
+      "claim": "Chest radiography showed cardiomegaly."
+    },
+    {
+      "claim_id": "C33",
+      "claim": "Chest radiography showed no focal consolidation."
+    },
+    {
+      "claim_id": "C34",
+      "claim": "Chest radiography showed no pneumothorax."
+    },
+    {
+      "claim_id": "C35",
+      "claim": "She was admitted to the Respiratory HDU."
+    },
+    {
+      "claim_id": "C36",
+      "claim": "She was initially suspected to have chronic thromboembolic pulmonary hypertension."
+    },
+    {
+      "claim_id": "C37",
+      "claim": "She was initially treated with therapeutic enoxaparin."
+    },
+    {
+      "claim_id": "C38",
+      "claim": "She was initially treated with supplemental oxygen."
+    },
+    {
+      "claim_id": "C39",
+      "claim": "CT pulmonary angiography confirmed chronic thromboembolic disease."
+    },
+    {
+      "claim_id": "C40",
+      "claim": "Echocardiography demonstrated severe pulmonary hypertension."
+    },
+    {
+      "claim_id": "C41",
+      "claim": "Echocardiography demonstrated right ventricular strain."
+    },
+    {
+      "claim_id": "C42",
+      "claim": "Ventilation/perfusion scanning showed mismatched perfusion defects."
+    },
+    {
+      "claim_id": "C43",
+      "claim": "The ventilation/perfusion scan confirmed the extent of chronic thromboembolic pulmonary hypertension."
+    },
+    {
+      "claim_id": "C44",
+      "claim": "There was no evidence of acute infection."
+    },
+    {
+      "claim_id": "C45",
+      "claim": "Renal function remained stable."
+    },
+    {
+      "claim_id": "C46",
+      "claim": "She was referred to a tertiary pulmonary hypertension centre for pulmonary endarterectomy assessment."
+    },
+    {
+      "claim_id": "C47",
+      "claim": "Anticoagulation was transitioned to apixaban during admission."
+    },
+    {
+      "claim_id": "C48",
+      "claim": "Anticoagulation was subsequently transitioned to rivaroxaban."
+    },
+    {
+      "claim_id": "C49",
+      "claim": "The discharge rivaroxaban regimen was 15 mg twice daily for 21 days."
+    },
+    {
+      "claim_id": "C50",
+      "claim": "The discharge rivaroxaban regimen was scheduled to continue at 20 mg once daily thereafter."
+    },
+    {
+      "claim_id": "C51",
+      "claim": "Sildenafil 20 mg three times daily was started for pulmonary hypertension."
+    },
+    {
+      "claim_id": "C52",
+      "claim": "Furosemide 40 mg once daily was used during admission."
+    },
+    {
+      "claim_id": "C53",
+      "claim": "Furosemide was later given at 20 mg once daily for mild oedema."
+    },
+    {
+      "claim_id": "C54",
+      "claim": "Ferrous sulfate 200 mg twice daily was prescribed for mild anaemia."
+    },
+    {
+      "claim_id": "C55",
+      "claim": "Her haemoglobin was 110 g/L."
+    },
+    {
+      "claim_id": "C56",
+      "claim": "Physiotherapy provided breathing exercises."
+    },
+    {
+      "claim_id": "C57",
+      "claim": "Physiotherapy provided mobilisation support."
+    },
+    {
+      "claim_id": "C58",
+      "claim": "Physiotherapy provided a home exercise plan."
+    },
+    {
+      "claim_id": "C59",
+      "claim": "Her breathlessness progressively improved."
+    },
+    {
+      "claim_id": "C60",
+      "claim": "Her exercise tolerance progressively improved."
+    },
+    {
+      "claim_id": "C61",
+      "claim": "Her oxygen requirement decreased from 2 L/min to 1 L/min."
+    },
+    {
+      "claim_id": "C62",
+      "claim": "She subsequently remained stable on room air."
+    },
+    {
+      "claim_id": "C63",
+      "claim": "Her oxygen saturations were around 94\u201395% on room air."
+    },
+    {
+      "claim_id": "C64",
+      "claim": "At discharge, she was mobilising independently."
+    },
+    {
+      "claim_id": "C65",
+      "claim": "At discharge, she was comfortable at rest."
+    },
+    {
+      "claim_id": "C66",
+      "claim": "At discharge, her chest was clear."
+    },
+    {
+      "claim_id": "C67",
+      "claim": "At discharge, there was no raised jugular venous pressure."
+    },
+    {
+      "claim_id": "C68",
+      "claim": "At discharge, there was no peripheral oedema."
+    },
+    {
+      "claim_id": "C69",
+      "claim": "NT-proBNP remained elevated at discharge."
+    },
+    {
+      "claim_id": "C70",
+      "claim": "She was discharged on rivaroxaban."
+    },
+    {
+      "claim_id": "C71",
+      "claim": "She was discharged on sildenafil."
+    },
+    {
+      "claim_id": "C72",
+      "claim": "She was discharged on ferrous sulfate."
+    },
+    {
+      "claim_id": "C73",
+      "claim": "Tertiary pulmonary hypertension follow-up was planned in four weeks."
+    },
+    {
+      "claim_id": "C74",
+      "claim": "Repeat haemoglobin testing was planned."
+    },
+    {
+      "claim_id": "C75",
+      "claim": "Repeat NT-proBNP testing was planned."
+    },
+    {
+      "claim_id": "C76",
+      "claim": "She was advised to seek urgent care for worsening breathlessness."
+    },
+    {
+      "claim_id": "C77",
+      "claim": "She was advised to seek urgent care for chest pain."
+    }
+  ],
+  "Fixed + Gemini": [
+    {
+      "claim_id": "C01",
+      "claim": "She is a 43-year-old woman."
+    },
+    {
+      "claim_id": "C02",
+      "claim": "She has hypertension."
+    },
+    {
+      "claim_id": "C03",
+      "claim": "She has asthma."
+    },
+    {
+      "claim_id": "C04",
+      "claim": "She has a nut allergy."
+    },
+    {
+      "claim_id": "C05",
+      "claim": "She presented with a two-week history of progressive exertional breathlessness."
+    },
+    {
+      "claim_id": "C06",
+      "claim": "Her room-air oxygen saturation was 89\u201390%."
+    },
+    {
+      "claim_id": "C07",
+      "claim": "She was tachycardic."
+    },
+    {
+      "claim_id": "C08",
+      "claim": "She was tachypnoeic."
+    },
+    {
+      "claim_id": "C09",
+      "claim": "She was borderline hypotensive."
+    },
+    {
+      "claim_id": "C10",
+      "claim": "She had a raised JVP."
+    },
+    {
+      "claim_id": "C11",
+      "claim": "She had a loud P2."
+    },
+    {
+      "claim_id": "C12",
+      "claim": "She had bibasal crepitations."
+    },
+    {
+      "claim_id": "C13",
+      "claim": "She had mild hepatomegaly."
+    },
+    {
+      "claim_id": "C14",
+      "claim": "Chest X-ray showed pulmonary congestion."
+    },
+    {
+      "claim_id": "C15",
+      "claim": "Chest X-ray showed cardiomegaly."
+    },
+    {
+      "claim_id": "C16",
+      "claim": "Chest X-ray showed no focal consolidation or pneumothorax."
+    },
+    {
+      "claim_id": "C17",
+      "claim": "ABG demonstrated mild hypoxia with a PaO\u2082 of 8.5 kPa."
+    },
+    {
+      "claim_id": "C18",
+      "claim": "ABG demonstrated respiratory alkalosis with a pH of 7.46\u20137.47."
+    },
+    {
+      "claim_id": "C19",
+      "claim": "NT-proBNP was elevated to 4,500 pg/mL."
+    },
+    {
+      "claim_id": "C20",
+      "claim": "D-dimer was elevated."
+    },
+    {
+      "claim_id": "C21",
+      "claim": "Low-flow oxygen was started."
+    },
+    {
+      "claim_id": "C22",
+      "claim": "Her oxygen saturation improved to approximately 92% with low-flow oxygen."
+    },
+    {
+      "claim_id": "C23",
+      "claim": "She subsequently maintained oxygen saturations of 90\u201394% on 2 L nasal oxygen."
+    },
+    {
+      "claim_id": "C24",
+      "claim": "She was admitted to the Respiratory HDU with suspected chronic thromboembolic pulmonary hypertension."
+    },
+    {
+      "claim_id": "C25",
+      "claim": "She received therapeutic enoxaparin."
+    },
+    {
+      "claim_id": "C26",
+      "claim": "She was anticoagulated with apixaban during the admission."
+    },
+    {
+      "claim_id": "C27",
+      "claim": "She was subsequently anticoagulated with rivaroxaban."
+    },
+    {
+      "claim_id": "C28",
+      "claim": "CTPA confirmed chronic thromboembolic disease."
+    },
+    {
+      "claim_id": "C29",
+      "claim": "Echocardiography demonstrated severe pulmonary hypertension."
+    },
+    {
+      "claim_id": "C30",
+      "claim": "Echocardiography demonstrated right ventricular strain."
+    },
+    {
+      "claim_id": "C31",
+      "claim": "Sildenafil 20 mg three times daily was commenced."
+    },
+    {
+      "claim_id": "C32",
+      "claim": "Furosemide 40 mg daily was commenced."
+    },
+    {
+      "claim_id": "C33",
+      "claim": "She was referred to a tertiary pulmonary hypertension centre for consideration of pulmonary endarterectomy."
+    },
+    {
+      "claim_id": "C34",
+      "claim": "She received breathing exercises from physiotherapy."
+    },
+    {
+      "claim_id": "C35",
+      "claim": "She received energy-conservation education."
+    },
+    {
+      "claim_id": "C36",
+      "claim": "She received graded mobilisation with physiotherapy."
+    },
+    {
+      "claim_id": "C37",
+      "claim": "She progressed to walking 10 metres with a frame and minimal assistance."
+    },
+    {
+      "claim_id": "C38",
+      "claim": "Her oxygen saturations remained above 92% during therapy."
+    },
+    {
+      "claim_id": "C39",
+      "claim": "V/Q scanning showed mismatched perfusion defects consistent with chronic thromboembolic pulmonary hypertension."
+    },
+    {
+      "claim_id": "C40",
+      "claim": "Her breathlessness improved."
+    },
+    {
+      "claim_id": "C41",
+      "claim": "Her exercise tolerance improved."
+    },
+    {
+      "claim_id": "C42",
+      "claim": "She later maintained an oxygen saturation of 95% on room air."
+    },
+    {
+      "claim_id": "C43",
+      "claim": "She had no raised JVP at that assessment."
+    },
+    {
+      "claim_id": "C44",
+      "claim": "She had no oedema at that assessment."
+    },
+    {
+      "claim_id": "C45",
+      "claim": "She had no respiratory distress at that assessment."
+    },
+    {
+      "claim_id": "C46",
+      "claim": "She was clinically comfortable with reduced breathlessness."
+    },
+    {
+      "claim_id": "C47",
+      "claim": "She had improved activity tolerance."
+    },
+    {
+      "claim_id": "C48",
+      "claim": "She maintained an oxygen saturation of 94% on room air."
+    },
+    {
+      "claim_id": "C49",
+      "claim": "Mild anaemia was noted, with haemoglobin of 110 g/L compared with 120 g/L previously."
+    },
+    {
+      "claim_id": "C50",
+      "claim": "Ferrous sulfate 200 mg twice daily was started."
+    },
+    {
+      "claim_id": "C51",
+      "claim": "Outpatient repeat haemoglobin was planned."
+    },
+    {
+      "claim_id": "C52",
+      "claim": "Discharge medications were to include sildenafil 20 mg three times daily."
+    },
+    {
+      "claim_id": "C53",
+      "claim": "Discharge medications were to include rivaroxaban 20 mg daily."
+    },
+    {
+      "claim_id": "C54",
+      "claim": "Outpatient follow-up arrangements were provided."
+    },
+    {
+      "claim_id": "C55",
+      "claim": "She was given contact details for pulmonary hypertension support services."
+    }
+  ],
+  "Fixed + BGE": [
+    {
+      "claim_id": "C01",
+      "claim": "She presented with progressive breathlessness."
+    },
+    {
+      "claim_id": "C02",
+      "claim": "She had a history of hypertension."
+    },
+    {
+      "claim_id": "C03",
+      "claim": "She had a history of asthma."
+    },
+    {
+      "claim_id": "C04",
+      "claim": "Her oxygen saturation was 89%."
+    },
+    {
+      "claim_id": "C05",
+      "claim": "Her oxygen saturation improved to 92% on low-flow oxygen."
+    },
+    {
+      "claim_id": "C06",
+      "claim": "ABG showed mild hypoxia with a PaO\u2082 of 8.5 kPa."
+    },
+    {
+      "claim_id": "C07",
+      "claim": "ABG showed compensated respiratory alkalosis."
+    },
+    {
+      "claim_id": "C08",
+      "claim": "NT-proBNP was elevated at 3,200 pg/mL."
+    },
+    {
+      "claim_id": "C09",
+      "claim": "NT-proBNP later increased to 4,500 pg/mL."
+    },
+    {
+      "claim_id": "C10",
+      "claim": "CTPA confirmed chronic thromboembolic disease."
+    },
+    {
+      "claim_id": "C11",
+      "claim": "She had a raised JVP."
+    },
+    {
+      "claim_id": "C12",
+      "claim": "She had bibasal crackles."
+    },
+    {
+      "claim_id": "C13",
+      "claim": "Apixaban 10 mg twice daily was documented as initiated."
+    },
+    {
+      "claim_id": "C14",
+      "claim": "Echocardiography demonstrated severe pulmonary hypertension."
+    },
+    {
+      "claim_id": "C15",
+      "claim": "Echocardiography demonstrated right ventricular strain."
+    },
+    {
+      "claim_id": "C16",
+      "claim": "She remained dependent on 2 L/min oxygen."
+    },
+    {
+      "claim_id": "C17",
+      "claim": "She had exertional breathlessness."
+    },
+    {
+      "claim_id": "C18",
+      "claim": "She had mild peripheral oedema."
+    },
+    {
+      "claim_id": "C19",
+      "claim": "Furosemide 40 mg daily was started for fluid retention and right heart strain."
+    },
+    {
+      "claim_id": "C20",
+      "claim": "Physiotherapy provided breathing exercises."
+    },
+    {
+      "claim_id": "C21",
+      "claim": "Physiotherapy provided energy-conservation advice."
+    },
+    {
+      "claim_id": "C22",
+      "claim": "Physiotherapy provided pacing strategies."
+    },
+    {
+      "claim_id": "C23",
+      "claim": "A rollator frame was provided for short-distance mobilisation."
+    },
+    {
+      "claim_id": "C24",
+      "claim": "Breathlessness improved at rest."
+    },
+    {
+      "claim_id": "C25",
+      "claim": "Exertional limitation persisted."
+    },
+    {
+      "claim_id": "C26",
+      "claim": "Sildenafil 20 mg three times daily was prescribed."
+    },
+    {
+      "claim_id": "C27",
+      "claim": "An inpatient V/Q scan showed mismatched perfusion defects consistent with CTEPH."
+    },
+    {
+      "claim_id": "C28",
+      "claim": "Referral to a tertiary pulmonary hypertension centre was planned for surgical assessment."
+    },
+    {
+      "claim_id": "C29",
+      "claim": "Possible pulmonary endarterectomy was being considered."
+    },
+    {
+      "claim_id": "C30",
+      "claim": "Her oxygen requirement decreased from 2 L/min to 1 L/min."
+    },
+    {
+      "claim_id": "C31",
+      "claim": "Her oxygen saturation was 94\u201395% on 1 L/min oxygen."
+    },
+    {
+      "claim_id": "C32",
+      "claim": "Physiotherapy documented improved endurance without significant desaturation."
+    },
+    {
+      "claim_id": "C33",
+      "claim": "Her oxygen saturation was 95% on room air."
+    },
+    {
+      "claim_id": "C34",
+      "claim": "Long-term anticoagulation with rivaroxaban was documented."
+    },
+    {
+      "claim_id": "C35",
+      "claim": "She was mobilising independently on room air."
+    },
+    {
+      "claim_id": "C36",
+      "claim": "Furosemide 20 mg daily was documented for mild peripheral oedema."
+    },
+    {
+      "claim_id": "C37",
+      "claim": "Mild anaemia was noted with haemoglobin of 110 g/L."
+    },
+    {
+      "claim_id": "C38",
+      "claim": "Ferrous sulfate 200 mg twice daily was started."
+    },
+    {
+      "claim_id": "C39",
+      "claim": "Rivaroxaban was prescribed as 15 mg twice daily for 21 days followed by 20 mg once daily."
+    },
+    {
+      "claim_id": "C40",
+      "claim": "A personalised home exercise programme was provided."
+    },
+    {
+      "claim_id": "C41",
+      "claim": "She was discharged clinically stable."
+    },
+    {
+      "claim_id": "C42",
+      "claim": "She had reduced breathlessness at discharge."
+    },
+    {
+      "claim_id": "C43",
+      "claim": "She had good mobility at discharge."
+    },
+    {
+      "claim_id": "C44",
+      "claim": "Follow-up at the tertiary pulmonary hypertension centre was planned."
+    },
+    {
+      "claim_id": "C45",
+      "claim": "Outpatient haemoglobin review was planned."
+    },
+    {
+      "claim_id": "C46",
+      "claim": "Outpatient NT-proBNP review was planned."
+    },
+    {
+      "claim_id": "C47",
+      "claim": "She was advised to seek urgent care for worsening breathlessness or chest pain."
+    }
+  ],
+  "Fixed + MedCPT": [
+    {
+      "claim_id": "C01",
+      "claim": "The patient was a 43-year-old woman with hypertension and asthma."
+    },
+    {
+      "claim_id": "C02",
+      "claim": "She presented with a 2-week history of progressive exertional breathlessness and chest tightness."
+    },
+    {
+      "claim_id": "C03",
+      "claim": "She denied chest pain, haemoptysis, fever, syncope, palpitations, and wheeze."
+    },
+    {
+      "claim_id": "C04",
+      "claim": "Her oxygen saturation was 89% and improved to 92% with low-flow oxygen."
+    },
+    {
+      "claim_id": "C05",
+      "claim": "Arterial blood gas analysis showed mild hypoxia with a PaO\u2082 of 8.5 kPa."
+    },
+    {
+      "claim_id": "C06",
+      "claim": "Arterial blood gas analysis showed compensated respiratory alkalosis."
+    },
+    {
+      "claim_id": "C07",
+      "claim": "NT-proBNP was elevated at 3,200 pg/mL."
+    },
+    {
+      "claim_id": "C08",
+      "claim": "Chronic thromboembolic pulmonary hypertension was diagnosed."
+    },
+    {
+      "claim_id": "C09",
+      "claim": "Initial management plans included CTPA confirmation and echocardiographic assessment of right ventricular function."
+    },
+    {
+      "claim_id": "C10",
+      "claim": "Initial management plans included anticoagulation with LMWH until oral anticoagulation was established."
+    },
+    {
+      "claim_id": "C11",
+      "claim": "Apixaban was initially proposed."
+    },
+    {
+      "claim_id": "C12",
+      "claim": "She subsequently received rivaroxaban."
+    },
+    {
+      "claim_id": "C13",
+      "claim": "She received physiotherapy and breathing exercises."
+    },
+    {
+      "claim_id": "C14",
+      "claim": "She remained oxygen-dependent at 2 L/min with an oxygen saturation of 91%."
+    },
+    {
+      "claim_id": "C15",
+      "claim": "Examination showed an elevated JVP without oedema."
+    },
+    {
+      "claim_id": "C16",
+      "claim": "Echocardiography confirmed severe pulmonary hypertension."
+    },
+    {
+      "claim_id": "C17",
+      "claim": "Referral to a tertiary pulmonary hypertension centre for pulmonary endarterectomy assessment was planned."
+    },
+    {
+      "claim_id": "C18",
+      "claim": "Rivaroxaban was continued."
+    },
+    {
+      "claim_id": "C19",
+      "claim": "Furosemide 40 mg daily was continued."
+    },
+    {
+      "claim_id": "C20",
+      "claim": "She received education about pulmonary hypertension and anticoagulation."
+    },
+    {
+      "claim_id": "C21",
+      "claim": "A V/Q scan demonstrated mismatched perfusion defects."
+    },
+    {
+      "claim_id": "C22",
+      "claim": "Sildenafil 20 mg three times daily was initiated or continued."
+    },
+    {
+      "claim_id": "C23",
+      "claim": "Her oxygen requirement decreased to 1 L/min with an oxygen saturation of 94\u201395%."
+    },
+    {
+      "claim_id": "C24",
+      "claim": "The JVP was no longer raised and there was no oedema."
+    },
+    {
+      "claim_id": "C25",
+      "claim": "Severe pulmonary hypertension with right ventricular strain was documented."
+    },
+    {
+      "claim_id": "C26",
+      "claim": "NT-proBNP remained elevated."
+    },
+    {
+      "claim_id": "C27",
+      "claim": "She was later stable on room air with an oxygen saturation of 95%."
+    },
+    {
+      "claim_id": "C28",
+      "claim": "Long-term rivaroxaban 20 mg daily was planned."
+    },
+    {
+      "claim_id": "C29",
+      "claim": "She had improved activity tolerance with minimal breathlessness on mobilisation."
+    },
+    {
+      "claim_id": "C30",
+      "claim": "Mild anaemia was documented."
+    },
+    {
+      "claim_id": "C31",
+      "claim": "Ferrous sulfate 200 mg twice daily was prescribed."
+    },
+    {
+      "claim_id": "C32",
+      "claim": "Furosemide 20 mg daily was started for mild peripheral oedema."
+    },
+    {
+      "claim_id": "C33",
+      "claim": "Haemoglobin was 110 g/L."
+    },
+    {
+      "claim_id": "C34",
+      "claim": "Rivaroxaban 20 mg daily was tolerated without reported side effects."
+    },
+    {
+      "claim_id": "C35",
+      "claim": "At discharge, she was comfortable and mobilising well with an oxygen saturation of 94% on room air."
+    },
+    {
+      "claim_id": "C36",
+      "claim": "At discharge, she had no peripheral oedema."
+    },
+    {
+      "claim_id": "C37",
+      "claim": "Her discharge treatment included rivaroxaban 15 mg twice daily for three weeks followed by 20 mg daily."
+    },
+    {
+      "claim_id": "C38",
+      "claim": "Her discharge treatment included sildenafil 20 mg three times daily."
+    },
+    {
+      "claim_id": "C39",
+      "claim": "Her discharge treatment included ferrous sulfate 200 mg twice daily."
+    },
+    {
+      "claim_id": "C40",
+      "claim": "A home exercise plan was arranged."
+    },
+    {
+      "claim_id": "C41",
+      "claim": "Outpatient review of haemoglobin and NT-proBNP was arranged."
+    },
+    {
+      "claim_id": "C42",
+      "claim": "Tertiary pulmonary hypertension follow-up was planned."
+    },
+    {
+      "claim_id": "C43",
+      "claim": "She was advised to seek urgent care for worsening breathlessness or chest pain."
+    }
+  ],
+  "Section + Gemini": [
+    {
+      "claim_id": "C01",
+      "claim": "The patient had hypertension."
+    },
+    {
+      "claim_id": "C02",
+      "claim": "The patient had asthma."
+    },
+    {
+      "claim_id": "C03",
+      "claim": "The patient presented with progressive exertional dyspnoea."
+    },
+    {
+      "claim_id": "C04",
+      "claim": "The patient was a non-smoker."
+    },
+    {
+      "claim_id": "C05",
+      "claim": "The patient lived independently."
+    },
+    {
+      "claim_id": "C06",
+      "claim": "The patient reported no significant cough."
+    },
+    {
+      "claim_id": "C07",
+      "claim": "The patient reported no significant wheeze."
+    },
+    {
+      "claim_id": "C08",
+      "claim": "The patient reported no haemoptysis."
+    },
+    {
+      "claim_id": "C09",
+      "claim": "The patient reported no chest pain."
+    },
+    {
+      "claim_id": "C10",
+      "claim": "The patient reported no palpitations."
+    },
+    {
+      "claim_id": "C11",
+      "claim": "The patient reported no syncope."
+    },
+    {
+      "claim_id": "C12",
+      "claim": "The patient reported no fever."
+    },
+    {
+      "claim_id": "C13",
+      "claim": "The patient reported no weight loss."
+    },
+    {
+      "claim_id": "C14",
+      "claim": "Chronic thromboembolic pulmonary hypertension was suspected."
+    },
+    {
+      "claim_id": "C15",
+      "claim": "The patient had severe pulmonary hypertension."
+    },
+    {
+      "claim_id": "C16",
+      "claim": "The patient had right ventricular strain."
+    },
+    {
+      "claim_id": "C17",
+      "claim": "The patient had cardiac strain."
+    },
+    {
+      "claim_id": "C18",
+      "claim": "The patient was accepted for transfer to the Respiratory HDU under Dr Elizabeth Kathryn Singh."
+    },
+    {
+      "claim_id": "C19",
+      "claim": "Chronic thromboembolic pulmonary hypertension was documented on echocardiography with severe pulmonary hypertension and right ventricular strain."
+    },
+    {
+      "claim_id": "C20",
+      "claim": "NT-proBNP was 3200 pg/mL."
+    },
+    {
+      "claim_id": "C21",
+      "claim": "The patient required oxygen at 2 L/min via nasal cannula."
+    },
+    {
+      "claim_id": "C22",
+      "claim": "The patient remained clinically stable."
+    },
+    {
+      "claim_id": "C23",
+      "claim": "The patient continued to experience exertional shortness of breath."
+    },
+    {
+      "claim_id": "C24",
+      "claim": "The patient reported less breathlessness."
+    },
+    {
+      "claim_id": "C25",
+      "claim": "The patient's oxygenation improved."
+    },
+    {
+      "claim_id": "C26",
+      "claim": "The patient's oxygen requirement decreased."
+    },
+    {
+      "claim_id": "C27",
+      "claim": "Oxygen saturation was 94% on 2 L oxygen."
+    },
+    {
+      "claim_id": "C28",
+      "claim": "Physiotherapy included diaphragmatic breathing."
+    },
+    {
+      "claim_id": "C29",
+      "claim": "Physiotherapy included light mobilisation."
+    },
+    {
+      "claim_id": "C30",
+      "claim": "Physiotherapy included corridor walking."
+    },
+    {
+      "claim_id": "C31",
+      "claim": "Oxygen saturations remained above 92% during physiotherapy sessions."
+    },
+    {
+      "claim_id": "C32",
+      "claim": "The patient tolerated activity without significant shortness of breath."
+    },
+    {
+      "claim_id": "C33",
+      "claim": "The patient ambulated 10 metres with a walking frame and minimal assistance."
+    },
+    {
+      "claim_id": "C34",
+      "claim": "The patient had no distress on examination."
+    },
+    {
+      "claim_id": "C35",
+      "claim": "The patient had no peripheral oedema."
+    },
+    {
+      "claim_id": "C36",
+      "claim": "The patient had no raised JVP."
+    },
+    {
+      "claim_id": "C37",
+      "claim": "The patient had no abnormal chest findings."
+    },
+    {
+      "claim_id": "C38",
+      "claim": "The patient had no murmurs."
+    },
+    {
+      "claim_id": "C39",
+      "claim": "The patient had no hepatomegaly."
+    },
+    {
+      "claim_id": "C40",
+      "claim": "SpO\u2082 was 95% on room air."
+    },
+    {
+      "claim_id": "C41",
+      "claim": "SpO\u2082 remained 94% on room air."
+    },
+    {
+      "claim_id": "C42",
+      "claim": "The patient's breathlessness continued to improve."
+    },
+    {
+      "claim_id": "C43",
+      "claim": "The patient had no new symptoms."
+    },
+    {
+      "claim_id": "C44",
+      "claim": "Haemoglobin was 110 g/L."
+    },
+    {
+      "claim_id": "C45",
+      "claim": "Rivaroxaban was assessed as effective."
+    },
+    {
+      "claim_id": "C46",
+      "claim": "Rivaroxaban was well tolerated."
+    },
+    {
+      "claim_id": "C47",
+      "claim": "The patient had no side effects from rivaroxaban."
+    },
+    {
+      "claim_id": "C48",
+      "claim": "The patient's observations remained stable."
+    }
+  ],
+  "Section + BGE": [
+    {
+      "claim_id": "C01",
+      "claim": "The patient presented with progressive breathlessness."
+    },
+    {
+      "claim_id": "C02",
+      "claim": "The patient had a history of hypertension."
+    },
+    {
+      "claim_id": "C03",
+      "claim": "The patient had a history of asthma."
+    },
+    {
+      "claim_id": "C04",
+      "claim": "SpO\u2082 was 89% initially."
+    },
+    {
+      "claim_id": "C05",
+      "claim": "SpO\u2082 improved to 92% with low-flow oxygen."
+    },
+    {
+      "claim_id": "C06",
+      "claim": "ABG showed mild hypoxia with a PaO\u2082 of 8.5 kPa."
+    },
+    {
+      "claim_id": "C07",
+      "claim": "ABG showed compensated respiratory alkalosis."
+    },
+    {
+      "claim_id": "C08",
+      "claim": "NT-proBNP was 3,200 pg/mL."
+    },
+    {
+      "claim_id": "C09",
+      "claim": "Chronic thromboembolic pulmonary hypertension was suspected."
+    },
+    {
+      "claim_id": "C10",
+      "claim": "CTPA was requested."
+    },
+    {
+      "claim_id": "C11",
+      "claim": "Echocardiography was requested."
+    },
+    {
+      "claim_id": "C12",
+      "claim": "Apixaban was initiated at 10 mg twice daily for 7 days followed by 5 mg twice daily."
+    },
+    {
+      "claim_id": "C13",
+      "claim": "LMWH was continued until anticoagulation was fully established."
+    },
+    {
+      "claim_id": "C14",
+      "claim": "Physiotherapy included diaphragmatic breathing exercises."
+    },
+    {
+      "claim_id": "C15",
+      "claim": "Physiotherapy addressed energy conservation."
+    },
+    {
+      "claim_id": "C16",
+      "claim": "Physiotherapy addressed pacing."
+    },
+    {
+      "claim_id": "C17",
+      "claim": "The patient had significant exertional breathlessness."
+    },
+    {
+      "claim_id": "C18",
+      "claim": "A rollator frame was provided for short-distance ambulation."
+    },
+    {
+      "claim_id": "C19",
+      "claim": "Furosemide 40 mg once daily was started for fluid retention and right-heart strain."
+    },
+    {
+      "claim_id": "C20",
+      "claim": "Cardiology referral was planned."
+    },
+    {
+      "claim_id": "C21",
+      "claim": "Anticoagulation was documented as rivaroxaban 15 mg twice daily."
+    },
+    {
+      "claim_id": "C22",
+      "claim": "CTPA confirmed chronic thromboembolic disease."
+    },
+    {
+      "claim_id": "C23",
+      "claim": "Echocardiography showed severe pulmonary hypertension."
+    },
+    {
+      "claim_id": "C24",
+      "claim": "Echocardiography showed right ventricular strain."
+    },
+    {
+      "claim_id": "C25",
+      "claim": "ABG showed a PaO\u2082 of 8.5 kPa."
+    },
+    {
+      "claim_id": "C26",
+      "claim": "ABG showed a PaCO\u2082 of 4.2 kPa."
+    },
+    {
+      "claim_id": "C27",
+      "claim": "NT-proBNP was 4,500 pg/mL."
+    },
+    {
+      "claim_id": "C28",
+      "claim": "There was no evidence of infection."
+    },
+    {
+      "claim_id": "C29",
+      "claim": "Referral to a tertiary pulmonary hypertension centre was agreed for consideration of pulmonary endarterectomy."
+    },
+    {
+      "claim_id": "C30",
+      "claim": "Sildenafil was started as pre-referral pulmonary hypertension therapy."
+    },
+    {
+      "claim_id": "C31",
+      "claim": "The patient was clinically stable."
+    },
+    {
+      "claim_id": "C32",
+      "claim": "Education was provided regarding pulmonary hypertension."
+    },
+    {
+      "claim_id": "C33",
+      "claim": "Education was provided regarding anticoagulation."
+    },
+    {
+      "claim_id": "C34",
+      "claim": "Education was provided regarding prevention of blood clots."
+    },
+    {
+      "claim_id": "C35",
+      "claim": "V/Q scanning demonstrated mismatched perfusion defects consistent with CTEPH."
+    },
+    {
+      "claim_id": "C36",
+      "claim": "The multidisciplinary team was informed of the findings."
+    },
+    {
+      "claim_id": "C37",
+      "claim": "Referral for surgical assessment and possible pulmonary endarterectomy was planned."
+    },
+    {
+      "claim_id": "C38",
+      "claim": "Physiotherapy included breathing exercises."
+    },
+    {
+      "claim_id": "C39",
+      "claim": "Physiotherapy included stretching."
+    },
+    {
+      "claim_id": "C40",
+      "claim": "Physiotherapy included progressive walking."
+    },
+    {
+      "claim_id": "C41",
+      "claim": "The patient's endurance improved."
+    },
+    {
+      "claim_id": "C42",
+      "claim": "The patient's walking distance improved."
+    },
+    {
+      "claim_id": "C43",
+      "claim": "There was no significant desaturation during activity."
+    },
+    {
+      "claim_id": "C44",
+      "claim": "SpO\u2082 was maintained at 94% on room air during activity."
+    },
+    {
+      "claim_id": "C45",
+      "claim": "Rivaroxaban 20 mg once daily was planned for long-term anticoagulation."
+    },
+    {
+      "claim_id": "C46",
+      "claim": "Sildenafil 20 mg three times daily was continued."
+    },
+    {
+      "claim_id": "C47",
+      "claim": "Discharge planning was arranged."
+    },
+    {
+      "claim_id": "C48",
+      "claim": "Home oxygen assessment was arranged."
+    },
+    {
+      "claim_id": "C49",
+      "claim": "Outpatient follow-up was arranged."
+    },
+    {
+      "claim_id": "C50",
+      "claim": "Tertiary referral was arranged."
+    },
+    {
+      "claim_id": "C51",
+      "claim": "The patient received a personalised home exercise programme."
+    },
+    {
+      "claim_id": "C52",
+      "claim": "The patient received education on gradual activity progression."
+    },
+    {
+      "claim_id": "C53",
+      "claim": "The patient received education on avoiding overexertion."
+    },
+    {
+      "claim_id": "C54",
+      "claim": "The patient received education on warning symptoms including severe breathlessness and chest pain."
+    },
+    {
+      "claim_id": "C55",
+      "claim": "The final anticoagulation regimen was documented as rivaroxaban 15 mg twice daily for 21 days followed by 20 mg once daily."
+    },
+    {
+      "claim_id": "C56",
+      "claim": "Follow-up at the tertiary pulmonary hypertension centre was planned."
+    },
+    {
+      "claim_id": "C57",
+      "claim": "Outpatient haemoglobin review was planned."
+    },
+    {
+      "claim_id": "C58",
+      "claim": "Outpatient NT-proBNP review was planned."
+    }
+  ],
+  "Section + MedCPT": [
+    {
+      "claim_id": "C01",
+      "claim": "The patient is a 43-year-old woman with a history of hypertension."
+    },
+    {
+      "claim_id": "C02",
+      "claim": "The patient has a history of asthma."
+    },
+    {
+      "claim_id": "C03",
+      "claim": "The patient reported taking no regular medications."
+    },
+    {
+      "claim_id": "C04",
+      "claim": "The patient presented with a 2-week history of progressive exertional breathlessness."
+    },
+    {
+      "claim_id": "C05",
+      "claim": "The patient reported chest tightness."
+    },
+    {
+      "claim_id": "C06",
+      "claim": "The patient denied chest pain."
+    },
+    {
+      "claim_id": "C07",
+      "claim": "The patient denied haemoptysis."
+    },
+    {
+      "claim_id": "C08",
+      "claim": "The patient denied fever."
+    },
+    {
+      "claim_id": "C09",
+      "claim": "The patient denied syncope."
+    },
+    {
+      "claim_id": "C10",
+      "claim": "The patient denied palpitations."
+    },
+    {
+      "claim_id": "C11",
+      "claim": "The patient denied wheeze."
+    },
+    {
+      "claim_id": "C12",
+      "claim": "The patient was a non-smoker."
+    },
+    {
+      "claim_id": "C13",
+      "claim": "The patient reported rare alcohol use."
+    },
+    {
+      "claim_id": "C14",
+      "claim": "The patient reported no recreational drug use."
+    },
+    {
+      "claim_id": "C15",
+      "claim": "The patient reported no recent travel."
+    },
+    {
+      "claim_id": "C16",
+      "claim": "There was no known family history of thromboembolism."
+    },
+    {
+      "claim_id": "C17",
+      "claim": "There was no known family history of pulmonary hypertension."
+    },
+    {
+      "claim_id": "C18",
+      "claim": "CTPA confirmed chronic thromboembolic disease."
+    },
+    {
+      "claim_id": "C19",
+      "claim": "Echocardiography demonstrated severe pulmonary hypertension."
+    },
+    {
+      "claim_id": "C20",
+      "claim": "Echocardiography demonstrated right ventricular strain."
+    },
+    {
+      "claim_id": "C21",
+      "claim": "NT-proBNP was elevated at 3,200 pg/mL."
+    },
+    {
+      "claim_id": "C22",
+      "claim": "The patient initially remained breathless on exertion."
+    },
+    {
+      "claim_id": "C23",
+      "claim": "The patient initially required 2 L of oxygen."
+    },
+    {
+      "claim_id": "C24",
+      "claim": "The patient's symptoms gradually improved."
+    },
+    {
+      "claim_id": "C25",
+      "claim": "The patient's oxygen requirements decreased."
+    },
+    {
+      "claim_id": "C26",
+      "claim": "V/Q scanning demonstrated mismatched perfusion defects."
+    },
+    {
+      "claim_id": "C27",
+      "claim": "The findings supported a diagnosis of chronic thromboembolic pulmonary hypertension."
+    },
+    {
+      "claim_id": "C28",
+      "claim": "The patient's oxygen saturation was 95% on room air."
+    },
+    {
+      "claim_id": "C29",
+      "claim": "The patient was mobilising lightly."
+    },
+    {
+      "claim_id": "C30",
+      "claim": "Long-term anticoagulation with rivaroxaban was initiated."
+    },
+    {
+      "claim_id": "C31",
+      "claim": "Mild anaemia was noted."
+    },
+    {
+      "claim_id": "C32",
+      "claim": "Haemoglobin was 110 g/L compared with 120 g/L previously."
+    },
+    {
+      "claim_id": "C33",
+      "claim": "The anaemia was documented as likely related to chronic disease."
+    },
+    {
+      "claim_id": "C34",
+      "claim": "The patient reported improving breathlessness."
+    },
+    {
+      "claim_id": "C35",
+      "claim": "The patient had increased tolerance for light activity."
+    },
+    {
+      "claim_id": "C36",
+      "claim": "No new imaging abnormalities were reported."
+    },
+    {
+      "claim_id": "C37",
+      "claim": "NT-proBNP remained mildly elevated."
+    },
+    {
+      "claim_id": "C38",
+      "claim": "The discharge regimen included rivaroxaban 15 mg twice daily for 21 days."
+    },
+    {
+      "claim_id": "C39",
+      "claim": "The discharge regimen included rivaroxaban 20 mg once daily thereafter."
+    },
+    {
+      "claim_id": "C40",
+      "claim": "Follow-up was arranged at a tertiary pulmonary hypertension centre."
+    },
+    {
+      "claim_id": "C41",
+      "claim": "Outpatient review of haemoglobin was planned."
+    },
+    {
+      "claim_id": "C42",
+      "claim": "Outpatient review of NT-proBNP was planned."
+    }
+  ]
+}
