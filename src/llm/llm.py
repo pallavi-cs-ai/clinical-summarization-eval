@@ -2,16 +2,19 @@ import os
 from typing import Any
 
 import pandas as pd
-from groq import Groq
+from openai import OpenAI
 
 MAX_CHARS = 8192 * 4
 
+def _get_client() -> OpenAI:
+    api_key = os.getenv("OPENAI_API_KEY")
 
-def _get_client() -> Groq:
-    api_key = os.getenv("GROQ_API_KEY")
     if not api_key:
-        raise ValueError("GROQ_API_KEY is not set. Please configure your API key before running summarization.")
-    return Groq(api_key=api_key)
+        raise ValueError(
+            "OPENAI_API_KEY is not set."
+        )
+
+    return OpenAI(api_key=api_key)
 
 
 def generate_summary(patient_id: str, notes_df: pd.DataFrame, prompt: str) -> str:
@@ -35,11 +38,33 @@ def generate_summary(patient_id: str, notes_df: pd.DataFrame, prompt: str) -> st
 
     client = _get_client()
     response = client.chat.completions.create(
-        model="openai/gpt-oss-120b",
+        model="gpt-5.6-luna",
         messages=[
             {"role": "system", "content": prompt},
             {"role": "user", "content": concatenated}
         ],
-        temperature=0
     )
+    return response.choices[0].message.content
+
+
+def generate_rag_summary(context: str, prompt: str) -> str:
+    if not isinstance(context, str):
+        raise TypeError("context must be a string")
+
+    if not context.strip():
+        raise ValueError("context cannot be empty")
+
+    if len(context) > MAX_CHARS:
+        context = context[:MAX_CHARS]
+
+    client = _get_client()
+
+    response = client.chat.completions.create(
+        model="gpt-5.6-luna",
+        messages=[
+            {"role": "system", "content": prompt},
+            {"role": "user", "content": context}
+        ],
+    )
+
     return response.choices[0].message.content

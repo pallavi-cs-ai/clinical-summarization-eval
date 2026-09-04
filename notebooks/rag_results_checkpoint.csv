@@ -1,0 +1,979 @@
+person_id,total_notes,retrieved_count,retrieved_chunk_ids,similarity_scores,rag_summary
+028998ee-babc-4096-9b28-001bc2f9a84e,15,15,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]","[0.5428497195243835, 0.493814080953598, 0.5197113752365112, 0.491516649723053, 0.5232710838317871, 0.5152246952056885, 0.5065962076187134, 0.5155004262924194, 0.5420143008232117, 0.48719605803489685, 0.5252513885498047, 0.5178227424621582, 0.5131480097770691, 0.5026389360427856, 0.48697641491889954]","**Longitudinal Clinical Summary – Tomos Ellis (DOB 17‑May‑2008)**  
+
+**07 Jan 2026 – Emergency Department**  
+- Presented with 3‑day history of lower‑abdominal pain, constipation, reduced appetite, mild nausea; pain 7/10, worsened by eating.  
+- Examination: mild abdominal distension, lower‑quadrant tenderness, no guarding/rebound, mild dehydration (dry mucous membranes, reduced skin turgor). Vitals stable.  
+- Investigations: Full blood count, U&Es, CRP, LFTs – all normal; abdominal X‑ray showed significant faecal loading, no obstruction or perforation.  
+- Initial management: NPO, IV 0.9 % NaCl 500 mL over 4 h, single oral dose of bisacodyl 10 mg, oral fluids encouraged.  
+- Diagnosis in ED: **Constipation with mild dehydration**.  
+- Disposition: Admitted to paediatric ward (Bed C05) under Dr Susan J Robson.  
+
+**07 Jan 2026 – Paediatric Admission (Day 1)**  
+- Oral laxative started: Movicol (macrogol) 1 sachet TID (prescribed by Dr Aya Kobayashi).  
+- Continued IV fluids for hydration.  
+- Nursing and allied‑health education on high‑fibre diet, fluid intake, and mobilisation provided.  
+
+**07 Jan 2026 – Early Ward Review**  
+- Dr Yuri Matsumoto (FY1) reiterated plan: macrogol 1 sachet TID, monitor bowel movements, reassess after 24 h; consider further imaging if no improvement.  
+
+**07 Jan 2026 – Ward Round (13:00)**  
+- Pain reduced to 5/10 after fluids. Abdomen soft, mildly tender, still distended.  
+- Plan modified: macrogol 1 sachet BD, oral fluid intake ≥2 L/day, continue monitoring.  
+
+**07 Jan 2026 – Physiotherapy & Nursing Education**  
+- Light mobilisation (walking, seated leg lifts) and education on movement to aid bowel motility.  
+- Provided written high‑fibre dietary advice.  
+
+**08 Jan 2026 – Day 2 Review**  
+- Partial bowel movement overnight; abdominal pain further reduced, abdomen less distended.  
+- Vitals remained stable.  
+- Continued macrogol, now documented as 1 sachet TDS.  
+- Encouraged oral hydration and aimed for a full bowel movement within 24 h.  
+
+**08 Jan 2026 – Allied‑Health Interventions**  
+- Two physiotherapy sessions (10:30 h and 14:00 h) focusing on gentle stretching and continued mobilisation.  
+- Dietitian review: high‑fibre diet (whole grains, fresh fruit, vegetables) reinforced; no medication changes.  
+
+**09 Jan 2026 – Day 3 Review & Discharge**  
+- Full bowel movement overnight; no abdominal pain, abdomen soft and non‑tender.  
+- Macrogol discontinued.  
+- Prescribed take‑home lactulose 10 mL BD PRN for constipation maintenance.  
+- Discharged with instructions: maintain high‑fibre diet, drink ≥2 L fluids daily, continue light walking at home.  
+
+**Post‑Discharge**  
+- Nurse Jamie Leigh Alexander contacted GP (Dr CianCian) to relay discharge summary and arrange follow‑up for constipation prevention.  
+
+**Key Points**  
+- **Diagnoses:** Constipation with mild dehydration (resolved).  
+- **Investigations:** Abdominal X‑ray (faecal loading), normal blood panel.  
+- **Treatments:** IV 0.9 % NaCl, bisacodyl 10 mg PO (single dose), oral macrogol (dose adjusted from TID → BD → TDS), lactulose PRN at discharge, high‑fluid intake, high‑fibre diet, physiotherapy‑guided mobilisation.  
+- **Clinical course:** Pain decreased from 7/10 to 0/10; bowel movements progressed from none → partial → full; dehydration corrected; patient discharged home in stable condition.  "
+04df53ea-55c1-48d9-84a1-1f15c133b29b,33,20,"[15, 16, 17, 18, 19, 22, 23, 24, 28, 32, 33, 34, 37, 38, 39, 41, 43, 44, 45, 46]","[0.519921064376831, 0.5233906507492065, 0.5718854069709778, 0.5162460803985596, 0.5219829678535461, 0.5293585062026978, 0.525739312171936, 0.5342614650726318, 0.5190019011497498, 0.5159579515457153, 0.5390670299530029, 0.5302042961120605, 0.5248982310295105, 0.5597544312477112, 0.5338627696037292, 0.5211251378059387, 0.5177964568138123, 0.5321864485740662, 0.5382208228111267, 0.5166099071502686]","**Longitudinal Clinical Summary – Allan Victor Robinson, 67 y, NHS 680034032**
+
+**01 Jan 2026 – Emergency Presentation**
+- **Event:** Minor fall at home → acute confusion.  
+- **Vitals:** BP 170/95 mmHg, HR 88 bpm, RR 16, SpO₂ 98 % (room air).  
+- **History:** Hypertension, osteoarthritis; no regular meds, no drug allergies.  
+- **Assessments:** GCS 12/15, disoriented to time/place.  
+- **Investigations:** Urgent bloods (FBC, electrolytes, coagulation – all normal) and non‑contrast CT head.  
+- **CT result:** Subdural hygroma, no mid‑line shift or acute haemorrhage.  
+- **Initial Plan:** Admit to Neurology Ward for monitoring; neuro observations q4 h; repeat CT in 48 h; encourage mobilisation as tolerated.
+
+**01 Jan 2026 – In‑patient Management**
+- **Physiotherapy (15:30):** Mild gait instability; daily balance/mobility exercises initiated.  
+- **Occupational Therapy (17:00):** Mild fine‑motor difficulty (buttoning, utensil handling); OT sessions planned.  
+- **Speech & Language Therapy (02 Jan, 14:30):** Swallowing adequate; mild word‑finding difficulty noted, no intervention required.  
+
+**03 Jan 2026 – Physiotherapy Progress**
+- Balance/coordination exercises with moderate improvement; stair‑climbing introduced.
+
+**04 Jan 2026 – Ward Review (Dr E. O’Connor)**
+- **Repeat CT (03 Jan):** No progression of subdural hygroma.  
+- **Clinical status:** More oriented, stable neuro observations, mildly unstable gait.  
+- **Plan:** Referral to social work for home assessment; continue daily physio and OT; consider discharge when stable.
+
+**05 Jan 2026 – Clinical Update**
+- **Repeat CT (03 Jan):** No progression.  
+- **Status:** Patient feels clearer, confident with supervised mobilisation; mild residual gait instability.  
+- **New medication:** Atorvastatin 40 mg once daily for 7 days (cardiovascular risk).  
+- **Therapy:** Final physiotherapy session confirmed independent mobility; confusion resolved (GCS 15/15).  
+- **Social work:** Community support services arranged.
+
+**06 Jan 2026 – Discharge Planning**
+- **Status:** Improving confusion, independent mobility, home safety adaptations deemed adequate.  
+- **Medications added:** Levetiracetam 500 mg twice daily for 7 days.  
+- **Discharge:** Confirmed for 06 Jan; discharge summary and GP letter prepared; neurology outpatient follow‑up scheduled in 1 month; community support and home‑safety advice provided.  
+- **Patient education:** Dizziness/confusion management and falls‑prevention advice given.
+
+**07 Jan 2026 – Final Review (Consultant Dr S. Gregory)**
+- Patient clinically stable, no residual confusion or neurological deficits.  
+- Discharge set for 08 Jan; neuro clinic follow‑up confirmed.
+
+**Overall Course**
+- **Primary diagnosis:** Subdural hygroma secondary to minor fall, presenting with acute confusion.  
+- **Secondary issues:** Transient mild gait instability, fine‑motor coordination difficulty, mild word‑finding difficulty (all resolved with therapy).  
+- **Investigations:** Initial CT head (subdural hygroma); repeat CT on 03 Jan (no progression); routine labs normal.  
+- **Treatments:** Neurology admission with regular observations, repeat imaging, physiotherapy (balance, gait, stair climbing), occupational therapy (fine‑motor training), speech‑language assessment, atorvastatin 40 mg OD (7 days), levetiracetam 500 mg BD (7 days).  
+- **Outcome:** Confusion resolved, cognition normalized (GCS 15/15), gait stabilized, independent mobility achieved; discharged home with community support and scheduled neurology follow‑up."
+0f438665-d430-4adb-8acc-c3beed9e4942,15,15,"[90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104]","[0.5677073001861572, 0.5454527139663696, 0.520906925201416, 0.5275572538375854, 0.5056042075157166, 0.5275859236717224, 0.5031106472015381, 0.49341362714767456, 0.5177402496337891, 0.512782096862793, 0.519679605960846, 0.5309829711914062, 0.5116159915924072, 0.5214021801948547, 0.5478524565696716]","**Longitudinal Clinical Summary – Jack Geoffrey Gray (3 y, male)**  
+
+**2026‑01‑06 (Presentation & Admission)**  
+- **Chief complaint:** Poor feeding, mild lethargy, reduced urine output.  
+- **Initial assessment (A&E):** Temp 38.3 °C, HR 120 bpm, RR 22‑24 /min, SpO₂ 98 % on room air; mild dehydration (dry mucous membranes, capillary refill ≈ 2 s). No respiratory distress, no vomiting/diarrhoea.  
+- **Allergies:** Pollen, macrolides. No regular medications, no past medical history.  
+- **Diagnoses (ED):** Viral illness (viral upper respiratory tract infection) with mild dehydration.  
+- **Interventions (ED):**  
+  - Paracetamol suspension 5 mL (120 mg/5 mL) for fever.  
+  - Oral fluid bolus 10 mL/kg normal saline (well tolerated).  
+  - Plan for oral rehydration solution (ORS) in small, frequent doses.  
+- **Admission plan (Paediatric Assessment Unit):** Start IV fluids 0.9 % NaCl + 5 % dextrose at 75 % maintenance, continue ORS, paracetamol PRN, no antibiotics.
+
+**2026‑01‑06 (Early inpatient care)**  
+- **Investigations:** Venous blood gas – pH 7.33, HCO₃⁻ 17 mmol/L (mild metabolic acidosis). No other labs performed.  
+- **Ongoing treatment:**  
+  - IV maintenance fluids (0.9 % NaCl + 5 % dextrose) at 75 % maintenance.  
+  - Paracetamol 15 mg/kg q6 h PRN (subsequent doses 5 mL q6 h).  
+  - Nasal saline drops (0.9 % saline, 2 drops each nostril PRN).  
+  - Encouragement of oral feeds/ORS as tolerated.  
+- **Clinical status:** Mildly lethargic but consolable; dry lips, capillary refill ≈ 3 s; nasal congestion present; abdomen soft; no respiratory distress. Vitals: HR 115‑120 bpm, BP 90‑95/50‑60 mmHg, RR 34, Temp 37.9 °C, SpO₂ 98 %.
+
+**2026‑01‑07 (Continued inpatient care)**  
+- **Overnight course:** Improved oral intake, no fever, nasal congestion persisted.  
+- **Vitals (08:30):** HR 102 bpm, BP 91/58 mmHg, RR 22 /min, Temp 36.9 °C, SpO₂ 98 %.  
+- **Management adjustments:**  
+  - Reduced IV fluids to 50 % maintenance to promote oral hydration.  
+  - Continue PRN paracetamol (120 mg q6 h if needed).  
+  - Continue nasal saline drops.  
+- **ENT review (11:30):** Moderate nasal mucosal inflammation consistent with viral URTI; no purulent discharge. Added saline nasal spray for irrigation and advised steam inhalation twice daily.  
+- **Supportive care:** Ongoing dietary advice (small, frequent feeds, ORS), parental education on dehydration signs and nasal care.
+
+**2026‑01‑08 (Discharge planning & outcome)**  
+- **Clinical status (09:00):** Afebrile, alert, playful; mild nasal congestion only; well‑hydrated; oral intake satisfactory. Vitals stable (HR ≈ 100 bpm, BP ≈ 90/60 mmHg, RR 22 /min, Temp 36.8 °C, SpO₂ 98 %).  
+- **Discharge orders:**  
+  - Paracetamol suspension 120 mg/5 mL PRN for fever or discomfort.  
+  - Continue saline nasal drops PRN; initiate saline spray irrigation and steam inhalation twice daily for nasal clearance.  
+  - Maintain oral fluids/ORS and small frequent meals at home.  
+  - No new medications prescribed.  
+- **Education:** Parents instructed on hydration monitoring, signs of deterioration (reduced wet nappies, increased lethargy), nasal care, and when to seek medical help. Contact GP (Dr Liu Tao) advised if symptoms worsen.  
+
+**Summary of Course**  
+Jack presented with a viral URTI causing mild dehydration and a transient mild metabolic acidosis. Prompt oral and IV rehydration, antipyretic therapy, and supportive nasal care led to rapid clinical improvement. Fever resolved by the first night, oral intake normalized, and metabolic parameters were not re‑checked but remained clinically stable. He was discharged on 08‑Jan‑2026 in good condition with clear home‑care instructions."
+136c7916-4f9b-4e5c-bf01-77e9d2c681a2,37,20,"[105, 106, 107, 108, 110, 114, 115, 119, 120, 121, 123, 124, 125, 126, 128, 129, 130, 135, 139, 140]","[0.547451913356781, 0.5090153217315674, 0.522659957408905, 0.5203245878219604, 0.5319963693618774, 0.5250509977340698, 0.5130417943000793, 0.5601350665092468, 0.5108557343482971, 0.512566089630127, 0.5109354853630066, 0.5417736172676086, 0.5199632048606873, 0.5097727179527283, 0.5454548001289368, 0.5195679068565369, 0.51723712682724, 0.5305559635162354, 0.5114650130271912, 0.5443699359893799]","**Longitudinal Clinical Summary – Philip Paul Cook (49‑year‑old male)**  
+
+**02 Jan 2026 – Emergency Department**  
+- Presented after a minor fall with acute confusion; GCS 14/15, mild disorientation, no loss of consciousness.  
+- Past history: hypertension, mild osteoarthritis. No drug allergies.  
+- Neurological assessment showed no focal deficits; pupils slightly delayed bilaterally at 23:15.  
+- Urgent CT head performed → subdural hygroma, no mid‑line shift.  
+- Laboratory tests: mild hyponatraemia (Na 132 mmol/L); other biochemistry normal.  
+- Initial management: IV 0.9 % NaCl 1 L over 8 h, IV paracetamol 1 g QID for pain, dehydration noted, neurological monitoring every 4 h, liaison with neurology.
+
+**03 Jan 2026 – Admission (Neurology)**  
+- Subdural hygroma confirmed; neurological status stable, mild fatigue only.  
+- Vitals stable; repeat labs pending.  
+- Continued IV fluids, oral hydration encouraged, repeat U&E in 24 h.  
+- Started prophylactic ceftriaxone 2 g IV daily (day 2 of 5).  
+- Initiated daily physiotherapy (gait training with Zimmer frame) and occupational therapy (ADL adaptations, button‑hook tool).  
+
+**04 Jan 2026**  
+- Social work assessment for discharge planning and home‑safety needs.  
+- OT session focused on ADL adaptations (bed‑to‑chair transfers, adaptive cutlery) and addressed mild fine‑motor difficulty.  
+
+**04 Jan 2026 – Ward Round**  
+- Hyponatraemia persisted (Na 133 mmol/L); patient reported mild evening headaches.  
+- Management adjusted: fluid restriction to 1.5 L/day, oral sodium chloride 1 g TID, paracetamol 1 g PO PRN for headache.  
+
+**05 Jan 2026**  
+- Patient reported improved confidence with mobility; no new symptoms.  
+- Hyponatraemia unchanged (Na 133 mmol/L); fluid restriction continued.  
+- Sodium chloride reduced to 600 mg TID; physiotherapy continued.  
+- OT cognitive rehabilitation introduced (memory, problem‑solving, attention) – mild cognitive difficulties noted.  
+
+**05 Jan 2026 – Family Meeting**  
+- Consultant Dr Hassan discussed discharge options with spouse; tentative discharge set for 09 Jan 2026 pending stable neurology and therapy completion.  
+
+**06 Jan 2026**  
+- Sodium remained low (Na 132 mmol/L); fluid restriction and oral sodium (1 g TID) maintained.  
+- Speech‑language therapy identified mild short‑term memory recall difficulty; cognitive exercises prescribed.  
+- OT session reinforced ADL techniques with adaptive tools; occasional verbal prompts required.  
+
+**08 Jan 2026**  
+- Neurological status stable, no headache or dizziness; mobility markedly improved, patient ambulating independently.  
+- Labs normal; continued paracetamol 500 mg PRN for musculoskeletal discomfort (7‑day course).  
+- Discharge planning progressed.  
+
+**09 Jan 2026 – Final Ward Round & Discharge**  
+- Subdural hygroma remained stable; mild hyponatraemia (Na 132‑133 mmol/L) addressed with oral sodium supplementation.  
+- Patient well, no headache, confusion, or dizziness; ambulating safely with a walking stick.  
+- Discharged with:  
+  - Paracetamol 500 mg 1‑2 tablets PO QDS PRN for 14 days (and 1 g QDS as per discharge summary).  
+  - Fluid intake limited to 1.5 L/day.  
+  - Oral sodium chloride tablets (1 g TID).  
+  - Fall‑prevention advice and avoidance of anticoagulants unless prescribed.  
+  - Adaptive equipment (long‑handled reacher, non‑slip mat, shower chair).  
+  - Follow‑up: neurology outpatient clinic in 2 weeks; GP review in 7 days.  
+  - Community physiotherapy and occupational therapy arranged.  
+
+**Key Diagnoses**  
+- Subdural hygroma (no mid‑line shift)  
+- Acute confusion secondary to hygroma and mild hyponatraemia/dehydration  
+- Mild hyponatraemia (Na 132‑133 mmol/L)  
+- Hypertension (pre‑existing)  
+- Mild osteoarthritis (pre‑existing)  
+
+**Overall Course**  
+The patient’s acute confusion resolved with correction of dehydration and careful management of hyponatraemia. Neurological status remained stable throughout admission, with progressive improvement in gait and balance via physiotherapy and ADL independence via occupational therapy. Cognitive deficits were mild and addressed with targeted rehabilitation. The patient was safely discharged on 09 Jan 2026 with appropriate medication, fluid‑restriction instructions, adaptive aids, and arranged community follow‑up."
+137b8481-4f1d-4b7f-babd-20f7117023ad,36,20,"[142, 143, 144, 145, 146, 149, 150, 153, 154, 158, 159, 160, 161, 162, 163, 164, 167, 169, 175, 177]","[0.5174823999404907, 0.5172885060310364, 0.5048354864120483, 0.542908251285553, 0.5192059278488159, 0.5776838064193726, 0.5202716588973999, 0.5072396993637085, 0.5415627956390381, 0.5383109450340271, 0.5291814208030701, 0.5023230314254761, 0.5174566507339478, 0.5144652128219604, 0.5333488583564758, 0.5200996398925781, 0.5327783226966858, 0.5119190216064453, 0.5202314853668213, 0.5425047874450684]","**Chronological Summary – Frank Scott Bond, 64 y/o male**
+
+**06 Jan 2026 – Emergency Presentation**
+- **Chief complaint:** Acute confusion and mild right‑sided headache after a minor fall (no loss of consciousness).  
+- **Past medical history:** Hypertension, osteoarthritis, transient ischaemic attack (2018).  
+- **Allergy:** Pollen.  
+- **Initial assessment (11:25‑11:45):** BP 165/92 → 160/95 mmHg, HR 88 → 92 bpm, GCS 14/15, mild disorientation, no focal neuro deficit.  
+- **ED diagnosis:** Subdural hygroma (suspected intracranial injury).  
+- **Investigations:** Urgent CT head (12:10) – confirmed subdural hygroma, no acute intracranial haemorrhage.  
+
+**13 Jan 2026 – Admission & Acute Management**
+- **Admission:** Acute Medical Unit, bed C06.  
+- **Plan:** Conservative neuro‑observational management, BP monitoring, paracetamol 1 g QDS PRN for headache.  
+- **Occupational therapy (17:30):** Mild short‑term memory recall issues; required prompting for task sequencing. Recommended cognitive rehabilitation.  
+
+**07 Jan 2026 – Neurology Review**
+- **Findings:** Mild confusion with subtle improvement; intermittent mild headaches well‑controlled with paracetamol; no focal deficits; stable neuro observations.  
+- **Laboratory:** Na 132 mmol/L (mild hyponatraemia), urea 9.8 mmol/L.  
+- **Medications added:** Paracetamol 1 g PRN, Dioralyte 1 sachet BID (electrolyte supplementation).  
+- **Plan:** Continue neuro observation, encourage oral fluid intake, monitor serum sodium.  
+
+**07 Jan 2026 – Speech & Language Therapy**
+- Cognitive training (memory recall, attention) – good engagement; next session scheduled in two days.  
+
+**08 Jan 2026 – Multidisciplinary Planning**
+- **Family meeting (12:00, Dr Yaqoob):** Discussed progress and discharge timeline; arranged home‑environment OT assessment.  
+- **SLT (14:30):** Mild word‑finding difficulty noted; prescribed daily cognitive‑linguistic exercises; reassessment planned in two days.  
+- **Nursing (18:30):** Encouraged participation in evening relaxation group (guided breathing, meditation).  
+
+**09 Jan 2026 – Ward Review & Functional Assessment**
+- **Clinical status (09:15, Dr Yaqoob):** Cognition further improved, headache resolved, mild fatigue, concerns about stair navigation at home.  
+- **Vitals:** BP 142/88 mmHg, HR 86 bpm, RR 16, SpO₂ 97 %, Temp 36.8 °C.  
+- **Lab:** Na 133 mmol/L.  
+- **Plan:** Refer to physiotherapy for advanced mobility/stair‑climbing; continue NaCl 600 mg BD; ongoing neuro monitoring.  
+- **Physiotherapy (10:45, Ada Coleman):** Home safety assessment – hazards identified (bathroom, stairs); plan to install grab rails and arrange community physiotherapy follow‑up.  
+- **GP contact (13:00):** Update provided; discharge anticipated.  
+- **Physiotherapy session (15:30):** Advanced mobility and stair‑climbing drills – patient showed improvement with occasional verbal prompts; continue daily sessions.  
+
+**10 Jan 2026 – Final Therapy Reviews**
+- **SLT (11:00):** Speech clear, bedside water swallow test normal, prior word‑finding issue not evident; cleared from speech‑language perspective.  
+- **Physiotherapy (16:00):** 20 m unaided walking and small‑step navigation performed safely; gait stable, confidence high; cleared for independent ambulation; continue daily mobility exercises.  
+
+**11‑12 Jan 2026 – Discharge Preparation**
+- **Discharge checklist (17:30, 11 Jan):** All items completed; paracetamol 500 mg PRN pain tablets prepared.  
+- **Discharge (10 Jan, 12:00):** Patient escorted home, given discharge summary and medication instructions; prescribed paracetamol 1 g Q6 h PRN for headache.  
+
+**Overall Course**
+- The patient presented with acute confusion after a minor fall; imaging identified a subdural hygroma without acute bleed.  
+- Managed conservatively with neuro observation, blood‑pressure control, analgesia (paracetamol), and electrolyte support.  
+- Cognitive deficits were mild and improved with occupational and speech‑language therapy.  
+- Functional mobility progressed from assisted to independent ambulation with stair‑climbing ability, supported by physiotherapy and home‑safety modifications.  
+- Hyponatraemia was mild and monitored; sodium supplementation (NaCl tablets) continued.  
+- The patient was discharged on 12 Jan 2026 with instructions for continued paracetamol PRN and outpatient follow‑up as arranged.  "
+1705dd0f-011a-492c-b006-b27e03f2f4ed,14,14,"[188, 189, 190, 191, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187]","[0.49531516432762146, 0.5405699014663696, 0.5323917865753174, 0.5587731003761292, 0.478079229593277, 0.47084492444992065, 0.5124624967575073, 0.5088937282562256, 0.4872567653656006, 0.4916813373565674, 0.4979659616947174, 0.5091006755828857, 0.5091671943664551, 0.5364952087402344]","**Longitudinal Clinical Summary – Manveer Kumar (DOB 12/05/1936, NHS 714 471 213)**  
+
+**22 Dec 2025 – Pre‑operative assessment**  
+- **Presenting problem:** Severe right‑shoulder pain and stiffness secondary to end‑stage osteoarthritis (OA).  
+- **Past medical history:** Hypertension, gastro‑oesophageal reflux disease, cataract surgery (2018).  
+- **Medications:** Paracetamol 500 mg PRN, Omeprazole 20 mg daily.  
+- **Investigations:** CXR normal, ECG sinus rhythm, full blood count showing mild anaemia (Hb 11.2 g/dL); other labs normal.  
+- **Management:** Initiated ferrous sulfate 200 mg twice daily to optimise Hb; cleared for general anaesthesia (GA) by anaesthetic team; written consent obtained for total right‑shoulder replacement.  
+
+**3 Jan 2026 – Admission and Surgery**  
+- **Admission:** Elective admission; vitals stable, mild anaemia continued to be managed with ferrous sulfate.  
+- **Procedure (09:00 ≈):** Total right‑shoulder replacement via anterior delto‑pectoral approach; cemented modular prosthesis implanted. Intra‑operative findings – severe glenohumeral joint degeneration, no infection; minimal blood loss; no complications.  
+- **Anaesthesia:** GA (no intra‑operative issues).  
+
+**Post‑operative course**  
+
+| Date & Time | Clinical events / investigations | Treatment / plan |
+|-------------|-----------------------------------|-------------------|
+| **03 Jan 2026 18:30** (PACU) | Stable cardiovascular & respiratory status; O₂ 97 % RA; BP 128/76 mmHg; mild nausea. | IV morphine 2 mg for pain, ondansetron 4 mg IV for nausea, IV cefuroxime 1.5 g q8h (24 h), PCA morphine, sling applied, regular paracetamol 1 g q6h, PRN oral morphine 10 mg. |
+| **04 Jan 2026 08:30** (ward round) | Mild pain, wound clean, no swelling, vitals stable. | Mobilisation with physiotherapy initiated; enoxaparin 40 mg SC daily for VTE prophylaxis. |
+| **04 Jan 2026 10:00** (physio) | Assisted passive ROM, sling education. | Home‑exercise programme demonstrated. |
+| **04 Jan 2026 16:00** (ward round) | Mild discomfort, ambulating short distances with assistance; wound still clean. | Added codeine phosphate 30 mg q6h PRN for breakthrough pain; continued enoxaparin 40 mg SC daily. |
+| **05 Jan 2026 09:00** (ward round) | Significant improvement in shoulder mobility; pain well‑controlled; wound healing well. | Switched IV paracetamol to oral 500 mg PRN; continued physiotherapy; discharge planned next day. |
+| **05 Jan 2026 10:30** (physio) | Active‑assisted ROM, strengthening, self‑care teaching. | No medication changes. |
+| **05 Jan 2026 16:00** (ward round) | Minimal pain, further ROM gain; wound clean, no infection. | Prescribed oral paracetamol 500 mg PRN for 7 days; confirmed discharge for the following morning; reinforced home‑exercise instructions. |
+| **06 Jan 2026 10:00** (final physio) | Reinforced home‑exercise programme, ADL management; patient engaged and pain‑free. | No new medications. |
+
+**Discharge (planned 06 Jan 2026)**  
+- **Medications:** Paracetamol 500 mg PRN (7 days), codeine 30 mg q6h PRN as needed, enoxaparin 40 mg SC daily (to be stopped after hospital stay).  
+- **Follow‑up:** Orthopaedic outpatient clinic in 6 weeks.  
+
+**Key diagnoses**  
+1. End‑stage osteoarthritis of the right shoulder.  
+2. Hypertension (well‑controlled).  
+3. Gastro‑oesophageal reflux disease.  
+4. Mild pre‑operative anaemia (Hb 11.2 g/dL) – treated with ferrous sulfate.  
+
+**Overall clinical course** – The patient progressed from pre‑operative optimisation (iron supplementation, anaesthetic clearance) to an uncomplicated total right‑shoulder replacement with cemented prosthesis. Post‑operative recovery was uneventful: pain adequately controlled with multimodal analgesia, no infection or vascular complications, early mobilisation and physiotherapy, and successful discharge after five days of inpatient care."
+1dbe23dc-0d1e-431b-81eb-497282b46a14,17,17,"[205, 206, 207, 208, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204]","[0.5220084190368652, 0.5166047811508179, 0.5327257513999939, 0.5237461924552917, 0.5107654929161072, 0.4941387176513672, 0.4911775588989258, 0.501377284526825, 0.4927508533000946, 0.4973241090774536, 0.5190457701683044, 0.5026912689208984, 0.5520623922348022, 0.5190576314926147, 0.5203967094421387, 0.5095212459564209, 0.5592989325523376]","**Longitudinal Clinical Summary – Philip Clive Osborne (Male, DOB 16 Feb 2019)**  
+
+**2024** – Sustained a right‑tibial fracture; treated with internal fixation (metallic device).  
+
+**28 Dec 2025** – Pre‑operative clinic (Dr R. P. Jones, SpR)  
+- Planned elective removal of the right‑tibial fixation device on 07 Jan 2026.  
+- Past medical history: mild asthma (inhaler‑controlled), eczema, allergies to pollen, nuts, penicillin and sulfonamides.  
+- Medications: paracetamol PRN, cetirizine PRN, montelukast 4 mg once daily (started ≈ 2 weeks pre‑op).  
+- Examination: well‑appearing, mild bilateral wheeze, right tibial scar clean, full ROM.  
+- Investigations ordered: full blood count and coagulation screen (later performed).  
+
+**28 Dec 2025 – 11:00** – Anaesthetic assessment (Dr R. P. Jones)  
+- ASA II; GA planned.  
+- Pre‑op optimisation: continue montelukast, use salbutamol 2 puffs pre‑induction, avoid penicillin‑ and sulfonamide‑based drugs.  
+- Routine FBC and coagulation screen performed (results later deemed satisfactory).  
+
+**28 Dec 2025 – 12:00** – Informed consent (Mrs Emily J. Osborne) obtained by Surgeon Dr C. B. Edwards.  
+- Discussed risks (infection, bleeding, anaesthetic complications, delayed healing, fracture).  
+- Prophylactic antibiotic plan: IV cefuroxime (alternative ready).  
+
+**28 Dec 2025 – 12:15** – Pre‑op nursing check (Nurse M. Nyoni)  
+- Identity, allergies, current meds confirmed.  
+- Labs reviewed – satisfactory.  
+- Asthma stable; salbutamol 2 puffs prescribed for pre‑op use.  
+- Admission scheduled for 07 Jan 2026 15:25, Children’s Orthopaedic Ward (bed C04).  
+
+**07 Jan 2026 – 15:25** – Admission (Dr K. A. Wade, FY1)  
+- Vitals stable; surgical site clean; no infection.  
+- Pre‑op labs within acceptable limits.  
+- Plan: proceed with surgery on 08 Jan 2026, give salbutamol 2 puffs pre‑op, IV cefuroxime prophylaxis, continue paracetamol PRN.  
+
+**07 Jan 2026 – 17:00** – Ward round (Consultant Dr I. Khalid)  
+- Patient fit for surgery; confirmed prophylactic cefuroxime 50 mg/kg IV pre‑op.  
+
+**07 Jan 2026 – 18:30** – GP medication reconciliation (Nurse R. Riley): no changes.  
+
+**07 Jan 2026 – 19:15** – Post‑op discharge education (Nurse M. Nyoni)  
+- Wound‑care instructions; paracetamol 120 mg/5 mL suspension prescribed PRN.  
+
+**08 Jan 2026 – 09:30** – Surgery (Surgeon Dr C. B. Edwards, GA by Dr R. P. Jones)  
+- Removal of right‑tibial internal fixation device; device intact, surrounding tissue healthy.  
+- Minimal blood loss (<10 mL); no intra‑operative complications.  
+- Prophylaxis: cefuroxime suspension 50 mg/kg × 5 days (alternative flagged).  
+- Analgesia: paracetamol PRN; discharge plan for next day.  
+
+**08 Jan 2026 – 11:00** – PACU recovery (Dr R. P. Jones)  
+- Stable respiratory and cardiovascular status; SpO₂ ≥ 98 % on room air.  
+- Pain managed with oral ibuprofen 100 mg; dressing intact.  
+- Additional prophylactic antibiotic prescribed: co‑amoxiclav suspension 125/31 mg/5 mL × 5 days (recorded in recovery note).  
+
+**08 Jan 2026 – 14:00** – Ward round (Dr R. P. Jones) – POD 1  
+- Surgical site clean, dressing intact; CRP 12 mg/L (post‑op inflammation).  
+- Plan: 48‑hour IV cefuroxime course, continue paracetamol PRN, monitor CRP.  
+
+**08 Jan 2026 – 15:30** – Physiotherapy (S. G. Francis)  
+- Weight‑bearing tolerated; gentle ankle/knee ROM exercises initiated.  
+- Assisted ambulation with child‑size frame; plan supervised mobility twice daily.  
+
+**08 Jan 2026 – 17:00** – Occupational therapy (J. A. Ryan)  
+- Safe mobilisation techniques taught; pediatric crutch fitted; home practice advised.  
+
+**08 Jan 2026 – 18:30** – GP update (Nurse M. Nyoni) – contact with Dr Y. E. Walker.  
+
+**09 Jan 2026 – 08:30** – Ward round (Dr R. P. Jones) – POD 2  
+- Surgical site clean, no infection; pain well‑controlled with paracetamol.  
+- Plan: discharge later that day; prescribe ibuprofen 100 mg suspension TDS for additional analgesia; provide discharge summary.  
+
+**09 Jan 2026 – 10:00** – Physiotherapy (S. G. Francis)  
+- Independent ambulation on ward, no limp or discomfort; home exercise programme advised; no further in‑hospital physio required.  
+
+**09 Jan 2026 – 12:00** – GP notified of discharge (Nurse J. Webb).  
+
+**Outcome** – Patient discharged home on 09 Jan 2026 after uncomplicated removal of the tibial fixation device. Post‑operative course was uneventful: wound healed without infection, pain adequately managed with paracetamol (and ibuprofen as needed), asthma remained stable, and mobility returned to baseline with physiotherapy support. Follow‑up arranged with GP; surgical review scheduled in 2 weeks for suture removal.  "
+28570119-9cdc-4120-98c0-4edb76cf36a3,19,19,"[209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227]","[0.5010154247283936, 0.4952377676963806, 0.5239493250846863, 0.536176860332489, 0.49992847442626953, 0.5193710923194885, 0.5162164568901062, 0.5059294104576111, 0.49727630615234375, 0.4838904142379761, 0.4862974286079407, 0.5858572721481323, 0.4975605905056, 0.4873378276824951, 0.5208203196525574, 0.5146856307983398, 0.5099279284477234, 0.5063633322715759, 0.4929053783416748]","**Longitudinal Clinical Summary – Judith Ada Wells (DOB 15 May 1984)**  
+
+**07 Jan 2026 – Emergency Department**  
+- Presentation: Sudden, severe (8/10) throbbing headache after exertion; mild nausea, no visual change, no focal neurological signs.  
+- Vitals: BP 160/90 mmHg, HR 88 bpm, RR 16, Temp 36.7 °C, SpO₂ 98 % RA.  
+- Initial work‑up: Brief neuro exam normal; urgent non‑contrast CT head – no intracranial haemorrhage or mass.  
+- Bloods (drawn 15:15): mild leukocytosis (WBC 12.5 ×10⁹/L), CRP 8 mg/L, renal and liver panels normal.  
+- ED diagnosis: Reversible cerebral vasoconstriction syndrome (RCVS).  
+- Management initiated: Oral nimodipine 60 mg q4h; transfer to neuro‑ward; MRI/MRA of brain and cerebral vessels arranged for that evening.  
+
+**17 Jan 2026 – Early Inpatient Review**  
+- MRI/MRA pending; headache persisted (7/10).  
+- Labs: mild hypokalaemia (K⁺ 3.3 mmol/L), CRP rose to 12 mg/L.  
+- Added treatment: KCl 1 g PO BID.  
+
+**08 Jan 2026 – MRI/MRA Confirmation**  
+- MRI/MRA confirmed RCVS.  
+- Clinical status: Headache improved to 5/10, BP 135/85 mmHg.  
+- Nimodipine dose reduced to 30 mg PO q4h.  
+- Plan: repeat MRI/MRA in 48 h; continue KCl; monitor electrolytes.  
+
+**09 Jan 2026 – Electrolyte Management**  
+- New mild hyponatraemia (Na⁺ 132 mmol/L).  
+- Headache further reduced to 3/10; BP 125/80 mmHg.  
+- Intervention: increase oral sodium intake, restrict excess fluids; continue KCl and nimodipine.  
+
+**10 Jan 2026 – Ongoing Recovery**  
+- Headache 2/10; vitals stable (BP 125/80 mmHg).  
+- Continued nimodipine 30 mg q4h; repeat MRI/MRA scheduled for 11 Jan.  
+- Education provided on RCVS triggers and lifestyle modifications.  
+
+**11 Jan 2026 – Pre‑Discharge Assessment**  
+- Headache remained mild (2/10); repeat MRI/MRA (10:30) showed marked improvement of cerebral vasoconstriction.  
+- Plan: discharge the following day; continue nimodipine 30 mg q4h with planned taper over 2 weeks; arrange outpatient neurology review in 4 weeks.  
+
+**12 Jan 2026 – Discharge**  
+- No headache, neurologically intact, BP 130/80 mmHg.  
+- Persistent mild hyponatraemia (Na⁺ 132 mmol/L) – dietary sodium advice continued.  
+- Discharge medications: nimodipine 30 mg PO q4h (taper), amlodipine 5 mg PO daily for blood‑pressure control.  
+- Follow‑up: neurology outpatient appointment in 4 weeks; patient received discharge booklet and demonstrated understanding of warning signs and trigger avoidance.  
+
+**Key Investigations & Findings**  
+- CT head (07 Jan): negative for haemorrhage/mass.  
+- Initial labs (07 Jan): WBC 12.5 ×10⁹/L, CRP 8 mg/L, normal U&E/LFT.  
+- MRI/MRA (08 Jan): confirmed RCVS.  
+- Repeat MRI/MRA (11 Jan): significant resolution of vasoconstriction.  
+- Electrolytes: K⁺ 3.3 mmol/L (treated with KCl), Na⁺ 132 mmol/L (managed with dietary measures).  
+
+**Overall Clinical Course**  
+The patient presented with an acute thunderclap headache and was diagnosed with RCVS. Prompt neuroimaging excluded structural causes, and MRI/MRA confirmed the vasoconstrictive pattern. Treatment with nimodipine led to rapid symptom improvement, with headache severity decreasing from 8/10 to none over five days. Blood pressure remained controlled, and electrolyte disturbances (hypokalaemia, hyponatraemia) were corrected. Repeat vascular imaging demonstrated resolution, allowing safe discharge with a tapering course of nimodipine, antihypertensive therapy, and outpatient neurology follow‑up."
+29ea304f-821d-474e-81a1-394ca3945e02,17,17,"[228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244]","[0.5287856459617615, 0.5050472021102905, 0.5092560648918152, 0.5185892581939697, 0.4973566234111786, 0.5136895179748535, 0.5304977297782898, 0.4882288873195648, 0.5141534805297852, 0.5169304609298706, 0.5196786522865295, 0.46137523651123047, 0.5233074426651001, 0.5006940960884094, 0.5217156410217285, 0.5099084377288818, 0.5135958194732666]","**Chronological Clinical Summary – Ren Suzuki, 40‑year‑old male (NHS 609172238)**  
+
+**05 Jan 2026**  
+- **Presentation:** Sudden, severe central chest pain (8/10), worsened by deep breathing/movement; mild shortness of breath, no haemoptysis. Past history of asthma and seasonal allergic rhinitis; allergy to pollen.  
+- **Initial assessment (ED):** HR 110 bpm, BP 135/85 mmHg, RR 24 /min, SpO₂ 96 % RA, Temp 37.1 °C. ECG showed sinus tachycardia without ischaemia.  
+- **Imaging:** CXR demonstrated sub‑cutaneous emphysema and pneumomediastinum.  
+- **Diagnosis:** Spontaneous pneumomediastinum (likely secondary to recent coughing/straining).  
+- **Management:** Admitted to Respiratory HDU. Analgesia initiated – paracetamol 1 g QDS (PRN).  
+
+**03:45 – 09:30 Jan 2026**  
+- **Further plan (SpR Dr Osian Pritchard):** Conservative management; added ibuprofen 400 mg TDS, advised avoidance of straining/heavy lifting, and close monitoring for respiratory compromise.  
+- **Ward round (Consultant Dr Afua Asare):** Stable pneumomediastinum, mild chest pain; repeat CXR ordered for the following day.  
+
+**11:00 Jan 2026** – Physiotherapy (Hina Raza): diaphragmatic and pursed‑lip breathing exercises; education on reducing intrathoracic pressure; repeat CXR scheduled.  
+
+**17:00 Jan 2026** – Ward round (SpR Dr Pritchard): patient comfortable, pain controlled with paracetamol + ibuprofen. Started omeprazole 20 mg OD for gastro‑protection.  
+
+**06 Jan 2026**  
+- **Morning:** Repeat CXR ordered; observations stable (HR 88 bpm, BP 130/80 mmHg, RR 18 /min, SpO₂ 97 % RA).  
+- **10:30:** CXR showed slight reduction in pneumomediastinum; continued conservative care, no medication changes.  
+- **12:00:** Second physiotherapy session reinforced breathing techniques; no new findings.  
+
+**07 Jan 2026**  
+- **09:00:** CXR demonstrated further reduction; patient pain‑free, no sub‑cutaneous crepitus. Paracetamol and ibuprofen discontinued. Planned repeat CXR in 48 h.  
+- **13:00:** Nurse Sylvia Doyle provided education on signs of recurrence and discharge instructions.  
+
+**08 Jan 2026**  
+- **09:00:** CXR showed no complications; patient remained asymptomatic. Discharge planning initiated; outpatient respiratory clinic follow‑up arranged.  
+- **11:15:** Nurse contacted GP (Dr Donna Harvey) to convey discharge plan; no medication changes communicated.  
+
+**09 Jan 2026**  
+- **11:00:** Final CXR confirmed complete resolution of the pneumomediastinum; patient cleared for discharge the following day. No further imaging required.  
+
+**Overall Course:** The patient presented with spontaneous pneumomediastinum, was managed conservatively with analgesia, gastro‑protection, and targeted physiotherapy. Serial chest radiographs demonstrated progressive resolution, and the patient became symptom‑free within four days, leading to discharge with outpatient follow‑up."
+31f9612b-5a6b-48ea-887b-895772a83b99,22,20,"[264, 265, 266, 245, 246, 247, 248, 249, 250, 251, 253, 254, 255, 256, 257, 258, 259, 260, 262, 263]","[0.5172392129898071, 0.5086513757705688, 0.537680983543396, 0.4967452883720398, 0.5411267280578613, 0.4754945933818817, 0.5218791961669922, 0.5156504511833191, 0.5138680934906006, 0.5180140733718872, 0.5110296607017517, 0.5127694606781006, 0.509567379951477, 0.5268738269805908, 0.47651028633117676, 0.4686635136604309, 0.4974038302898407, 0.5037689208984375, 0.5096274614334106, 0.49472782015800476]","**Longitudinal Clinical Summary – John Michael Gill (58 y/o male)**  
+
+**Baseline and Pre‑operative Period**  
+- **Diagnoses:** End‑stage osteoarthritis (OA) of the right knee; hypertension; hyperlipidaemia; prior appendectomy (1998).  
+- **Medications on admission (15 Dec 2025):** Paracetamol 500 mg PRN, ibuprofen 400 mg three times daily (TDS).  
+- **Pre‑operative optimisation (15‑20 Dec 2025):** Initiated amlodipine 5 mg once daily for blood‑pressure control (BP 148/92 mmHg). Planned discontinuation of ibuprofen 1 week before surgery; prescribed paracetamol 1 g four times daily (QDS) for pain. Midazolam 2 mg oral scheduled on the morning of surgery for anxiety. All pre‑operative investigations (ECG, full blood count, renal function, clotting) returned within acceptable limits.  
+
+**Surgical Intervention**  
+- **Date:** 1 Jan 2026.  
+- **Procedure:** Elective total right knee replacement (cemented prosthesis) performed under general anaesthesia by Dr Hong Wu (assistant and anaesthetist Dr Brian Morris). Intra‑operative findings: severe cartilage erosion and osteophyte formation consistent with end‑stage OA. Minimal blood loss; no intra‑operative complications.  
+
+**Immediate Post‑operative Course (1 Jan 2026)**  
+- **Analgesia:** Morphine patient‑controlled analgesia (10 mg total dose) plus paracetamol 1 g QDS and ibuprofen 400 mg TDS prescribed.  
+- **Antibiotic prophylaxis:** Cefuroxime 1.5 g IV for 24 h.  
+- **Complications:** Mild nausea treated with ondansetron 4 mg IV; pain rated 5‑6/10, managed with additional morphine 2 mg IV.  
+- **Vital signs:** Stable (BP 132/84 mmHg, HR 78 bpm, RR 14, SpO₂ 97 %).  
+- **Laboratory:** Post‑operative haemoglobin 110 g/L (expected drop); CRP 45 mg/L.  
+
+**Post‑operative Management (1‑4 Jan 2026)**  
+- **VTE prophylaxis:** Enoxaparin 40 mg SC once daily (1 Jan), switched to dalteparin 500 units SC daily (2 Jan), then apixaban 2.5 mg twice daily for 14 days (4 Jan).  
+- **Inflammation:** CRP remained mildly elevated (45 mg/L → 44 mg/L). No clinical signs of infection.  
+- **Pain control:** Continued paracetamol 1 g QDS; ibuprofen tapered (200 mg TDS on 3 Jan, planned wean). Naproxen 250 mg twice daily started on 4 Jan with omeprazole 20 mg OD for gastro‑protection.  
+- **Physiotherapy:** Daily sessions focused on early range of motion, ankle pumps, progressive weight‑bearing, gait training, and transition from walker to crutches. By 4 Jan the patient was ambulating independently with crutches, achieving 90° knee flexion, and demonstrated safe stair navigation. Mild residual knee stiffness noted.  
+- **Wound care:** Dressing changes showed clean, dry wound with mild swelling/bruising; no infection or excess drainage.  
+
+**Discharge Planning (4 Jan 2026)**  
+- **Functional status:** Independent ambulation with crutches, pain well controlled, no signs of infection or DVT.  
+- **Medications on discharge:**  
+  - Paracetamol 500 mg PRN (as needed)  
+  - Ibuprofen 400 mg TDS (to be stopped)  
+  - Naproxen 250 mg BD with omeprazole 20 mg OD (started 4 Jan)  
+  - Apixaban 2.5 mg BD for 14 days (post‑op VTE prophylaxis)  
+  - Amlodipine 5 mg OD (ongoing hypertension management)  
+- **Follow‑up:** Routine orthopaedic and physiotherapy review; monitor wound, pain, and inflammatory markers.  
+
+**Overall Course:** The patient underwent an uncomplicated elective total right knee replacement with successful peri‑operative optimisation of hypertension, effective pain management, and appropriate VTE prophylaxis. Post‑operative recovery was uneventful aside from expected mild inflammation, transient nausea, and a modest haemoglobin drop. Early physiotherapy enabled rapid functional recovery, allowing safe discharge on 4 January 2026.  "
+359014a1-10e6-4bd8-9ba7-513d021c971e,34,20,"[267, 268, 270, 272, 274, 277, 279, 282, 284, 285, 286, 288, 290, 291, 292, 293, 295, 296, 298, 299]","[0.5127935409545898, 0.5427917838096619, 0.5432249307632446, 0.5116815567016602, 0.5141660571098328, 0.5150291919708252, 0.5140413641929626, 0.5452562570571899, 0.52354496717453, 0.538825273513794, 0.5112103819847107, 0.5282260775566101, 0.5233228802680969, 0.519676923751831, 0.5345736145973206, 0.5191980600357056, 0.5280758738517761, 0.521487832069397, 0.529813826084137, 0.5195968747138977]","**Longitudinal Clinical Summary – Bin Pan (34 M)**  
+
+**07 Jan 2026**  
+- **Presentation:** Sudden, severe, central, sharp chest pain (onset ~2 h prior). No trauma, allergies, or regular medications.  
+- **Initial assessment (A&E, Nurse Wei Wang):** Airway patent, stable vitals (HR 88‑92 bpm, BP 128/76‑132/84 mmHg, RR 22 /min, SpO₂ 97‑98 % RA), GCS 15, mild sub‑cutaneous emphysema noted later.  
+- **Working diagnosis:** Spontaneous pneumomediastinum.  
+- **Investigations:** CXR ordered (01:00) → confirmed pneumomediastinum, no pneumothorax. CT chest (02:00) confirmed spontaneous pneumomediastinum, excluded oesophageal or tracheal rupture.  
+- **Management:** Admitted to Acute Respiratory Ward (Dr Neil Ivor Berry, Dr Enid Alison Mahmood). Conservative care with analgesia – paracetamol 1 g QDS and ibuprofen 400 mg TDS. Monitoring for red‑flag signs.  
+
+**07 Jan 2026 – Ward rounds**  
+- Dr Clifford Alan Carr (09:00): Persistent but non‑progressive sub‑cutaneous emphysema; repeat CXR scheduled for 08 Jan. Added ibuprofen 400 mg TDS and omeprazole 20 mg OD.  
+- Dr Stuart Thomas Payne (17:00): Mild symptom improvement, mobilising; continued paracetamol 1 g QDS PRN; CXR to be reviewed next morning.  
+
+**08 Jan 2026**  
+- Ward round (Dr Payne, 09:30): Mild residual discomfort, slight reduction of emphysema; repeat CXR pending.  
+- Dietitian (15:00): Advised adequate hydration and high‑protein, easily digestible diet; no medication changes.  
+- Physiotherapy (20:00, Iqbal Chaudhari): Supervised upright walking, gentle mobility and deep‑breathing exercises; tolerated well, no adverse effects.  
+
+**09 Jan 2026**  
+- Morning round (Dr Philip Paul Cook, 08:45): CXR (08 Jan) showed mild decrease in mediastinal air; patient asymptomatic, no sub‑cutaneous emphysema. Stopped regular paracetamol, continued ibuprofen and physiotherapy.  
+- Physiotherapy (10:30): Stretch, posture correction, diaphragmatic breathing; reinforced twice‑daily breathing exercises.  
+- Afternoon round (Dr Payne, 16:00): Repeat CXR demonstrated significant resolution of mediastinal air; stable vitals; initiated discharge planning, scheduled follow‑up CXR in 2 weeks, prescribed paracetamol 1 g QDS PRN.  
+
+**10 Jan 2026**  
+- Morning round (Dr Payne, 09:15): CXR (09 Jan) showed further reduction; patient pain‑free, comfortable. Continued discharge preparations, arranged pharmacist review, prescribed ibuprofen 400 mg TDS PRN for residual discomfort.  
+- Physiotherapy (11:00): Focused diaphragmatic breathing and light mobility; patient tolerated session.  
+- Pharmacy review (14:00, Rebecca Gillian Todd): Confirmed analgesic regimen – paracetamol 1 g QDS and ibuprofen 400 mg TDS PRN.  
+- Evening round (Dr Payne, 17:00): Near‑complete radiologic resolution; vitals stable (HR 80 bpm, BP 120/80 mmHg, SpO₂ 98 % RA); plan discharge next day, continue analgesia PRN, arrange follow‑up CXR in 2 weeks.  
+
+**11 Jan 2026**  
+- Early round (Dr Payne, 08:30): CXR (10 Jan) showed no residual mediastinal air; patient asymptomatic, mobilising well. Stopped regular paracetamol, scheduled discharge the following morning, retained ibuprofen 400 mg TDS PRN.  
+- Discharge paperwork (10:00, Nurse Treasure Adejobi): Provided home‑care advice (hydration, breathing exercises); prescribed ibuprofen 400 mg TDS and salbutamol PRN.  
+- Patient education (15:00, Nurse Wei Wang): Given written red‑flag symptom leaflet and verbal instructions on when to seek urgent care.  
+- Evening round (Dr Payne, 18:00): Confirmed near‑complete radiologic resolution; discharge planned for next morning; prescribed paracetamol 500 mg PRN, ibuprofen 400 mg TDS PRN, follow‑up CXR in 2 weeks, and reinforced home breathing exercises.  
+
+**Overall Course:**  
+- **Diagnosis:** Spontaneous pneumomediastinum with mild, non‑progressive sub‑cutaneous emphysema, uncomplicated (no oesophageal/tracheal rupture).  
+- **Investigations:** Initial CXR and CT chest confirmed diagnosis; serial CXR (08‑10 Jan) demonstrated progressive resolution, culminating in complete radiologic resolution by 10 Jan. Routine blood tests were unremarkable.  
+- **Management:** Conservative inpatient care with analgesia (paracetamol, ibuprofen), gastro‑protection (omeprazole), physiotherapy focusing on mobilization and diaphragmatic breathing, dietary optimisation, and close radiologic monitoring.  
+- **Outcome:** Rapid symptomatic improvement, complete radiologic resolution, and discharge planned on 12 Jan 2026 with outpatient follow‑up CXR in 2 weeks and instructions for home breathing exercises.  "
+37b5ce4d-dcfd-4bb7-bee4-d597eb114703,26,20,"[323, 324, 325, 326, 304, 305, 306, 307, 309, 310, 311, 312, 314, 315, 317, 318, 319, 320, 321, 322]","[0.5287793278694153, 0.5220099687576294, 0.5288528800010681, 0.5130965709686279, 0.49262550473213196, 0.510166585445404, 0.5185107588768005, 0.5140801072120667, 0.5125076174736023, 0.5137979984283447, 0.5336216688156128, 0.5282159447669983, 0.5356402397155762, 0.529449462890625, 0.5329523682594299, 0.5209978818893433, 0.5105365514755249, 0.5061781406402588, 0.598125696182251, 0.5025690197944641]","**Chronological Clinical Summary – Mandikudza Nyoni (DOB 15/04/1946, NHS 134786728)**  
+
+**20 Dec 2025 – Pre‑operative assessment**  
+- **Diagnoses:** End‑stage osteoarthritis (OA) of the left hip; hypertension; hyperlipidaemia; osteoporosis; mild vitamin D deficiency (25‑OH‑D 18 ng/mL); borderline first‑degree AV block (clinically insignificant).  
+- **Allergy:** Penicillin.  
+- **Medications:** Paracetamol 500 mg PRN, atorvastatin 20 mg OD, bisoprolol 5 mg OD.  
+- **Examination:** Left hip with reduced ROM, tenderness, mild crepitus; otherwise normal systemic exam.  
+- **Investigations:** ECG (borderline AV block); full blood count, U&Es, LFTs, clotting – all normal; vitamin D low.  
+- **Plan:** Start colecalciferol 800 IU daily; proceed to elective total left hip replacement (TLHR); no medication changes.
+
+**20 Dec 2025 – Anaesthetic assessment (Dr Todd)**  
+- Confirmed fitness for general anaesthesia; clindamycin 600 mg IV planned for peri‑operative prophylaxis (penicillin allergy).  
+- No further investigations required.
+
+**20 Dec 2025 – Pre‑operative consent (Dr Tucker)**  
+- Discussed TLHR, benefits, risks, and GA with clindamycin prophylaxis.  
+- Surgery scheduled for **03 Jan 2026**; expected length of stay 4 days.
+
+**20 Dec 2025 – Pre‑op checklist (Nurse Stokes)**  
+- Completed blood tests, ECG, chest X‑ray (no abnormalities).  
+- Bisoprolol to be stopped 24 h before surgery; fasting instructions given; transport arranged.
+
+**03 Jan 2026 – Admission (Elective)**  
+- Patient cleared for surgery; all pre‑op requirements satisfied.
+
+**04 Jan 2026 – Total left hip replacement (Dr Zeng)**  
+- **Procedure:** Cemented total hip prosthesis (femoral stem + acetabular cup).  
+- **Findings:** Severe cartilage loss, no infection.  
+- **Blood loss:** ~200 mL; **Complications:** None.  
+- **Post‑op orders:** Paracetamol 1 g q6h, morphine 10 mg PRN (max 4 doses/24 h), enoxaparin 40 mg SC daily, clindamycin 600 mg IV intra‑op, early mobilisation, sterile dressing.
+
+**04 Jan 2026 – Recovery room (Dr Todd)**  
+- Stable airway, breathing, circulation; pain 3/10; O₂ 2 L NC.  
+- IV paracetamol 1 g given; transferred to orthopaedic ward; continue oral paracetamol PRN and enoxaparin.
+
+**04 Jan 2026 – Ward round (Dr Tucker & Dr Todd)**  
+- **Issue:** Post‑op anaemia (Hb 10.2 g/dL) and moderate pain limiting mobilisation.  
+- **Plan:** Switch VTE prophylaxis to dalteparin 5000 U SC daily; continue regular paracetamol; initiate physiotherapy.
+
+**04 Jan 2026 – First physiotherapy (Therapist Jordan)**  
+- Ankle‑pumping, breathing exercises; plan for assisted mobilisation the following day.
+
+**05 Jan 2026 – Day 1 post‑op (Dr Todd)**  
+- Mild swelling/bruising, pain 4/10, vitals stable.  
+- Continue dalteparin 5000 U SC daily, physiotherapy, monitor for infection/thrombosis.
+
+**05 Jan 2026 – Physiotherapy**  
+- Assisted mobilisation with walker; tolerated well, no adverse events.
+
+**05 Jan 2026 – Labs**  
+- Hb remained 10.2 g/dL (expected post‑op change); no new medications.
+
+**05 Jan 2026 – Occupational therapy (Therapist Arnold)**  
+- ADL assessment: moderate assistance needed for transfers and toileting.  
+- Recommended provision of raised toilet seat and long‑handled reacher before discharge.
+
+**06 Jan 2026 – Day 2 post‑op (Dr Todd)**  
+- Pain controlled with regular paracetamol and PRN tramadol; wound clean; mobility improving.  
+- **New prescriptions:** Senna 15 mg nocte (constipation); tramadol 50 mg PRN q6h (max 400 mg/day).  
+- Continue physiotherapy.
+
+**06 Jan 2026 – Physiotherapy**  
+- Partial weight‑bearing with walker, sit‑to‑stand, balance work; noted increased confidence.
+
+**06 Jan 2026 – Final physiotherapy session**  
+- Stair navigation training, home exercise programme; discharge planned for 07 Jan 2026.
+
+**07 Jan 2026 – Day 3 post‑op (Dr Todd)**  
+- Hb 110 g/L (mild drop from pre‑op 135 g/L).  
+- Pain mild, ambulating independently with frame.  
+- **Discharge plan:** Dalteparin 5000 U SC daily for 4 weeks (VTE prophylaxis); continue paracetamol 500 mg PRN and tramadol 50 mg PRN; provide walker, raised toilet seat, long‑handled reacher; follow‑up orthopaedic clinic in 6 weeks; continue home physiotherapy.
+
+**07 Jan 2026 – Final physiotherapy (Therapist Jordan)**  
+- Reviewed safe walker use, stair technique, hip strengthening; patient demonstrated competence; reinforced home exercise programme.
+
+**07 Jan 2026 – Medication counselling (Nurse Stokes)**  
+- Explained post‑op regimen: rivaroxaban 10 mg OD for 35 days (VTE prophylaxis) and paracetamol 500 mg PRN; patient understood.
+
+**07 Jan 2026 – Discharge summary (Dr Holland)**  
+- Documented TLHR, uncomplicated recovery, discharge medications (paracetamol PRN, continuation of pre‑existing atorvastatin and bisoprolol, rivaroxaban, tramadol PRN), and follow‑up instructions. Sent to GP.
+
+**07 Jan 2026 – Follow‑up instructions (Nurse Stokes)**  
+- Provided written and verbal advice to attend T&O clinic in 6 weeks.
+
+**Overall Course**  
+The patient underwent an uncomplicated cemented total left hip replacement for end‑stage OA. Peri‑operative management addressed penicillin allergy (clindamycin), VTE prophylaxis (enoxaparin → dalteparin → rivaroxaban), pain control (paracetamol, morphine, tramadol), and constipation (senna). Post‑operative anaemia was mild and expected. Mobilisation progressed from assisted sitting to independent ambulation with a frame/walker over three days. Occupational therapy identified need for assistive devices, which were provided at discharge. The patient was discharged on 07 Jan 2026 with a clear medication plan, mobility aids, physiotherapy instructions, and a 6‑week orthopaedic follow‑up.  "
+51f15281-8840-4fd0-92de-89188ab8d736,32,20,"[376, 378, 382, 384, 387, 389, 390, 391, 393, 395, 396, 397, 398, 399, 400, 402, 403, 404, 405, 406]","[0.5358929634094238, 0.5239845514297485, 0.5063483715057373, 0.5192984938621521, 0.5190826654434204, 0.5134888887405396, 0.5276395082473755, 0.5062351822853088, 0.532746434211731, 0.5055623054504395, 0.5261873006820679, 0.5335345268249512, 0.5301680564880371, 0.5105853080749512, 0.514432430267334, 0.5524142980575562, 0.517929196357727, 0.5185911655426025, 0.5109786987304688, 0.52865070104599]","**Longitudinal Clinical Summary – Bertram Adam Richards**
+
+**01 Jan 2026**  
+- **Presentation:** Arrived in A&E with severe right‑lower‑quadrant (RLQ) abdominal pain (pain score 8/10). Vital signs: HR 112 bpm, BP 132/84 mmHg, Temp 38.2 °C, RR 18/min, SpO₂ 98 % on room air. RLQ tenderness noted. (Nurse Rebecca Kaur)  
+- **Investigations:** Bloods (FBC, CRP, U&E) and urgent abdominal ultrasound ordered.  
+- **Results (09:00 ward round):** CRP 92 mg/L, WCC 14.2 ×10⁹/L; ultrasound showed an inflamed appendix with peri‑appendiceal fluid – consistent with acute appendicitis. (Dr Ol Idowu, Dr Tanya Dale)  
+- **Management plan:** Emergency laparoscopic appendectomy; pre‑operative IV cefuroxime 1.5 g and metronidazole 500 mg; nil by mouth (NBM).  
+
+**12:00** – Admission note confirmed acute appendicitis (CRP 56 mg/L, WCC 14.2 ×10⁹/L) and documented consent for laparoscopic appendectomy.  
+
+**16:00** – **Laparoscopic appendectomy** performed under general anaesthesia. Post‑operative recovery uneventful: BP 128/76 mmHg, HR 78 bpm, SpO₂ 98 %, mild pain. IV paracetamol 1 g given; oral fluids as tolerated; regular PO paracetamol 1 g q6h prescribed.  
+
+**21:00** – Next‑of‑kin (Elizabeth Grace Richards) updated on postoperative status.  
+
+**02 Jan 2026 (Post‑op Day 1)**  
+- **Clinical status:** Mobilising slowly, tolerating soft diet, mild wound pain, wound clean and dry, no signs of infection.  
+- **Investigations:** CRP 425 mg/L (post‑operative inflammatory response).  
+- **Treatment:** Ibuprofen 400 mg TDS added for pain; continued paracetamol.  
+- **Therapies:** Early physiotherapy (walking, leg strengthening) and occupational therapy (ADL training with adaptive techniques).  
+
+**03 Jan 2026 (Post‑op Day 2)**  
+- **Clinical status:** Independent mobilisation, normal diet, mild incision discomfort, vitals stable, temperature 36.8 °C.  
+- **Investigations:** CRP 18 mg/L, WBC normal.  
+- **Treatment:** Paracetamol 1 g PO q6h PRN; started oral co‑amoxiclav 625 mg TDS for 5 days (SSI prophylaxis).  
+- **Education:** Nurse Rebecca Kaur provided wound‑care instructions.  
+- **Therapies:** Continued physiotherapy and occupational therapy; no new medications.  
+
+**04 Jan 2026 (Post‑op Day 3)**  
+- **Clinical status:** Wound healing well, mild residual pain, vitals stable.  
+- **Investigations:** CRP 18 mg/L (stable).  
+- **Treatment:** Continued paracetamol PRN; added senna 7.5 mg nocte for constipation; co‑amoxiclav continued.  
+- **Additional care:** Dietitian advised high‑protein, frequent small meals and adequate hydration.  
+
+**04 Jan 2026 (Evening)** – Reviewed; pain well‑controlled, independent mobilisation; cleared for discharge the following day; prescribed 7‑day oral co‑amoxiclav course.  
+
+**05 Jan 2026 (Post‑op Day 4)**  
+- **Clinical status:** Well, no overnight concerns; wound clean, abdomen soft, no tenderness.  
+- **Plan:** Initiated discharge; prescribed paracetamol 1 g QDS PRN and co‑amoxiclav 625 mg TDS for 5 days.  
+- **Discharge preparation:** Nurse Rebecca Kaur reviewed and explained discharge medications (paracetamol 1 g QDS, senna 7.5 mg BD).  
+
+**12:30** – Final physiotherapy assessment confirmed independent walking, stair negotiation, safe sit‑to‑stand transitions; no further physiotherapy required. Patient advised to continue light activity at home and avoid heavy lifting for six weeks.  
+
+**Overall Course**  
+- **Diagnoses:** Acute appendicitis → status post laparoscopic appendectomy; postoperative inflammation without infection.  
+- **Key interventions:** Pre‑operative IV cefuroxime + metronidazole, laparoscopic appendectomy, postoperative analgesia (paracetamol, ibuprofen), oral co‑amoxiclav prophylaxis, senna for constipation, diet optimisation, physiotherapy and occupational therapy for early mobilisation and ADL independence.  
+- **Outcome:** Uneventful surgery, progressive clinical improvement with decreasing inflammatory markers, wound healing without infection, and discharge on day 5 post‑op with appropriate medication and activity instructions.  "
+58b8aad6-7327-4450-956f-b775be0f4984,11,11,"[415, 416, 417, 418, 408, 409, 410, 411, 412, 413, 414]","[0.49080532789230347, 0.5215522050857544, 0.5265649557113647, 0.5398926734924316, 0.4819502830505371, 0.47682544589042664, 0.5259885787963867, 0.5156445503234863, 0.5190337300300598, 0.532846987247467, 0.536127507686615]","**Patient:** Rachael Grace Dobson, 22‑year‑old female (DOB 15/04/2001), NHS No 586700918  
+
+**Chronology & Key Clinical Events**
+
+- **20 Dec 2025 (pre‑operative assessment)**  
+  - Presenting complaint: severe, constant left‑hip pain (OA diagnosed at age 20) limiting mobility; uses a single crutch.  
+  - Past medical history: left‑hip osteoarthritis; prior physiotherapy.  
+  - Medications: paracetamol 500 mg PRN, ibuprofen 400 mg PRN.  
+  - Investigations: ECG – normal sinus rhythm; Hb 11.2 g/dL (mild anaemia); other bloods unremarkable.  
+  - ASA grade II.  
+  - Plan: start ferrous sulfate 200 mg OD for 2 weeks, stop ibuprofen 1 week pre‑op, prescribe omeprazole 20 mg OD, NBM from midnight before surgery.  
+
+- **20 Dec 2025 (anaesthetic & surgical consent)**  
+  - Anaesthetic assessment (Dr Ishika Sahu): Mallampati I, GA with adjunct spinal anaesthesia recommended.  
+  - Surgical consent (Dr Megan Burke): left total hip replacement explained; risks and benefits discussed; patient gave informed written consent.  
+
+- **20 Dec 2025 (admission to T&O ward)**  
+  - Pre‑op investigations completed: MRSA swab negative, full blood count, U&E, clotting within normal limits; anaemia noted, ferrous sulfate continued.  
+  - Patient cleared for elective surgery on 03 Jan 2026.  
+
+- **03 Jan 2026 – Operative Day**  
+  - Procedure: left total hip replacement via posterolateral approach; cementless acetabular component and femoral stem implanted.  
+  - Intra‑operative findings: severe cartilage loss, subchondral sclerosis; soft tissues healthy.  
+  - Estimated blood loss ≈ 300 mL; no intra‑operative complications.  
+  - Immediate post‑op orders: cefuroxime 1.5 g IV q8h for 24 h, enoxaparin 40 mg SC daily, paracetamol 1 g q6h, ibuprofen 400 mg q8h, morphine 10 mg PRN; physiotherapy scheduled for next morning.  
+
+- **03 Jan 2026 (PACU)**  
+  - Stable airway, respiration, circulation; pain score 3/10; transferred to ward.  
+
+- **04 Jan 2026 (Post‑op Day 1)**  
+  - Hb 108 g/L (mild postoperative drop).  
+  - Wound clean, dry, no erythema; mobilisation with physiotherapy commenced.  
+  - Continued ferrous sulfate 200 mg OD, analgesia as above.  
+
+- **05 Jan 2026 (Post‑op Day 2)**  
+  - Moderate surgical‑site pain controlled with current analgesia; physiotherapy ongoing.  
+  - Enoxaparin 40 mg SC daily continued for thromboprophylaxis.  
+
+- **06 Jan 2026 (Post‑op Day 3)**  
+  - Wound healing well; patient mobilising with crutches.  
+  - Enoxaparin stopped; rivaroxaban 10 mg OD started for a 28‑day thromboprophylaxis course.  
+
+- **07 Jan 2026 (Post‑op Day 4)**  
+  - Pain well‑controlled; wound clean and dry.  
+  - Discharged home with apixaban 2.5 mg BD for 2 weeks, ongoing analgesia (paracetamol, ibuprofen, PRN morphine), ferrous sulfate 200 mg OD, and instructions for physiotherapy follow‑up and GP review at 6 weeks.  
+
+**Major Diagnoses**  
+1. End‑stage osteoarthritis of the left hip.  
+2. Mild pre‑operative anaemia (Hb 11.2 g/dL).  
+
+**Key Treatments**  
+- Left total hip replacement (cementless prosthesis).  
+- Pre‑operative optimisation: ferrous sulfate, ibuprofen cessation, omeprazole.  
+- Peri‑operative prophylaxis: cefuroxime, thromboprophylaxis (enoxaparin → rivaroxaban → apixaban).  
+- Post‑operative analgesia: paracetamol, ibuprofen, PRN morphine.  
+- Early mobilisation and physiotherapy.  
+
+**Investigations Summary**  
+- Pre‑op: ECG (NSR), Hb 11.2 g/dL, MRSA negative, routine labs normal.  
+- Post‑op: Hb 108 g/L on Day 1; no imaging required; wound assessments normal throughout admission.  
+
+**Clinical Course**  
+The patient progressed uneventfully from pre‑operative optimisation through an uncomplicated left total hip replacement, with stable postoperative recovery, satisfactory pain control, appropriate wound healing, and successful discharge on 07 Jan 2026."
+5e434d78-b2f6-4d88-b327-fff6ee50b901,27,20,"[439, 441, 442, 443, 444, 445, 446, 449, 450, 451, 452, 453, 455, 456, 457, 459, 460, 461, 463, 465]","[0.5084329843521118, 0.5409069657325745, 0.545712411403656, 0.5495191812515259, 0.5428316593170166, 0.5223828554153442, 0.508712887763977, 0.5141258835792542, 0.5172935128211975, 0.5373095870018005, 0.529065728187561, 0.5099932551383972, 0.5033473968505859, 0.5042251348495483, 0.50567227602005, 0.5281636714935303, 0.5114209651947021, 0.4981399476528168, 0.5186954736709595, 0.5081923604011536]","**Longitudinal Clinical Summary – Charlene Lauren Daniels (69 F, DOB 12/07/1954)**  
+
+**06 Jan 2026 – Presentation & Initial Management**  
+- **Chief complaint:** Progressive shortness of breath (3 days).  
+- **Past medical history:** Asthma, hypertension, hypercholesterolaemia.  
+- **Medications on admission:** Salbutamol inhaler PRN, Tiotropium 18 µg OD.  
+- **Initial observations:** SpO₂ 88 % on room air; tachypnoea (RR 26), HR 105 bpm, BP 136/82 mmHg, Temp 37.3 °C.  
+- **Investigations:** CBC, CRP, arterial blood gases, blood cultures; chest X‑ray showed right‑lower‑lobe consolidation. ABG on room air: PaO₂ 7.8 kPa, PaCO₂ 4.5 kPa (initial) → later PaCO₂ 6.5 kPa, pH 7.32 (respiratory acidosis). Labs: CRP ≈ 115‑120 mg/L, WCC ≈ 13‑14 ×10⁹/L.  
+- **Initial diagnosis:** Lower respiratory tract infection (LRTI) with right‑lower‑lobe consolidation, complicated by hypoxia and an acute asthma exacerbation.  
+- **Immediate treatment:** Supplemental O₂ 2 L min⁻¹ via nasal cannula (target SpO₂ > 92 %); IV Augmentin (amoxicillin‑clavulanic acid) 1.2 g TDS; nebulised salbutamol PRN; admission to respiratory ward (Bed A07).  
+
+**06 Jan – Early inpatient course**  
+- **Additional antibiotics:** IV co‑amoxiclav 1.2 g TDS plus IV clarithromycin 500 mg BD (added by consultant).  
+- **Supportive care:** Daily respiratory physiotherapy (diaphragmatic breathing, ACBT, sputum clearance) and progressive mobility exercises; O₂ continued at 2 L NC.  
+- **Nutritional support:** Dietitian noted mild weight loss; started oral nutritional supplement (Fortisip 125 ml BID).  
+
+**07 Jan – Clinical trend**  
+- **Vitals/oximetry:** SpO₂ improved to 92‑94 % on 2 L NC; HR 86‑102 bpm, RR 22‑26, Temp ≈ 37 °C.  
+- **Laboratory trend:** CRP remained elevated (~112 mg/L) but began to fall.  
+- **Therapy:** O₂ continued; physiotherapy intensified (moderate‑intensity breathing, seated/standing drills).  
+
+**08 Jan – Improvement**  
+- **Inflammatory markers:** CRP ↓ to 70 mg/L; WCC 12 ×10⁹/L.  
+- **O₂ requirement:** Reduced to 1 L NC (later 0.5 L) with SpO₂ ≥ 94 % on room air.  
+- **Plan:** Continue IV co‑amoxiclav for 48 h, then step‑down to oral amoxicillin 500 mg TDS to complete a 5‑day course; increase physiotherapy focus on mobility; begin O₂ weaning.  
+
+**09 Jan – Transition to oral therapy**  
+- **CRP:** Further decline to 70 mg/L.  
+- **O₂:** SpO₂ 95 % on room air; IV antibiotics stopped; oral amoxicillin 500 mg TID prescribed for 5 days.  
+- **Functional status:** Mobilising independently with a walking frame; physiotherapy sessions emphasized diaphragmatic and pursed‑lip breathing, ambulation, and lower‑limb strengthening.  
+
+**10 Jan – Near discharge**  
+- **CRP:** 12 mg/L (near normal).  
+- **Clinical status:** No respiratory distress, SpO₂ 95 % on room air, vitals stable (HR 72 bpm, BP 128/78 mmHg, RR 16).  
+- **Discharge planning:** Planned discharge the following day with a 5‑day course of oral amox‑clavulanic acid 50/125 mg TDS; GP follow‑up in 2 weeks.  
+
+**11 Jan – Discharge**  
+- **Final assessment:** CRP 12 mg/L, SpO₂ 96 % on room air, independent ambulation, no SOB or fatigue.  
+- **Prescriptions on discharge:** Amoxicillin‑clavulanic acid 500/125 mg TID for 5 days, Salbutamol inhaler PRN.  
+- **Patient education:** Breathing exercises (diaphragmatic, pursed‑lip), signs of respiratory deterioration (increased SOB, fever), and follow‑up at respiratory clinic in 2 weeks.  
+
+**Overall Course**  
+- The patient presented with an LRTI (right‑lower‑lobe consolidation) superimposed on chronic asthma, resulting in hypoxia requiring supplemental O₂.  
+- Prompt initiation of IV broad‑spectrum antibiotics (Augmentin → co‑amoxiclav + clarithromycin) and O₂ support led to rapid clinical and inflammatory improvement.  
+- Regular respiratory physiotherapy and nutritional supplementation supported recovery.  
+- Inflammatory markers (CRP) fell from >115 mg/L to 12 mg/L over 5 days, O₂ requirement was weaned off, and the patient was discharged home with oral antibiotics and self‑care instructions.  "
+68258b8d-7d36-4d32-9093-6170a32bf087,18,18,"[488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505]","[0.5583660006523132, 0.5202041864395142, 0.483456015586853, 0.517920732498169, 0.5176435708999634, 0.4914674758911133, 0.5081790685653687, 0.5054262280464172, 0.4554777145385742, 0.4979291558265686, 0.5319808721542358, 0.4813487231731415, 0.5340275764465332, 0.5083423852920532, 0.4958187937736511, 0.5174809694290161, 0.5078863501548767, 0.5320266485214233]","**Longitudinal Clinical Summary – Oluwadamilola Adewale (13‑year‑old female)**  
+
+**2026‑01‑06**  
+- **Presentation:** 24‑hour history of vomiting, weakness and inability to tolerate oral intake. No fever, abdominal pain or blood in vomitus.  
+- **Initial assessment (ED):** Mild dehydration (dry mucous membranes, poor skin turgor), HR 98 bpm, BP 110/70 mmHg, Temp 37.4 °C.  
+- **Investigations:** Bloods (U&Es, LFTs, FBC, CRP) – urea 12.4 mmol/L, creatinine 140 µmol/L (mild AKI), CRP mildly raised; stool sample ordered.  
+- **Initial management:** 1 L 0.9 % saline IV started; PRN ondansetron 4 mg IV planned; monitoring of urine output and hydration.  
+- **Diagnosis (Dr Georgina Holmes, SpR):** Gastroenteritis with mild dehydration and prerenal AKI secondary to fluid loss.  
+
+**2026‑01‑06 17:30** – Ward round (Dr Vincent Kemp, Consultant): Patient felt better, tolerating IV fluids; stool sample pending.  
+
+**2026‑01‑06 19:00** – Dietitian (Lisa Hayes): Initiated oral rehydration solution (Dioralyte) with small, frequent sips; advised avoidance of solid foods until oral intake tolerated.  
+
+**2026‑01‑07 08:30** – Review (Dr Holmes): Vomiting resolved, tolerating oral rehydration solution. Labs improved (urea 8.5 mmol/L, creatinine 95 µmol/L). Vitals stable. Plan: reduce IV fluids to 500 mL/day, encourage oral fluids, stop ondansetron, monitor hydration.  
+
+**2026‑01‑07 10:00** – Physiotherapy (Glenn Lewis Poole): Mobilised with normal gait and balance; no further physiotherapy required.  
+
+**2026‑01‑07 13:00** – Stool sample sent for microbiology (culture & sensitivity).  
+
+**2026‑01‑07 15:30** – Dietitian review: Patient tolerating small soft meals, hydration adequate; advised gradual progression to bland solid diet (rice, bananas, toast).  
+
+**2026‑01‑07 17:00** – Review (Dr Holmes): Stool culture negative for bacterial pathogens. Repeat labs showed normalization (urea 6.2 mmol/L, creatinine 65 µmol/L). Clinically stable, no vomiting. Plan: stop IV fluids, prescribe oral ondansetron 4 mg PRN for up to 3 days, discharge the following day if stable.  
+
+**2026‑01‑08 08:00** – Discharge medication prepared: ondansetron 4 mg PO PRN.  
+
+**2026‑01‑08 09:00** – Final review (Dr Holmes): AKI resolved (creatinine 68 µmol/L, urea 4.8 mmol/L), stool negative, patient well‑hydrated, mobilising independently. Fit for discharge; no new medications; follow‑up advice given to parents.  
+
+**2026‑01‑08 10:30** – Dietitian (Lisa Hayes): Reinforced gradual re‑introduction of normal diet, avoidance of fatty/spicy foods, signs of dehydration and when to seek care.  
+
+**2026‑01‑08 12:00** – Discharge summary (Dr Jane Fuller, Foundation Trainee): Diagnosis – gastroenteritis; hospital course – IV rehydration, resolution of dehydration and AKI, symptom‑free at discharge; treatment – IV saline, ondansetron PRN, oral rehydration, dietary progression; GP advised to monitor hydration and review if symptoms recur.  "
+6e93f9d9-213d-4f2c-a1f0-f475dacef554,34,20,"[541, 542, 543, 544, 546, 548, 549, 550, 551, 553, 560, 561, 565, 566, 568, 569, 571, 572, 573, 574]","[0.512628972530365, 0.5338051319122314, 0.519534707069397, 0.5310444831848145, 0.5272754430770874, 0.517168402671814, 0.5149397850036621, 0.5337061882019043, 0.5342376232147217, 0.5253713130950928, 0.524170994758606, 0.5150995850563049, 0.5380886793136597, 0.5381819009780884, 0.5342664122581482, 0.5243840217590332, 0.5332194566726685, 0.5307784080505371, 0.5143738985061646, 0.5447822213172913]","**Longitudinal Clinical Summary – Katie Catherine Kaur (13‑year‑old female)**  
+
+**Diagnosis**  
+- Juvenile idiopathic scoliosis (JIS) – primary indication for surgery.  
+- Mild anaemia (pre‑operative Hb 11.5 g/dL; postoperative Hb 10.5 g/dL).  
+- Post‑operative inflammatory response (CRP 45 mg/L) with mild wound swelling/erythema.  
+- Aspirin allergy.
+
+**Pre‑operative Course (02‑04 Jan 2026)**  
+- 02 Jan: Noted uneven shoulders; work‑up confirmed thoracolumbar scoliosis. Baseline labs: Hb 11.5 g/dL, normal WCC, platelets, U&E, clotting. CXR normal. Started ferrous sulfate 200 mg OD to optimise Hb.  
+- Airway assessment: Mallampati I–II, normal neck ROM.  
+- Planned posterior spinal fusion (PSF) on 04 Jan; GA with intra‑operative neuromonitoring. Premedication: oral midazolam 7.5 mg on the morning of surgery. Fasting instructions given.  
+
+**Surgical Admission and Procedure (04 Jan 2026)**  
+- Admission to orthopaedic ward, cleared for surgery. Pre‑operative IV cefuroxime 1.5 g administered.  
+- 13:00 – Posterior spinal fusion performed under GA.  
+
+**Immediate Post‑operative Period (04 Jan – 05 Jan)**  
+- PACU (17:30): Stable vitals, drowsy but rousable, pain VAS 3/10. PCA morphine started; IV cefuroxime 750 mg TDS and IV paracetamol 1 g QDS initiated. Foley catheter in situ, IV fluids 0.9 % NaCl at 85 mL/h. Surgical dressing dry, no bleeding.  
+
+**Post‑operative Day 1 (05 Jan)**  
+- Moderate surgical‑site pain; wound dressing intact with minimal serous discharge. Analgesia: oral paracetamol 500 mg QDS + oral morphine 2.5 mg PRN.  
+- First physiotherapy session: breathing exercises, bed‑to‑chair transfer training.  
+- Occupational therapy: functional assessment, safe sitting, reaching, eating, and assisted transfers.  
+
+**Post‑operative Day 2 (06 Jan)**  
+- Mild wound swelling, CRP 45 mg/L, no erythema or systemic infection. Started oral flucloxacillin 250 mg TDS for 5 days. Continued physiotherapy.  
+
+**Post‑operative Day 3 (07 Jan)**  
+- Pain regimen revised: paracetamol 500 mg q6 h PRN, ibuprofen 200 mg q8 h with food; aspirin avoided.  
+
+**Post‑operative Day 4 (08 Jan)**  
+- Pain 3/10, wound healing well, improving mobility. Oral morphine reduced from 5 mg to 2.5 mg q4 h PRN; paracetamol 500 mg QDS continued.  
+
+**Post‑operative Day 5 (09 Jan)**  
+- CRP remained 45 mg/L; Hb 10.5 g/dL (mild anaemia). Wound showed mild erythema, no discharge. Activity increased to unsupervised ambulation within ward. Flucloxacillin continued. Discharge planning initiated.  
+
+**Post‑operative Day 6 (10 Jan)**  
+- Pain well controlled with paracetamol and ibuprofen; patient ready for discharge. IV fluids stopped; oral amoxicillin 500 mg TDS started for 5 days.  
+- Final physiotherapy session: independent walking, stair negotiation, car‑transfer techniques; patient deemed fit for independent mobility.  
+
+**Discharge (11 Jan)**  
+- Discharged home with:  
+  - Paracetamol 500 mg tablets, one dose every 6 h PRN (max 4 doses/day) for 5 days.  
+  - Oral amoxicillin 500 mg TDS for 5 days (completed after discharge).  
+  - No aspirin.  
+- Provided verbal and written wound‑care instructions, activity restrictions (avoid twisting/bending), and signs of infection to monitor.  
+- Follow‑up arranged with Dr. Zainab Qureshi (orthopaedics) in 2 weeks and outpatient physiotherapy (first session scheduled 18 Jan).  
+
+**Overall Clinical Course**  
+- Successful posterior spinal fusion with uncomplicated intra‑operative course.  
+- Post‑operative recovery uncomplicated: pain progressively controlled, wound healed without infection, inflammatory markers stable, and anaemia remained mild.  
+- Mobilisation and functional independence achieved by discharge on day 9 post‑op.  
+- No new medical problems identified; all care coordinated with orthopaedic, anaesthetic, physiotherapy, occupational therapy, and primary‑care teams.  "
+900efb9a-fb57-4f25-b2a3-0a8c6f55b2d6,15,15,"[608, 609, 610, 596, 597, 598, 599, 600, 601, 602, 603, 604, 605, 606, 607]","[0.511673092842102, 0.49977606534957886, 0.5103180408477783, 0.5282489061355591, 0.4971087574958801, 0.5338008403778076, 0.4877835214138031, 0.5032305121421814, 0.49576401710510254, 0.4872208833694458, 0.49554896354675293, 0.47530412673950195, 0.5211620926856995, 0.48954203724861145, 0.4748477339744568]","**Longitudinal Clinical Summary – Muhammad Usman (Male, DOB 12/07/2016)**  
+
+**2019**  
+- Sustained a right tibial fracture.  
+- Underwent internal fixation of the right tibia.
+
+**2025‑12‑20 (Pre‑operative assessment)**  
+- Planned elective removal of the right‑tibial internal fixation device.  
+- No pain, functional limitation, or wound problems.  
+- Full blood count: Hb 10.8 g/dL (mild iron‑deficiency anaemia); WCC and platelets normal.  
+- Started ferrous sulfate 50 mg once daily.
+
+**2025‑12‑21 (Pre‑operative work‑up)**  
+- Ferrous sulfate increased to 200 mg once daily (initiated 20/12/25).  
+- Repeat Hb 10.5 g/dL; other labs unchanged.  
+- Airway low‑risk (Mallampati I); cardiovascular and respiratory examinations normal.  
+- General anaesthetic planned (inhalational induction → IV maintenance).  
+- Formal consent obtained for removal of the internal fixation device.
+
+**2026‑01‑07 (Admission & Surgery)**  
+- Pre‑op checklist completed; patient cleared for surgery.  
+- Vitals stable; Hb 10.5 g/dL (optimised with iron).  
+- Procedure performed at 15:00 under GA: removal of the right‑tibial internal fixation device.  
+- Intra‑operative findings: hardware intact, surrounding tissues healthy, no infection.  
+- Closure with absorbable sutures; minimal blood loss; no complications.  
+- Prophylactic IV cefuroxime 50 mg/kg administered 30 min before incision.  
+- Post‑op orders: paracetamol 250 mg QDS, co‑amoxiclav 125/31 mg TDS for 5 days, physiotherapy the following morning.
+
+**2026‑01‑07 (Post‑Anaesthetic Care Unit)**  
+- Stable haemodynamics and respiration.  
+- Mild pain controlled with IV paracetamol 15 mg/kg.  
+- Sterile dressing intact; no bleeding or haematoma.
+
+**2026‑01‑08 (Post‑operative Day 1)**  
+- Surgical site clean, no erythema, swelling or discharge; pain well‑controlled with paracetamol.  
+- Vitals remained within normal limits.  
+- Continued oral co‑amoxiclav 125/31 mg TDS for 5 days.  
+- Physiotherapy: assisted standing, walking with crutches, light ROM exercises – good progress, mild discomfort only.  
+- Occupational therapy: education on home self‑care; no further OT required.  
+- Nursing education on wound care and signs of infection.
+
+**2026‑01‑09 (Post‑operative Day 2)**  
+- Mild tenderness over the incision, otherwise clean wound; ambulating safely with crutches.  
+- Discharge planned.  
+- New prescriptions: ibuprofen 100 mg TDS for 5 days, oral amoxicillin 250 mg TDS for 5 days, enoxaparin sodium 20 mg subcutaneously once daily for 3 days, paracetamol 250 mg/5 ml syrup PRN.  
+- Follow‑up arranged in paediatric orthopaedic clinic in 2 weeks; advised continuation of light home physiotherapy.  
+- Final physiotherapy session confirmed safe independent crutch use; no further physiotherapy required before discharge.
+
+**Overall Course**  
+- The patient’s right‑tibial fracture was successfully managed with internal fixation in 2019.  
+- Mild iron‑deficiency anaemia was treated pre‑operatively with oral ferrous sulfate.  
+- Elective removal of the fixation device was performed without intra‑ or post‑operative complications.  
+- Post‑operative recovery was uncomplicated: wound healed well, pain controlled with analgesics, and no infection observed.  
+- Discharged home on 09 January 2026 with analgesia, short‑course antibiotics, prophylactic enoxaparin, and instructions for activity progression and wound care.  
+
+**Key Diagnoses**  
+1. Right tibial fracture (2019) – status post internal fixation.  
+2. Mild iron‑deficiency anaemia (pre‑op).  
+3. Status post removal of internal fixation device (2026).  
+
+**Key Treatments**  
+- Oral ferrous sulfate (50 mg → 200 mg daily).  
+- General anaesthesia and surgical removal of hardware.  
+- Peri‑operative IV cefuroxime; post‑op oral co‑amoxiclav → amoxicillin.  
+- Analgesia: paracetamol, ibuprofen.  
+- Prophylactic enoxaparin (3 days).  
+- Physiotherapy and OT education; safe discharge with crutches.  
+
+**Investigations**  
+- Serial full blood counts confirming mild anaemia (Hb 10.8 → 10.5 → 11.2 g/dL).  
+- No imaging or ECG performed during this admission; pre‑operative imaging reviewed and deemed satisfactory.  
+
+**Clinical Progression**  
+Stable peri‑operative course, uncomplicated wound healing, successful mobilisation, and discharge home with appropriate follow‑up.  "
+05192757-942f-460d-b4ff-004ec39cc5ee,23,20,"[67, 68, 69, 70, 48, 49, 51, 52, 54, 55, 56, 58, 59, 60, 61, 62, 63, 64, 65, 66]","[0.514918327331543, 0.539165198802948, 0.5343350768089294, 0.5150668621063232, 0.5226922631263733, 0.5228182673454285, 0.5165919661521912, 0.5336233377456665, 0.5122308135032654, 0.5224277973175049, 0.5147888660430908, 0.5257117748260498, 0.5191188454627991, 0.5066179037094116, 0.5309594869613647, 0.5011773109436035, 0.5030493140220642, 0.5128781795501709, 0.5599098801612854, 0.5017204284667969]","**Longitudinal Clinical Summary – Hope Chinwo (75‑year‑old female)**  
+
+**21 Dec 2025 – Pre‑operative assessment**  
+- **Diagnoses:** End‑stage osteoarthritis (OA) of the left hip; hypertension (HTN); mild anaemia (Hb 11.3 g/dL); prior cataract surgery (2018).  
+- **Medications:** Paracetamol 500 mg PRN, calcium + vitamin D, ferrous sulfate 200 mg once daily (started for anaemia).  
+- **Investigations:** Full blood count (Hb 11.3 g/dL, other indices normal), renal and liver function normal, ECG – normal sinus rhythm, no ischaemia.  
+- **Plan:** Optimise BP with GP, continue iron, proceed to elective total left hip replacement (THR) with spinal anaesthesia; pre‑op anaesthetic review arranged.
+
+**21 Dec 2025 – Anaesthetic and surgical consent**  
+- Spinal anaesthesia deemed suitable; patient consented after discussion of risks/benefits. No medication changes.
+
+**21 Dec 2025 – Pre‑op nursing checklist**  
+- Identity, allergies (none), surgical site, fasting status confirmed. All pre‑op investigations unchanged; cleared for surgery on 02 Jan 2026.
+
+**02 Jan 2026 – Admission and pre‑op preparation**  
+- Examination: left‑hip deformity, tenderness, limited ROM, unable to fully bear weight. Vitals stable (HR 75, BP 142/88 mmHg, Temp 36.8 °C). Hb 11.3 g/dL.  
+- Continued paracetamol PRN, calcium + vit D, ferrous sulfate.  
+
+**02 Jan 2026 – Surgery (09:00)**  
+- Procedure: Elective total left hip replacement under spinal anaesthesia.  
+- Immediate post‑op (PACU, 11:30): Stable vitals (BP 130/85 mmHg, HR 72), mild discomfort, IV paracetamol 1 g given. Surgical site clean, dry. Enoxaparin 40 mg SC once daily started for thromboprophylaxis.  
+
+**02 Jan 2026 – Early post‑op (14:00)**  
+- Hb 10.4 g/dL (post‑op anaemia). Pain 3/10, controlled with paracetamol.  
+- **Plan:** Start ferrous sulfate 200 mg daily, initiate physiotherapy, monitor Hb, continue enoxaparin.
+
+**03 Jan 2026 – Ward review**  
+- Hb 10.5 g/dL. Pain well‑controlled, mobilising with walker. No new issues.  
+- Continued oral hydration, iron‑rich diet, physiotherapy, enoxaparin.
+
+**03 Jan 2026 – Rehabilitation**  
+- Physiotherapy (stairs) – improved confidence, no pain.  
+- Occupational therapy – ADL training, hip‑precaution education, provision of hip kit (reacher, sock aid, long‑handled shoehorn) and arrangement for home adaptations (raised toilet seat, grab bars).
+
+**04 Jan 2026 – Progression**  
+- Hb stable at 10.5 g/dL. Mild stiffness, pain controlled with paracetamol. Wound clean, no signs of infection or DVT.  
+- **Interventions:** Transition from walker to crutches (physiotherapy), high‑protein diet advice (dietitian), continued enoxaparin.  
+
+**05 Jan 2026 – Pre‑discharge**  
+- Hb 10.8 g/dL. Wound clean, mobilising well with crutches, minimal pain.  
+- **Plan:** Discharge next day with rivaroxaban 10 mg daily for 7 days (VTE prophylaxis), continue ferrous sulfate 200 mg daily, high‑iron diet, paracetamol PRN.  
+
+**05 Jan 2026 – Final physiotherapy assessment**  
+- Demonstrated safe ambulation with crutches, adherence to hip precautions, deemed fit for independent discharge.
+
+**05 Jan 2026 – Discharge planning**  
+- Discharge scheduled for 06 Jan 2026. Patient and daughter received post‑op instructions, hip‑precaution education, medication list (paracetamol PRN, ferrous sulfate, rivaroxaban), wound‑care guidance, and follow‑up appointments (out‑patient physiotherapy, orthopaedic clinic).  
+
+**Overall clinical course:**  
+- Successful elective total left hip replacement performed without intra‑operative complications. Post‑operative course uncomplicated aside from expected mild anaemia, managed with oral iron. Pain controlled with paracetamol; no infection or thromboembolic events. Mobilisation progressed from walker to crutches within four days. Discharged home with appropriate VTE prophylaxis, iron supplementation, and multidisciplinary follow‑up.  "
