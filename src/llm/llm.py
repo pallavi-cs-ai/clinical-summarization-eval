@@ -1,10 +1,12 @@
 import os
-from typing import Any
 
 import pandas as pd
 from openai import OpenAI
 
 MAX_CHARS = 8192 * 4
+
+LLM_PROVIDER = "OpenAI"
+LLM_MODEL = "gpt-5.6-luna"
 
 def _get_client() -> OpenAI:
     api_key = os.getenv("OPENAI_API_KEY")
@@ -38,7 +40,7 @@ def generate_summary(patient_id: str, notes_df: pd.DataFrame, prompt: str) -> st
 
     client = _get_client()
     response = client.chat.completions.create(
-        model="gpt-5.6-luna",
+        model=LLM_MODEL,
         messages=[
             {"role": "system", "content": prompt},
             {"role": "user", "content": concatenated}
@@ -60,7 +62,7 @@ def generate_rag_summary(context: str, prompt: str) -> str:
     client = _get_client()
 
     response = client.chat.completions.create(
-        model="gpt-5.6-luna",
+        model=LLM_MODEL,
         messages=[
             {"role": "system", "content": prompt},
             {"role": "user", "content": context}
