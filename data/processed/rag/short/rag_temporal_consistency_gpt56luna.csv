@@ -1,0 +1,10 @@
+Configuration,matched_events,correct_pairs,reversed_pairs,tied_pairs_excluded,comparable_pairs,temporal_consistency
+Whole + BGE,16,107,6,7,113,94.69026548672566
+Fixed + MedCPT,17,124,7,5,131,94.65648854961832
+Whole + MedCPT,18,141,8,4,149,94.63087248322147
+Whole + Gemini,17,123,7,6,130,94.61538461538461
+Fixed + BGE,18,137,10,6,147,93.19727891156462
+Fixed + Gemini,17,125,10,1,135,92.5925925925926
+Section + Gemini,13,66,6,6,72,91.66666666666666
+Section + BGE,12,53,9,4,62,85.48387096774194
+Section + MedCPT,11,37,10,8,47,78.72340425531915

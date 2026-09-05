@@ -1,0 +1,43 @@
+source_note_index,event,decision,reason
+0,Patient presents with ear pain.,KEEP,New presenting symptom of ear pain.
+0,"Heart rate, respiratory rate, and temperature are within normal limits; no acute distress observed.",KEEP,New clinical assessment documenting normal vital signs and absence of acute distress.
+0,Directed to triage for further evaluation of ear pain.,KEEP,New disposition directing the patient to triage for further evaluation.
+1,Mild erythema and moderate tenderness were newly noted around the right outer ear; the patient was afebrile with no systemic signs of illness.,KEEP,"New examination findings of right outer-ear erythema and tenderness, with documented absence of systemic illness."
+1,A clinician review with otoscopic examination was planned to confirm the diagnosis and determine treatment.,KEEP,Represents a new planned clinical assessment with otoscopy to establish diagnosis and guide treatment.
+2,"Patient reviewed in the ED and found clinically stable with heart rate, temperature, and oxygen saturation within normal limits; no acute distress observed.",REMOVE,Repeats the previously documented stable vital signs and absence of acute distress.
+2,No medications or other interventions initiated at this time.,REMOVE,No new treatment or clinically meaningful intervention is documented.
+2,Plan is to await senior review and continue observation in the ED.,REMOVE,Repeats the existing plan for further clinician review and observation.
+3,"Patient is irritable, frequently crying, and refusing normal feeds, with pulling at the right ear.",KEEP,"Adds new symptomatic findings of irritability, feeding refusal, and ear pulling."
+3,"Examination shows right auricular erythema and tenderness, with a bulging tympanic membrane and middle-ear effusion; no mastoiditis, cellulitis, systemic infection, facial weakness, or neck stiffness.",KEEP,Provides new otoscopic findings confirming middle-ear effusion and documents absence of serious complications.
+3,Diagnosed with acute otitis media with effusion.,KEEP,Represents a new definitive diagnosis of acute otitis media with effusion.
+3,"Oral paracetamol 120 mg was administered in the ED for pain relief, with continuation every 4–6 hours as needed.",KEEP,Documents a new analgesic treatment and as-needed continuation plan.
+3,Referred to Paediatrics/ENT for planned inpatient admission and further management; accepted under the paediatric ward team.,KEEP,Represents a new referral and inpatient disposition accepted by the paediatric ward team.
+3,"ENT review and monitoring were planned, with consideration of additional intervention if symptoms do not improve.",REMOVE,Primarily restates the planned clinical review and ongoing management already encompassed by the prior review plan and ENT referral.
+4,"Examination and otoscopy show a bulging right tympanic membrane with middle-ear effusion and mild erythema, consistent with acute right otitis media.",REMOVE,Repeats the already documented otoscopic findings and acute otitis media diagnosis.
+4,"The child is uncomfortable but alert and consolable, with right ear tenderness and no mastoid or pre-auricular tenderness, discharge, respiratory distress, or fever.",REMOVE,Restates the previously documented stable clinical examination without meaningful new change.
+4,"Acute right otitis media with effusion, likely bacterial, is diagnosed.",REMOVE,Duplicates the existing diagnosis of acute otitis media with effusion.
+4,Oral amoxicillin 125 mg three times daily for 5 days is prescribed.,KEEP,Represents a new antibiotic treatment prescription.
+4,Oral paracetamol 120 mg four times daily is prescribed for pain relief.,REMOVE,Paracetamol treatment is already represented; the prescription does not establish a clearly meaningful new change.
+4,Parents are advised to monitor for systemic illness or worsening symptoms and seek medical review if these occur.,KEEP,Adds new safety-netting advice to monitor for worsening or systemic illness.
+4,"Reassessment is advised in 48 hours if there is no improvement, or earlier if the condition deteriorates.",KEEP,Adds a new planned reassessment interval and earlier review instructions if deterioration occurs.
+5,"Current examination confirms acute right otitis media with effusion, with a bulging erythematous right tympanic membrane and moderate pain.",REMOVE,Acute right otitis media with effusion and the associated examination findings are already represented.
+5,Patient remains afebrile and alert without distress or signs of systemic infection; left ear examination is normal.,REMOVE,"Afebrile, alert, and absence of systemic infection were already documented; the normal left ear is not a clinically meaningful new change."
+5,Amoxicillin 125 mg/5 mL oral suspension three times daily for 5 days is planned.,REMOVE,The same amoxicillin treatment and dosing schedule are already represented as prescribed.
+5,"Paracetamol 120 mg oral suspension four times daily is planned for pain, with warm compresses advised for symptomatic relief.",KEEP,"Although paracetamol treatment is already represented, advising warm compresses is a new symptomatic intervention."
+5,Communication with the patient's father regarding the diagnosis and treatment plan is planned.,REMOVE,Planned communication with the parent is administrative and does not represent a new clinical event.
+6,"Father received education on managing the patient's acute otitis media, including warm compresses for ear pain and proper ear hygiene.",REMOVE,Repeats previously documented warm compress advice and ear-care education without a new clinical event.
+6,Counseling provided on completing the prescribed 5-day oral amoxicillin course and recognizing improvement versus red-flag symptoms such as worsening pain or ear discharge.,REMOVE,Reiterates the existing amoxicillin prescription and previously documented monitoring for worsening symptoms.
+6,Continue oral paracetamol 120 mg as needed for pain relief; no changes were made to the treatment plan.,REMOVE,Repeats the previously documented paracetamol plan with no treatment change or new clinical finding.
+7,Pharmacist and Dr. Rose reviewed the medication chart.,REMOVE,Medication chart review is administrative and does not represent a new clinical event.
+7,Amoxicillin 125 mg/5 mL oral suspension dose was confirmed appropriate for the patient’s age and weight.,REMOVE,Confirms the already documented amoxicillin prescription without a new treatment change or finding.
+7,"The antibiotic regimen was continued unchanged, with the 5-day course confirmed as appropriate.",REMOVE,Repeats the previously documented unchanged 5-day amoxicillin regimen without meaningful progression.
+8,"Right acute otitis media with effusion is clinically improving, with reduced tympanic membrane erythema and effusion and significantly improved pain.",KEEP,"Documents meaningful clinical improvement in otitis media, effusion, and pain."
+8,"Patient is alert, interactive, comfortable, and has no signs of systemic infection or distress; observations are stable on room air.",KEEP,"Represents improvement from the earlier irritability, crying, and feeding refusal to a comfortable, interactive state without distress."
+8,Patient tolerated oral amoxicillin and analgesia overnight without adverse effects.,KEEP,Documents meaningful continuation and tolerance of antibiotic and analgesic treatment without adverse effects.
+8,"No new imaging, blood tests, urine tests, or pending investigation results are reported.",REMOVE,Reports absence of investigations or pending results and does not represent a new clinical event.
+8,Discharge later today is planned with a 5-day course of oral amoxicillin and paracetamol as needed for pain.,KEEP,Introduces a new planned disposition of discharge and specifies continuation of treatment.
+8,"ENT follow-up in 2 weeks is planned, with discharge medication dosing and completion of antibiotics to be explained to the parents.",KEEP,Adds a new ENT follow-up plan and discharge medication counseling.
+8,Warm compresses are recommended for symptomatic relief.,REMOVE,Warm compresses were already documented as recommended for symptomatic relief.
+9,"Discharge plan discussed with the GP, including a planned 5-day course of amoxicillin 125 mg/5 mL TDS and paracetamol 120 mg/5 mL QDS as needed.",REMOVE,Discharge medications and dosing are already represented in earlier events.
+9,ENT follow-up planned in 2 weeks.,REMOVE,ENT follow-up in 2 weeks is already represented in an earlier event.
+9,GP informed for continuity of care; no treatment changes made.,REMOVE,GP notification without treatment change is administrative and adds no new clinical event.

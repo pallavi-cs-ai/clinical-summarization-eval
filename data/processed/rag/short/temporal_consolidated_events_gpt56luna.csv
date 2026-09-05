@@ -1,0 +1,20 @@
+source_note_index,event
+0,Patient presents with ear pain.
+0,"Heart rate, respiratory rate, and temperature are within normal limits; no acute distress observed."
+0,Directed to triage for further evaluation of ear pain.
+1,Mild erythema and moderate tenderness were newly noted around the right outer ear; the patient was afebrile with no systemic signs of illness.
+1,A clinician review with otoscopic examination was planned to confirm the diagnosis and determine treatment.
+3,"Patient is irritable, frequently crying, and refusing normal feeds, with pulling at the right ear."
+3,"Examination shows right auricular erythema and tenderness, with a bulging tympanic membrane and middle-ear effusion; no mastoiditis, cellulitis, systemic infection, facial weakness, or neck stiffness."
+3,Diagnosed with acute otitis media with effusion.
+3,"Oral paracetamol 120 mg was administered in the ED for pain relief, with continuation every 4–6 hours as needed."
+3,Referred to Paediatrics/ENT for planned inpatient admission and further management; accepted under the paediatric ward team.
+4,Oral amoxicillin 125 mg three times daily for 5 days is prescribed.
+4,Parents are advised to monitor for systemic illness or worsening symptoms and seek medical review if these occur.
+4,"Reassessment is advised in 48 hours if there is no improvement, or earlier if the condition deteriorates."
+5,"Paracetamol 120 mg oral suspension four times daily is planned for pain, with warm compresses advised for symptomatic relief."
+8,"Right acute otitis media with effusion is clinically improving, with reduced tympanic membrane erythema and effusion and significantly improved pain."
+8,"Patient is alert, interactive, comfortable, and has no signs of systemic infection or distress; observations are stable on room air."
+8,Patient tolerated oral amoxicillin and analgesia overnight without adverse effects.
+8,Discharge later today is planned with a 5-day course of oral amoxicillin and paracetamol as needed for pain.
+8,"ENT follow-up in 2 weeks is planned, with discharge medication dosing and completion of antibiotics to be explained to the parents."

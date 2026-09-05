@@ -1,0 +1,43 @@
+source_note_index,creation_timestamp,event
+0,04/01/2026 10:10,Patient presents with ear pain.
+0,04/01/2026 10:10,"Heart rate, respiratory rate, and temperature are within normal limits; no acute distress observed."
+0,04/01/2026 10:10,Directed to triage for further evaluation of ear pain.
+1,04/01/2026 10:30,Mild erythema and moderate tenderness were newly noted around the right outer ear; the patient was afebrile with no systemic signs of illness.
+1,04/01/2026 10:30,A clinician review with otoscopic examination was planned to confirm the diagnosis and determine treatment.
+2,04/01/2026 11:00,"Patient reviewed in the ED and found clinically stable with heart rate, temperature, and oxygen saturation within normal limits; no acute distress observed."
+2,04/01/2026 11:00,No medications or other interventions initiated at this time.
+2,04/01/2026 11:00,Plan is to await senior review and continue observation in the ED.
+3,04/01/2026 11:30,"Patient is irritable, frequently crying, and refusing normal feeds, with pulling at the right ear."
+3,04/01/2026 11:30,"Examination shows right auricular erythema and tenderness, with a bulging tympanic membrane and middle-ear effusion; no mastoiditis, cellulitis, systemic infection, facial weakness, or neck stiffness."
+3,04/01/2026 11:30,Diagnosed with acute otitis media with effusion.
+3,04/01/2026 11:30,"Oral paracetamol 120 mg was administered in the ED for pain relief, with continuation every 4–6 hours as needed."
+3,04/01/2026 11:30,Referred to Paediatrics/ENT for planned inpatient admission and further management; accepted under the paediatric ward team.
+3,04/01/2026 11:30,"ENT review and monitoring were planned, with consideration of additional intervention if symptoms do not improve."
+4,04/01/2026 12:00,"Examination and otoscopy show a bulging right tympanic membrane with middle-ear effusion and mild erythema, consistent with acute right otitis media."
+4,04/01/2026 12:00,"The child is uncomfortable but alert and consolable, with right ear tenderness and no mastoid or pre-auricular tenderness, discharge, respiratory distress, or fever."
+4,04/01/2026 12:00,"Acute right otitis media with effusion, likely bacterial, is diagnosed."
+4,04/01/2026 12:00,Oral amoxicillin 125 mg three times daily for 5 days is prescribed.
+4,04/01/2026 12:00,Oral paracetamol 120 mg four times daily is prescribed for pain relief.
+4,04/01/2026 12:00,Parents are advised to monitor for systemic illness or worsening symptoms and seek medical review if these occur.
+4,04/01/2026 12:00,"Reassessment is advised in 48 hours if there is no improvement, or earlier if the condition deteriorates."
+5,04/01/2026 13:30,"Current examination confirms acute right otitis media with effusion, with a bulging erythematous right tympanic membrane and moderate pain."
+5,04/01/2026 13:30,Patient remains afebrile and alert without distress or signs of systemic infection; left ear examination is normal.
+5,04/01/2026 13:30,Amoxicillin 125 mg/5 mL oral suspension three times daily for 5 days is planned.
+5,04/01/2026 13:30,"Paracetamol 120 mg oral suspension four times daily is planned for pain, with warm compresses advised for symptomatic relief."
+5,04/01/2026 13:30,Communication with the patient's father regarding the diagnosis and treatment plan is planned.
+6,04/01/2026 15:00,"Father received education on managing the patient's acute otitis media, including warm compresses for ear pain and proper ear hygiene."
+6,04/01/2026 15:00,Counseling provided on completing the prescribed 5-day oral amoxicillin course and recognizing improvement versus red-flag symptoms such as worsening pain or ear discharge.
+6,04/01/2026 15:00,Continue oral paracetamol 120 mg as needed for pain relief; no changes were made to the treatment plan.
+7,04/01/2026 16:30,Pharmacist and Dr. Rose reviewed the medication chart.
+7,04/01/2026 16:30,Amoxicillin 125 mg/5 mL oral suspension dose was confirmed appropriate for the patient’s age and weight.
+7,04/01/2026 16:30,"The antibiotic regimen was continued unchanged, with the 5-day course confirmed as appropriate."
+8,05/01/2026 08:00,"Right acute otitis media with effusion is clinically improving, with reduced tympanic membrane erythema and effusion and significantly improved pain."
+8,05/01/2026 08:00,"Patient is alert, interactive, comfortable, and has no signs of systemic infection or distress; observations are stable on room air."
+8,05/01/2026 08:00,Patient tolerated oral amoxicillin and analgesia overnight without adverse effects.
+8,05/01/2026 08:00,"No new imaging, blood tests, urine tests, or pending investigation results are reported."
+8,05/01/2026 08:00,Discharge later today is planned with a 5-day course of oral amoxicillin and paracetamol as needed for pain.
+8,05/01/2026 08:00,"ENT follow-up in 2 weeks is planned, with discharge medication dosing and completion of antibiotics to be explained to the parents."
+8,05/01/2026 08:00,Warm compresses are recommended for symptomatic relief.
+9,05/01/2026 09:30,"Discharge plan discussed with the GP, including a planned 5-day course of amoxicillin 125 mg/5 mL TDS and paracetamol 120 mg/5 mL QDS as needed."
+9,05/01/2026 09:30,ENT follow-up planned in 2 weeks.
+9,05/01/2026 09:30,GP informed for continuity of care; no treatment changes made.
