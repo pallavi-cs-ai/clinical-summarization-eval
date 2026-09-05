@@ -1,0 +1,1055 @@
+{
+  "Whole + Gemini": [
+    {
+      "fact_id": "F01",
+      "score": 2,
+      "evidence": "Ren Suzuki is a 1-year-old girl who presented on 04/01/2026 with approximately 24 hours of right ear pain."
+    },
+    {
+      "fact_id": "F02",
+      "score": 2,
+      "evidence": "The summary reports irritability, frequent crying, reduced feeding, sleep difficulty, and right ear pulling."
+    },
+    {
+      "fact_id": "F03",
+      "score": 1,
+      "evidence": "She was described as afebrile with no systemic infection, but vomiting and diarrhoea were not specifically mentioned."
+    },
+    {
+      "fact_id": "F04",
+      "score": 1,
+      "evidence": "She was described as afebrile and clinically stable, but the specific vital signs were not provided."
+    },
+    {
+      "fact_id": "F05",
+      "score": 2,
+      "evidence": "Examination showed mild right outer-ear erythema and tenderness."
+    },
+    {
+      "fact_id": "F06",
+      "score": 2,
+      "evidence": "Otoscopy showed a bulging, mildly erythematous right tympanic membrane with effusion."
+    },
+    {
+      "fact_id": "F07",
+      "score": 2,
+      "evidence": "The left ear was normal."
+    },
+    {
+      "fact_id": "F08",
+      "score": 1,
+      "evidence": "The summary notes no otorrhoea, mastoiditis, cellulitis, neurological deficit, or systemic infection, but does not mention neck stiffness or facial asymmetry."
+    },
+    {
+      "fact_id": "F09",
+      "score": 1,
+      "evidence": "She was diagnosed with acute right otitis media with effusion, but the likely bacterial origin was not stated."
+    },
+    {
+      "fact_id": "F10",
+      "score": 0,
+      "evidence": "Not represented"
+    },
+    {
+      "fact_id": "F11",
+      "score": 2,
+      "evidence": "Oral paracetamol 120 mg was administered for pain."
+    },
+    {
+      "fact_id": "F12",
+      "score": 1,
+      "evidence": "She was admitted under Paediatrics/ENT, but the referral acceptance and named accepting physician were not included."
+    },
+    {
+      "fact_id": "F13",
+      "score": 2,
+      "evidence": "Amoxicillin 125 mg/5 mL was prescribed three times daily for 5 days, with 2.5 mL three times daily specified at discharge."
+    },
+    {
+      "fact_id": "F14",
+      "score": 2,
+      "evidence": "Paracetamol 120 mg/5 mL, 5 mL four times daily as needed, was prescribed for pain."
+    },
+    {
+      "fact_id": "F15",
+      "score": 2,
+      "evidence": "Warm compresses were advised and parents received education regarding ear care."
+    },
+    {
+      "fact_id": "F16",
+      "score": 2,
+      "evidence": "Pharmacy review confirmed the amoxicillin regimen as appropriate, with no changes."
+    },
+    {
+      "fact_id": "F17",
+      "score": 1,
+      "evidence": "She was initially afebrile and later had no systemic infection or distress, but persistent afebrile status and absence of new symptoms during admission were not explicitly stated."
+    },
+    {
+      "fact_id": "F18",
+      "score": 2,
+      "evidence": "She had significant improvement in pain and tolerated oral antibiotics and analgesia without adverse effects."
+    },
+    {
+      "fact_id": "F19",
+      "score": 2,
+      "evidence": "Right tympanic membrane erythema and effusion had decreased, and she was alert and comfortable."
+    },
+    {
+      "fact_id": "F20",
+      "score": 2,
+      "evidence": "She was planned for discharge later that day with amoxicillin for 5 days and as-needed paracetamol."
+    },
+    {
+      "fact_id": "F21",
+      "score": 1,
+      "evidence": "Parents received education regarding red-flag symptoms, but the instruction to seek medical attention and the specific symptoms were not detailed."
+    },
+    {
+      "fact_id": "F22",
+      "score": 2,
+      "evidence": "ENT follow-up was advised in 2 weeks."
+    },
+    {
+      "fact_id": "F23",
+      "score": 2,
+      "evidence": "The GP was informed of the discharge plan."
+    }
+  ],
+  "Whole + BGE": [
+    {
+      "fact_id": "F01",
+      "score": 2,
+      "evidence": "Ren Suzuki, a 1-year-old girl, presented on 04/01/26 with approximately 24 hours of right ear pain."
+    },
+    {
+      "fact_id": "F02",
+      "score": 2,
+      "evidence": "Irritability, frequent crying, reduced feeding, poor sleep, and right ear tugging were reported."
+    },
+    {
+      "fact_id": "F03",
+      "score": 1,
+      "evidence": "She was afebrile and had normal observations without systemic illness, but vomiting and diarrhoea were not specifically mentioned."
+    },
+    {
+      "fact_id": "F04",
+      "score": 1,
+      "evidence": "She was afebrile and had normal observations, but the specific vital-sign values were not provided."
+    },
+    {
+      "fact_id": "F05",
+      "score": 2,
+      "evidence": "Examination showed mild right auricular erythema and tenderness."
+    },
+    {
+      "fact_id": "F06",
+      "score": 2,
+      "evidence": "There was a bulging, mildly erythematous right tympanic membrane and middle-ear effusion."
+    },
+    {
+      "fact_id": "F07",
+      "score": 2,
+      "evidence": "The left ear was normal."
+    },
+    {
+      "fact_id": "F08",
+      "score": 1,
+      "evidence": "There was no discharge, mastoid tenderness, cellulitis, facial asymmetry, neurological deficit, or respiratory distress; neck stiffness was not specifically addressed."
+    },
+    {
+      "fact_id": "F09",
+      "score": 1,
+      "evidence": "She was diagnosed with acute right otitis media with effusion, but the likely bacterial origin was not stated."
+    },
+    {
+      "fact_id": "F10",
+      "score": 0,
+      "evidence": "Not represented"
+    },
+    {
+      "fact_id": "F11",
+      "score": 2,
+      "evidence": "Oral paracetamol 120 mg was given for pain."
+    },
+    {
+      "fact_id": "F12",
+      "score": 1,
+      "evidence": "She was referred for paediatric/ENT inpatient management, but acceptance under Dr. Lisa Doreen Hayes was not included."
+    },
+    {
+      "fact_id": "F13",
+      "score": 2,
+      "evidence": "Amoxicillin 125 mg/5 mL suspension three times daily for 5 days was prescribed, with 2.5 mL three times daily to complete the course."
+    },
+    {
+      "fact_id": "F14",
+      "score": 2,
+      "evidence": "Paracetamol 120 mg/5 mL, 5 mL four times daily as needed, was prescribed."
+    },
+    {
+      "fact_id": "F15",
+      "score": 2,
+      "evidence": "Warm compresses and ear hygiene were advised."
+    },
+    {
+      "fact_id": "F16",
+      "score": 1,
+      "evidence": "Pharmacy review confirmed the amoxicillin dose and 5-day regimen, but appropriateness for age and weight and no medication changes were not explicitly stated."
+    },
+    {
+      "fact_id": "F17",
+      "score": 2,
+      "evidence": "She was afebrile and had no systemic infection or distress during the ward review."
+    },
+    {
+      "fact_id": "F18",
+      "score": 2,
+      "evidence": "Pain had significantly improved, and she tolerated antibiotics and analgesia without adverse effects."
+    },
+    {
+      "fact_id": "F19",
+      "score": 2,
+      "evidence": "Otoscopy showed reduced right tympanic membrane erythema and effusion, and she was alert and comfortable."
+    },
+    {
+      "fact_id": "F20",
+      "score": 2,
+      "evidence": "She was discharged later that day with amoxicillin to complete 5 days and as-needed paracetamol."
+    },
+    {
+      "fact_id": "F21",
+      "score": 1,
+      "evidence": "Parents were advised regarding warning signs, but the specific symptoms of worsening pain, discharge, fever, vomiting, and lethargy were not listed."
+    },
+    {
+      "fact_id": "F22",
+      "score": 2,
+      "evidence": "Follow-up with ENT in 2 weeks was arranged."
+    },
+    {
+      "fact_id": "F23",
+      "score": 2,
+      "evidence": "The GP was informed of the discharge plan on 05/01/26."
+    }
+  ],
+  "Whole + MedCPT": [
+    {
+      "fact_id": "F01",
+      "score": 2,
+      "evidence": "Ren Suzuki, a 1-year-old girl, presented on 04 Jan 2026 with acute right ear pain."
+    },
+    {
+      "fact_id": "F02",
+      "score": 2,
+      "evidence": "Mother reported irritability, frequent crying, reduced feeding, sleep difficulty, and pulling at the right ear since the previous night."
+    },
+    {
+      "fact_id": "F03",
+      "score": 2,
+      "evidence": "There was no fever, vomiting, diarrhoea, discharge, or other systemic symptoms."
+    },
+    {
+      "fact_id": "F04",
+      "score": 2,
+      "evidence": "Observations included HR 110, RR 28, temperature 36.8°C, and SpO₂ 99%, with observations within normal limits."
+    },
+    {
+      "fact_id": "F05",
+      "score": 2,
+      "evidence": "Triage noted mild erythema of the right outer ear and moderate tenderness."
+    },
+    {
+      "fact_id": "F06",
+      "score": 2,
+      "evidence": "Examination showed a bulging, erythematous right tympanic membrane with effusion."
+    },
+    {
+      "fact_id": "F07",
+      "score": 2,
+      "evidence": "The left ear was normal."
+    },
+    {
+      "fact_id": "F08",
+      "score": 1,
+      "evidence": "The summary states no mastoiditis, cellulitis, facial weakness, systemic infection, or distress, but does not mention neck stiffness or neurological deficit."
+    },
+    {
+      "fact_id": "F09",
+      "score": 1,
+      "evidence": "She was diagnosed with acute right otitis media with effusion, but the likely bacterial origin is not stated."
+    },
+    {
+      "fact_id": "F10",
+      "score": 0,
+      "evidence": "Not represented"
+    },
+    {
+      "fact_id": "F11",
+      "score": 2,
+      "evidence": "Paracetamol 120 mg was administered."
+    },
+    {
+      "fact_id": "F12",
+      "score": 1,
+      "evidence": "She was referred for paediatric/ENT inpatient management, but acceptance under Dr. Lisa Doreen Hayes is not stated."
+    },
+    {
+      "fact_id": "F13",
+      "score": 2,
+      "evidence": "Amoxicillin 125 mg/5 mL suspension, 2.5 mL three times daily, was prescribed to complete 5 days."
+    },
+    {
+      "fact_id": "F14",
+      "score": 2,
+      "evidence": "Paracetamol 120 mg/5 mL suspension, 5 mL four times daily as needed, was prescribed."
+    },
+    {
+      "fact_id": "F15",
+      "score": 2,
+      "evidence": "Warm compresses and ear hygiene were advised."
+    },
+    {
+      "fact_id": "F16",
+      "score": 2,
+      "evidence": "Pharmacy review confirmed the amoxicillin dose and 5-day regimen; no treatment changes were made."
+    },
+    {
+      "fact_id": "F17",
+      "score": 2,
+      "evidence": "She remained afebrile and without systemic infection during review."
+    },
+    {
+      "fact_id": "F18",
+      "score": 2,
+      "evidence": "Pain significantly improved after tolerating oral antibiotics and analgesia without adverse effects."
+    },
+    {
+      "fact_id": "F19",
+      "score": 2,
+      "evidence": "Examination showed reduced right tympanic membrane erythema and effusion; she was alert, interactive, and comfortable."
+    },
+    {
+      "fact_id": "F20",
+      "score": 2,
+      "evidence": "She was discharged with amoxicillin to complete 5 days and paracetamol as needed."
+    },
+    {
+      "fact_id": "F21",
+      "score": 1,
+      "evidence": "Parents were educated about signs of improvement or deterioration, but the specific warning symptoms are not listed."
+    },
+    {
+      "fact_id": "F22",
+      "score": 2,
+      "evidence": "Follow-up with ENT in 2 weeks was arranged."
+    },
+    {
+      "fact_id": "F23",
+      "score": 2,
+      "evidence": "The GP was informed of the discharge plan."
+    }
+  ],
+  "Fixed + Gemini": [
+    {
+      "fact_id": "F01",
+      "score": 2,
+      "evidence": "Ren Suzuki, a 1-year-old girl, presented with acute right ear pain."
+    },
+    {
+      "fact_id": "F02",
+      "score": 1,
+      "evidence": "She had been irritable, crying, feeding poorly, and pulling at the right ear since the previous night; sleep difficulty was not stated."
+    },
+    {
+      "fact_id": "F03",
+      "score": 1,
+      "evidence": "She was afebrile and had no systemic infection, but vomiting and diarrhoea were not specifically mentioned."
+    },
+    {
+      "fact_id": "F04",
+      "score": 1,
+      "evidence": "She was afebrile, with normal observations; the specific vital-sign values were not provided."
+    },
+    {
+      "fact_id": "F05",
+      "score": 2,
+      "evidence": "Mild erythema and moderate tenderness of the right outer ear were noted."
+    },
+    {
+      "fact_id": "F06",
+      "score": 2,
+      "evidence": "Examination showed a bulging, mildly erythematous right tympanic membrane with effusion."
+    },
+    {
+      "fact_id": "F07",
+      "score": 2,
+      "evidence": "The left tympanic membrane was normal."
+    },
+    {
+      "fact_id": "F08",
+      "score": 1,
+      "evidence": "There was no discharge, mastoiditis, cellulitis, facial asymmetry, neurological deficit, or systemic infection; neck stiffness was not mentioned."
+    },
+    {
+      "fact_id": "F09",
+      "score": 2,
+      "evidence": "Diagnosis was acute right otitis media with effusion, documented as likely bacterial."
+    },
+    {
+      "fact_id": "F10",
+      "score": 0,
+      "evidence": "Not represented"
+    },
+    {
+      "fact_id": "F11",
+      "score": 2,
+      "evidence": "Oral paracetamol 120 mg was given for pain."
+    },
+    {
+      "fact_id": "F12",
+      "score": 1,
+      "evidence": "She was referred to paediatrics/ENT for admission; acceptance under Dr. Lisa Doreen Hayes was not stated."
+    },
+    {
+      "fact_id": "F13",
+      "score": 2,
+      "evidence": "Amoxicillin 125 mg/5 mL was prescribed three times daily for 5 days, with 2.5 mL three times daily specified for discharge."
+    },
+    {
+      "fact_id": "F14",
+      "score": 2,
+      "evidence": "Paracetamol 120 mg/5 mL, 5 mL four times daily as needed, was included in the discharge plan."
+    },
+    {
+      "fact_id": "F15",
+      "score": 1,
+      "evidence": "Warm compresses and ear care were advised, but prevention of irritation was not explicitly stated."
+    },
+    {
+      "fact_id": "F16",
+      "score": 2,
+      "evidence": "Pharmacy review confirmed the amoxicillin dose and 5-day course, with no changes made."
+    },
+    {
+      "fact_id": "F17",
+      "score": 2,
+      "evidence": "She remained afebrile and had no signs of systemic infection or distress overnight."
+    },
+    {
+      "fact_id": "F18",
+      "score": 2,
+      "evidence": "Pain improved significantly, and she tolerated oral antibiotics and analgesia without adverse effects."
+    },
+    {
+      "fact_id": "F19",
+      "score": 2,
+      "evidence": "Otoscopy showed reduced right tympanic membrane erythema and effusion, and she was alert, interactive, and comfortable."
+    },
+    {
+      "fact_id": "F20",
+      "score": 2,
+      "evidence": "Discharge was planned with completion of the 5-day amoxicillin course and as-needed paracetamol."
+    },
+    {
+      "fact_id": "F21",
+      "score": 1,
+      "evidence": "Parents received education regarding red flags, but the specific warning symptoms were not listed."
+    },
+    {
+      "fact_id": "F22",
+      "score": 2,
+      "evidence": "ENT follow-up in 2 weeks was included."
+    },
+    {
+      "fact_id": "F23",
+      "score": 2,
+      "evidence": "The GP was informed of the discharge plan."
+    }
+  ],
+  "Fixed + BGE": [
+    {
+      "fact_id": "F01",
+      "score": 2,
+      "evidence": "Ren Suzuki, a 1-year-old girl, presented on 04/01/2026 with acute right ear pain."
+    },
+    {
+      "fact_id": "F02",
+      "score": 2,
+      "evidence": "Irritability, frequent crying, reduced feeding, sleep difficulty, and right ear tugging were reported."
+    },
+    {
+      "fact_id": "F03",
+      "score": 1,
+      "evidence": "The summary states she was afebrile and had no systemic infection, but does not mention vomiting or diarrhoea."
+    },
+    {
+      "fact_id": "F04",
+      "score": 1,
+      "evidence": "She was described as afebrile and clinically stable, but the specific vital signs were not provided."
+    },
+    {
+      "fact_id": "F05",
+      "score": 2,
+      "evidence": "Examination showed mild erythema around the right outer ear and moderate auricular tenderness."
+    },
+    {
+      "fact_id": "F06",
+      "score": 2,
+      "evidence": "Otoscopy showed a bulging, mildly erythematous right tympanic membrane with effusion."
+    },
+    {
+      "fact_id": "F07",
+      "score": 2,
+      "evidence": "The left ear was normal."
+    },
+    {
+      "fact_id": "F08",
+      "score": 1,
+      "evidence": "The summary notes no mastoiditis, cellulitis, neurological deficit, or systemic infection, but does not cover all listed absent findings."
+    },
+    {
+      "fact_id": "F09",
+      "score": 1,
+      "evidence": "The diagnosis was acute right otitis media with effusion, but likely bacterial origin was not stated."
+    },
+    {
+      "fact_id": "F10",
+      "score": 0,
+      "evidence": "Not represented"
+    },
+    {
+      "fact_id": "F11",
+      "score": 2,
+      "evidence": "Oral paracetamol 120 mg was administered for pain in the ED."
+    },
+    {
+      "fact_id": "F12",
+      "score": 1,
+      "evidence": "She was referred for paediatric/ENT inpatient management, but the accepting physician was not identified."
+    },
+    {
+      "fact_id": "F13",
+      "score": 2,
+      "evidence": "Amoxicillin 125 mg/5 mL was given three times daily for 5 days, with 2.5 mL three times daily specified at discharge."
+    },
+    {
+      "fact_id": "F14",
+      "score": 2,
+      "evidence": "Paracetamol 120 mg/5 mL, 5 mL four times daily as needed, was prescribed for pain."
+    },
+    {
+      "fact_id": "F15",
+      "score": 2,
+      "evidence": "Warm compresses and ear-care advice were provided."
+    },
+    {
+      "fact_id": "F16",
+      "score": 1,
+      "evidence": "Pharmacy review confirmed the amoxicillin dose and 5-day regimen were appropriate, but no medication changes were not explicitly stated."
+    },
+    {
+      "fact_id": "F17",
+      "score": 2,
+      "evidence": "She remained afebrile and clinically well during the ward round."
+    },
+    {
+      "fact_id": "F18",
+      "score": 2,
+      "evidence": "There was significant pain improvement, and she tolerated antibiotics and analgesia without adverse effects."
+    },
+    {
+      "fact_id": "F19",
+      "score": 2,
+      "evidence": "Examination showed reduced right tympanic membrane erythema and effusion, with the patient clinically well and without distress."
+    },
+    {
+      "fact_id": "F20",
+      "score": 2,
+      "evidence": "The plan was discharge later that day with amoxicillin for 5 days and as-needed paracetamol."
+    },
+    {
+      "fact_id": "F21",
+      "score": 1,
+      "evidence": "Parents were advised about warning symptoms and reassessment if symptoms worsened, but the specific symptoms were not listed."
+    },
+    {
+      "fact_id": "F22",
+      "score": 2,
+      "evidence": "ENT follow-up was planned in 2 weeks."
+    },
+    {
+      "fact_id": "F23",
+      "score": 2,
+      "evidence": "The GP was informed of the discharge plan and medications."
+    }
+  ],
+  "Fixed + MedCPT": [
+    {
+      "fact_id": "F01",
+      "score": 2,
+      "evidence": "Ren Suzuki is a 1-year-old girl who presented on 04/01/2026 with acute right ear pain."
+    },
+    {
+      "fact_id": "F02",
+      "score": 2,
+      "evidence": "Parents reported irritability, frequent crying, reduced feeding, poor sleep, and pulling at the right ear beginning the previous night."
+    },
+    {
+      "fact_id": "F03",
+      "score": 2,
+      "evidence": "She had no fever, vomiting, diarrhoea, or other systemic symptoms."
+    },
+    {
+      "fact_id": "F04",
+      "score": 2,
+      "evidence": "Observations included HR 110 bpm, RR 28/min, temperature 36.8°C, and SpO₂ 99% on air."
+    },
+    {
+      "fact_id": "F05",
+      "score": 2,
+      "evidence": "Examination showed mild erythema around the right outer ear with moderate tenderness."
+    },
+    {
+      "fact_id": "F06",
+      "score": 2,
+      "evidence": "Otoscopy demonstrated a bulging, mildly erythematous right tympanic membrane with effusion."
+    },
+    {
+      "fact_id": "F07",
+      "score": 2,
+      "evidence": "The left ear was normal."
+    },
+    {
+      "fact_id": "F08",
+      "score": 1,
+      "evidence": "There was no mastoid or pre-auricular tenderness/swelling, facial asymmetry, neurological deficit, or evidence of systemic infection or distress; neck stiffness and cellulitis were not specifically stated."
+    },
+    {
+      "fact_id": "F09",
+      "score": 1,
+      "evidence": "She was assessed as having acute right otitis media with effusion, but likely bacterial origin was not stated."
+    },
+    {
+      "fact_id": "F10",
+      "score": 1,
+      "evidence": "No laboratory tests or imaging were performed, but the summary does not explicitly address all other investigations."
+    },
+    {
+      "fact_id": "F11",
+      "score": 2,
+      "evidence": "Oral paracetamol 120 mg was administered for pain."
+    },
+    {
+      "fact_id": "F12",
+      "score": 1,
+      "evidence": "She was referred/admitted under paediatrics/ENT, but acceptance under Dr. Lisa Doreen Hayes was not included."
+    },
+    {
+      "fact_id": "F13",
+      "score": 2,
+      "evidence": "Amoxicillin 125 mg/5 mL oral suspension three times daily for 5 days was prescribed, with 2.5 mL three times daily to complete 5 days."
+    },
+    {
+      "fact_id": "F14",
+      "score": 2,
+      "evidence": "Paracetamol 120 mg/5 mL, 5 mL four times daily as needed, was included."
+    },
+    {
+      "fact_id": "F15",
+      "score": 2,
+      "evidence": "The plan included warm compresses and ear hygiene."
+    },
+    {
+      "fact_id": "F16",
+      "score": 1,
+      "evidence": "Pharmacy review confirmed the antibiotic dose and 5-day regimen were appropriate, but appropriateness for age and weight and no medication changes were not fully stated."
+    },
+    {
+      "fact_id": "F17",
+      "score": 1,
+      "evidence": "She remained afebrile initially and had no systemic illness on review, but the summary does not explicitly describe this throughout the admission."
+    },
+    {
+      "fact_id": "F18",
+      "score": 2,
+      "evidence": "Pain had significantly improved after tolerating oral antibiotics and analgesia without adverse effects."
+    },
+    {
+      "fact_id": "F19",
+      "score": 2,
+      "evidence": "She was alert, interactive, and comfortable, with reduced right tympanic membrane erythema and effusion."
+    },
+    {
+      "fact_id": "F20",
+      "score": 2,
+      "evidence": "She was planned for discharge with amoxicillin to complete 5 days and paracetamol as needed."
+    },
+    {
+      "fact_id": "F21",
+      "score": 1,
+      "evidence": "Her father received education regarding warning signs and monitoring for worsening symptoms, but the specific signs were not enumerated."
+    },
+    {
+      "fact_id": "F22",
+      "score": 2,
+      "evidence": "ENT follow-up in 2 weeks was planned."
+    },
+    {
+      "fact_id": "F23",
+      "score": 2,
+      "evidence": "The discharge plan was communicated to her GP."
+    }
+  ],
+  "Section + Gemini": [
+    {
+      "fact_id": "F01",
+      "score": 2,
+      "evidence": "Ren Suzuki, a 1-year-old girl, presented to the ED on 04/01/2026 with right ear pain."
+    },
+    {
+      "fact_id": "F02",
+      "score": 1,
+      "evidence": "She had right ear pain and pulling at the ear, but irritability, reduced feeding, sleep difficulty, crying, and onset the night before are not fully described."
+    },
+    {
+      "fact_id": "F03",
+      "score": 1,
+      "evidence": "She was afebrile and had no systemic symptoms, but vomiting and diarrhoea are not specifically mentioned."
+    },
+    {
+      "fact_id": "F04",
+      "score": 2,
+      "evidence": "Initial observations were within normal limits, including HR 110 bpm, RR 28, temperature 36.8°C, and SpO₂ 99% on air."
+    },
+    {
+      "fact_id": "F05",
+      "score": 2,
+      "evidence": "Examination showed mild erythema around the right outer ear and moderate tenderness."
+    },
+    {
+      "fact_id": "F06",
+      "score": 2,
+      "evidence": "Otoscopy identified a bulging, erythematous right tympanic membrane with effusion."
+    },
+    {
+      "fact_id": "F07",
+      "score": 2,
+      "evidence": "The left ear was normal on subsequent otoscopy."
+    },
+    {
+      "fact_id": "F08",
+      "score": 1,
+      "evidence": "The summary states there were no systemic symptoms, neurological symptoms, or distress, but does not fully address mastoiditis, cellulitis, neck stiffness, or facial asymmetry."
+    },
+    {
+      "fact_id": "F09",
+      "score": 1,
+      "evidence": "The condition was diagnosed as acute otitis media with effusion, but its likely bacterial origin is not stated."
+    },
+    {
+      "fact_id": "F10",
+      "score": 1,
+      "evidence": "No new imaging, specialist investigations, or blood or urine results were reported, but the summary does not clearly state that no investigations were performed."
+    },
+    {
+      "fact_id": "F11",
+      "score": 1,
+      "evidence": "Oral paracetamol 120 mg was included in treatment, but administration in the ED is not stated."
+    },
+    {
+      "fact_id": "F12",
+      "score": 0,
+      "evidence": "Not represented"
+    },
+    {
+      "fact_id": "F13",
+      "score": 1,
+      "evidence": "A 5-day course of oral amoxicillin was prescribed, but the suspension concentration, dose, and three-times-daily regimen are not provided."
+    },
+    {
+      "fact_id": "F14",
+      "score": 1,
+      "evidence": "Oral paracetamol 120 mg was prescribed as needed for pain, but the 120 mg/5 mL suspension and 5 mL four-times-daily instructions are not stated."
+    },
+    {
+      "fact_id": "F15",
+      "score": 2,
+      "evidence": "The father received education regarding warm compresses and ear hygiene."
+    },
+    {
+      "fact_id": "F16",
+      "score": 0,
+      "evidence": "Not represented"
+    },
+    {
+      "fact_id": "F17",
+      "score": 2,
+      "evidence": "She remained afebrile with no systemic infection or distress."
+    },
+    {
+      "fact_id": "F18",
+      "score": 2,
+      "evidence": "Parents reported significant improvement, and she tolerated oral antibiotics and analgesia without adverse effects."
+    },
+    {
+      "fact_id": "F19",
+      "score": 2,
+      "evidence": "She was alert, interactive, and comfortable, with reduced tympanic membrane erythema and effusion."
+    },
+    {
+      "fact_id": "F20",
+      "score": 1,
+      "evidence": "The 5-day antibiotic course and as-needed paracetamol are mentioned, but planned discharge later that day is not stated."
+    },
+    {
+      "fact_id": "F21",
+      "score": 1,
+      "evidence": "Warning signs included increasing pain or discharge, but fever, vomiting, lethargy, and other deterioration signs are not fully listed."
+    },
+    {
+      "fact_id": "F22",
+      "score": 0,
+      "evidence": "Not represented"
+    },
+    {
+      "fact_id": "F23",
+      "score": 0,
+      "evidence": "Not represented"
+    }
+  ],
+  "Section + BGE": [
+    {
+      "fact_id": "F01",
+      "score": 2,
+      "evidence": "Ren Suzuki, a 1-year-old girl ... presented on 04/01/2026 with right ear pain."
+    },
+    {
+      "fact_id": "F02",
+      "score": 1,
+      "evidence": "She presented with irritability, frequent crying, reduced feeding, and pulling at the right ear; the onset the night before is not stated."
+    },
+    {
+      "fact_id": "F03",
+      "score": 1,
+      "evidence": "She was afebrile ... with no systemic symptoms; vomiting and diarrhoea are not specifically mentioned."
+    },
+    {
+      "fact_id": "F04",
+      "score": 1,
+      "evidence": "She was afebrile and clinically stable, with normal observations; the specific vital-sign values are not provided."
+    },
+    {
+      "fact_id": "F05",
+      "score": 2,
+      "evidence": "Examination showed mild erythema around the right outer ear and moderate tenderness."
+    },
+    {
+      "fact_id": "F06",
+      "score": 1,
+      "evidence": "She was diagnosed with acute otitis media with effusion, but the bulging and mildly erythematous tympanic membrane findings are not stated."
+    },
+    {
+      "fact_id": "F07",
+      "score": 0,
+      "evidence": "Not represented"
+    },
+    {
+      "fact_id": "F08",
+      "score": 1,
+      "evidence": "There were no systemic or neurological symptoms; the other documented absent signs are not specified."
+    },
+    {
+      "fact_id": "F09",
+      "score": 1,
+      "evidence": "She was diagnosed with acute otitis media with effusion; the likely bacterial origin is not mentioned."
+    },
+    {
+      "fact_id": "F10",
+      "score": 1,
+      "evidence": "No new imaging or laboratory tests were documented; other investigations and the fact that none were performed are not fully specified."
+    },
+    {
+      "fact_id": "F11",
+      "score": 0,
+      "evidence": "Not represented"
+    },
+    {
+      "fact_id": "F12",
+      "score": 1,
+      "evidence": "She was referred to paediatrics/ENT and admitted to the paediatric ward; acceptance under Dr. Lisa Doreen Hayes is not mentioned."
+    },
+    {
+      "fact_id": "F13",
+      "score": 1,
+      "evidence": "Oral amoxicillin 125 mg/5 mL three times daily for 5 days was prescribed; the discharge volume of 2.5 mL per dose is omitted."
+    },
+    {
+      "fact_id": "F14",
+      "score": 2,
+      "evidence": "Paracetamol 120 mg/5 mL four times daily/as required for pain was prescribed."
+    },
+    {
+      "fact_id": "F15",
+      "score": 2,
+      "evidence": "Warm compresses and ear hygiene were advised."
+    },
+    {
+      "fact_id": "F16",
+      "score": 1,
+      "evidence": "The summary notes no treatment changes, but does not state that the pharmacist reviewed the prescription as appropriate for age and weight."
+    },
+    {
+      "fact_id": "F17",
+      "score": 2,
+      "evidence": "She was afebrile and clinically stable, with no systemic symptoms."
+    },
+    {
+      "fact_id": "F18",
+      "score": 0,
+      "evidence": "Not represented"
+    },
+    {
+      "fact_id": "F19",
+      "score": 0,
+      "evidence": "Not represented"
+    },
+    {
+      "fact_id": "F20",
+      "score": 2,
+      "evidence": "She was planned for discharge later that day with completion of the 5-day amoxicillin course and PRN paracetamol."
+    },
+    {
+      "fact_id": "F21",
+      "score": 1,
+      "evidence": "Her father was educated regarding symptom monitoring and red flags requiring medical review, but the specific warning symptoms are not listed."
+    },
+    {
+      "fact_id": "F22",
+      "score": 2,
+      "evidence": "ENT follow-up in 2 weeks was planned."
+    },
+    {
+      "fact_id": "F23",
+      "score": 2,
+      "evidence": "The discharge plan was communicated to her GP."
+    }
+  ],
+  "Section + MedCPT": [
+    {
+      "fact_id": "F01",
+      "score": 1,
+      "evidence": "Ren Suzuki, a 1-year-old girl, was assessed for ear pain; the summary does not explicitly state that the pain was right-sided."
+    },
+    {
+      "fact_id": "F02",
+      "score": 0,
+      "evidence": "Not represented"
+    },
+    {
+      "fact_id": "F03",
+      "score": 1,
+      "evidence": "She was “afebrile and had no signs of systemic infection or new symptoms,” but the absence of diarrhoea and vomiting at presentation is not fully stated."
+    },
+    {
+      "fact_id": "F04",
+      "score": 2,
+      "evidence": "“Observations were stable: HR 110 bpm, RR 24–28/min, temperature 36.8°C, and SpO₂ 98–99% on air.”"
+    },
+    {
+      "fact_id": "F05",
+      "score": 0,
+      "evidence": "Not represented"
+    },
+    {
+      "fact_id": "F06",
+      "score": 2,
+      "evidence": "“Otoscopy showed a bulging, erythematous right tympanic membrane with effusion.”"
+    },
+    {
+      "fact_id": "F07",
+      "score": 0,
+      "evidence": "Not represented"
+    },
+    {
+      "fact_id": "F08",
+      "score": 1,
+      "evidence": "She was “afebrile and had no signs of systemic infection,” but the specific absence of mastoiditis, cellulitis, respiratory distress, neck stiffness, facial asymmetry, and neurological deficit is not documented."
+    },
+    {
+      "fact_id": "F09",
+      "score": 1,
+      "evidence": "The summary states “acute otitis media with effusion,” but does not mention likely bacterial origin or explicitly label the diagnosis as right-sided."
+    },
+    {
+      "fact_id": "F10",
+      "score": 2,
+      "evidence": "“No new imaging, specialised investigations, blood or urine results, or pending results were documented.”"
+    },
+    {
+      "fact_id": "F11",
+      "score": 0,
+      "evidence": "Not represented"
+    },
+    {
+      "fact_id": "F12",
+      "score": 0,
+      "evidence": "Not represented"
+    },
+    {
+      "fact_id": "F13",
+      "score": 1,
+      "evidence": "“Oral amoxicillin 125 mg three times daily for 5 days” is stated, but the suspension concentration and 2.5 mL dose are omitted."
+    },
+    {
+      "fact_id": "F14",
+      "score": 1,
+      "evidence": "“Oral paracetamol 120 mg four times daily for pain relief” is stated, but the 120 mg/5 mL suspension, 5 mL dose, and as-needed instructions are not fully represented."
+    },
+    {
+      "fact_id": "F15",
+      "score": 0,
+      "evidence": "Not represented"
+    },
+    {
+      "fact_id": "F16",
+      "score": 0,
+      "evidence": "Not represented"
+    },
+    {
+      "fact_id": "F17",
+      "score": 2,
+      "evidence": "She was “afebrile and had no signs of systemic infection or new symptoms.”"
+    },
+    {
+      "fact_id": "F18",
+      "score": 0,
+      "evidence": "Not represented"
+    },
+    {
+      "fact_id": "F19",
+      "score": 0,
+      "evidence": "Not represented"
+    },
+    {
+      "fact_id": "F20",
+      "score": 1,
+      "evidence": "The amoxicillin course and paracetamol treatment are stated, but the plan for discharge later that day and explicit completion of the course are not represented."
+    },
+    {
+      "fact_id": "F21",
+      "score": 1,
+      "evidence": "Parents were advised to monitor for “fever, vomiting, lethargy, or worsening symptoms,” but discharge, pain, and other specific deterioration warnings are not fully stated."
+    },
+    {
+      "fact_id": "F22",
+      "score": 0,
+      "evidence": "Not represented"
+    },
+    {
+      "fact_id": "F23",
+      "score": 0,
+      "evidence": "Not represented"
+    }
+  ]
+}
