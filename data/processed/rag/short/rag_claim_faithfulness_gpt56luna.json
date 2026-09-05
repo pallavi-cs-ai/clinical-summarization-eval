@@ -1,0 +1,5506 @@
+{
+  "Whole + Gemini": {
+    "C01": {
+      "claim": "Ren Suzuki is a 1-year-old girl.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly identifies Ren Suzuki as age 1 and sex female.",
+      "evidence_quote": "Age 1\nSex\nFemale",
+      "retrieved_note_indices": [
+        0,
+        3,
+        5,
+        6,
+        7
+      ]
+    },
+    "C02": {
+      "claim": "She has no documented past medical history.",
+      "label": "SUPPORTED",
+      "reason": "The records explicitly document no past medical history: the nurse note states \"No allergies or PMHx\" and the physician note lists \"Past Medical History: Nil.\"",
+      "evidence_quote": "Past Medical History\nNil",
+      "retrieved_note_indices": [
+        0,
+        3,
+        2,
+        1,
+        6
+      ]
+    },
+    "C03": {
+      "claim": "She has no documented medications.",
+      "label": "UNSUPPORTED",
+      "reason": "The record documents oral amoxicillin and paracetamol as prescribed/continued medications.",
+      "evidence_quote": "5-day amox 125mg/5mL TDS, paracetamol 120mg/5mLL QDS PRN",
+      "retrieved_note_indices": [
+        0,
+        6,
+        2,
+        3,
+        9
+      ]
+    },
+    "C04": {
+      "claim": "She has no documented allergies.",
+      "label": "SUPPORTED",
+      "reason": "The source documentation explicitly records no allergies.",
+      "evidence_quote": "Allergies: Nil",
+      "retrieved_note_indices": [
+        0,
+        3,
+        6,
+        2,
+        1
+      ]
+    },
+    "C05": {
+      "claim": "She presented with approximately 24 hours of right ear pain.",
+      "label": "SUPPORTED",
+      "reason": "The clerking note explicitly documents right ear pain with acute onset over 24 hours.",
+      "evidence_quote": "Presenting Complaint: Ear pain Site: Right ear Onset: Acute onset over 24 hours",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        1,
+        6
+      ]
+    },
+    "C06": {
+      "claim": "She was irritable.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the patient was irritable in the history and appeared irritable on examination.",
+      "evidence_quote": "Mother reports that the pt has been irritable",
+      "retrieved_note_indices": [
+        3,
+        0,
+        1,
+        6,
+        2
+      ]
+    },
+    "C07": {
+      "claim": "She was crying frequently.",
+      "label": "SUPPORTED",
+      "reason": "The history explicitly states that the mother reported the patient had been crying frequently since the previous night.",
+      "evidence_quote": "Mother reports that the pt has been irritable and cryng frequently since the night before attendance.",
+      "retrieved_note_indices": [
+        3,
+        6,
+        0,
+        5,
+        1
+      ]
+    },
+    "C08": {
+      "claim": "She had reduced feeding.",
+      "label": "SUPPORTED",
+      "reason": "The history states that the patient refused to feed normally, which supports reduced feeding.",
+      "evidence_quote": "Refused to feed normaly.",
+      "retrieved_note_indices": [
+        6,
+        3,
+        0,
+        9,
+        2
+      ]
+    },
+    "C09": {
+      "claim": "She had difficulty sleeping.",
+      "label": "UNSUPPORTED",
+      "reason": "The source describes irritability, frequent crying, and refusal to feed, but does not state that she had difficulty sleeping.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        3,
+        0,
+        6,
+        5,
+        2
+      ]
+    },
+    "C10": {
+      "claim": "She was pulling at her right ear.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents that the patient was pulling at her right ear.",
+      "evidence_quote": "Pulling at the R ear noted.",
+      "retrieved_note_indices": [
+        3,
+        0,
+        6,
+        1,
+        4
+      ]
+    },
+    "C11": {
+      "claim": "She was afebrile.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly records that she was afebrile and documents a temperature of 36.8\u00b0C.",
+      "evidence_quote": "Afebrile",
+      "retrieved_note_indices": [
+        3,
+        6,
+        1,
+        2,
+        0
+      ]
+    },
+    "C12": {
+      "claim": "She was clinically stable.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly describes the patient as stable, with normal observations and no acute distress.",
+      "evidence_quote": "HR, temp, SpO2 all WNL. No acute distress, stable.",
+      "retrieved_note_indices": [
+        2,
+        0,
+        3,
+        6,
+        1
+      ]
+    },
+    "C13": {
+      "claim": "She had mild right outer-ear erythema.",
+      "label": "SUPPORTED",
+      "reason": "The triage and clerking notes explicitly document mild erythema around the right outer ear.",
+      "evidence_quote": "Mild eythema around the right outer ear",
+      "retrieved_note_indices": [
+        1,
+        3,
+        4,
+        5,
+        0
+      ]
+    },
+    "C14": {
+      "claim": "She had mild right outer-ear tenderness.",
+      "label": "UNSUPPORTED",
+      "reason": "The source documents moderate tenderness of the right outer ear/auricle, not mild tenderness.",
+      "evidence_quote": "Mild erythema around the right outer ear, moderate tenderness on palpation.",
+      "retrieved_note_indices": [
+        1,
+        3,
+        4,
+        0,
+        5
+      ]
+    },
+    "C15": {
+      "claim": "Otoscopy showed a bulging, mildly erythematous right tympanic membrane.",
+      "label": "SUPPORTED",
+      "reason": "Otoscopy explicitly documented a bulging right tympanic membrane with mild erythema.",
+      "evidence_quote": "Right ear: Bulging TM with effusion and mild erythema seen on otoscopy",
+      "retrieved_note_indices": [
+        3,
+        1,
+        4,
+        5,
+        8
+      ]
+    },
+    "C16": {
+      "claim": "Otoscopy showed right middle-ear effusion.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents right-ear otoscopy showing a tympanic membrane with effusion.",
+      "evidence_quote": "Right ear: Bulging TM with effusion and mild erythema seen on otoscopy",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        1,
+        8
+      ]
+    },
+    "C17": {
+      "claim": "The left ear was normal.",
+      "label": "SUPPORTED",
+      "reason": "The examination documented the left tympanic membrane as normal.",
+      "evidence_quote": "Left ear: Normal TM",
+      "retrieved_note_indices": [
+        3,
+        0,
+        1,
+        4,
+        5
+      ]
+    },
+    "C18": {
+      "claim": "There was no otorrhoea.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documented that there was no ear discharge.",
+      "evidence_quote": "no discharge noted",
+      "retrieved_note_indices": [
+        3,
+        4,
+        6,
+        1,
+        8
+      ]
+    },
+    "C19": {
+      "claim": "There was no mastoiditis.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documented no signs of mastoiditis.",
+      "evidence_quote": "No signs of mastoiditis or celulitis.",
+      "retrieved_note_indices": [
+        3,
+        4,
+        1,
+        5,
+        0
+      ]
+    },
+    "C20": {
+      "claim": "There was no cellulitis.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents that there were no signs of cellulitis.",
+      "evidence_quote": "No signs of mastoiditis or celulitis.",
+      "retrieved_note_indices": [
+        0,
+        9,
+        1,
+        6,
+        3
+      ]
+    },
+    "C21": {
+      "claim": "There was no neurological deficit.",
+      "label": "SUPPORTED",
+      "reason": "The examination documents no focal neurological deficits, and no facial asymmetry or weakness was observed.",
+      "evidence_quote": "Neurological: No HA, neck stiffness, or focal neurological deficits.",
+      "retrieved_note_indices": [
+        2,
+        0,
+        1,
+        6,
+        3
+      ]
+    },
+    "C22": {
+      "claim": "There was no systemic infection.",
+      "label": "SUPPORTED",
+      "reason": "The notes explicitly document no systemic signs of illness and no signs of systemic infection, with normal observations and no fever.",
+      "evidence_quote": "No signs of systemic infection.",
+      "retrieved_note_indices": [
+        1,
+        0,
+        2,
+        3,
+        6
+      ]
+    },
+    "C23": {
+      "claim": "She was diagnosed with acute right otitis media with effusion.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents acute right otitis media with effusion, including a bulging erythematous right tympanic membrane and effusion on otoscopy.",
+      "evidence_quote": "Impression: Acute otitis media of the right ear with effusion",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        8,
+        6
+      ]
+    },
+    "C24": {
+      "claim": "She was admitted under Paediatrics/ENT for management.",
+      "label": "SUPPORTED",
+      "reason": "The note explicitly states referral to Paediatrics (ENT) for inpatient admission and acceptance under paediatric care.",
+      "evidence_quote": "Referred to Paediatrics (ENT) for inpatient admission",
+      "retrieved_note_indices": [
+        3,
+        5,
+        6,
+        8,
+        4
+      ]
+    },
+    "C25": {
+      "claim": "Oral paracetamol 120 mg was administered for pain.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 3 explicitly states that oral paracetamol 120 mg was administered in the ED for pain relief.",
+      "evidence_quote": "Oral paracetamol 120 mg administered in ED",
+      "retrieved_note_indices": [
+        3,
+        6,
+        9,
+        4,
+        0
+      ]
+    },
+    "C26": {
+      "claim": "Oral amoxicillin was commenced at 125 mg/5 mL three times daily for 5 days.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round plan explicitly states to start amoxicillin 125 mg/5 mL oral suspension TDS for 5 days, and subsequent notes confirm the 5-day course.",
+      "evidence_quote": "Start Amoxicillin 125 mg/5 mL oral suspension TDS for 5 days.",
+      "retrieved_note_indices": [
+        7,
+        9,
+        5,
+        8,
+        6
+      ]
+    },
+    "C27": {
+      "claim": "Paracetamol was continued four times daily or as needed.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan prescribed paracetamol four times daily as needed, and the therapist documented continuing it as needed for pain relief.",
+      "evidence_quote": "paracetamol (120 mg/5 mL oral suspension, 5 mL QDS PRN for pain)",
+      "retrieved_note_indices": [
+        9,
+        6,
+        7,
+        8,
+        3
+      ]
+    },
+    "C28": {
+      "claim": "Warm compresses were advised.",
+      "label": "SUPPORTED",
+      "reason": "The therapist's note explicitly states that education was provided on techniques for applying warm compresses to alleviate ear pain.",
+      "evidence_quote": "Education provided ... on managing the patient's AOM: 1) Techniques for applying warm compresses to alleviate ear pain.",
+      "retrieved_note_indices": [
+        6,
+        3,
+        1,
+        2,
+        9
+      ]
+    },
+    "C29": {
+      "claim": "Parents received education regarding ear care.",
+      "label": "SUPPORTED",
+      "reason": "The evidence states that education was provided to the patient's father on managing AOM, including proper ear hygiene and warm compresses; parents were also advised on warm compress application.",
+      "evidence_quote": "Education provided to patient's father ... Maintaining proper ear hygiene",
+      "retrieved_note_indices": [
+        6,
+        3,
+        5,
+        0,
+        8
+      ]
+    },
+    "C30": {
+      "claim": "Parents received education regarding medication administration.",
+      "label": "SUPPORTED",
+      "reason": "The evidence states that education was provided to the patient's father about completing amoxicillin and continuing paracetamol, and that parents were to understand medication dosing.",
+      "evidence_quote": "Education provided to patient's father ... The importance of completing the 5-day course of oral amoxicillin ... Advised to continue oral paracetamol",
+      "retrieved_note_indices": [
+        6,
+        9,
+        7,
+        3,
+        8
+      ]
+    },
+    "C31": {
+      "claim": "Parents were advised to complete the antibiotic course.",
+      "label": "SUPPORTED",
+      "reason": "The notes explicitly state that the importance of completing the full 5-day amoxicillin course was emphasized to the parents/father.",
+      "evidence_quote": "Emphasize the importance of completing the full 5-day course of amoxicillin",
+      "retrieved_note_indices": [
+        6,
+        9,
+        7,
+        8,
+        5
+      ]
+    },
+    "C32": {
+      "claim": "Parents received education regarding expected improvement.",
+      "label": "UNSUPPORTED",
+      "reason": "Education about recognizing signs of improvement was provided to the patient's father, but the evidence does not establish that both parents received it.",
+      "evidence_quote": "Education provided to patient's father ... Counseling provided on recognizing signs of improvement",
+      "retrieved_note_indices": [
+        6,
+        9,
+        8,
+        3,
+        2
+      ]
+    },
+    "C33": {
+      "claim": "Parents received education regarding red-flag symptoms.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence states that education about red-flag symptoms was provided specifically to the patient's father, not to both parents.",
+      "evidence_quote": "Education provided to patient's father ... Counseling provided on recognizing ... red flags",
+      "retrieved_note_indices": [
+        6,
+        3,
+        9,
+        8,
+        0
+      ]
+    },
+    "C34": {
+      "claim": "Pharmacy review confirmed that the amoxicillin regimen was appropriate.",
+      "label": "SUPPORTED",
+      "reason": "The pharmacist reviewed the medication chart and confirmed the amoxicillin dose was appropriate for the patient's age and weight, with the 5-day course deemed suitable.",
+      "evidence_quote": "Dose of amoxicillin 125 mg/5 mL oral suspension confirmed appropriate for age and weight.",
+      "retrieved_note_indices": [
+        7,
+        9,
+        6,
+        5,
+        8
+      ]
+    },
+    "C35": {
+      "claim": "No medication changes were made after pharmacy review.",
+      "label": "SUPPORTED",
+      "reason": "The pharmacy review confirmed the amoxicillin dose and explicitly documented that no antibiotic regimen changes were made.",
+      "evidence_quote": "No changes made to abx regoimen (5-day course confirmed suitable).",
+      "retrieved_note_indices": [
+        7,
+        9,
+        2,
+        6,
+        0
+      ]
+    },
+    "C36": {
+      "claim": "On review the following morning, her pain had significantly improved.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note states that the parents reported significant improvement in pain on review.",
+      "evidence_quote": "Parents report significant improvement in pain.",
+      "retrieved_note_indices": [
+        3,
+        8,
+        0,
+        6,
+        1
+      ]
+    },
+    "C37": {
+      "claim": "She was alert and comfortable on review.",
+      "label": "SUPPORTED",
+      "reason": "The patient was documented as alert, and the nursing review noted no acute distress and stable observations, supporting that she was comfortable.",
+      "evidence_quote": "Appears irritable but alert; ... No acute distress, stable.",
+      "retrieved_note_indices": [
+        2,
+        0,
+        3,
+        6,
+        1
+      ]
+    },
+    "C38": {
+      "claim": "She tolerated oral antibiotics without adverse effects.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly states that the patient tolerated oral antibiotics without adverse effects.",
+      "evidence_quote": "Tolerated oral antibiotics and analgesia without adverse effects",
+      "retrieved_note_indices": [
+        6,
+        7,
+        9,
+        3,
+        8
+      ]
+    },
+    "C39": {
+      "claim": "She tolerated oral analgesia without adverse effects.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents oral paracetamol administration and continuation but does not state that it was tolerated or that no adverse effects occurred.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        6,
+        3,
+        0,
+        2,
+        9
+      ]
+    },
+    "C40": {
+      "claim": "Right tympanic membrane erythema had decreased.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly states that right tympanic membrane erythema was reduced compared with admission.",
+      "evidence_quote": "Otoscopy of right ear shows reduced erythema ... in the TM compared to admission.",
+      "retrieved_note_indices": [
+        3,
+        8,
+        6,
+        4,
+        5
+      ]
+    },
+    "C41": {
+      "claim": "Right ear effusion had decreased.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note states that right-ear otoscopy showed reduced effusion in the tympanic membrane compared with admission.",
+      "evidence_quote": "Otoscopy of right ear shows reduced erythema and efusion in the TM compared to admission.",
+      "retrieved_note_indices": [
+        8,
+        3,
+        5,
+        4,
+        6
+      ]
+    },
+    "C42": {
+      "claim": "There was no systemic infection on review.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documented no signs of systemic infection, and the review noted no systemic symptoms with normal observations.",
+      "evidence_quote": "No signs of systemic infection.",
+      "retrieved_note_indices": [
+        1,
+        2,
+        0,
+        3,
+        7
+      ]
+    },
+    "C43": {
+      "claim": "There was no distress on review.",
+      "label": "SUPPORTED",
+      "reason": "The ED review explicitly documented that the patient was in no acute distress.",
+      "evidence_quote": "No acute distress, stable.",
+      "retrieved_note_indices": [
+        2,
+        0,
+        1,
+        3,
+        9
+      ]
+    },
+    "C44": {
+      "claim": "She was planned for discharge later that day.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents a discharge plan including antibiotics, paracetamol, and ENT follow-up.",
+      "evidence_quote": "Discussed d/c plan: 5-day amox 125mg/5mL TDS, paracetamol 120mg/5mLL QDS PRN, ENT f/u in 2w.",
+      "retrieved_note_indices": [
+        2,
+        0,
+        9,
+        3,
+        1
+      ]
+    },
+    "C45": {
+      "claim": "She was prescribed amoxicillin 125 mg/5 mL, 2.5 mL three times daily for 5 days.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence supports amoxicillin 125 mg/5 mL three times daily for 5 days, but it does not specify a 2.5 mL dose.",
+      "evidence_quote": "5-day amox 125mg/5mL TDS",
+      "retrieved_note_indices": [
+        7,
+        9,
+        5,
+        6,
+        4
+      ]
+    },
+    "C46": {
+      "claim": "She was prescribed paracetamol 120 mg/5 mL, 5 mL four times daily as needed for pain.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan documents paracetamol 120 mg/5 mL, QDS (four times daily), PRN; this supports the stated formulation, volume, frequency, and as-needed use for pain.",
+      "evidence_quote": "paracetamol 120mg/5mLL QDS PRN",
+      "retrieved_note_indices": [
+        3,
+        6,
+        9,
+        7,
+        5
+      ]
+    },
+    "C47": {
+      "claim": "ENT follow-up was advised in 2 weeks.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly states ENT follow-up in 2 weeks.",
+      "evidence_quote": "ENT f/u in 2w",
+      "retrieved_note_indices": [
+        9,
+        6,
+        3,
+        1,
+        0
+      ]
+    },
+    "C48": {
+      "claim": "The GP was informed of the discharge plan.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the patient's GP was contacted and the discharge plan was discussed.",
+      "evidence_quote": "Contacted pt's GP @ 09:30. Discussed d/c plan",
+      "retrieved_note_indices": [
+        9,
+        8,
+        0,
+        3,
+        1
+      ]
+    }
+  },
+  "Whole + BGE": {
+    "C01": {
+      "claim": "Ren Suzuki is a 1-year-old girl.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly identifies Ren Suzuki as age 1 and female.",
+      "evidence_quote": "Age 1; Sex Female",
+      "retrieved_note_indices": [
+        0,
+        3,
+        5,
+        6,
+        7
+      ]
+    },
+    "C02": {
+      "claim": "She has no past medical history.",
+      "label": "SUPPORTED",
+      "reason": "The clinical note explicitly documents no past medical history.",
+      "evidence_quote": "Past Medical History\nNil",
+      "retrieved_note_indices": [
+        0,
+        3,
+        2,
+        1,
+        6
+      ]
+    },
+    "C03": {
+      "claim": "She was not taking medications before presentation.",
+      "label": "SUPPORTED",
+      "reason": "The medication history explicitly lists no medications before presentation.",
+      "evidence_quote": "Medications\nNil",
+      "retrieved_note_indices": [
+        3,
+        2,
+        6,
+        0,
+        5
+      ]
+    },
+    "C04": {
+      "claim": "She has no known allergies.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents that the patient has no allergies.",
+      "evidence_quote": "Allergies: Nil",
+      "retrieved_note_indices": [
+        0,
+        3,
+        6,
+        2,
+        1
+      ]
+    },
+    "C05": {
+      "claim": "She presented with right ear pain.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents right ear pain and right-ear pulling/tenderness.",
+      "evidence_quote": "Presenting Complaint: Ear pain Site: Right ear",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        1,
+        0
+      ]
+    },
+    "C06": {
+      "claim": "She was irritable.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the mother reported the patient had been irritable and that she appeared irritable on examination.",
+      "evidence_quote": "Mother reports that the pt has been irritable",
+      "retrieved_note_indices": [
+        3,
+        0,
+        1,
+        6,
+        2
+      ]
+    },
+    "C07": {
+      "claim": "She had frequent crying.",
+      "label": "SUPPORTED",
+      "reason": "The mother reported that the patient had been crying frequently since the night before attendance.",
+      "evidence_quote": "Mother reports that the pt has been irritable and cryng frequently since the night before attendance.",
+      "retrieved_note_indices": [
+        3,
+        6,
+        0,
+        5,
+        7
+      ]
+    },
+    "C08": {
+      "claim": "She had reduced feeding.",
+      "label": "SUPPORTED",
+      "reason": "The history states that the patient refused to feed normally, which supports reduced feeding.",
+      "evidence_quote": "Refused to feed normaly.",
+      "retrieved_note_indices": [
+        6,
+        3,
+        0,
+        9,
+        2
+      ]
+    },
+    "C09": {
+      "claim": "She had poor sleep.",
+      "label": "UNSUPPORTED",
+      "reason": "The source describes irritability and frequent crying since the night before, but does not state that she had poor sleep.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        0,
+        3,
+        6,
+        2,
+        5
+      ]
+    },
+    "C10": {
+      "claim": "She was tugging at her right ear.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the patient was pulling at the right ear.",
+      "evidence_quote": "Pulling at the R ear noted.",
+      "retrieved_note_indices": [
+        3,
+        0,
+        1,
+        4,
+        6
+      ]
+    },
+    "C11": {
+      "claim": "She was afebrile.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly records that the patient was afebrile and documents a temperature of 36.8\u00b0C.",
+      "evidence_quote": "Afebrile.",
+      "retrieved_note_indices": [
+        3,
+        6,
+        1,
+        2,
+        0
+      ]
+    },
+    "C12": {
+      "claim": "Her observations were normal.",
+      "label": "SUPPORTED",
+      "reason": "The nursing notes explicitly document that the observations were within normal limits.",
+      "evidence_quote": "Obs: HR, RR, tmp WNL.",
+      "retrieved_note_indices": [
+        2,
+        0,
+        3,
+        1,
+        6
+      ]
+    },
+    "C13": {
+      "claim": "She had no systemic illness.",
+      "label": "SUPPORTED",
+      "reason": "The clinical notes document no reported systemic symptoms and explicitly state no systemic signs of illness or infection.",
+      "evidence_quote": "No systemic signs of illness noted.",
+      "retrieved_note_indices": [
+        0,
+        2,
+        3,
+        1,
+        6
+      ]
+    },
+    "C14": {
+      "claim": "She had mild right auricular erythema.",
+      "label": "SUPPORTED",
+      "reason": "The triage and examination notes explicitly document mild erythema around the right outer ear/auricle.",
+      "evidence_quote": "Mild erythema around the right outer ear",
+      "retrieved_note_indices": [
+        1,
+        3,
+        0,
+        5,
+        4
+      ]
+    },
+    "C15": {
+      "claim": "She had right auricular tenderness.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents tenderness of the right auricle.",
+      "evidence_quote": "Right ear: Mild erythema and tenderness on palpation of the auricle.",
+      "retrieved_note_indices": [
+        3,
+        1,
+        4,
+        0,
+        5
+      ]
+    },
+    "C16": {
+      "claim": "Her right tympanic membrane was bulging and mildly erythematous.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents a bulging right tympanic membrane with mild erythema.",
+      "evidence_quote": "Right ear: Bulging TM with effusion and mild erythema seen on otoscopy",
+      "retrieved_note_indices": [
+        3,
+        1,
+        4,
+        5,
+        8
+      ]
+    },
+    "C17": {
+      "claim": "She had a right middle-ear effusion.",
+      "label": "SUPPORTED",
+      "reason": "Multiple examination notes explicitly document effusion in the right tympanic membrane/middle ear.",
+      "evidence_quote": "Right ear: Mild erythema and tenderness on palpation of the auricle. TM bulging with effusion noted during otoscopy.",
+      "retrieved_note_indices": [
+        3,
+        5,
+        4,
+        8,
+        0
+      ]
+    },
+    "C18": {
+      "claim": "She had no ear discharge.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents that there was no ear discharge.",
+      "evidence_quote": "no discharge noted",
+      "retrieved_note_indices": [
+        3,
+        0,
+        6,
+        1,
+        4
+      ]
+    },
+    "C19": {
+      "claim": "She had no mastoid tenderness.",
+      "label": "SUPPORTED",
+      "reason": "The examination documents no mastoid tenderness or signs of mastoiditis.",
+      "evidence_quote": "Surrounding structures: No erythema or tendernes over mastoid or pre-auricular regions",
+      "retrieved_note_indices": [
+        3,
+        1,
+        0,
+        6,
+        4
+      ]
+    },
+    "C20": {
+      "claim": "She had no cellulitis.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documented no signs of cellulitis.",
+      "evidence_quote": "No signs of mastoiditis or celulitis.",
+      "retrieved_note_indices": [
+        0,
+        3,
+        6,
+        1,
+        9
+      ]
+    },
+    "C21": {
+      "claim": "She had no facial asymmetry.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly states that no facial asymmetry was observed.",
+      "evidence_quote": "No facial asymmetry or weakness observed.",
+      "retrieved_note_indices": [
+        0,
+        1,
+        2,
+        3,
+        6
+      ]
+    },
+    "C22": {
+      "claim": "She had no neurological deficit.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents no focal neurological deficits and no facial asymmetry or weakness.",
+      "evidence_quote": "Neurological: No HA, neck stiffness, or focal neurological deficits.",
+      "retrieved_note_indices": [
+        2,
+        0,
+        3,
+        6,
+        1
+      ]
+    },
+    "C23": {
+      "claim": "She had no respiratory distress.",
+      "label": "SUPPORTED",
+      "reason": "The notes document that she was in no acute distress, with normal respiratory rate and oxygen saturation.",
+      "evidence_quote": "No acute distress. HR, RR, tmp WNL.",
+      "retrieved_note_indices": [
+        2,
+        0,
+        3,
+        6,
+        1
+      ]
+    },
+    "C24": {
+      "claim": "The left ear was normal.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents that the left tympanic membrane was normal.",
+      "evidence_quote": "Left ear: Normal TM",
+      "retrieved_note_indices": [
+        3,
+        0,
+        1,
+        4,
+        5
+      ]
+    },
+    "C25": {
+      "claim": "She was diagnosed with acute right otitis media with effusion.",
+      "label": "SUPPORTED",
+      "reason": "The notes explicitly document acute right otitis media with effusion, including a bulging erythematous right tympanic membrane and effusion on otoscopy.",
+      "evidence_quote": "Impression: Acute otitis media of the right ear with effusion",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        8,
+        6
+      ]
+    },
+    "C26": {
+      "claim": "She was referred for paediatric/ENT inpatient management.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that she was referred to Paediatrics (ENT) for inpatient admission and handed over to the paediatric ward.",
+      "evidence_quote": "Referred to Paediatrics (ENT) for inpatient admission",
+      "retrieved_note_indices": [
+        3,
+        5,
+        6,
+        0,
+        8
+      ]
+    },
+    "C27": {
+      "claim": "She was given oral paracetamol 120 mg for pain.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that oral paracetamol 120 mg was administered for pain relief.",
+      "evidence_quote": "Oral paracetamol 120 mg administered in ED",
+      "retrieved_note_indices": [
+        3,
+        6,
+        5,
+        0,
+        4
+      ]
+    },
+    "C28": {
+      "claim": "Oral amoxicillin 125 mg/5 mL suspension three times daily for 5 days was started.",
+      "label": "SUPPORTED",
+      "reason": "The treatment plan explicitly states to start amoxicillin 125 mg/5 mL oral suspension TDS for 5 days, and subsequent notes confirm the 5-day course.",
+      "evidence_quote": "Start Amoxicillin 125 mg/5 mL oral suspension TDS for 5 days.",
+      "retrieved_note_indices": [
+        7,
+        9,
+        5,
+        6,
+        8
+      ]
+    },
+    "C29": {
+      "claim": "Paracetamol was continued four times daily as needed.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly specifies paracetamol QDS PRN, and the therapist note says to continue oral paracetamol as needed.",
+      "evidence_quote": "paracetamol 120mg/5mLL QDS PRN",
+      "retrieved_note_indices": [
+        9,
+        6,
+        8,
+        3,
+        7
+      ]
+    },
+    "C30": {
+      "claim": "Warm compresses were advised.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 6 explicitly states that education was provided on techniques for applying warm compresses to alleviate ear pain.",
+      "evidence_quote": "Education provided ... Techniques for applying warm compresses to alleviate ear pain.",
+      "retrieved_note_indices": [
+        6,
+        3,
+        1,
+        2,
+        9
+      ]
+    },
+    "C31": {
+      "claim": "Ear hygiene was advised.",
+      "label": "SUPPORTED",
+      "reason": "The therapist explicitly advised maintaining proper ear hygiene.",
+      "evidence_quote": "Maintaining proper ear hygiene to prevent further irritation",
+      "retrieved_note_indices": [
+        6,
+        1,
+        3,
+        0,
+        4
+      ]
+    },
+    "C32": {
+      "claim": "Her father was educated about medication adherence.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that education was provided to the patient's father on the importance of completing the 5-day oral amoxicillin course as prescribed.",
+      "evidence_quote": "Education provided to patient's father ... The importance of completing the 5-day course of oral amoxicillin as prescribed",
+      "retrieved_note_indices": [
+        6,
+        9,
+        7,
+        3,
+        0
+      ]
+    },
+    "C33": {
+      "claim": "Her father was educated about expected symptom improvement.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that education was provided to the patient's father, including recognition of signs of improvement.",
+      "evidence_quote": "Counseling provided on recognizing signs of improvement",
+      "retrieved_note_indices": [
+        6,
+        3,
+        8,
+        9,
+        0
+      ]
+    },
+    "C34": {
+      "claim": "Her father was educated about warning signs.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the patient's father received counseling on recognizing red flags.",
+      "evidence_quote": "Education provided to patient's father ... Counseling provided on recognizing signs of improvement ... versus red flags",
+      "retrieved_note_indices": [
+        6,
+        0,
+        3,
+        2,
+        1
+      ]
+    },
+    "C35": {
+      "claim": "Pharmacy review confirmed the amoxicillin dose.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 7 explicitly states that the pharmacist reviewed the medication chart and confirmed the amoxicillin dose was appropriate for age and weight.",
+      "evidence_quote": "Dose of amoxicillin 125 mg/5 mL oral suspension confirmed appropriate for age and weight.",
+      "retrieved_note_indices": [
+        7,
+        9,
+        6,
+        5,
+        8
+      ]
+    },
+    "C36": {
+      "claim": "Pharmacy review confirmed the 5-day amoxicillin regimen.",
+      "label": "SUPPORTED",
+      "reason": "The pharmacist reviewed the medication chart and explicitly confirmed that the 5-day amoxicillin course was suitable.",
+      "evidence_quote": "No changes made to abx regoimen (5-day course confirmed suitable).",
+      "retrieved_note_indices": [
+        7,
+        9,
+        6,
+        8,
+        5
+      ]
+    },
+    "C37": {
+      "claim": "Her pain significantly improved during the ward round.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly documents significant improvement in pain, confirmed by the parents.",
+      "evidence_quote": "Parents report significant improvement in pain.",
+      "retrieved_note_indices": [
+        8,
+        5,
+        3,
+        6,
+        0
+      ]
+    },
+    "C38": {
+      "claim": "She was alert and comfortable during the ward round.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round examination explicitly describes the patient as alert and appearing comfortable.",
+      "evidence_quote": "Alert and interactive, appears comfortable",
+      "retrieved_note_indices": [
+        2,
+        5,
+        8,
+        0,
+        3
+      ]
+    },
+    "C39": {
+      "claim": "She tolerated antibiotics without adverse effects.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly states that the patient tolerated oral antibiotics without adverse effects.",
+      "evidence_quote": "Tolerated oral antibiotics and analgesia without adverse effects",
+      "retrieved_note_indices": [
+        6,
+        9,
+        7,
+        3,
+        8
+      ]
+    },
+    "C40": {
+      "claim": "She tolerated analgesia without adverse effects.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents that oral paracetamol was administered and continued as needed, but does not state that it was tolerated without adverse effects.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        6,
+        0,
+        3,
+        2,
+        9
+      ]
+    },
+    "C41": {
+      "claim": "Otoscopy showed reduced right tympanic membrane erythema.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 8 explicitly states that otoscopy showed reduced erythema in the right tympanic membrane compared with admission.",
+      "evidence_quote": "Otoscopy of right ear shows reduced erythema ... in the TM compared to admission.",
+      "retrieved_note_indices": [
+        3,
+        1,
+        4,
+        8,
+        5
+      ]
+    },
+    "C42": {
+      "claim": "Otoscopy showed reduced right middle-ear effusion.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly documents reduced right-ear effusion on otoscopy compared with admission.",
+      "evidence_quote": "Otoscopy of right ear shows reduced erythema and efusion in the TM compared to admission.",
+      "retrieved_note_indices": [
+        3,
+        4,
+        8,
+        5,
+        1
+      ]
+    },
+    "C43": {
+      "claim": "She had no systemic infection during the ward round.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly states there were no signs of systemic infection, and the patient was afebrile.",
+      "evidence_quote": "No signs of systemic infection.",
+      "retrieved_note_indices": [
+        5,
+        8,
+        3,
+        0,
+        2
+      ]
+    },
+    "C44": {
+      "claim": "She had no distress during the ward round.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round examination explicitly states that the patient had no distress.",
+      "evidence_quote": "Alert, moderate pain, no distress.",
+      "retrieved_note_indices": [
+        2,
+        0,
+        5,
+        8,
+        3
+      ]
+    },
+    "C45": {
+      "claim": "She was discharged with amoxicillin 125 mg/5 mL, 2.5 mL three times daily to complete 5 days.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly specifies amoxicillin 125 mg/5 mL oral suspension, 2.5 mL TDS for 5 days.",
+      "evidence_quote": "Discharge later today with 5-day course of amoxicillin (125 mg/5 mL oral suspension, 2.5 mL TDS)",
+      "retrieved_note_indices": [
+        7,
+        9,
+        5,
+        6,
+        8
+      ]
+    },
+    "C46": {
+      "claim": "She was discharged with paracetamol 120 mg/5 mL, 5 mL four times daily as needed.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan specifies paracetamol 120 mg/5 mL oral suspension, 5 mL QDS PRN for pain.",
+      "evidence_quote": "Discharge later today ... Prescribe paracetamol (120 mg/5 mL oral suspension, 5 mL QDS PRN for pain)",
+      "retrieved_note_indices": [
+        9,
+        3,
+        6,
+        8,
+        5
+      ]
+    },
+    "C47": {
+      "claim": "Her parents were advised to continue warm compresses.",
+      "label": "SUPPORTED",
+      "reason": "The therapist educated the father on applying warm compresses, and the discharge plan recommended warm compress application for symptomatic relief; this supports advising the parents to continue them.",
+      "evidence_quote": "Recomend warm cokpress application for symptomatic relief as demonstrated by the therapist",
+      "retrieved_note_indices": [
+        6,
+        3,
+        5,
+        8,
+        9
+      ]
+    },
+    "C48": {
+      "claim": "Her parents were advised to complete the antibiotic course.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence states that the patient's father was advised to complete the 5-day amoxicillin course, but does not establish that both parents were advised.",
+      "evidence_quote": "Education provided to patient's father ... The importance of completing the 5-day course of oral amoxicillin",
+      "retrieved_note_indices": [
+        6,
+        9,
+        7,
+        3,
+        5
+      ]
+    },
+    "C49": {
+      "claim": "Her parents were advised to follow up with ENT in 2 weeks.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly states that the parents were advised to follow up with ENT in 2 weeks.",
+      "evidence_quote": "Parents advised to follow up with ENT in 2 weeks",
+      "retrieved_note_indices": [
+        3,
+        6,
+        9,
+        5,
+        8
+      ]
+    },
+    "C50": {
+      "claim": "The GP was informed of the discharge plan.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the patient's GP was contacted and the discharge plan was discussed.",
+      "evidence_quote": "Contacted pt's GP @ 09:30. Discussed d/c plan",
+      "retrieved_note_indices": [
+        9,
+        8,
+        0,
+        3,
+        1
+      ]
+    }
+  },
+  "Whole + MedCPT": {
+    "C01": {
+      "claim": "Ren Suzuki is a 1-year-old girl.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly identifies Ren Suzuki as age 1 and female.",
+      "evidence_quote": "Age 1\nSex\nFemale",
+      "retrieved_note_indices": [
+        0,
+        3,
+        5,
+        6,
+        7
+      ]
+    },
+    "C02": {
+      "claim": "She had no past medical history.",
+      "label": "SUPPORTED",
+      "reason": "The clinical note explicitly documents the past medical history as nil, and the triage note reports no PMHx.",
+      "evidence_quote": "Past Medical History: Nil",
+      "retrieved_note_indices": [
+        0,
+        3,
+        2,
+        6,
+        1
+      ]
+    },
+    "C03": {
+      "claim": "She was not taking medications.",
+      "label": "SUPPORTED",
+      "reason": "The clinical note explicitly lists the patient's medications as none.",
+      "evidence_quote": "Medications\nNil",
+      "retrieved_note_indices": [
+        6,
+        2,
+        3,
+        0,
+        9
+      ]
+    },
+    "C04": {
+      "claim": "She had no known allergies.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents no allergies.",
+      "evidence_quote": "No allergies",
+      "retrieved_note_indices": [
+        0,
+        3,
+        6,
+        2,
+        1
+      ]
+    },
+    "C05": {
+      "claim": "She presented with acute right ear pain.",
+      "label": "SUPPORTED",
+      "reason": "The notes explicitly document acute right ear pain, including acute onset over 24 hours and right ear pain.",
+      "evidence_quote": "Presenting Complaint: Ear pain Site: Right ear Onset: Acute onset over 24 hours",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        1,
+        0
+      ]
+    },
+    "C06": {
+      "claim": "She was afebrile and had observations within normal limits.",
+      "label": "SUPPORTED",
+      "reason": "The notes explicitly describe the patient as afebrile and report heart rate, respiratory rate, temperature, and oxygen saturation as within normal limits.",
+      "evidence_quote": "Afebrile. ... HR, RR, tmp WNL.",
+      "retrieved_note_indices": [
+        2,
+        0,
+        3,
+        1,
+        6
+      ]
+    },
+    "C07": {
+      "claim": "She was not in acute distress.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents that the patient was in no acute distress.",
+      "evidence_quote": "No acute distress.",
+      "retrieved_note_indices": [
+        2,
+        0,
+        1,
+        3,
+        6
+      ]
+    },
+    "C08": {
+      "claim": "The right outer ear had mild erythema.",
+      "label": "SUPPORTED",
+      "reason": "The triage note explicitly documents mild erythema around the right outer ear.",
+      "evidence_quote": "Mild eythema around the right outer ear",
+      "retrieved_note_indices": [
+        1,
+        3,
+        4,
+        0,
+        5
+      ]
+    },
+    "C09": {
+      "claim": "The right outer ear had moderate tenderness.",
+      "label": "SUPPORTED",
+      "reason": "The triage note explicitly documents moderate tenderness on palpation of the right outer ear.",
+      "evidence_quote": "Mild eythema around the right outer ear, moderate tenderness on palpation.",
+      "retrieved_note_indices": [
+        1,
+        3,
+        4,
+        0,
+        5
+      ]
+    },
+    "C10": {
+      "claim": "Her mother reported irritability and frequent crying.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the mother reported the patient was irritable and crying frequently.",
+      "evidence_quote": "Mother reports that the pt has been irritable and cryng frequently",
+      "retrieved_note_indices": [
+        3,
+        6,
+        0,
+        1,
+        5
+      ]
+    },
+    "C11": {
+      "claim": "Her mother reported reduced feeding.",
+      "label": "SUPPORTED",
+      "reason": "The mother reported that the patient refused to feed normally, which supports reduced feeding.",
+      "evidence_quote": "Refused to feed normaly.",
+      "retrieved_note_indices": [
+        3,
+        6,
+        0,
+        9,
+        5
+      ]
+    },
+    "C12": {
+      "claim": "Her mother reported difficulty sleeping.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence reports irritability and frequent crying, but does not state that the mother reported difficulty sleeping.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        3,
+        6,
+        0,
+        2,
+        5
+      ]
+    },
+    "C13": {
+      "claim": "Her mother reported that she had been pulling at her right ear.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the mother reported the patient was pulling at the right ear.",
+      "evidence_quote": "Mother reports ... Pulling at the R ear noted.",
+      "retrieved_note_indices": [
+        3,
+        0,
+        4,
+        6,
+        5
+      ]
+    },
+    "C14": {
+      "claim": "There was no fever, vomiting, diarrhoea, or ear discharge.",
+      "label": "SUPPORTED",
+      "reason": "The records explicitly document no fever, vomiting, diarrhoea, or ear discharge.",
+      "evidence_quote": "\"No fever, vomiting, or diarrhoea observed\"; \"no discharge noted\"",
+      "retrieved_note_indices": [
+        3,
+        0,
+        4,
+        8,
+        6
+      ]
+    },
+    "C15": {
+      "claim": "Examination showed a bulging right tympanic membrane with effusion.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documented a bulging right tympanic membrane with effusion.",
+      "evidence_quote": "Right ear: Bulging TM with effusion",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        8,
+        1
+      ]
+    },
+    "C16": {
+      "claim": "There was mild right auricular erythema and tenderness.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents mild erythema and tenderness of the right auricle.",
+      "evidence_quote": "Right ear: Mild erythema and tenderness on palpation of the auricle.",
+      "retrieved_note_indices": [
+        1,
+        3,
+        4,
+        5,
+        0
+      ]
+    },
+    "C17": {
+      "claim": "There was no mastoiditis, cellulitis, facial weakness, or systemic infection.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documented no signs of mastoiditis or cellulitis, no systemic infection, and no facial asymmetry or weakness.",
+      "evidence_quote": "No signs of mastoiditis or celulitis. No signs of systemic infection. No facial asymmetry or weakness observed.",
+      "retrieved_note_indices": [
+        1,
+        3,
+        0,
+        4,
+        6
+      ]
+    },
+    "C18": {
+      "claim": "Her heart rate was 110 beats per minute.",
+      "label": "SUPPORTED",
+      "reason": "The ED consultant's observations explicitly record a heart rate of 110 bpm.",
+      "evidence_quote": "HR 110 bpm",
+      "retrieved_note_indices": [
+        2,
+        0,
+        3,
+        1,
+        6
+      ]
+    },
+    "C19": {
+      "claim": "Her respiratory rate was 28 breaths per minute.",
+      "label": "SUPPORTED",
+      "reason": "The ED observations explicitly record a respiratory rate of 28 breaths per minute.",
+      "evidence_quote": "RR 28 breaths/min",
+      "retrieved_note_indices": [
+        3,
+        0,
+        2,
+        6,
+        5
+      ]
+    },
+    "C20": {
+      "claim": "Her temperature was 36.8\u00b0C.",
+      "label": "SUPPORTED",
+      "reason": "The ED observations explicitly record a temperature of 36.8\u00b0C.",
+      "evidence_quote": "Temp 36.8\u00c2\u00b0C",
+      "retrieved_note_indices": [
+        3,
+        0,
+        6,
+        2,
+        5
+      ]
+    },
+    "C21": {
+      "claim": "Her oxygen saturation was 99%.",
+      "label": "SUPPORTED",
+      "reason": "The examination observations explicitly record an SpO2 of 99%.",
+      "evidence_quote": "SPO2 99%",
+      "retrieved_note_indices": [
+        2,
+        0,
+        3,
+        6,
+        1
+      ]
+    },
+    "C22": {
+      "claim": "She was diagnosed with acute right otitis media with effusion.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents acute right otitis media with effusion, including a bulging erythematous right tympanic membrane and effusion on otoscopy.",
+      "evidence_quote": "Impression: Acute otitis media of the right ear with effusion",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        8,
+        6
+      ]
+    },
+    "C23": {
+      "claim": "Paracetamol 120 mg was administered.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that oral paracetamol 120 mg was administered in the ED.",
+      "evidence_quote": "Oral paracetamol 120 mg administered in ED",
+      "retrieved_note_indices": [
+        3,
+        6,
+        7,
+        9,
+        4
+      ]
+    },
+    "C24": {
+      "claim": "She was referred for paediatric or ENT inpatient management.",
+      "label": "SUPPORTED",
+      "reason": "The referral note explicitly states that she was referred to Paediatrics (ENT) for inpatient admission.",
+      "evidence_quote": "Referred to Paediatrics (ENT) for inpatient admission",
+      "retrieved_note_indices": [
+        3,
+        5,
+        0,
+        6,
+        8
+      ]
+    },
+    "C25": {
+      "claim": "The left ear was normal.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents that the left tympanic membrane was normal.",
+      "evidence_quote": "Left ear: Normal TM",
+      "retrieved_note_indices": [
+        3,
+        0,
+        1,
+        4,
+        5
+      ]
+    },
+    "C26": {
+      "claim": "She had moderate pain.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly documents moderate pain on review and examination.",
+      "evidence_quote": "Moderate pain.",
+      "retrieved_note_indices": [
+        3,
+        0,
+        6,
+        1,
+        5
+      ]
+    },
+    "C27": {
+      "claim": "Oral amoxicillin was started at 125 mg three times daily for 5 days.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence supports a 125 mg/5 mL oral suspension given three times daily for 5 days, but does not support a dose of 125 mg per administration; the documented volume was 2.5 mL three times daily.",
+      "evidence_quote": "5-day course of amoxicillin (125 mg/5 mL oral suspension, 2.5 mL TDS)",
+      "retrieved_note_indices": [
+        7,
+        9,
+        6,
+        5,
+        8
+      ]
+    },
+    "C28": {
+      "claim": "Paracetamol 120 mg was prescribed four times daily for pain.",
+      "label": "SUPPORTED",
+      "reason": "The clerking plan explicitly prescribes oral paracetamol 120 mg QDS for pain relief.",
+      "evidence_quote": "Prescribe oral paracetamol 120 mg QDS for pain relief",
+      "retrieved_note_indices": [
+        6,
+        9,
+        3,
+        7,
+        4
+      ]
+    },
+    "C29": {
+      "claim": "Warm compresses were advised.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 6 explicitly states that education was provided on techniques for applying warm compresses to alleviate ear pain.",
+      "evidence_quote": "Techniques for applying warm compresses to alleviate ear pain.",
+      "retrieved_note_indices": [
+        6,
+        3,
+        1,
+        2,
+        9
+      ]
+    },
+    "C30": {
+      "claim": "Her father received education about warm compresses and ear hygiene.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that education was provided to the patient's father on applying warm compresses and maintaining proper ear hygiene.",
+      "evidence_quote": "Education provided to patient's father ... Techniques for applying warm compresses ... Maintaining proper ear hygiene",
+      "retrieved_note_indices": [
+        6,
+        3,
+        0,
+        1,
+        5
+      ]
+    },
+    "C31": {
+      "claim": "Her father was instructed to complete the antibiotic course.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the patient's father was educated on the importance of completing the 5-day oral amoxicillin course.",
+      "evidence_quote": "Education provided to patient's father... The importance of completing the 5-day course of oral amoxicillin",
+      "retrieved_note_indices": [
+        6,
+        9,
+        7,
+        8,
+        5
+      ]
+    },
+    "C32": {
+      "claim": "Her father received education about analgesia and signs of improvement or deterioration.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that education was provided to the patient's father about pain relief and recognizing improvement versus deterioration.",
+      "evidence_quote": "Education provided to patient's father... Advised to continue oral paracetamol (120 mg) as needed for pain relief. Counseling provided on recognizing signs of improvement... versus red flags",
+      "retrieved_note_indices": [
+        6,
+        3,
+        0,
+        8,
+        9
+      ]
+    },
+    "C33": {
+      "claim": "Pharmacy review confirmed the amoxicillin dose and 5-day regimen.",
+      "label": "SUPPORTED",
+      "reason": "The pharmacist reviewed the medication chart and confirmed both the amoxicillin dose and the 5-day course.",
+      "evidence_quote": "Dose of amoxicillin 125 mg/5 mL oral suspension confirmed appropriate for age and weight. No changes made to abx regoimen (5-day course confirmed suitable).",
+      "retrieved_note_indices": [
+        7,
+        9,
+        6,
+        8,
+        5
+      ]
+    },
+    "C34": {
+      "claim": "No treatment changes were made after pharmacy review.",
+      "label": "SUPPORTED",
+      "reason": "The pharmacy review explicitly documented that no changes were made to the antibiotic regimen, supporting that treatment was unchanged after review.",
+      "evidence_quote": "No changes made to abx regoimen",
+      "retrieved_note_indices": [
+        7,
+        9,
+        6,
+        2,
+        0
+      ]
+    },
+    "C35": {
+      "claim": "Her pain significantly improved after oral antibiotics and analgesia.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note documents significant improvement in pain and that the patient tolerated oral antibiotics and analgesia.",
+      "evidence_quote": "Parents report significant improvement in pain. Patient tolerated oral abx and analgesia overnight",
+      "retrieved_note_indices": [
+        6,
+        8,
+        3,
+        5,
+        4
+      ]
+    },
+    "C36": {
+      "claim": "She tolerated the oral antibiotics and analgesia without adverse effects.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly states that the patient tolerated oral antibiotics and analgesia without adverse effects.",
+      "evidence_quote": "Patient tolerated oral abx and analgesia overnight without adverse effects.",
+      "retrieved_note_indices": [
+        6,
+        3,
+        7,
+        5,
+        8
+      ]
+    },
+    "C37": {
+      "claim": "The right tympanic membrane had reduced erythema and effusion.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly states that otoscopy showed reduced erythema and effusion in the right tympanic membrane compared with admission.",
+      "evidence_quote": "Otoscopy of right ear shows reduced erythema and effusion in the TM compared to admission.",
+      "retrieved_note_indices": [
+        3,
+        4,
+        8,
+        5,
+        1
+      ]
+    },
+    "C38": {
+      "claim": "She was alert, interactive, and comfortable.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence supports that she was alert and had no acute distress, but it does not establish that she was interactive or comfortable; she was described as irritable.",
+      "evidence_quote": "Appears irritable but alert.",
+      "retrieved_note_indices": [
+        6,
+        0,
+        2,
+        3,
+        1
+      ]
+    },
+    "C39": {
+      "claim": "She had no systemic infection or distress at follow-up examination.",
+      "label": "SUPPORTED",
+      "reason": "The examination documented no systemic signs of illness/infection and no acute distress.",
+      "evidence_quote": "No systemic signs of illness noted. No acute distress.",
+      "retrieved_note_indices": [
+        6,
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "C40": {
+      "claim": "She was discharged with amoxicillin 125 mg/5 mL suspension, 2.5 mL three times daily to complete 5 days.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly specifies amoxicillin 125 mg/5 mL suspension, 2.5 mL TDS, for a 5-day course.",
+      "evidence_quote": "Discharge later today with 5-day course of amoxicillin (125 mg/5 mL oral suspension, 2.5 mL TDS)",
+      "retrieved_note_indices": [
+        7,
+        9,
+        5,
+        6,
+        8
+      ]
+    },
+    "C41": {
+      "claim": "She was discharged with paracetamol 120 mg/5 mL suspension, 5 mL four times daily as needed.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly prescribes paracetamol 120 mg/5 mL oral suspension, 5 mL four times daily as needed for pain.",
+      "evidence_quote": "Prescribe paracetamol (120 mg/5 mL oral suspension, 5 mL QDS PRN for pain)",
+      "retrieved_note_indices": [
+        3,
+        9,
+        6,
+        8,
+        5
+      ]
+    },
+    "C42": {
+      "claim": "Her parents were advised to continue warm compresses.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round plan states that parents were advised to apply warm compresses for symptomatic relief, following earlier education on warm-compress techniques.",
+      "evidence_quote": "Recomend warm cokpress application for symptomatic relief as demonstrated by the therapist",
+      "retrieved_note_indices": [
+        6,
+        3,
+        5,
+        8,
+        9
+      ]
+    },
+    "C43": {
+      "claim": "Her parents were advised to complete the antibiotic course.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents that the patient's father was advised to complete the 5-day amoxicillin course, but does not establish that both parents were advised.",
+      "evidence_quote": "Education provided to patient's father ... The importance of completing the 5-day course of oral amoxicillin",
+      "retrieved_note_indices": [
+        6,
+        9,
+        7,
+        3,
+        5
+      ]
+    },
+    "C44": {
+      "claim": "Her parents were advised to follow up with ENT in 2 weeks.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly states that the parents were advised to follow up with ENT in 2 weeks.",
+      "evidence_quote": "Parents advised to follow up with ENT in 2 weeks",
+      "retrieved_note_indices": [
+        3,
+        6,
+        9,
+        5,
+        8
+      ]
+    },
+    "C45": {
+      "claim": "The GP was informed of the discharge plan.",
+      "label": "SUPPORTED",
+      "reason": "The note explicitly states that the patient's GP was contacted and the discharge plan was discussed, with the GP aware for continuity of care.",
+      "evidence_quote": "Contacted pt's GP @ 09:30. Discussed d/c plan",
+      "retrieved_note_indices": [
+        9,
+        8,
+        0,
+        3,
+        1
+      ]
+    }
+  },
+  "Fixed + Gemini": {
+    "C01": {
+      "claim": "Ren Suzuki is a 1-year-old girl.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly identifies Ren Suzuki as age 1 and female.",
+      "evidence_quote": "Age 1\nSex\nFemale",
+      "retrieved_note_indices": [
+        0,
+        3,
+        5,
+        6,
+        7
+      ]
+    },
+    "C02": {
+      "claim": "She has no past medical history.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents no past medical history.",
+      "evidence_quote": "Past Medical History\nNil",
+      "retrieved_note_indices": [
+        0,
+        3,
+        2,
+        1,
+        6
+      ]
+    },
+    "C03": {
+      "claim": "She takes no medications.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents active treatment with oral amoxicillin and paracetamol, so it does not support that she takes no medications.",
+      "evidence_quote": "5-day amox 125mg/5mL TDS, paracetamol 120mg/5mLL QDS PRN",
+      "retrieved_note_indices": [
+        6,
+        0,
+        2,
+        3,
+        9
+      ]
+    },
+    "C04": {
+      "claim": "She has no known allergies.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents that the patient has no allergies.",
+      "evidence_quote": "Allergies\nNil",
+      "retrieved_note_indices": [
+        0,
+        3,
+        6,
+        2,
+        1
+      ]
+    },
+    "C05": {
+      "claim": "She presented with acute right ear pain.",
+      "label": "SUPPORTED",
+      "reason": "The sources explicitly document acute right ear pain, including acute onset over 24 hours and right-sided symptoms.",
+      "evidence_quote": "Presenting Complaint: Ear pain Site: Right ear Onset: Acute onset over 24 hours",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        1,
+        0
+      ]
+    },
+    "C06": {
+      "claim": "She was irritable.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the patient had been irritable and appeared irritable on examination.",
+      "evidence_quote": "Mother reports that the pt has been irritable",
+      "retrieved_note_indices": [
+        3,
+        0,
+        1,
+        6,
+        2
+      ]
+    },
+    "C07": {
+      "claim": "She was crying.",
+      "label": "SUPPORTED",
+      "reason": "The source states that the mother reported the patient had been crying frequently.",
+      "evidence_quote": "pt has been irritable and cryng frequently",
+      "retrieved_note_indices": [
+        6,
+        3,
+        0,
+        1,
+        9
+      ]
+    },
+    "C08": {
+      "claim": "She was feeding poorly.",
+      "label": "SUPPORTED",
+      "reason": "The history states that the patient refused to feed normally, supporting poor feeding.",
+      "evidence_quote": "Refused to feed normaly.",
+      "retrieved_note_indices": [
+        3,
+        0,
+        6,
+        2,
+        5
+      ]
+    },
+    "C09": {
+      "claim": "She was pulling at her right ear.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly reports that the patient was pulling at the right ear.",
+      "evidence_quote": "Pulling at the R ear noted.",
+      "retrieved_note_indices": [
+        3,
+        0,
+        6,
+        1,
+        4
+      ]
+    },
+    "C10": {
+      "claim": "She was afebrile.",
+      "label": "SUPPORTED",
+      "reason": "The recorded temperature was 36.8\u00b0C, and the triage note explicitly states she was afebrile.",
+      "evidence_quote": "Afebrile.",
+      "retrieved_note_indices": [
+        3,
+        6,
+        1,
+        2,
+        0
+      ]
+    },
+    "C11": {
+      "claim": "Her observations were normal.",
+      "label": "SUPPORTED",
+      "reason": "The nursing assessments explicitly document that her observations were within normal limits.",
+      "evidence_quote": "HR, RR, tmp WNL",
+      "retrieved_note_indices": [
+        2,
+        0,
+        3,
+        1,
+        6
+      ]
+    },
+    "C12": {
+      "claim": "She was not in acute distress.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents that she was in no acute distress.",
+      "evidence_quote": "No acute distress.",
+      "retrieved_note_indices": [
+        2,
+        0,
+        1,
+        3,
+        6
+      ]
+    },
+    "C13": {
+      "claim": "The right outer ear had mild erythema.",
+      "label": "SUPPORTED",
+      "reason": "The triage and examination notes explicitly document mild erythema around the right outer ear.",
+      "evidence_quote": "Mild erythema around the right outer ear",
+      "retrieved_note_indices": [
+        1,
+        3,
+        4,
+        0,
+        5
+      ]
+    },
+    "C14": {
+      "claim": "The right outer ear had moderate tenderness.",
+      "label": "SUPPORTED",
+      "reason": "The triage note explicitly documents moderate tenderness on palpation of the right outer ear.",
+      "evidence_quote": "Mild eythema around the right outer ear, moderate tenderness on palpation.",
+      "retrieved_note_indices": [
+        1,
+        3,
+        4,
+        0,
+        5
+      ]
+    },
+    "C15": {
+      "claim": "The right tympanic membrane was bulging.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents a bulging right tympanic membrane on otoscopy.",
+      "evidence_quote": "Right ear: Bulging TM with effusion and mild erythema seen on otoscopy",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        1,
+        8
+      ]
+    },
+    "C16": {
+      "claim": "The right tympanic membrane was mildly erythematous.",
+      "label": "SUPPORTED",
+      "reason": "The examination documented mild erythema of the right tympanic membrane on otoscopy.",
+      "evidence_quote": "Right ear: Bulging TM with effusion and mild erythema seen on otoscopy",
+      "retrieved_note_indices": [
+        3,
+        1,
+        4,
+        5,
+        8
+      ]
+    },
+    "C17": {
+      "claim": "There was right middle-ear effusion.",
+      "label": "SUPPORTED",
+      "reason": "Otoscopy explicitly documented a right tympanic membrane bulging with effusion, consistent with right middle-ear effusion.",
+      "evidence_quote": "Right ear: Bulging TM with effusion",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        8,
+        1
+      ]
+    },
+    "C18": {
+      "claim": "There was no ear discharge.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents that there was no ear discharge.",
+      "evidence_quote": "no discharge noted",
+      "retrieved_note_indices": [
+        3,
+        0,
+        1,
+        4,
+        6
+      ]
+    },
+    "C19": {
+      "claim": "There was no mastoiditis.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents no signs of mastoiditis, and another note reports no mastoid tenderness or surrounding erythema.",
+      "evidence_quote": "No signs of mastoiditis or celulitis.",
+      "retrieved_note_indices": [
+        3,
+        4,
+        1,
+        5,
+        0
+      ]
+    },
+    "C20": {
+      "claim": "There was no cellulitis.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents that there were no signs of cellulitis.",
+      "evidence_quote": "No signs of mastoiditis or celulitis.",
+      "retrieved_note_indices": [
+        0,
+        9,
+        1,
+        6,
+        3
+      ]
+    },
+    "C21": {
+      "claim": "There was no facial asymmetry.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly states that no facial asymmetry was observed.",
+      "evidence_quote": "No facial asymmetry or weakness observed.",
+      "retrieved_note_indices": [
+        0,
+        1,
+        2,
+        3,
+        6
+      ]
+    },
+    "C22": {
+      "claim": "There was no neurological deficit.",
+      "label": "SUPPORTED",
+      "reason": "The examination documents no focal neurological deficits and no facial asymmetry or weakness.",
+      "evidence_quote": "Neurological: No HA, neck stiffness, or focal neurological deficits.",
+      "retrieved_note_indices": [
+        2,
+        0,
+        1,
+        6,
+        3
+      ]
+    },
+    "C23": {
+      "claim": "There was no systemic infection.",
+      "label": "SUPPORTED",
+      "reason": "The notes explicitly document no systemic signs of illness and no signs of systemic infection, with the patient afebrile and stable.",
+      "evidence_quote": "No signs of systemic infection.",
+      "retrieved_note_indices": [
+        1,
+        0,
+        2,
+        3,
+        6
+      ]
+    },
+    "C24": {
+      "claim": "The left tympanic membrane was normal.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents that the left tympanic membrane was normal.",
+      "evidence_quote": "Left ear: Normal TM",
+      "retrieved_note_indices": [
+        3,
+        1,
+        4,
+        0,
+        5
+      ]
+    },
+    "C25": {
+      "claim": "She was diagnosed with acute right otitis media with effusion.",
+      "label": "SUPPORTED",
+      "reason": "The clinical notes explicitly diagnose acute right otitis media with effusion and document a bulging right tympanic membrane with effusion.",
+      "evidence_quote": "Acute otitis media of the right ear with effusion",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        8,
+        6
+      ]
+    },
+    "C26": {
+      "claim": "She received oral paracetamol 120 mg for pain.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that oral paracetamol 120 mg was administered for pain relief.",
+      "evidence_quote": "Oral paracetamol 120 mg administered in ED ... for pain relief.",
+      "retrieved_note_indices": [
+        3,
+        6,
+        5,
+        0,
+        4
+      ]
+    },
+    "C27": {
+      "claim": "She was referred to paediatrics/ENT for admission and further management.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that she was referred to Paediatrics (ENT) for inpatient admission and further management.",
+      "evidence_quote": "Referred to Paediatrics (ENT) for inpatient admission due to severity of symptoms and need for further management.",
+      "retrieved_note_indices": [
+        3,
+        5,
+        6,
+        8,
+        0
+      ]
+    },
+    "C28": {
+      "claim": "Paediatric review confirmed the diagnosis.",
+      "label": "SUPPORTED",
+      "reason": "The patient was referred to and admitted under paediatrics, and the paediatric ward-round documentation lists Acute Otitis Media with Effusion as the diagnosis.",
+      "evidence_quote": "Referred to Paediatrics (ENT) for inpatient admission... Accepted under care of Dr. Lisa Doreen Hayes (Cons).",
+      "retrieved_note_indices": [
+        7,
+        3,
+        5,
+        8,
+        0
+      ]
+    },
+    "C29": {
+      "claim": "The otitis media was considered likely bacterial.",
+      "label": "SUPPORTED",
+      "reason": "The clerking note explicitly states that the acute otitis media was \"likely bacterial in origin.\"",
+      "evidence_quote": "Acute otitis media of the right ear with effusion, likely bacterial in origin",
+      "retrieved_note_indices": [
+        4,
+        3,
+        5,
+        6,
+        8
+      ]
+    },
+    "C30": {
+      "claim": "Oral amoxicillin 125 mg/5 mL was started three times daily for 5 days.",
+      "label": "SUPPORTED",
+      "reason": "The treatment plan explicitly states to start amoxicillin 125 mg/5 mL oral suspension TDS for 5 days, and the discharge plan confirms the same course.",
+      "evidence_quote": "Start Amoxicillin 125 mg/5 mL oral suspension TDS for 5 days.",
+      "retrieved_note_indices": [
+        7,
+        9,
+        5,
+        6,
+        8
+      ]
+    },
+    "C31": {
+      "claim": "Paracetamol 120 mg was prescribed four times daily for pain.",
+      "label": "SUPPORTED",
+      "reason": "The clerking plan explicitly states that paracetamol 120 mg was prescribed QDS (four times daily) for pain relief.",
+      "evidence_quote": "Prescribe oral paracetamol 120 mg QDS for pain relief",
+      "retrieved_note_indices": [
+        6,
+        9,
+        3,
+        7,
+        4
+      ]
+    },
+    "C32": {
+      "claim": "Warm compresses were advised.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that education was provided on techniques for applying warm compresses to alleviate ear pain.",
+      "evidence_quote": "Education provided ... on managing the patient's AOM: 1) Techniques for applying warm compresses to alleviate ear pain.",
+      "retrieved_note_indices": [
+        6,
+        3,
+        1,
+        2,
+        9
+      ]
+    },
+    "C33": {
+      "claim": "The parents received education about ear care.",
+      "label": "SUPPORTED",
+      "reason": "The father received education on ear care, including proper ear hygiene and warm compresses; the parents were also advised about warm compress application.",
+      "evidence_quote": "Education provided to patient's father ... Maintaining proper ear hygiene ... Warm compress application for symptomatic relief",
+      "retrieved_note_indices": [
+        6,
+        3,
+        5,
+        0,
+        8
+      ]
+    },
+    "C34": {
+      "claim": "The parents received education about medication adherence.",
+      "label": "UNSUPPORTED",
+      "reason": "Education about completing the 5-day amoxicillin course was documented for the patient's father, but the evidence does not establish that both parents received this education.",
+      "evidence_quote": "Education provided to patient's father ... The importance of completing the 5-day course of oral amoxicillin as prescribed",
+      "retrieved_note_indices": [
+        6,
+        9,
+        3,
+        7,
+        5
+      ]
+    },
+    "C35": {
+      "claim": "The parents received education about symptom improvement.",
+      "label": "UNSUPPORTED",
+      "reason": "The source states that education about recognizing signs of improvement was provided to the patient's father, but it does not establish that both parents received this education.",
+      "evidence_quote": "Counseling provided on recognizing signs of improvement (e.g., reduced pain, no discharge)",
+      "retrieved_note_indices": [
+        6,
+        3,
+        8,
+        9,
+        0
+      ]
+    },
+    "C36": {
+      "claim": "The parents received education about red flags.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents education about red flags being provided to the patient's father, but does not establish that both parents received it.",
+      "evidence_quote": "Education provided to patient's father ... recognizing ... red flags",
+      "retrieved_note_indices": [
+        6,
+        0,
+        3,
+        9,
+        8
+      ]
+    },
+    "C37": {
+      "claim": "Pharmacy review confirmed the amoxicillin dose and 5-day course.",
+      "label": "SUPPORTED",
+      "reason": "The pharmacy review explicitly confirmed the amoxicillin dose as appropriate for age and weight and confirmed that the 5-day course was suitable.",
+      "evidence_quote": "Dose of amoxicillin 125 mg/5 mL oral suspension confirmed appropriate for age and weight. No changes made to abx regoimen (5-day course confirmed suitable).",
+      "retrieved_note_indices": [
+        7,
+        9,
+        6,
+        8,
+        5
+      ]
+    },
+    "C38": {
+      "claim": "No medication changes were made after pharmacy review.",
+      "label": "SUPPORTED",
+      "reason": "The pharmacy review documented that the amoxicillin dose was appropriate and that no changes were made to the antibiotic regimen.",
+      "evidence_quote": "No changes made to abx regoimen (5-day course confirmed suitable).",
+      "retrieved_note_indices": [
+        7,
+        9,
+        2,
+        6,
+        0
+      ]
+    },
+    "C39": {
+      "claim": "Her ear pain improved significantly overnight.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note states that the parents reported significant improvement in the patient's pain.",
+      "evidence_quote": "Parents report significant improvement in pain.",
+      "retrieved_note_indices": [
+        3,
+        6,
+        8,
+        4,
+        5
+      ]
+    },
+    "C40": {
+      "claim": "She tolerated oral antibiotics without adverse effects.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly states that the patient tolerated oral antibiotics without adverse effects.",
+      "evidence_quote": "Tolerated oral antibiotics and analgesia without adverse effects",
+      "retrieved_note_indices": [
+        6,
+        7,
+        9,
+        3,
+        8
+      ]
+    },
+    "C41": {
+      "claim": "She tolerated oral analgesia without adverse effects.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents that oral paracetamol was administered and prescribed as needed, but it does not state that she tolerated it or experienced no adverse effects.",
+      "evidence_quote": "Oral paracetamol 120 mg administered in ED",
+      "retrieved_note_indices": [
+        6,
+        3,
+        0,
+        2,
+        9
+      ]
+    },
+    "C42": {
+      "claim": "Right tympanic membrane erythema decreased on follow-up otoscopy.",
+      "label": "SUPPORTED",
+      "reason": "Follow-up otoscopy explicitly documented reduced erythema in the right tympanic membrane compared with admission.",
+      "evidence_quote": "Otoscopy of right ear shows reduced erythema and effusion in the TM compared to admission.",
+      "retrieved_note_indices": [
+        8,
+        3,
+        4,
+        1,
+        6
+      ]
+    },
+    "C43": {
+      "claim": "Right tympanic membrane effusion decreased on follow-up otoscopy.",
+      "label": "SUPPORTED",
+      "reason": "Follow-up otoscopy documented reduced effusion in the right tympanic membrane compared with admission.",
+      "evidence_quote": "Otoscopy of right ear shows reduced erythema and efusion in the TM compared to admission.",
+      "retrieved_note_indices": [
+        8,
+        3,
+        4,
+        5,
+        1
+      ]
+    },
+    "C44": {
+      "claim": "She was alert and interactive.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence states she was alert, but does not establish that she was interactive.",
+      "evidence_quote": "Appears irritable but alert.",
+      "retrieved_note_indices": [
+        6,
+        0,
+        2,
+        3,
+        7
+      ]
+    },
+    "C45": {
+      "claim": "She was comfortable.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence describes the patient as irritable with moderate ear pain, not comfortable.",
+      "evidence_quote": "Alert, moderate pain, no distress.",
+      "retrieved_note_indices": [
+        6,
+        0,
+        2,
+        3,
+        5
+      ]
+    },
+    "C46": {
+      "claim": "She had no signs of systemic infection or distress on follow-up.",
+      "label": "SUPPORTED",
+      "reason": "The evidence explicitly documents no signs of systemic infection and no acute distress.",
+      "evidence_quote": "No signs of systemic infection. ... No acute distress.",
+      "retrieved_note_indices": [
+        0,
+        1,
+        2,
+        6,
+        3
+      ]
+    },
+    "C47": {
+      "claim": "Discharge was planned with amoxicillin 125 mg/5 mL, 2.5 mL three times daily to complete 5 days.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly specifies amoxicillin 125 mg/5 mL oral suspension, 2.5 mL TDS, for a 5-day course.",
+      "evidence_quote": "Discharge later today with 5-day course of amoxicillin (125 mg/5 mL oral suspension, 2.5 mL TDS)",
+      "retrieved_note_indices": [
+        7,
+        9,
+        8,
+        5,
+        6
+      ]
+    },
+    "C48": {
+      "claim": "Discharge was planned with paracetamol 120 mg/5 mL, 5 mL four times daily as needed.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly prescribed paracetamol 120 mg/5 mL, 5 mL QDS PRN, and stated discharge later that day. QDS means four times daily.",
+      "evidence_quote": "Discharge later today ... Prescribe paracetamol (120 mg/5 mL oral suspension, 5 mL QDS PRN for pain)",
+      "retrieved_note_indices": [
+        9,
+        8,
+        3,
+        5,
+        6
+      ]
+    },
+    "C49": {
+      "claim": "The parents were advised to continue warm compresses.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan recommends warm compress application for symptomatic relief, following prior instruction and demonstration to the family.",
+      "evidence_quote": "Recommend warm compress application for symptomatic relief as demonstrated by the therapist",
+      "retrieved_note_indices": [
+        6,
+        3,
+        5,
+        8,
+        9
+      ]
+    },
+    "C50": {
+      "claim": "The parents were advised to complete the antibiotic course.",
+      "label": "SUPPORTED",
+      "reason": "The evidence explicitly states that the importance of completing the full 5-day amoxicillin course was emphasized to the parents/father.",
+      "evidence_quote": "Emphasize the importance of completing the full 5-day course of amoxicillin",
+      "retrieved_note_indices": [
+        6,
+        9,
+        7,
+        8,
+        5
+      ]
+    },
+    "C51": {
+      "claim": "ENT follow-up was planned in 2 weeks.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly states ENT follow-up in 2 weeks.",
+      "evidence_quote": "ENT f/u in 2w.",
+      "retrieved_note_indices": [
+        9,
+        6,
+        1,
+        3,
+        0
+      ]
+    },
+    "C52": {
+      "claim": "The GP was informed of the discharge plan.",
+      "label": "SUPPORTED",
+      "reason": "The note explicitly states that the patient's GP was contacted and the discharge plan was discussed.",
+      "evidence_quote": "Contacted pt's GP @ 09:30. Discussed d/c plan",
+      "retrieved_note_indices": [
+        9,
+        8,
+        0,
+        3,
+        1
+      ]
+    }
+  },
+  "Fixed + BGE": {
+    "C01": {
+      "claim": "The patient was a 1-year-old girl.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly lists age 1 and sex female.",
+      "evidence_quote": "Age 1\nSex\nFemale",
+      "retrieved_note_indices": [
+        3,
+        0,
+        6,
+        5,
+        4
+      ]
+    },
+    "C02": {
+      "claim": "She had no past medical history.",
+      "label": "SUPPORTED",
+      "reason": "The medical assessment explicitly documents the past medical history as nil, and the triage note also states no PMHx.",
+      "evidence_quote": "Past Medical History\nNil",
+      "retrieved_note_indices": [
+        0,
+        3,
+        2,
+        6,
+        1
+      ]
+    },
+    "C03": {
+      "claim": "She was taking no medications.",
+      "label": "SUPPORTED",
+      "reason": "The clinical history explicitly lists no current medications.",
+      "evidence_quote": "Medications\nNil",
+      "retrieved_note_indices": [
+        6,
+        2,
+        0,
+        3,
+        9
+      ]
+    },
+    "C04": {
+      "claim": "She had no known allergies.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents that the patient had no allergies.",
+      "evidence_quote": "No allergies",
+      "retrieved_note_indices": [
+        0,
+        3,
+        6,
+        2,
+        1
+      ]
+    },
+    "C05": {
+      "claim": "She presented with acute right ear pain.",
+      "label": "SUPPORTED",
+      "reason": "The records document right ear pain with acute onset over 24 hours, and the presenting complaint is ear pain.",
+      "evidence_quote": "Presenting Complaint: Ear pain Site: Right ear Onset: Acute onset over 24 hours",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        1,
+        0
+      ]
+    },
+    "C06": {
+      "claim": "She was irritable.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the patient was irritable.",
+      "evidence_quote": "Appears iritable but alert.",
+      "retrieved_note_indices": [
+        3,
+        0,
+        1,
+        6,
+        2
+      ]
+    },
+    "C07": {
+      "claim": "She cried frequently.",
+      "label": "SUPPORTED",
+      "reason": "The history explicitly states that the patient had been crying frequently since the night before attendance.",
+      "evidence_quote": "Mother reports that the pt has been irritable and cryng frequently since the night before attendance.",
+      "retrieved_note_indices": [
+        3,
+        6,
+        0,
+        5,
+        1
+      ]
+    },
+    "C08": {
+      "claim": "She had reduced feeding.",
+      "label": "SUPPORTED",
+      "reason": "The history of presenting complaint explicitly states that the patient refused to feed normally, supporting reduced feeding.",
+      "evidence_quote": "Refused to feed normaly.",
+      "retrieved_note_indices": [
+        6,
+        3,
+        0,
+        9,
+        2
+      ]
+    },
+    "C09": {
+      "claim": "She had difficulty sleeping.",
+      "label": "UNSUPPORTED",
+      "reason": "The source documents irritability, frequent crying, and ear pain, but does not state that she had difficulty sleeping.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        3,
+        0,
+        6,
+        5,
+        2
+      ]
+    },
+    "C10": {
+      "claim": "She was tugging at her right ear.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the patient was pulling at the right ear.",
+      "evidence_quote": "Pulling at the R ear noted.",
+      "retrieved_note_indices": [
+        3,
+        0,
+        1,
+        4,
+        6
+      ]
+    },
+    "C11": {
+      "claim": "She was afebrile.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states the patient was afebrile and records a temperature of 36.8\u00194\u0014C.",
+      "evidence_quote": "Afebrile.",
+      "retrieved_note_indices": [
+        3,
+        6,
+        1,
+        2,
+        0
+      ]
+    },
+    "C12": {
+      "claim": "She was clinically stable.",
+      "label": "SUPPORTED",
+      "reason": "The notes document normal vital signs, no acute distress, and no systemic signs of illness.",
+      "evidence_quote": "HR, temp, SpO2 all WNL. No acute distress, stable.",
+      "retrieved_note_indices": [
+        2,
+        0,
+        3,
+        6,
+        1
+      ]
+    },
+    "C13": {
+      "claim": "There was mild erythema around the right outer ear.",
+      "label": "SUPPORTED",
+      "reason": "The triage and clerking notes explicitly document mild erythema around the right outer ear.",
+      "evidence_quote": "Mild erythema around the right outer ear",
+      "retrieved_note_indices": [
+        1,
+        3,
+        4,
+        5,
+        0
+      ]
+    },
+    "C14": {
+      "claim": "There was moderate right auricular tenderness.",
+      "label": "SUPPORTED",
+      "reason": "The triage and clerking notes explicitly document moderate tenderness of the right outer ear/auricle.",
+      "evidence_quote": "Mild erythema around the right outer ear, moderate tenderness on palpation.",
+      "retrieved_note_indices": [
+        1,
+        3,
+        4,
+        5,
+        0
+      ]
+    },
+    "C15": {
+      "claim": "The right tympanic membrane was bulging.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents a bulging right tympanic membrane on otoscopy.",
+      "evidence_quote": "Right ear: Bulging TM with effusion and mild erythema seen on otoscopy",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        1,
+        8
+      ]
+    },
+    "C16": {
+      "claim": "The right tympanic membrane was mildly erythematous.",
+      "label": "SUPPORTED",
+      "reason": "The examination and otoscopy findings explicitly describe mild erythema of the right tympanic membrane.",
+      "evidence_quote": "Right ear: Bulging TM with effusion and mild erythema seen on otoscopy",
+      "retrieved_note_indices": [
+        3,
+        1,
+        4,
+        5,
+        8
+      ]
+    },
+    "C17": {
+      "claim": "There was right middle-ear effusion.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents effusion in the right tympanic membrane/middle ear.",
+      "evidence_quote": "Right ear: Bulging TM with effusion and mild erythema seen on otoscopy",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        8,
+        1
+      ]
+    },
+    "C18": {
+      "claim": "The left ear was normal.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents that the left tympanic membrane was normal.",
+      "evidence_quote": "Left ear: Normal TM",
+      "retrieved_note_indices": [
+        3,
+        0,
+        1,
+        4,
+        5
+      ]
+    },
+    "C19": {
+      "claim": "There was no ear discharge.",
+      "label": "SUPPORTED",
+      "reason": "The records explicitly document no ear discharge.",
+      "evidence_quote": "Right ear: Bulging TM with effusion and mild erythema seen on otoscopy, no discharge noted",
+      "retrieved_note_indices": [
+        3,
+        0,
+        1,
+        4,
+        6
+      ]
+    },
+    "C20": {
+      "claim": "There was no mastoiditis.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents no signs of mastoiditis, and another note reports no mastoid tenderness or erythema.",
+      "evidence_quote": "No signs of mastoiditis or celulitis.",
+      "retrieved_note_indices": [
+        3,
+        4,
+        1,
+        5,
+        0
+      ]
+    },
+    "C21": {
+      "claim": "There was no cellulitis.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents that there were no signs of cellulitis.",
+      "evidence_quote": "No signs of mastoiditis or celulitis.",
+      "retrieved_note_indices": [
+        0,
+        9,
+        1,
+        6,
+        3
+      ]
+    },
+    "C22": {
+      "claim": "There was no lymphadenopathy.",
+      "label": "UNSUPPORTED",
+      "reason": "The source evidence does not document an assessment or absence of lymphadenopathy.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        0,
+        1,
+        2,
+        3,
+        9
+      ]
+    },
+    "C23": {
+      "claim": "There was no neurological deficit.",
+      "label": "SUPPORTED",
+      "reason": "The examination documents no focal neurological deficits, no facial asymmetry or weakness, and no neck stiffness.",
+      "evidence_quote": "Neurological: No HA, neck stiffness, or focal neurological deficits.",
+      "retrieved_note_indices": [
+        2,
+        0,
+        1,
+        6,
+        3
+      ]
+    },
+    "C24": {
+      "claim": "There was no systemic infection.",
+      "label": "SUPPORTED",
+      "reason": "The records explicitly document no systemic signs of illness and no signs of systemic infection; the patient was afebrile and had no systemic symptoms.",
+      "evidence_quote": "No signs of systemic infection.",
+      "retrieved_note_indices": [
+        1,
+        0,
+        2,
+        3,
+        6
+      ]
+    },
+    "C25": {
+      "claim": "She was referred for paediatric/ENT inpatient management.",
+      "label": "SUPPORTED",
+      "reason": "The ED note explicitly states that she was referred to Paediatrics (ENT) for inpatient admission and handed over to the paediatric ward.",
+      "evidence_quote": "Referred to Paediatrics (ENT) for inpatient admission",
+      "retrieved_note_indices": [
+        3,
+        5,
+        6,
+        0,
+        8
+      ]
+    },
+    "C26": {
+      "claim": "Oral paracetamol 120 mg was administered for pain.",
+      "label": "SUPPORTED",
+      "reason": "The plan explicitly states that oral paracetamol 120 mg was administered in the ED for pain relief.",
+      "evidence_quote": "Oral paracetamol 120 mg administered in ED",
+      "retrieved_note_indices": [
+        3,
+        6,
+        9,
+        4,
+        0
+      ]
+    },
+    "C27": {
+      "claim": "She was diagnosed with acute right otitis media with effusion.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents acute right otitis media with effusion.",
+      "evidence_quote": "Impression: Acute otitis media of the right ear with effusion",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        8,
+        6
+      ]
+    },
+    "C28": {
+      "claim": "Amoxicillin 125 mg/5 mL suspension was prescribed at 2.5 mL three times daily for 5 days.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly specifies amoxicillin 125 mg/5 mL oral suspension at 2.5 mL TDS for 5 days.",
+      "evidence_quote": "5-day course of amoxicillin (125 mg/5 mL oral suspension, 2.5 mL TDS)",
+      "retrieved_note_indices": [
+        7,
+        9,
+        6,
+        5,
+        8
+      ]
+    },
+    "C29": {
+      "claim": "Paracetamol 120 mg/5 mL was prescribed at 5 mL four times daily as needed for pain.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly prescribes paracetamol 120 mg/5 mL, 5 mL four times daily as needed for pain.",
+      "evidence_quote": "Prescribe paracetamol (120 mg/5 mL oral suspension, 5 mL QDS PRN for pain)",
+      "retrieved_note_indices": [
+        7,
+        9,
+        6,
+        3,
+        8
+      ]
+    },
+    "C30": {
+      "claim": "Warm compresses were recommended.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round plan explicitly recommends a warm compress for symptomatic relief.",
+      "evidence_quote": "Warm compress for symptomatic relief.",
+      "retrieved_note_indices": [
+        6,
+        3,
+        1,
+        5,
+        0
+      ]
+    },
+    "C31": {
+      "claim": "Ear-care advice was provided.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that education and advice were provided on ear hygiene and warm compresses for ear pain.",
+      "evidence_quote": "Education provided ... Techniques for applying warm compresses ... Maintaining proper ear hygiene",
+      "retrieved_note_indices": [
+        6,
+        3,
+        1,
+        0,
+        5
+      ]
+    },
+    "C32": {
+      "claim": "The parents were advised to complete the medication course.",
+      "label": "SUPPORTED",
+      "reason": "The evidence explicitly states that the importance of completing the full 5-day amoxicillin course was emphasized to the parents.",
+      "evidence_quote": "Emphasize the importance of completing the full 5-day course of amoxicillin",
+      "retrieved_note_indices": [
+        6,
+        9,
+        7,
+        3,
+        8
+      ]
+    },
+    "C33": {
+      "claim": "The parents were advised about warning symptoms.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents counseling about red flags being provided to the patient's father, but does not establish that both parents were advised.",
+      "evidence_quote": "Education provided to patient's father ... Counseling provided on recognizing ... red flags",
+      "retrieved_note_indices": [
+        6,
+        3,
+        9,
+        5,
+        0
+      ]
+    },
+    "C34": {
+      "claim": "The parents were advised to seek reassessment if symptoms worsened.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence mentions recognizing red flags such as increased pain or discharge, but does not state that the parents were advised to seek reassessment if symptoms worsened.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        6,
+        3,
+        0,
+        8,
+        9
+      ]
+    },
+    "C35": {
+      "claim": "Pharmacy review confirmed that the amoxicillin dose was appropriate.",
+      "label": "SUPPORTED",
+      "reason": "The pharmacist review explicitly confirmed that the amoxicillin dose was appropriate for the patient's age and weight.",
+      "evidence_quote": "Dose of amoxicillin 125 mg/5 mL oral suspension confirmed appropriate for age and weight.",
+      "retrieved_note_indices": [
+        7,
+        9,
+        6,
+        5,
+        8
+      ]
+    },
+    "C36": {
+      "claim": "Pharmacy review confirmed that the 5-day amoxicillin regimen was appropriate.",
+      "label": "SUPPORTED",
+      "reason": "The pharmacist reviewed the medication chart and confirmed that the 5-day amoxicillin course was suitable.",
+      "evidence_quote": "No changes made to abx regoimen (5-day course confirmed suitable).",
+      "retrieved_note_indices": [
+        7,
+        9,
+        6,
+        8,
+        5
+      ]
+    },
+    "C37": {
+      "claim": "Her ear pain significantly improved.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly states significant improvement in pain, and the parents reported the same.",
+      "evidence_quote": "Parents report significant improvement in pain.",
+      "retrieved_note_indices": [
+        3,
+        6,
+        8,
+        0,
+        5
+      ]
+    },
+    "C38": {
+      "claim": "She remained afebrile.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents that she was afebrile, with a normal temperature of 36.8\u00b0C and no fever reported.",
+      "evidence_quote": "Afebrile.",
+      "retrieved_note_indices": [
+        6,
+        2,
+        1,
+        3,
+        9
+      ]
+    },
+    "C39": {
+      "claim": "She remained clinically well.",
+      "label": "SUPPORTED",
+      "reason": "The notes describe normal observations, no acute distress, and no systemic signs of illness or infection.",
+      "evidence_quote": "No acute distress. No systemic signs of illness noted.",
+      "retrieved_note_indices": [
+        2,
+        0,
+        6,
+        3,
+        1
+      ]
+    },
+    "C40": {
+      "claim": "She tolerated the antibiotics without adverse effects.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly states that the patient tolerated oral antibiotics without adverse effects.",
+      "evidence_quote": "Tolerated oral antibiotics and analgesia without adverse effects",
+      "retrieved_note_indices": [
+        6,
+        7,
+        9,
+        3,
+        8
+      ]
+    },
+    "C41": {
+      "claim": "She tolerated the analgesia without adverse effects.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents that oral paracetamol was administered and continued as needed, but does not state that it was tolerated or that no adverse effects occurred.",
+      "evidence_quote": "Oral paracetamol 120 mg administered in ED",
+      "retrieved_note_indices": [
+        6,
+        0,
+        3,
+        2,
+        9
+      ]
+    },
+    "C42": {
+      "claim": "Right tympanic membrane erythema decreased.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly states that right tympanic membrane erythema was reduced compared with admission.",
+      "evidence_quote": "Otoscopy of right ear shows reduced erythema ... in the TM compared to admission.",
+      "retrieved_note_indices": [
+        3,
+        8,
+        4,
+        1,
+        5
+      ]
+    },
+    "C43": {
+      "claim": "Right middle-ear effusion decreased.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly states that the right-ear effusion was reduced compared with admission.",
+      "evidence_quote": "Otoscopy of right ear shows reduced erythema and effusion in the TM compared to admission.",
+      "retrieved_note_indices": [
+        8,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "C44": {
+      "claim": "She had no distress on ward examination.",
+      "label": "SUPPORTED",
+      "reason": "The ward examination explicitly documents that she was alert and had no distress.",
+      "evidence_quote": "Alert, moderate pain, no distress.",
+      "retrieved_note_indices": [
+        0,
+        2,
+        3,
+        1,
+        5
+      ]
+    },
+    "C45": {
+      "claim": "Discharge was planned later that day.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round plan explicitly states discharge later today.",
+      "evidence_quote": "Discharge later today with 5-day course of amoxicillin",
+      "retrieved_note_indices": [
+        8,
+        9,
+        2,
+        1,
+        0
+      ]
+    },
+    "C46": {
+      "claim": "ENT follow-up was planned in 2 weeks.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly states ENT follow-up in 2 weeks.",
+      "evidence_quote": "ENT f/u in 2w",
+      "retrieved_note_indices": [
+        9,
+        6,
+        1,
+        3,
+        0
+      ]
+    },
+    "C47": {
+      "claim": "The GP was informed of the discharge plan.",
+      "label": "SUPPORTED",
+      "reason": "The note explicitly states that the patient's GP was contacted and the discharge plan was discussed, with the GP made aware for continuity of care.",
+      "evidence_quote": "Contacted pt's GP @ 09:30. Discussed d/c plan",
+      "retrieved_note_indices": [
+        9,
+        8,
+        0,
+        3,
+        1
+      ]
+    },
+    "C48": {
+      "claim": "The GP was informed of the discharge medications.",
+      "label": "SUPPORTED",
+      "reason": "The note states that the patient's GP was contacted and the discharge plan, including the amoxicillin and paracetamol medications, was discussed; it also says the GP was aware.",
+      "evidence_quote": "Contacted pt's GP @ 09:30. Discussed d/c plan: 5-day amox 125mg/5mL TDS, paracetamol 120mg/5mLL QDS PRN",
+      "retrieved_note_indices": [
+        9,
+        8,
+        7,
+        3,
+        6
+      ]
+    }
+  },
+  "Fixed + MedCPT": {
+    "C01": {
+      "claim": "Ren Suzuki is a 1-year-old girl.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly identifies Ren Suzuki as age 1 and female.",
+      "evidence_quote": "Age 1\nSex\nFemale",
+      "retrieved_note_indices": [
+        0,
+        3,
+        5,
+        6,
+        7
+      ]
+    },
+    "C02": {
+      "claim": "She has no documented past medical history.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents no past medical history.",
+      "evidence_quote": "Past Medical History\nNil",
+      "retrieved_note_indices": [
+        0,
+        3,
+        2,
+        1,
+        6
+      ]
+    },
+    "C03": {
+      "claim": "She has no documented medications.",
+      "label": "UNSUPPORTED",
+      "reason": "Medications are documented, including oral paracetamol and a 5-day course of oral amoxicillin.",
+      "evidence_quote": "5-day amox 125mg/5mL TDS, paracetamol 120mg/5mLL QDS PRN",
+      "retrieved_note_indices": [
+        0,
+        6,
+        2,
+        3,
+        9
+      ]
+    },
+    "C04": {
+      "claim": "She has no documented allergies.",
+      "label": "SUPPORTED",
+      "reason": "The records explicitly document no allergies.",
+      "evidence_quote": "No allergies or PMHx.",
+      "retrieved_note_indices": [
+        0,
+        3,
+        6,
+        2,
+        1
+      ]
+    },
+    "C05": {
+      "claim": "She presented with acute right ear pain.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents acute right ear pain, including acute onset over 24 hours and right ear pain as the presenting complaint.",
+      "evidence_quote": "Presenting Complaint: Ear pain Site: Right ear Onset: Acute onset over 24 hours",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        1,
+        0
+      ]
+    },
+    "C06": {
+      "claim": "Her parents reported irritability.",
+      "label": "UNSUPPORTED",
+      "reason": "The source documents that the mother reported irritability, but does not state that both parents reported it.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        3,
+        0,
+        6,
+        2,
+        1
+      ]
+    },
+    "C07": {
+      "claim": "Her parents reported frequent crying.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly reports frequent crying, attributed to the mother and also described by the parents.",
+      "evidence_quote": "Mother reports that the pt has been irritable and cryng frequently",
+      "retrieved_note_indices": [
+        3,
+        6,
+        0,
+        5,
+        4
+      ]
+    },
+    "C08": {
+      "claim": "Her parents reported reduced feeding.",
+      "label": "UNSUPPORTED",
+      "reason": "The source supports reduced feeding, but only the mother is documented as reporting it; it does not state that both parents reported it.",
+      "evidence_quote": "Mother reports that the pt was irritable and cryng frequently... Refused to feed normaly.",
+      "retrieved_note_indices": [
+        3,
+        6,
+        0,
+        5,
+        9
+      ]
+    },
+    "C09": {
+      "claim": "Her parents reported poor sleep.",
+      "label": "SUPPORTED",
+      "reason": "The clerking note states that the parents reported difficulty sleeping.",
+      "evidence_quote": "Parents report decreased feeding, irritability, and difficulty sleeping.",
+      "retrieved_note_indices": [
+        3,
+        6,
+        0,
+        5,
+        4
+      ]
+    },
+    "C10": {
+      "claim": "Her parents reported that she was pulling at her right ear.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the mother reported the patient was pulling at the right ear.",
+      "evidence_quote": "Pulling at the R ear noted.",
+      "retrieved_note_indices": [
+        3,
+        4,
+        0,
+        5,
+        6
+      ]
+    },
+    "C11": {
+      "claim": "She had no fever.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly reports no fever and records a temperature of 36.8\u00b0C; triage also describes the patient as afebrile.",
+      "evidence_quote": "No fever reported.",
+      "retrieved_note_indices": [
+        3,
+        0,
+        6,
+        2,
+        1
+      ]
+    },
+    "C12": {
+      "claim": "She had no vomiting.",
+      "label": "SUPPORTED",
+      "reason": "The mother explicitly denied nausea and vomiting.",
+      "evidence_quote": "Mother denies N&V or diarrhoea.",
+      "retrieved_note_indices": [
+        0,
+        2,
+        3,
+        6,
+        9
+      ]
+    },
+    "C13": {
+      "claim": "She had no diarrhoea.",
+      "label": "SUPPORTED",
+      "reason": "The history explicitly documents that the mother denied diarrhoea.",
+      "evidence_quote": "Mother denies N&V or diarrhoea.",
+      "retrieved_note_indices": [
+        0,
+        3,
+        2,
+        6,
+        9
+      ]
+    },
+    "C14": {
+      "claim": "She had no other systemic symptoms.",
+      "label": "SUPPORTED",
+      "reason": "The history and systems review explicitly report no other symptoms and no systemic symptoms.",
+      "evidence_quote": "No other symptoms reported.",
+      "retrieved_note_indices": [
+        0,
+        3,
+        1,
+        2,
+        6
+      ]
+    },
+    "C15": {
+      "claim": "Initial observations were within normal limits.",
+      "label": "SUPPORTED",
+      "reason": "The initial observation record explicitly states that heart rate, respiratory rate, and temperature were within normal limits.",
+      "evidence_quote": "Obs: HR, RR, tmp WNL.",
+      "retrieved_note_indices": [
+        2,
+        0,
+        1,
+        3,
+        6
+      ]
+    },
+    "C16": {
+      "claim": "She was afebrile.",
+      "label": "SUPPORTED",
+      "reason": "The recorded temperature was 36.8\u00b0C, and the triage note explicitly states she was afebrile.",
+      "evidence_quote": "Temp 36.8\u00b0C",
+      "retrieved_note_indices": [
+        3,
+        6,
+        1,
+        2,
+        0
+      ]
+    },
+    "C17": {
+      "claim": "She was not in acute distress.",
+      "label": "SUPPORTED",
+      "reason": "The ED nursing assessments explicitly document that the patient was in no acute distress.",
+      "evidence_quote": "No acute distress.",
+      "retrieved_note_indices": [
+        2,
+        0,
+        1,
+        3,
+        6
+      ]
+    },
+    "C18": {
+      "claim": "There was mild erythema around the right outer ear.",
+      "label": "SUPPORTED",
+      "reason": "The triage note explicitly documents mild erythema around the right outer ear.",
+      "evidence_quote": "Mild eythema around the right outer ear",
+      "retrieved_note_indices": [
+        1,
+        3,
+        4,
+        5,
+        0
+      ]
+    },
+    "C19": {
+      "claim": "There was moderate tenderness around the right outer ear.",
+      "label": "SUPPORTED",
+      "reason": "The triage and clerking notes explicitly document moderate tenderness on palpation around the right outer ear.",
+      "evidence_quote": "Mild erythema around the right outer ear noted, with moderate tenderness on palpation",
+      "retrieved_note_indices": [
+        1,
+        3,
+        4,
+        0,
+        5
+      ]
+    },
+    "C20": {
+      "claim": "Otoscopy showed a bulging right tympanic membrane.",
+      "label": "SUPPORTED",
+      "reason": "The examination findings explicitly document a bulging right tympanic membrane on otoscopy.",
+      "evidence_quote": "Right ear: Bulging TM with effusion and mild erythema seen on otoscopy",
+      "retrieved_note_indices": [
+        3,
+        4,
+        1,
+        5,
+        8
+      ]
+    },
+    "C21": {
+      "claim": "The right tympanic membrane was mildly erythematous.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents mild erythema of the right tympanic membrane.",
+      "evidence_quote": "Right ear: Bulging TM with effusion and mild erythema seen on otoscopy",
+      "retrieved_note_indices": [
+        3,
+        1,
+        4,
+        5,
+        8
+      ]
+    },
+    "C22": {
+      "claim": "The right ear had an effusion.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documented an effusion in the right ear.",
+      "evidence_quote": "Right ear: Bulging TM with effusion and mild erythema seen on otoscopy",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        8,
+        1
+      ]
+    },
+    "C23": {
+      "claim": "The left ear was normal.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents that the left ear was normal.",
+      "evidence_quote": "Left ear: Normal TM",
+      "retrieved_note_indices": [
+        3,
+        0,
+        1,
+        4,
+        5
+      ]
+    },
+    "C24": {
+      "claim": "There was no ear discharge.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documented that no ear discharge was present.",
+      "evidence_quote": "no discharge noted",
+      "retrieved_note_indices": [
+        3,
+        0,
+        1,
+        4,
+        6
+      ]
+    },
+    "C25": {
+      "claim": "There was no mastoid tenderness.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documented no tenderness over the mastoid region.",
+      "evidence_quote": "No erythema or tenderness over mastoid or pre-auricular regions",
+      "retrieved_note_indices": [
+        1,
+        3,
+        0,
+        4,
+        6
+      ]
+    },
+    "C26": {
+      "claim": "There was no mastoid swelling.",
+      "label": "SUPPORTED",
+      "reason": "The examination documented no signs of mastoiditis and no swelling of the surrounding ear structures.",
+      "evidence_quote": "No signs of mastoiditis or celulitis.",
+      "retrieved_note_indices": [
+        3,
+        1,
+        0,
+        4,
+        5
+      ]
+    },
+    "C27": {
+      "claim": "There was no pre-auricular tenderness.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documented no tenderness over the pre-auricular region.",
+      "evidence_quote": "No erythema or tendernes over mastoid or pre-auricular regions",
+      "retrieved_note_indices": [
+        1,
+        3,
+        0,
+        4,
+        6
+      ]
+    },
+    "C28": {
+      "claim": "There was no pre-auricular swelling.",
+      "label": "SUPPORTED",
+      "reason": "The examination documented no visible swelling and no erythema or tenderness over the pre-auricular region.",
+      "evidence_quote": "Surrounding structures: No erythema or tendernes over mastoid or pre-auricular regions.",
+      "retrieved_note_indices": [
+        3,
+        0,
+        1,
+        4,
+        6
+      ]
+    },
+    "C29": {
+      "claim": "There was no facial asymmetry.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents that no facial asymmetry was observed.",
+      "evidence_quote": "No facial asymmetry or weakness observed.",
+      "retrieved_note_indices": [
+        0,
+        1,
+        2,
+        3,
+        6
+      ]
+    },
+    "C30": {
+      "claim": "There was no lymphadenopathy.",
+      "label": "UNSUPPORTED",
+      "reason": "The source evidence does not document an assessment or finding regarding lymphadenopathy.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        0,
+        1,
+        2,
+        3,
+        9
+      ]
+    },
+    "C31": {
+      "claim": "There was no neurological deficit.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents no focal neurological deficits, with no facial asymmetry or weakness and no neck stiffness observed.",
+      "evidence_quote": "Neurological: No HA, neck stiffness, or focal neurological deficits.",
+      "retrieved_note_indices": [
+        2,
+        0,
+        1,
+        6,
+        3
+      ]
+    },
+    "C32": {
+      "claim": "There was no evidence of systemic infection.",
+      "label": "SUPPORTED",
+      "reason": "The notes document no systemic signs of illness or infection, with normal observations and no fever.",
+      "evidence_quote": "No signs of systemic infection.",
+      "retrieved_note_indices": [
+        1,
+        0,
+        2,
+        3,
+        9
+      ]
+    },
+    "C33": {
+      "claim": "Her heart rate was 110 bpm.",
+      "label": "SUPPORTED",
+      "reason": "The physician's examination record explicitly lists the heart rate as 110 bpm.",
+      "evidence_quote": "HR 110 bpm",
+      "retrieved_note_indices": [
+        2,
+        0,
+        3,
+        6,
+        1
+      ]
+    },
+    "C34": {
+      "claim": "Her respiratory rate was 28/min.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 3 explicitly records the respiratory rate as 28 breaths/min.",
+      "evidence_quote": "RR 28 breaths/min",
+      "retrieved_note_indices": [
+        3,
+        0,
+        2,
+        5,
+        6
+      ]
+    },
+    "C35": {
+      "claim": "Her temperature was 36.8\u00b0C.",
+      "label": "SUPPORTED",
+      "reason": "The observations explicitly record her temperature as 36.8\u00b0C.",
+      "evidence_quote": "Temp 36.8\u00c2\u00b0C",
+      "retrieved_note_indices": [
+        3,
+        0,
+        6,
+        2,
+        5
+      ]
+    },
+    "C36": {
+      "claim": "Her oxygen saturation was 99% on air.",
+      "label": "UNSUPPORTED",
+      "reason": "The source documents an SpO2 of 99% but does not state that it was measured on air.",
+      "evidence_quote": "SPO2 99%",
+      "retrieved_note_indices": [
+        2,
+        0,
+        3,
+        6,
+        1
+      ]
+    },
+    "C37": {
+      "claim": "No laboratory tests were performed.",
+      "label": "SUPPORTED",
+      "reason": "The clinical note explicitly records that no investigations or test results were documented.",
+      "evidence_quote": "Investigations\nNil\n\nTest Results\nNil",
+      "retrieved_note_indices": [
+        2,
+        0,
+        3,
+        1,
+        6
+      ]
+    },
+    "C38": {
+      "claim": "No imaging was performed.",
+      "label": "SUPPORTED",
+      "reason": "The clinical note lists investigations as nil, indicating that no imaging or other investigations were performed.",
+      "evidence_quote": "Investigations\nNil",
+      "retrieved_note_indices": [
+        2,
+        0,
+        3,
+        1,
+        6
+      ]
+    },
+    "C39": {
+      "claim": "She was assessed as having acute right otitis media with effusion.",
+      "label": "SUPPORTED",
+      "reason": "The clinical notes explicitly document acute right otitis media with effusion, including a bulging erythematous right tympanic membrane and effusion on otoscopy.",
+      "evidence_quote": "Impression: Acute otitis media of the right ear with effusion",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        8,
+        6
+      ]
+    },
+    "C40": {
+      "claim": "She was referred/admitted under paediatrics/ENT for further management.",
+      "label": "SUPPORTED",
+      "reason": "The ED note explicitly states referral to Paediatrics (ENT) for inpatient admission and further management, with handover accepted by the paediatric ward.",
+      "evidence_quote": "Referred to Paediatrics (ENT) for inpatient admission due to severity of symptoms and need for further management.",
+      "retrieved_note_indices": [
+        3,
+        5,
+        0,
+        6,
+        8
+      ]
+    },
+    "C41": {
+      "claim": "She received oral paracetamol 120 mg for pain.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that oral paracetamol 120 mg was administered for pain relief.",
+      "evidence_quote": "Oral paracetamol 120 mg administered in ED",
+      "retrieved_note_indices": [
+        3,
+        6,
+        5,
+        0,
+        4
+      ]
+    },
+    "C42": {
+      "claim": "Amoxicillin 125 mg/5 mL oral suspension three times daily for 5 days was commenced.",
+      "label": "SUPPORTED",
+      "reason": "The treatment plan states to start amoxicillin 125 mg/5 mL oral suspension TDS for 5 days, and subsequent notes confirm continuation of the 5-day course.",
+      "evidence_quote": "Start Amoxicillin 125 mg/5 mL oral suspension TDS for 5 days.",
+      "retrieved_note_indices": [
+        7,
+        9,
+        5,
+        6,
+        8
+      ]
+    },
+    "C43": {
+      "claim": "Paracetamol 120 mg four times daily as required was prescribed.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan specifies paracetamol 120 mg/5 mL QDS PRN, meaning 120 mg four times daily as required.",
+      "evidence_quote": "paracetamol 120mg/5mLL QDS PRN",
+      "retrieved_note_indices": [
+        9,
+        6,
+        3,
+        7,
+        4
+      ]
+    },
+    "C44": {
+      "claim": "Warm compresses were recommended.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round plan explicitly recommends a warm compress for symptomatic relief.",
+      "evidence_quote": "Warm compress for symptomatic relief.",
+      "retrieved_note_indices": [
+        6,
+        3,
+        1,
+        5,
+        0
+      ]
+    },
+    "C45": {
+      "claim": "Monitoring for worsening symptoms was recommended.",
+      "label": "SUPPORTED",
+      "reason": "The plan explicitly recommends monitoring symptoms and considering further intervention if there is no improvement; education also covered recognizing red flags such as increased pain or discharge.",
+      "evidence_quote": "Monitor symptoms and consider additional intervention if no improvement.",
+      "retrieved_note_indices": [
+        2,
+        6,
+        3,
+        1,
+        0
+      ]
+    },
+    "C46": {
+      "claim": "Pharmacy review confirmed that the antibiotic dose was appropriate.",
+      "label": "SUPPORTED",
+      "reason": "The pharmacist reviewed the medication chart with Dr. Rose and explicitly confirmed the amoxicillin dose was appropriate for the patient's age and weight.",
+      "evidence_quote": "Dose of amoxicillin 125 mg/5 mL oral suspension confirmed appropriate for age and weight.",
+      "retrieved_note_indices": [
+        7,
+        9,
+        6,
+        8,
+        5
+      ]
+    },
+    "C47": {
+      "claim": "Pharmacy review confirmed that the 5-day antibiotic regimen was appropriate.",
+      "label": "SUPPORTED",
+      "reason": "The pharmacist reviewed the medication chart and confirmed that the 5-day antibiotic course was suitable, with no changes made.",
+      "evidence_quote": "No changes made to abx regoimen (5-day course confirmed suitable).",
+      "retrieved_note_indices": [
+        7,
+        9,
+        6,
+        8,
+        5
+      ]
+    },
+    "C48": {
+      "claim": "Her father received education regarding medication adherence.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that education was provided to the patient's father on completing the 5-day course of oral amoxicillin as prescribed, which addresses medication adherence.",
+      "evidence_quote": "The importance of completing the 5-day course of oral amoxicillin as prescribed",
+      "retrieved_note_indices": [
+        6,
+        9,
+        7,
+        3,
+        0
+      ]
+    },
+    "C49": {
+      "claim": "Her father received education regarding ear hygiene.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that education was provided to the patient's father on maintaining proper ear hygiene.",
+      "evidence_quote": "Education provided to patient's father ... Maintaining proper ear hygiene",
+      "retrieved_note_indices": [
+        6,
+        3,
+        0,
+        1,
+        5
+      ]
+    },
+    "C50": {
+      "claim": "Her father received education regarding warm compresses.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 6 explicitly states that education was provided to the patient's father on techniques for applying warm compresses.",
+      "evidence_quote": "Education provided to patient's father on managing the patient's AOM: 1) Techniques for applying warm compresses",
+      "retrieved_note_indices": [
+        6,
+        3,
+        0,
+        1,
+        2
+      ]
+    },
+    "C51": {
+      "claim": "Her father received education regarding symptom improvement.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that education and counseling were provided to the patient's father about recognizing signs of improvement.",
+      "evidence_quote": "Education provided to patient's father ... Counseling provided on recognizing signs of improvement",
+      "retrieved_note_indices": [
+        6,
+        3,
+        0,
+        8,
+        9
+      ]
+    },
+    "C52": {
+      "claim": "Her father received education regarding warning signs.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that education was provided to the patient's father, including recognition of improvement signs and red flags.",
+      "evidence_quote": "Education provided to patient's father ... Counseling provided on recognizing signs of improvement ... versus red flags",
+      "retrieved_note_indices": [
+        6,
+        0,
+        2,
+        1,
+        3
+      ]
+    },
+    "C53": {
+      "claim": "Her ear pain significantly improved.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly states significant improvement in pain, and the parents reported the same.",
+      "evidence_quote": "Significant improvement in pain",
+      "retrieved_note_indices": [
+        3,
+        6,
+        8,
+        0,
+        5
+      ]
+    },
+    "C54": {
+      "claim": "She tolerated oral antibiotics without adverse effects.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly states that the patient tolerated oral antibiotics without adverse effects.",
+      "evidence_quote": "Tolerated oral antibiotics and analgesia without adverse effects",
+      "retrieved_note_indices": [
+        6,
+        7,
+        9,
+        3,
+        8
+      ]
+    },
+    "C55": {
+      "claim": "She tolerated analgesia without adverse effects.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents administration and continuation of paracetamol for pain relief but does not state that she tolerated it or experienced no adverse effects.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        6,
+        0,
+        3,
+        2,
+        9
+      ]
+    },
+    "C56": {
+      "claim": "She was alert.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly states that the patient was alert.",
+      "evidence_quote": "Appears irritable but alert.",
+      "retrieved_note_indices": [
+        0,
+        2,
+        3,
+        6,
+        1
+      ]
+    },
+    "C57": {
+      "claim": "She was interactive.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence states that she was alert and irritable, but does not establish that she was interactive.",
+      "evidence_quote": "Appears irritable but alert.",
+      "retrieved_note_indices": [
+        6,
+        0,
+        7,
+        3,
+        2
+      ]
+    },
+    "C58": {
+      "claim": "She was comfortable.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence describes her as having moderate pain and being irritable, not comfortable.",
+      "evidence_quote": "Alert, moderate pain, no distress.",
+      "retrieved_note_indices": [
+        6,
+        0,
+        2,
+        3,
+        5
+      ]
+    },
+    "C59": {
+      "claim": "Right tympanic membrane erythema was reduced.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly states that right tympanic membrane erythema was reduced compared with admission.",
+      "evidence_quote": "Otoscopy of right ear shows reduced erythema ... in the TM compared to admission.",
+      "retrieved_note_indices": [
+        3,
+        8,
+        4,
+        6,
+        5
+      ]
+    },
+    "C60": {
+      "claim": "Right ear effusion was reduced.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly states that the right-ear effusion was reduced compared with admission.",
+      "evidence_quote": "Otoscopy of right ear shows reduced erythema and efusion in the TM compared to admission.",
+      "retrieved_note_indices": [
+        3,
+        8,
+        5,
+        4,
+        6
+      ]
+    },
+    "C61": {
+      "claim": "She had no systemic illness.",
+      "label": "SUPPORTED",
+      "reason": "The notes state that no systemic symptoms or signs of systemic illness were present, and observations were within normal limits.",
+      "evidence_quote": "No systemic signs of illness noted.",
+      "retrieved_note_indices": [
+        0,
+        2,
+        3,
+        1,
+        6
+      ]
+    },
+    "C62": {
+      "claim": "She was not in distress.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents that the patient had no acute distress.",
+      "evidence_quote": "No acute distress.",
+      "retrieved_note_indices": [
+        2,
+        0,
+        6,
+        1,
+        9
+      ]
+    },
+    "C63": {
+      "claim": "She was planned for discharge with amoxicillin 125 mg/5 mL, 2.5 mL three times daily to complete 5 days.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly specifies amoxicillin 125 mg/5 mL oral suspension, 2.5 mL TDS, for a 5-day course.",
+      "evidence_quote": "Discharge later today with 5-day course of amoxicillin (125 mg/5 mL oral suspension, 2.5 mL TDS)",
+      "retrieved_note_indices": [
+        9,
+        7,
+        5,
+        8,
+        6
+      ]
+    },
+    "C64": {
+      "claim": "She was planned for discharge with paracetamol 120 mg/5 mL, 5 mL four times daily as needed.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round plan explicitly states discharge later with paracetamol 120 mg/5 mL, 5 mL QDS PRN for pain.",
+      "evidence_quote": "Discharge later today with ... Prescribe paracetamol (120 mg/5 mL oral suspension, 5 mL QDS PRN for pain)",
+      "retrieved_note_indices": [
+        9,
+        3,
+        8,
+        5,
+        6
+      ]
+    },
+    "C65": {
+      "claim": "Continued warm compresses were included in the discharge plan.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly recommended warm compress application for symptomatic relief.",
+      "evidence_quote": "Recommend warm compress application for symptomatic relief as demonstrated by the therapist",
+      "retrieved_note_indices": [
+        6,
+        9,
+        8,
+        3,
+        1
+      ]
+    },
+    "C66": {
+      "claim": "ENT follow-up in 2 weeks was planned.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly states ENT follow-up in 2 weeks.",
+      "evidence_quote": "Discussed d/c plan: ... ENT f/u in 2w.",
+      "retrieved_note_indices": [
+        9,
+        6,
+        1,
+        3,
+        0
+      ]
+    },
+    "C67": {
+      "claim": "The discharge plan was communicated to her GP.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the patient's GP was contacted and the discharge plan was discussed.",
+      "evidence_quote": "Contacted pt's GP @ 09:30. Discussed d/c plan",
+      "retrieved_note_indices": [
+        9,
+        3,
+        0,
+        8,
+        6
+      ]
+    }
+  },
+  "Section + Gemini": {
+    "C01": {
+      "claim": "Ren Suzuki is a 1-year-old girl.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly identifies Ren Suzuki as age 1 and female.",
+      "evidence_quote": "Age 1\nSex\nFemale",
+      "retrieved_note_indices": [
+        0,
+        3,
+        5,
+        6,
+        7
+      ]
+    },
+    "C02": {
+      "claim": "She has no past medical history.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents no past medical history.",
+      "evidence_quote": "Past Medical History\nNil",
+      "retrieved_note_indices": [
+        0,
+        3,
+        2,
+        1,
+        6
+      ]
+    },
+    "C03": {
+      "claim": "She has no known allergies.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents that the patient has no allergies.",
+      "evidence_quote": "Allergies: Nil",
+      "retrieved_note_indices": [
+        0,
+        3,
+        6,
+        2,
+        1
+      ]
+    },
+    "C04": {
+      "claim": "She presented with right ear pain.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents ear pain and right-ear findings, including right ear pulling and right-sided otitis media.",
+      "evidence_quote": "Presenting Complaint: Ear pain ... Pulling at the R ear noted.",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        1,
+        0
+      ]
+    },
+    "C05": {
+      "claim": "She was pulling at her right ear.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the patient was pulling at the right ear.",
+      "evidence_quote": "Pulling at the R ear noted.",
+      "retrieved_note_indices": [
+        3,
+        0,
+        6,
+        1,
+        4
+      ]
+    },
+    "C06": {
+      "claim": "She was afebrile.",
+      "label": "SUPPORTED",
+      "reason": "The patient was documented as afebrile, with a recorded temperature of 36.8\u00b0C.",
+      "evidence_quote": "Temp 36.8\u00c2\u00b0C",
+      "retrieved_note_indices": [
+        3,
+        6,
+        1,
+        2,
+        0
+      ]
+    },
+    "C07": {
+      "claim": "She was clinically stable.",
+      "label": "SUPPORTED",
+      "reason": "The patient was documented as having normal observations, no acute distress, and being stable.",
+      "evidence_quote": "HR, temp, SpO2 all WNL. No acute distress, stable.",
+      "retrieved_note_indices": [
+        2,
+        0,
+        3,
+        6,
+        1
+      ]
+    },
+    "C08": {
+      "claim": "She had mild erythema around the right outer ear.",
+      "label": "SUPPORTED",
+      "reason": "The triage note explicitly documents mild erythema around the right outer ear.",
+      "evidence_quote": "Mild eythema around the right outer ear",
+      "retrieved_note_indices": [
+        1,
+        3,
+        5,
+        0,
+        4
+      ]
+    },
+    "C09": {
+      "claim": "She had moderate right-ear tenderness.",
+      "label": "SUPPORTED",
+      "reason": "The triage and clerking notes explicitly document moderate tenderness of the right outer ear.",
+      "evidence_quote": "Mild erythema around the right outer ear, moderate tenderness on palpation.",
+      "retrieved_note_indices": [
+        3,
+        1,
+        5,
+        4,
+        0
+      ]
+    },
+    "C10": {
+      "claim": "She had no systemic symptoms.",
+      "label": "SUPPORTED",
+      "reason": "The history and systems review explicitly state no fever, no systemic symptoms, and no signs of systemic infection.",
+      "evidence_quote": "Constitutional: No fever, no systemic symptoms reported.",
+      "retrieved_note_indices": [
+        0,
+        3,
+        2,
+        1,
+        6
+      ]
+    },
+    "C11": {
+      "claim": "She had no hearing loss.",
+      "label": "SUPPORTED",
+      "reason": "The clinical note explicitly documents no hearing loss in the ENT systems review.",
+      "evidence_quote": "ENT: Pulling at right ear. No HL",
+      "retrieved_note_indices": [
+        0,
+        6,
+        3,
+        1,
+        2
+      ]
+    },
+    "C12": {
+      "claim": "She had no ear discharge.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documented that there was no ear discharge.",
+      "evidence_quote": "no discharge noted",
+      "retrieved_note_indices": [
+        3,
+        0,
+        6,
+        1,
+        4
+      ]
+    },
+    "C13": {
+      "claim": "She had no neurological symptoms.",
+      "label": "SUPPORTED",
+      "reason": "The neurological review documents no headache, neck stiffness, or focal neurological deficits, and no dizziness or vertigo; examination found no facial asymmetry or weakness.",
+      "evidence_quote": "Neurological: No HA, neck stiffness, or focal neurological deficits.",
+      "retrieved_note_indices": [
+        2,
+        0,
+        3,
+        6,
+        1
+      ]
+    },
+    "C14": {
+      "claim": "Her initial heart rate was 110 bpm.",
+      "label": "SUPPORTED",
+      "reason": "The ED consultant's observations explicitly record an HR of 110 bpm.",
+      "evidence_quote": "HR 110 bpm",
+      "retrieved_note_indices": [
+        2,
+        0,
+        3,
+        6,
+        1
+      ]
+    },
+    "C15": {
+      "claim": "Her initial respiratory rate was 28 breaths per minute.",
+      "label": "SUPPORTED",
+      "reason": "The ED consultant's observations explicitly record an initial respiratory rate of 28 breaths per minute.",
+      "evidence_quote": "RR 28 breaths/min",
+      "retrieved_note_indices": [
+        2,
+        3,
+        0,
+        6,
+        5
+      ]
+    },
+    "C16": {
+      "claim": "Her initial temperature was 36.8\u00b0C.",
+      "label": "SUPPORTED",
+      "reason": "The ED observations explicitly record a temperature of 36.8\u00b0C.",
+      "evidence_quote": "Temp 36.8\u00c2\u00b0C",
+      "retrieved_note_indices": [
+        3,
+        6,
+        0,
+        2,
+        5
+      ]
+    },
+    "C17": {
+      "claim": "Her initial oxygen saturation was 99% on room air.",
+      "label": "UNSUPPORTED",
+      "reason": "The source records an SpO2 of 99% but does not state that it was measured on room air.",
+      "evidence_quote": "SPO2 99%",
+      "retrieved_note_indices": [
+        2,
+        0,
+        3,
+        6,
+        1
+      ]
+    },
+    "C18": {
+      "claim": "The right tympanic membrane was bulging.",
+      "label": "SUPPORTED",
+      "reason": "Multiple examination notes explicitly document a bulging right tympanic membrane.",
+      "evidence_quote": "Right ear: Bulging TM with effusion and mild erythema seen on otoscopy",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        1,
+        8
+      ]
+    },
+    "C19": {
+      "claim": "The right tympanic membrane was erythematous.",
+      "label": "SUPPORTED",
+      "reason": "The examination findings explicitly document erythema of the right tympanic membrane.",
+      "evidence_quote": "Bulging and erythematous right tympanic membrane",
+      "retrieved_note_indices": [
+        3,
+        4,
+        1,
+        5,
+        8
+      ]
+    },
+    "C20": {
+      "claim": "The right ear had effusion.",
+      "label": "SUPPORTED",
+      "reason": "The examination findings explicitly document effusion in the right ear.",
+      "evidence_quote": "Right ear: Bulging TM with effusion and mild erythema seen on otoscopy",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        8,
+        1
+      ]
+    },
+    "C21": {
+      "claim": "The findings were consistent with acute otitis media with effusion.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents acute otitis media with effusion, with a bulging tympanic membrane and effusion on otoscopy.",
+      "evidence_quote": "Impression: Acute otitis media of the right ear with effusion",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        8,
+        6
+      ]
+    },
+    "C22": {
+      "claim": "She had moderate pain.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly documents moderate pain.",
+      "evidence_quote": "Moderate pain.",
+      "retrieved_note_indices": [
+        3,
+        0,
+        6,
+        1,
+        5
+      ]
+    },
+    "C23": {
+      "claim": "She had no signs of systemic infection.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly states no signs of systemic infection, and triage documented no systemic signs of illness with normal observations and no fever.",
+      "evidence_quote": "No signs of systemic infection.",
+      "retrieved_note_indices": [
+        3,
+        0,
+        1,
+        2,
+        6
+      ]
+    },
+    "C24": {
+      "claim": "Her blood pressure was 90/60 mmHg.",
+      "label": "UNSUPPORTED",
+      "reason": "The source explicitly states that blood pressure was not recorded.",
+      "evidence_quote": "BP Not recorded",
+      "retrieved_note_indices": [
+        3,
+        0,
+        2,
+        6,
+        7
+      ]
+    },
+    "C25": {
+      "claim": "Her respiratory rate was 24 breaths per minute at the ED assessment.",
+      "label": "UNSUPPORTED",
+      "reason": "The ED assessment records a respiratory rate of 28 breaths per minute; 24 breaths per minute is documented during a later ward round.",
+      "evidence_quote": "RR 28 breaths/min",
+      "retrieved_note_indices": [
+        2,
+        3,
+        0,
+        1,
+        5
+      ]
+    },
+    "C26": {
+      "claim": "Her oxygen saturation was 98% at the ED assessment.",
+      "label": "UNSUPPORTED",
+      "reason": "The ED assessment records an SpO2 of 99%, not 98%.",
+      "evidence_quote": "SPO2 99%",
+      "retrieved_note_indices": [
+        2,
+        3,
+        0,
+        6,
+        1
+      ]
+    },
+    "C27": {
+      "claim": "She was prescribed a 5-day course of oral amoxicillin.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents a 5-day course of oral amoxicillin.",
+      "evidence_quote": "Discharge later today with 5-day course of amoxicillin (125 mg/5 mL oral suspension, 2.5 mL TDS)",
+      "retrieved_note_indices": [
+        7,
+        6,
+        9,
+        5,
+        8
+      ]
+    },
+    "C28": {
+      "claim": "She was prescribed oral paracetamol 120 mg as needed for pain.",
+      "label": "SUPPORTED",
+      "reason": "The notes explicitly document oral paracetamol 120 mg for pain relief, including as-needed continuation.",
+      "evidence_quote": "Oral paracetamol 120 mg administered in ED and to be continued every 4-6 hours as needed for pain relief.",
+      "retrieved_note_indices": [
+        3,
+        6,
+        5,
+        9,
+        4
+      ]
+    },
+    "C29": {
+      "claim": "Her father received education about warm compresses.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 6 explicitly states that education was provided to the patient's father on techniques for applying warm compresses.",
+      "evidence_quote": "Education provided to patient's father on managing the patient's AOM: 1) Techniques for applying warm compresses",
+      "retrieved_note_indices": [
+        6,
+        3,
+        0,
+        1,
+        2
+      ]
+    },
+    "C30": {
+      "claim": "Her father received education about ear hygiene.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that education was provided to the patient's father on maintaining proper ear hygiene.",
+      "evidence_quote": "Education provided to patient's father ... Maintaining proper ear hygiene",
+      "retrieved_note_indices": [
+        6,
+        3,
+        0,
+        1,
+        5
+      ]
+    },
+    "C31": {
+      "claim": "Her father was advised to complete the antibiotics.",
+      "label": "SUPPORTED",
+      "reason": "The therapist's note explicitly states that the patient's father was educated on the importance of completing the 5-day course of oral amoxicillin.",
+      "evidence_quote": "The importance of completing the 5-day course of oral amoxicillin as prescribed",
+      "retrieved_note_indices": [
+        6,
+        9,
+        7,
+        5,
+        8
+      ]
+    },
+    "C32": {
+      "claim": "Her father received education about expected improvement.",
+      "label": "SUPPORTED",
+      "reason": "The therapist documented that education was provided to the patient's father about recognizing signs of improvement, including reduced pain and no discharge.",
+      "evidence_quote": "Counseling provided on recognizing signs of improvement (e.g., reduced pain, no discharge)",
+      "retrieved_note_indices": [
+        6,
+        3,
+        2,
+        8,
+        0
+      ]
+    },
+    "C33": {
+      "claim": "Her father was advised to seek care for increasing pain or discharge.",
+      "label": "UNSUPPORTED",
+      "reason": "The source documents counseling to recognize increased pain or discharge as red flags, but does not state that the father was advised to seek care for them.",
+      "evidence_quote": "Counseling provided on recognizing signs of improvement ... versus red flags (e.g., increased pain, discharge).",
+      "retrieved_note_indices": [
+        6,
+        1,
+        3,
+        0,
+        9
+      ]
+    },
+    "C34": {
+      "claim": "Her pain significantly improved by follow-up.",
+      "label": "SUPPORTED",
+      "reason": "The follow-up ward-round note explicitly documents significant improvement in pain, confirmed by the parents.",
+      "evidence_quote": "Parents report significant improvement in pain.",
+      "retrieved_note_indices": [
+        6,
+        8,
+        3,
+        0,
+        5
+      ]
+    },
+    "C35": {
+      "claim": "She tolerated the oral antibiotics without adverse effects.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly states that the patient tolerated oral antibiotics without adverse effects.",
+      "evidence_quote": "Tolerated oral antibiotics and analgesia without adverse effects",
+      "retrieved_note_indices": [
+        6,
+        7,
+        9,
+        3,
+        8
+      ]
+    },
+    "C36": {
+      "claim": "She tolerated the analgesia without adverse effects.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents that paracetamol was administered and continued as needed, but does not state that it was tolerated or that no adverse effects occurred.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        6,
+        0,
+        3,
+        2,
+        9
+      ]
+    },
+    "C37": {
+      "claim": "She had no systemic infection at follow-up.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents that there were no signs of systemic infection.",
+      "evidence_quote": "No signs of systemic infection.",
+      "retrieved_note_indices": [
+        6,
+        0,
+        3,
+        1,
+        9
+      ]
+    },
+    "C38": {
+      "claim": "She had no distress at follow-up.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents that she was in no acute distress.",
+      "evidence_quote": "No acute distress.",
+      "retrieved_note_indices": [
+        0,
+        6,
+        2,
+        9,
+        1
+      ]
+    },
+    "C39": {
+      "claim": "She was alert at follow-up.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents that the patient appeared alert.",
+      "evidence_quote": "Appears irritable but alert.",
+      "retrieved_note_indices": [
+        6,
+        2,
+        0,
+        3,
+        1
+      ]
+    },
+    "C40": {
+      "claim": "She was interactive at follow-up.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents that she was irritable but alert during the initial examination, but does not state that she was interactive at follow-up.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        6,
+        9,
+        0,
+        3,
+        7
+      ]
+    },
+    "C41": {
+      "claim": "She was comfortable at follow-up.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents no acute distress and stable observations, but does not state that she was comfortable at follow-up.",
+      "evidence_quote": "No acute distress",
+      "retrieved_note_indices": [
+        6,
+        0,
+        9,
+        3,
+        2
+      ]
+    },
+    "C42": {
+      "claim": "Right-ear otoscopy showed reduced tympanic membrane erythema.",
+      "label": "SUPPORTED",
+      "reason": "Ward-round otoscopy explicitly documented reduced erythema of the right tympanic membrane compared with admission.",
+      "evidence_quote": "Otoscopy of right ear shows reduced erythema ... in the TM compared to admission.",
+      "retrieved_note_indices": [
+        1,
+        3,
+        4,
+        8,
+        6
+      ]
+    },
+    "C43": {
+      "claim": "Right-ear otoscopy showed reduced effusion.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly states that right-ear otoscopy showed reduced effusion compared with admission.",
+      "evidence_quote": "Otoscopy of right ear shows reduced erythema and efusion in the TM compared to admission.",
+      "retrieved_note_indices": [
+        3,
+        4,
+        8,
+        5,
+        1
+      ]
+    },
+    "C44": {
+      "claim": "The left ear was normal.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly describes the left tympanic membrane as normal.",
+      "evidence_quote": "Left ear: Normal TM",
+      "retrieved_note_indices": [
+        3,
+        0,
+        1,
+        4,
+        5
+      ]
+    },
+    "C45": {
+      "claim": "No new imaging was reported.",
+      "label": "SUPPORTED",
+      "reason": "The provided source notes contain no report of any new imaging.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        2,
+        0,
+        6,
+        1,
+        9
+      ]
+    },
+    "C46": {
+      "claim": "No specialist investigations were reported.",
+      "label": "SUPPORTED",
+      "reason": "The clinical note explicitly records that no investigations or test results were performed/reported.",
+      "evidence_quote": "Investigations\nNil\n\nTest Results\nNil",
+      "retrieved_note_indices": [
+        2,
+        0,
+        3,
+        1,
+        7
+      ]
+    },
+    "C47": {
+      "claim": "No blood results were reported.",
+      "label": "SUPPORTED",
+      "reason": "The clinical note reports no investigations or test results, which supports that no blood results were reported.",
+      "evidence_quote": "Investigations\nNil\n\nTest Results\nNil",
+      "retrieved_note_indices": [
+        2,
+        0,
+        1,
+        3,
+        9
+      ]
+    },
+    "C48": {
+      "claim": "No urine results were reported.",
+      "label": "SUPPORTED",
+      "reason": "The clinical note reports no investigations or test results, establishing that no urine results were reported.",
+      "evidence_quote": "Investigations: Nil\n\nTest Results: Nil",
+      "retrieved_note_indices": [
+        2,
+        0,
+        1,
+        9,
+        3
+      ]
+    }
+  },
+  "Section + BGE": {
+    "C01": {
+      "claim": "Ren Suzuki is a 1-year-old girl.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly identifies Ren Suzuki as age 1 and female.",
+      "evidence_quote": "Age 1\nSex\nFemale",
+      "retrieved_note_indices": [
+        0,
+        3,
+        5,
+        6,
+        7
+      ]
+    },
+    "C02": {
+      "claim": "She has no past medical history.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents no past medical history.",
+      "evidence_quote": "Past Medical History\nNil",
+      "retrieved_note_indices": [
+        0,
+        3,
+        2,
+        1,
+        6
+      ]
+    },
+    "C03": {
+      "claim": "She has no known allergies.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents that the patient has no allergies.",
+      "evidence_quote": "Allergies: Nil",
+      "retrieved_note_indices": [
+        0,
+        3,
+        6,
+        2,
+        1
+      ]
+    },
+    "C04": {
+      "claim": "She presented with right ear pain.",
+      "label": "SUPPORTED",
+      "reason": "The sources explicitly document right ear pain, including the presenting complaint and right ear pulling/tenderness.",
+      "evidence_quote": "Presenting Complaint: Ear pain Site: Right ear",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        1,
+        0
+      ]
+    },
+    "C05": {
+      "claim": "She was irritable and cried frequently.",
+      "label": "SUPPORTED",
+      "reason": "The history explicitly states that the patient was irritable and crying frequently.",
+      "evidence_quote": "pt has been irritable and cryng frequently",
+      "retrieved_note_indices": [
+        3,
+        0,
+        6,
+        1,
+        5
+      ]
+    },
+    "C06": {
+      "claim": "She had reduced feeding.",
+      "label": "SUPPORTED",
+      "reason": "The history of presenting complaint states that the patient 'Refused to feed normaly,' supporting reduced feeding.",
+      "evidence_quote": "Refused to feed normaly.",
+      "retrieved_note_indices": [
+        6,
+        3,
+        0,
+        9,
+        2
+      ]
+    },
+    "C07": {
+      "claim": "She was pulling at her right ear.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly reports that the patient was pulling at the right ear.",
+      "evidence_quote": "Pulling at the R ear noted.",
+      "retrieved_note_indices": [
+        3,
+        0,
+        6,
+        1,
+        4
+      ]
+    },
+    "C08": {
+      "claim": "She was afebrile.",
+      "label": "SUPPORTED",
+      "reason": "The examination records a temperature of 36.8\u00b0C, and the triage note explicitly states the patient was afebrile.",
+      "evidence_quote": "Afebrile.",
+      "retrieved_note_indices": [
+        3,
+        6,
+        1,
+        2,
+        0
+      ]
+    },
+    "C09": {
+      "claim": "She was clinically stable with normal observations.",
+      "label": "SUPPORTED",
+      "reason": "The notes document normal observations (HR, temperature, and SpO2 within normal limits; RR also WNL elsewhere) and describe the patient as stable with no acute distress.",
+      "evidence_quote": "HR, temp, SpO2 all WNL. No acute distress, stable.",
+      "retrieved_note_indices": [
+        2,
+        0,
+        3,
+        1,
+        6
+      ]
+    },
+    "C10": {
+      "claim": "She had no systemic symptoms.",
+      "label": "SUPPORTED",
+      "reason": "The clinical note explicitly states that no systemic symptoms were reported and no signs of systemic infection were present.",
+      "evidence_quote": "Constitutional: No fever, no systemic symptoms reported.",
+      "retrieved_note_indices": [
+        0,
+        3,
+        2,
+        1,
+        6
+      ]
+    },
+    "C11": {
+      "claim": "She had no neurological symptoms.",
+      "label": "SUPPORTED",
+      "reason": "The neurological review explicitly documents no headache, neck stiffness, or focal neurological deficits, and no dizziness or vertigo.",
+      "evidence_quote": "Neurological: No HA, neck stiffness, or focal neurological deficits.",
+      "retrieved_note_indices": [
+        2,
+        0,
+        3,
+        6,
+        1
+      ]
+    },
+    "C12": {
+      "claim": "Examination showed mild erythema around the right outer ear.",
+      "label": "SUPPORTED",
+      "reason": "The triage examination explicitly documented mild erythema around the right outer ear.",
+      "evidence_quote": "Mild erythema around the right outer ear",
+      "retrieved_note_indices": [
+        1,
+        3,
+        4,
+        5,
+        0
+      ]
+    },
+    "C13": {
+      "claim": "Examination showed moderate tenderness.",
+      "label": "SUPPORTED",
+      "reason": "The triage examination explicitly documented moderate tenderness on palpation of the right outer ear.",
+      "evidence_quote": "moderate tenderness on palpation",
+      "retrieved_note_indices": [
+        1,
+        3,
+        2,
+        0,
+        5
+      ]
+    },
+    "C14": {
+      "claim": "No hearing loss was reported.",
+      "label": "SUPPORTED",
+      "reason": "The systems review explicitly states that no hearing loss was reported.",
+      "evidence_quote": "No HL",
+      "retrieved_note_indices": [
+        0,
+        6,
+        3,
+        2,
+        9
+      ]
+    },
+    "C15": {
+      "claim": "No ear discharge was reported.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly reports no foul-smelling ear discharge and notes no discharge on right-ear examination.",
+      "evidence_quote": "Right ear: Bulging TM with effusion and mild erythema seen on otoscopy, no discharge noted",
+      "retrieved_note_indices": [
+        3,
+        0,
+        1,
+        4,
+        6
+      ]
+    },
+    "C16": {
+      "claim": "She was diagnosed with acute otitis media with effusion.",
+      "label": "SUPPORTED",
+      "reason": "The diagnosis is explicitly documented in the clinical impressions and ward-round assessment.",
+      "evidence_quote": "Impression: Acuteotitis media with effusion",
+      "retrieved_note_indices": [
+        3,
+        5,
+        4,
+        8,
+        6
+      ]
+    },
+    "C17": {
+      "claim": "She was referred to paediatrics/ENT.",
+      "label": "SUPPORTED",
+      "reason": "The ED note explicitly states that the patient was referred to Paediatrics (ENT) for inpatient admission.",
+      "evidence_quote": "Referred to Paediatrics (ENT) for inpatient admission",
+      "retrieved_note_indices": [
+        3,
+        5,
+        0,
+        6,
+        8
+      ]
+    },
+    "C18": {
+      "claim": "She was admitted to the paediatric ward for further management.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that she was referred for inpatient admission and handed over to the paediatric ward for further management.",
+      "evidence_quote": "Referred to Paediatrics (ENT) for inpatient admission due to severity of symptoms and need for further management. Handver to paediatric ward (A04).",
+      "retrieved_note_indices": [
+        3,
+        5,
+        8,
+        0,
+        6
+      ]
+    },
+    "C19": {
+      "claim": "Oral amoxicillin 125 mg/5 mL three times daily for 5 days was prescribed.",
+      "label": "SUPPORTED",
+      "reason": "The treatment plan explicitly prescribes oral amoxicillin 125 mg/5 mL three times daily for 5 days.",
+      "evidence_quote": "Start Amoxicillin 125 mg/5 mL oral suspension TDS for 5 days.",
+      "retrieved_note_indices": [
+        7,
+        9,
+        5,
+        6,
+        4
+      ]
+    },
+    "C20": {
+      "claim": "Paracetamol 120 mg/5 mL four times daily or as required was prescribed for pain.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly documents paracetamol 120 mg/5 mL QDS PRN, and the ward plan specifies paracetamol 120 mg oral suspension QID for pain.",
+      "evidence_quote": "paracetamol 120mg/5mLL QDS PRN",
+      "retrieved_note_indices": [
+        3,
+        9,
+        6,
+        7,
+        5
+      ]
+    },
+    "C21": {
+      "claim": "Warm compresses were advised.",
+      "label": "SUPPORTED",
+      "reason": "Source Note 6 explicitly states that education was provided on applying warm compresses to alleviate ear pain.",
+      "evidence_quote": "Techniques for applying warm compresses to alleviate ear pain.",
+      "retrieved_note_indices": [
+        6,
+        3,
+        1,
+        2,
+        9
+      ]
+    },
+    "C22": {
+      "claim": "Ear hygiene was advised.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that education was provided on maintaining proper ear hygiene.",
+      "evidence_quote": "Maintaining proper ear hygiene to prevent further irritation or iinfection.",
+      "retrieved_note_indices": [
+        6,
+        1,
+        3,
+        0,
+        4
+      ]
+    },
+    "C23": {
+      "claim": "Her father was educated about medication adherence.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that education was provided to the patient's father, including the importance of completing the prescribed 5-day course of oral amoxicillin.",
+      "evidence_quote": "Education provided to patient's father ... The importance of completing the 5-day course of oral amoxicillin as prescribed",
+      "retrieved_note_indices": [
+        6,
+        9,
+        7,
+        3,
+        0
+      ]
+    },
+    "C24": {
+      "claim": "Her father was educated about symptom monitoring.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that education was provided to the patient's father, including recognizing signs of improvement and red flags.",
+      "evidence_quote": "Education provided to patient's father ... Counseling provided on recognizing signs of improvement ... versus red flags",
+      "retrieved_note_indices": [
+        6,
+        0,
+        3,
+        2,
+        1
+      ]
+    },
+    "C25": {
+      "claim": "Her father was educated about red flags requiring medical review.",
+      "label": "SUPPORTED",
+      "reason": "The source states that the patient's father received counseling on recognizing red flags, including increased pain and discharge.",
+      "evidence_quote": "Counseling provided on recognizing signs of improvement ... versus red flags (e.g., increased pain, discharge).",
+      "retrieved_note_indices": [
+        6,
+        3,
+        0,
+        1,
+        9
+      ]
+    },
+    "C26": {
+      "claim": "No new imaging was documented.",
+      "label": "SUPPORTED",
+      "reason": "The clinical note lists both investigations and test results as 'Nil,' with no imaging documented.",
+      "evidence_quote": "Investigations\nNil\n\nTest Results\nNil",
+      "retrieved_note_indices": [
+        2,
+        0,
+        1,
+        3,
+        6
+      ]
+    },
+    "C27": {
+      "claim": "No laboratory tests were documented.",
+      "label": "SUPPORTED",
+      "reason": "The clinical note documents no investigations or test results.",
+      "evidence_quote": "Investigations\nNil\n\nTest Results\nNil",
+      "retrieved_note_indices": [
+        2,
+        0,
+        3,
+        1,
+        6
+      ]
+    },
+    "C28": {
+      "claim": "No pending results were documented.",
+      "label": "UNSUPPORTED",
+      "reason": "The notes document \"Investigations: Nil\" and \"Test Results: Nil,\" but do not establish that no results were pending.",
+      "evidence_quote": "Investigations\nNil\n\nTest Results\nNil",
+      "retrieved_note_indices": [
+        2,
+        0,
+        1,
+        3,
+        6
+      ]
+    },
+    "C29": {
+      "claim": "She was planned for discharge after completing the 5-day amoxicillin course.",
+      "label": "SUPPORTED",
+      "reason": "The plan documents discharge and a 5-day course of amoxicillin, with instructions to complete the full course.",
+      "evidence_quote": "Discharge later today with 5-day course of amoxicillin",
+      "retrieved_note_indices": [
+        9,
+        8,
+        7,
+        6,
+        5
+      ]
+    },
+    "C30": {
+      "claim": "Paracetamol as required was included in the discharge plan.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly prescribed paracetamol as needed for pain.",
+      "evidence_quote": "Prescribe paracetamol (120 mg/5 mL oral suspension, 5 mL QDS PRN for pain)",
+      "retrieved_note_indices": [
+        9,
+        8,
+        3,
+        6,
+        5
+      ]
+    },
+    "C31": {
+      "claim": "Warm compresses were included in the discharge plan.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly recommended warm compresses for symptomatic relief.",
+      "evidence_quote": "Discharge later today... Recomend warm cokpress application for symptomatic relief",
+      "retrieved_note_indices": [
+        6,
+        9,
+        3,
+        8,
+        1
+      ]
+    },
+    "C32": {
+      "claim": "ENT follow-up in 2 weeks was planned.",
+      "label": "SUPPORTED",
+      "reason": "The discharge plan explicitly included ENT follow-up in 2 weeks.",
+      "evidence_quote": "ENT f/u in 2w",
+      "retrieved_note_indices": [
+        9,
+        6,
+        1,
+        3,
+        0
+      ]
+    },
+    "C33": {
+      "claim": "The discharge plan was communicated to her GP.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly states that the patient's GP was contacted and the discharge plan was discussed.",
+      "evidence_quote": "Contacted pt's GP @ 09:30. Discussed d/c plan",
+      "retrieved_note_indices": [
+        9,
+        3,
+        0,
+        8,
+        6
+      ]
+    },
+    "C34": {
+      "claim": "No treatment changes were made.",
+      "label": "SUPPORTED",
+      "reason": "The sources explicitly state that no changes were made to the current treatment plan and antibiotic regimen.",
+      "evidence_quote": "No changes to the current treatment plan were made.",
+      "retrieved_note_indices": [
+        2,
+        6,
+        9,
+        0,
+        7
+      ]
+    }
+  },
+  "Section + MedCPT": {
+    "C01": {
+      "claim": "Ren Suzuki is a 1-year-old girl.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly identifies Ren Suzuki as age 1 and female.",
+      "evidence_quote": "Age 1; Sex Female",
+      "retrieved_note_indices": [
+        0,
+        3,
+        5,
+        6,
+        7
+      ]
+    },
+    "C02": {
+      "claim": "She has no past medical history.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents no past medical history, stating both \"No allergies or PMHx\" and \"Past Medical History: Nil.\"",
+      "evidence_quote": "Past Medical History\nNil",
+      "retrieved_note_indices": [
+        0,
+        3,
+        2,
+        1,
+        6
+      ]
+    },
+    "C03": {
+      "claim": "She takes no regular medications.",
+      "label": "SUPPORTED",
+      "reason": "The clinical note explicitly lists the patient's medications as nil.",
+      "evidence_quote": "Medications\nNil",
+      "retrieved_note_indices": [
+        6,
+        2,
+        0,
+        7,
+        3
+      ]
+    },
+    "C04": {
+      "claim": "She was assessed for ear pain.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents ear pain as the presenting complaint and states the patient was assessed for it.",
+      "evidence_quote": "CC: Ear pain. ... Assessed by Nurse Jason Leslie Thorpe.",
+      "retrieved_note_indices": [
+        0,
+        3,
+        1,
+        4,
+        5
+      ]
+    },
+    "C05": {
+      "claim": "Otoscopy showed a bulging right tympanic membrane.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents a bulging right tympanic membrane on otoscopy.",
+      "evidence_quote": "Right ear: Bulging TM with effusion and mild erythema seen on otoscopy",
+      "retrieved_note_indices": [
+        3,
+        4,
+        1,
+        5,
+        8
+      ]
+    },
+    "C06": {
+      "claim": "The right tympanic membrane was erythematous.",
+      "label": "SUPPORTED",
+      "reason": "The source explicitly documents mild erythema of the right tympanic membrane on otoscopy.",
+      "evidence_quote": "Right ear: Bulging TM with effusion and mild erythema seen on otoscopy",
+      "retrieved_note_indices": [
+        3,
+        4,
+        1,
+        5,
+        8
+      ]
+    },
+    "C07": {
+      "claim": "Right middle-ear effusion was present.",
+      "label": "SUPPORTED",
+      "reason": "Multiple examinations explicitly document effusion in the right tympanic membrane/middle ear.",
+      "evidence_quote": "Right ear: Bulging TM with effusion and mild erythema seen on otoscopy",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        8,
+        1
+      ]
+    },
+    "C08": {
+      "claim": "The findings were consistent with acute otitis media with effusion.",
+      "label": "SUPPORTED",
+      "reason": "The examination documented a bulging tympanic membrane with effusion and erythema, and the impression explicitly identified acute otitis media with effusion.",
+      "evidence_quote": "Impression: Acuteotitis media with effusion",
+      "retrieved_note_indices": [
+        3,
+        4,
+        5,
+        8,
+        6
+      ]
+    },
+    "C09": {
+      "claim": "She had moderate ear pain.",
+      "label": "SUPPORTED",
+      "reason": "The ward-round note explicitly documents moderate ear pain, and the examination also records the patient as being in moderate pain.",
+      "evidence_quote": "Moderate pain.",
+      "retrieved_note_indices": [
+        3,
+        5,
+        1,
+        4,
+        0
+      ]
+    },
+    "C10": {
+      "claim": "She was afebrile.",
+      "label": "SUPPORTED",
+      "reason": "The examination records a temperature of 36.8\u00b0C, and triage explicitly describes the patient as afebrile.",
+      "evidence_quote": "Temp 36.8\u00c2\u00b0C",
+      "retrieved_note_indices": [
+        3,
+        6,
+        1,
+        2,
+        0
+      ]
+    },
+    "C11": {
+      "claim": "She had no signs of systemic infection.",
+      "label": "SUPPORTED",
+      "reason": "The examination explicitly documents no signs of systemic infection, and triage also notes no systemic signs of illness.",
+      "evidence_quote": "No signs of systemic infection.",
+      "retrieved_note_indices": [
+        3,
+        0,
+        1,
+        2,
+        6
+      ]
+    },
+    "C12": {
+      "claim": "She had no new symptoms.",
+      "label": "SUPPORTED",
+      "reason": "The source records that no other symptoms were reported and the systems review was otherwise unremarkable.",
+      "evidence_quote": "No other symptoms reported.",
+      "retrieved_note_indices": [
+        2,
+        0,
+        6,
+        3,
+        1
+      ]
+    },
+    "C13": {
+      "claim": "Her heart rate was 110 bpm.",
+      "label": "SUPPORTED",
+      "reason": "The physician's observations explicitly document a heart rate of 110 bpm.",
+      "evidence_quote": "HR 110 bpm",
+      "retrieved_note_indices": [
+        2,
+        0,
+        3,
+        6,
+        1
+      ]
+    },
+    "C14": {
+      "claim": "Her respiratory rate was 24\u201328/min.",
+      "label": "SUPPORTED",
+      "reason": "The respiratory rate was documented as 28 breaths/min in the ED and 24 on ward review.",
+      "evidence_quote": "RR 28 breaths/min; ... RR 24",
+      "retrieved_note_indices": [
+        3,
+        2,
+        0,
+        5,
+        6
+      ]
+    },
+    "C15": {
+      "claim": "Her temperature was 36.8\u00b0C.",
+      "label": "SUPPORTED",
+      "reason": "The observations explicitly record her temperature as 36.8\u00b0C.",
+      "evidence_quote": "Temp 36.8\u00c2\u00b0C",
+      "retrieved_note_indices": [
+        3,
+        0,
+        6,
+        2,
+        5
+      ]
+    },
+    "C16": {
+      "claim": "Her oxygen saturation was 98\u201399% on room air.",
+      "label": "UNSUPPORTED",
+      "reason": "The sources document SpO2 values of 99% and 98%, but do not state that these measurements were obtained on room air.",
+      "evidence_quote": "SPO2 99% ... SpO2 98%",
+      "retrieved_note_indices": [
+        2,
+        0,
+        3,
+        6,
+        5
+      ]
+    },
+    "C17": {
+      "claim": "Her blood pressure was 90/60 at review.",
+      "label": "UNSUPPORTED",
+      "reason": "The source explicitly states that blood pressure was not recorded, and no value of 90/60 is documented.",
+      "evidence_quote": "BP Not recorded",
+      "retrieved_note_indices": [
+        2,
+        0,
+        3,
+        7,
+        6
+      ]
+    },
+    "C18": {
+      "claim": "She was prescribed oral amoxicillin 125 mg three times daily for 5 days.",
+      "label": "SUPPORTED",
+      "reason": "The notes document oral amoxicillin 125 mg three times daily (TDS) for a 5-day course.",
+      "evidence_quote": "Start oral amoxicillin 125 mg TDS for 5 days",
+      "retrieved_note_indices": [
+        7,
+        9,
+        6,
+        5,
+        4
+      ]
+    },
+    "C19": {
+      "claim": "She was prescribed oral paracetamol 120 mg four times daily for pain relief.",
+      "label": "SUPPORTED",
+      "reason": "The plan explicitly prescribes oral paracetamol 120 mg QID for pain relief.",
+      "evidence_quote": "Start Paracetamol 120 mg oral suspension QID for pain.",
+      "retrieved_note_indices": [
+        6,
+        3,
+        9,
+        5,
+        4
+      ]
+    },
+    "C20": {
+      "claim": "Her parents were advised to monitor for fever.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents that the patient was afebrile and that parents were advised about pain, discharge, medication, and follow-up, but does not state that they were advised to monitor for fever.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        6,
+        3,
+        8,
+        5,
+        9
+      ]
+    },
+    "C21": {
+      "claim": "Her parents were advised to monitor for vomiting.",
+      "label": "UNSUPPORTED",
+      "reason": "The source documents do not state that the parents were advised to monitor for vomiting; vomiting is only mentioned as denied in the history.",
+      "evidence_quote": "Mother denies N&V or diarrhoea.",
+      "retrieved_note_indices": [
+        3,
+        6,
+        9,
+        0,
+        5
+      ]
+    },
+    "C22": {
+      "claim": "Her parents were advised to monitor for lethargy.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence advises monitoring for signs of improvement and red flags such as increased pain or discharge, but does not mention monitoring for lethargy.",
+      "evidence_quote": "Counseling provided on recognizing signs of improvement (e.g., reduced pain, no discharge) versus red flags (e.g., increased pain, discharge).",
+      "retrieved_note_indices": [
+        6,
+        3,
+        9,
+        0,
+        2
+      ]
+    },
+    "C23": {
+      "claim": "Her parents were advised to monitor for worsening symptoms.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence documents advice given to the patient's father, not both parents; although red flags and symptom monitoring were discussed, it does not establish that her parents were advised.",
+      "evidence_quote": "Education provided to patient's father ... recognizing signs of improvement ... versus red flags (e.g., increased pain, discharge).",
+      "retrieved_note_indices": [
+        3,
+        6,
+        0,
+        2,
+        5
+      ]
+    },
+    "C24": {
+      "claim": "Reassessment was advised after 48 hours if there was no improvement.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence advises monitoring and considering further intervention if there is no improvement, but does not specify reassessment after 48 hours.",
+      "evidence_quote": "Monitor symptoms and consider additional intervention if no improvement.",
+      "retrieved_note_indices": [
+        6,
+        3,
+        1,
+        2,
+        0
+      ]
+    },
+    "C25": {
+      "claim": "Earlier reassessment was advised if she deteriorated.",
+      "label": "UNSUPPORTED",
+      "reason": "The evidence discusses monitoring symptoms and recognizing red flags, but does not state that earlier reassessment was advised if the patient deteriorated.",
+      "evidence_quote": null,
+      "retrieved_note_indices": [
+        6,
+        2,
+        0,
+        3,
+        1
+      ]
+    },
+    "C26": {
+      "claim": "No new imaging was documented.",
+      "label": "SUPPORTED",
+      "reason": "The clinical note lists both investigations and test results as nil, with no imaging documented.",
+      "evidence_quote": "Investigations: Nil",
+      "retrieved_note_indices": [
+        2,
+        0,
+        1,
+        3,
+        6
+      ]
+    },
+    "C27": {
+      "claim": "No specialised investigations were documented.",
+      "label": "SUPPORTED",
+      "reason": "The consultant's note explicitly records no investigations and no test results.",
+      "evidence_quote": "Investigations\nNil\n\nTest Results\nNil",
+      "retrieved_note_indices": [
+        2,
+        0,
+        3,
+        1,
+        6
+      ]
+    },
+    "C28": {
+      "claim": "No blood results were documented.",
+      "label": "SUPPORTED",
+      "reason": "The clinical note documents no investigations or test results, supporting that no blood results were documented.",
+      "evidence_quote": "Investigations: Nil; Test Results: Nil",
+      "retrieved_note_indices": [
+        2,
+        0,
+        1,
+        3,
+        9
+      ]
+    },
+    "C29": {
+      "claim": "No urine results were documented.",
+      "label": "SUPPORTED",
+      "reason": "The clinical note documents no investigations or test results, with no urine results listed.",
+      "evidence_quote": "Investigations\nNil\n\nTest Results\nNil",
+      "retrieved_note_indices": [
+        2,
+        0,
+        1,
+        3,
+        9
+      ]
+    },
+    "C30": {
+      "claim": "No pending results were documented.",
+      "label": "SUPPORTED",
+      "reason": "The clinical note documents no investigations and no test results, supporting that no pending results were documented.",
+      "evidence_quote": "Investigations: Nil\nTest Results: Nil",
+      "retrieved_note_indices": [
+        2,
+        0,
+        1,
+        3,
+        6
+      ]
+    }
+  }
+}

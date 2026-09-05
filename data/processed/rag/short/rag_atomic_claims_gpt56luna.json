@@ -1,0 +1,1708 @@
+{
+  "Whole + Gemini": [
+    {
+      "claim_id": "C01",
+      "claim": "Ren Suzuki is a 1-year-old girl."
+    },
+    {
+      "claim_id": "C02",
+      "claim": "She has no documented past medical history."
+    },
+    {
+      "claim_id": "C03",
+      "claim": "She has no documented medications."
+    },
+    {
+      "claim_id": "C04",
+      "claim": "She has no documented allergies."
+    },
+    {
+      "claim_id": "C05",
+      "claim": "She presented with approximately 24 hours of right ear pain."
+    },
+    {
+      "claim_id": "C06",
+      "claim": "She was irritable."
+    },
+    {
+      "claim_id": "C07",
+      "claim": "She was crying frequently."
+    },
+    {
+      "claim_id": "C08",
+      "claim": "She had reduced feeding."
+    },
+    {
+      "claim_id": "C09",
+      "claim": "She had difficulty sleeping."
+    },
+    {
+      "claim_id": "C10",
+      "claim": "She was pulling at her right ear."
+    },
+    {
+      "claim_id": "C11",
+      "claim": "She was afebrile."
+    },
+    {
+      "claim_id": "C12",
+      "claim": "She was clinically stable."
+    },
+    {
+      "claim_id": "C13",
+      "claim": "She had mild right outer-ear erythema."
+    },
+    {
+      "claim_id": "C14",
+      "claim": "She had mild right outer-ear tenderness."
+    },
+    {
+      "claim_id": "C15",
+      "claim": "Otoscopy showed a bulging, mildly erythematous right tympanic membrane."
+    },
+    {
+      "claim_id": "C16",
+      "claim": "Otoscopy showed right middle-ear effusion."
+    },
+    {
+      "claim_id": "C17",
+      "claim": "The left ear was normal."
+    },
+    {
+      "claim_id": "C18",
+      "claim": "There was no otorrhoea."
+    },
+    {
+      "claim_id": "C19",
+      "claim": "There was no mastoiditis."
+    },
+    {
+      "claim_id": "C20",
+      "claim": "There was no cellulitis."
+    },
+    {
+      "claim_id": "C21",
+      "claim": "There was no neurological deficit."
+    },
+    {
+      "claim_id": "C22",
+      "claim": "There was no systemic infection."
+    },
+    {
+      "claim_id": "C23",
+      "claim": "She was diagnosed with acute right otitis media with effusion."
+    },
+    {
+      "claim_id": "C24",
+      "claim": "She was admitted under Paediatrics/ENT for management."
+    },
+    {
+      "claim_id": "C25",
+      "claim": "Oral paracetamol 120 mg was administered for pain."
+    },
+    {
+      "claim_id": "C26",
+      "claim": "Oral amoxicillin was commenced at 125 mg/5 mL three times daily for 5 days."
+    },
+    {
+      "claim_id": "C27",
+      "claim": "Paracetamol was continued four times daily or as needed."
+    },
+    {
+      "claim_id": "C28",
+      "claim": "Warm compresses were advised."
+    },
+    {
+      "claim_id": "C29",
+      "claim": "Parents received education regarding ear care."
+    },
+    {
+      "claim_id": "C30",
+      "claim": "Parents received education regarding medication administration."
+    },
+    {
+      "claim_id": "C31",
+      "claim": "Parents were advised to complete the antibiotic course."
+    },
+    {
+      "claim_id": "C32",
+      "claim": "Parents received education regarding expected improvement."
+    },
+    {
+      "claim_id": "C33",
+      "claim": "Parents received education regarding red-flag symptoms."
+    },
+    {
+      "claim_id": "C34",
+      "claim": "Pharmacy review confirmed that the amoxicillin regimen was appropriate."
+    },
+    {
+      "claim_id": "C35",
+      "claim": "No medication changes were made after pharmacy review."
+    },
+    {
+      "claim_id": "C36",
+      "claim": "On review the following morning, her pain had significantly improved."
+    },
+    {
+      "claim_id": "C37",
+      "claim": "She was alert and comfortable on review."
+    },
+    {
+      "claim_id": "C38",
+      "claim": "She tolerated oral antibiotics without adverse effects."
+    },
+    {
+      "claim_id": "C39",
+      "claim": "She tolerated oral analgesia without adverse effects."
+    },
+    {
+      "claim_id": "C40",
+      "claim": "Right tympanic membrane erythema had decreased."
+    },
+    {
+      "claim_id": "C41",
+      "claim": "Right ear effusion had decreased."
+    },
+    {
+      "claim_id": "C42",
+      "claim": "There was no systemic infection on review."
+    },
+    {
+      "claim_id": "C43",
+      "claim": "There was no distress on review."
+    },
+    {
+      "claim_id": "C44",
+      "claim": "She was planned for discharge later that day."
+    },
+    {
+      "claim_id": "C45",
+      "claim": "She was prescribed amoxicillin 125 mg/5 mL, 2.5 mL three times daily for 5 days."
+    },
+    {
+      "claim_id": "C46",
+      "claim": "She was prescribed paracetamol 120 mg/5 mL, 5 mL four times daily as needed for pain."
+    },
+    {
+      "claim_id": "C47",
+      "claim": "ENT follow-up was advised in 2 weeks."
+    },
+    {
+      "claim_id": "C48",
+      "claim": "The GP was informed of the discharge plan."
+    }
+  ],
+  "Whole + BGE": [
+    {
+      "claim_id": "C01",
+      "claim": "Ren Suzuki is a 1-year-old girl."
+    },
+    {
+      "claim_id": "C02",
+      "claim": "She has no past medical history."
+    },
+    {
+      "claim_id": "C03",
+      "claim": "She was not taking medications before presentation."
+    },
+    {
+      "claim_id": "C04",
+      "claim": "She has no known allergies."
+    },
+    {
+      "claim_id": "C05",
+      "claim": "She presented with right ear pain."
+    },
+    {
+      "claim_id": "C06",
+      "claim": "She was irritable."
+    },
+    {
+      "claim_id": "C07",
+      "claim": "She had frequent crying."
+    },
+    {
+      "claim_id": "C08",
+      "claim": "She had reduced feeding."
+    },
+    {
+      "claim_id": "C09",
+      "claim": "She had poor sleep."
+    },
+    {
+      "claim_id": "C10",
+      "claim": "She was tugging at her right ear."
+    },
+    {
+      "claim_id": "C11",
+      "claim": "She was afebrile."
+    },
+    {
+      "claim_id": "C12",
+      "claim": "Her observations were normal."
+    },
+    {
+      "claim_id": "C13",
+      "claim": "She had no systemic illness."
+    },
+    {
+      "claim_id": "C14",
+      "claim": "She had mild right auricular erythema."
+    },
+    {
+      "claim_id": "C15",
+      "claim": "She had right auricular tenderness."
+    },
+    {
+      "claim_id": "C16",
+      "claim": "Her right tympanic membrane was bulging and mildly erythematous."
+    },
+    {
+      "claim_id": "C17",
+      "claim": "She had a right middle-ear effusion."
+    },
+    {
+      "claim_id": "C18",
+      "claim": "She had no ear discharge."
+    },
+    {
+      "claim_id": "C19",
+      "claim": "She had no mastoid tenderness."
+    },
+    {
+      "claim_id": "C20",
+      "claim": "She had no cellulitis."
+    },
+    {
+      "claim_id": "C21",
+      "claim": "She had no facial asymmetry."
+    },
+    {
+      "claim_id": "C22",
+      "claim": "She had no neurological deficit."
+    },
+    {
+      "claim_id": "C23",
+      "claim": "She had no respiratory distress."
+    },
+    {
+      "claim_id": "C24",
+      "claim": "The left ear was normal."
+    },
+    {
+      "claim_id": "C25",
+      "claim": "She was diagnosed with acute right otitis media with effusion."
+    },
+    {
+      "claim_id": "C26",
+      "claim": "She was referred for paediatric/ENT inpatient management."
+    },
+    {
+      "claim_id": "C27",
+      "claim": "She was given oral paracetamol 120 mg for pain."
+    },
+    {
+      "claim_id": "C28",
+      "claim": "Oral amoxicillin 125 mg/5 mL suspension three times daily for 5 days was started."
+    },
+    {
+      "claim_id": "C29",
+      "claim": "Paracetamol was continued four times daily as needed."
+    },
+    {
+      "claim_id": "C30",
+      "claim": "Warm compresses were advised."
+    },
+    {
+      "claim_id": "C31",
+      "claim": "Ear hygiene was advised."
+    },
+    {
+      "claim_id": "C32",
+      "claim": "Her father was educated about medication adherence."
+    },
+    {
+      "claim_id": "C33",
+      "claim": "Her father was educated about expected symptom improvement."
+    },
+    {
+      "claim_id": "C34",
+      "claim": "Her father was educated about warning signs."
+    },
+    {
+      "claim_id": "C35",
+      "claim": "Pharmacy review confirmed the amoxicillin dose."
+    },
+    {
+      "claim_id": "C36",
+      "claim": "Pharmacy review confirmed the 5-day amoxicillin regimen."
+    },
+    {
+      "claim_id": "C37",
+      "claim": "Her pain significantly improved during the ward round."
+    },
+    {
+      "claim_id": "C38",
+      "claim": "She was alert and comfortable during the ward round."
+    },
+    {
+      "claim_id": "C39",
+      "claim": "She tolerated antibiotics without adverse effects."
+    },
+    {
+      "claim_id": "C40",
+      "claim": "She tolerated analgesia without adverse effects."
+    },
+    {
+      "claim_id": "C41",
+      "claim": "Otoscopy showed reduced right tympanic membrane erythema."
+    },
+    {
+      "claim_id": "C42",
+      "claim": "Otoscopy showed reduced right middle-ear effusion."
+    },
+    {
+      "claim_id": "C43",
+      "claim": "She had no systemic infection during the ward round."
+    },
+    {
+      "claim_id": "C44",
+      "claim": "She had no distress during the ward round."
+    },
+    {
+      "claim_id": "C45",
+      "claim": "She was discharged with amoxicillin 125 mg/5 mL, 2.5 mL three times daily to complete 5 days."
+    },
+    {
+      "claim_id": "C46",
+      "claim": "She was discharged with paracetamol 120 mg/5 mL, 5 mL four times daily as needed."
+    },
+    {
+      "claim_id": "C47",
+      "claim": "Her parents were advised to continue warm compresses."
+    },
+    {
+      "claim_id": "C48",
+      "claim": "Her parents were advised to complete the antibiotic course."
+    },
+    {
+      "claim_id": "C49",
+      "claim": "Her parents were advised to follow up with ENT in 2 weeks."
+    },
+    {
+      "claim_id": "C50",
+      "claim": "The GP was informed of the discharge plan."
+    }
+  ],
+  "Whole + MedCPT": [
+    {
+      "claim_id": "C01",
+      "claim": "Ren Suzuki is a 1-year-old girl."
+    },
+    {
+      "claim_id": "C02",
+      "claim": "She had no past medical history."
+    },
+    {
+      "claim_id": "C03",
+      "claim": "She was not taking medications."
+    },
+    {
+      "claim_id": "C04",
+      "claim": "She had no known allergies."
+    },
+    {
+      "claim_id": "C05",
+      "claim": "She presented with acute right ear pain."
+    },
+    {
+      "claim_id": "C06",
+      "claim": "She was afebrile and had observations within normal limits."
+    },
+    {
+      "claim_id": "C07",
+      "claim": "She was not in acute distress."
+    },
+    {
+      "claim_id": "C08",
+      "claim": "The right outer ear had mild erythema."
+    },
+    {
+      "claim_id": "C09",
+      "claim": "The right outer ear had moderate tenderness."
+    },
+    {
+      "claim_id": "C10",
+      "claim": "Her mother reported irritability and frequent crying."
+    },
+    {
+      "claim_id": "C11",
+      "claim": "Her mother reported reduced feeding."
+    },
+    {
+      "claim_id": "C12",
+      "claim": "Her mother reported difficulty sleeping."
+    },
+    {
+      "claim_id": "C13",
+      "claim": "Her mother reported that she had been pulling at her right ear."
+    },
+    {
+      "claim_id": "C14",
+      "claim": "There was no fever, vomiting, diarrhoea, or ear discharge."
+    },
+    {
+      "claim_id": "C15",
+      "claim": "Examination showed a bulging right tympanic membrane with effusion."
+    },
+    {
+      "claim_id": "C16",
+      "claim": "There was mild right auricular erythema and tenderness."
+    },
+    {
+      "claim_id": "C17",
+      "claim": "There was no mastoiditis, cellulitis, facial weakness, or systemic infection."
+    },
+    {
+      "claim_id": "C18",
+      "claim": "Her heart rate was 110 beats per minute."
+    },
+    {
+      "claim_id": "C19",
+      "claim": "Her respiratory rate was 28 breaths per minute."
+    },
+    {
+      "claim_id": "C20",
+      "claim": "Her temperature was 36.8\u00b0C."
+    },
+    {
+      "claim_id": "C21",
+      "claim": "Her oxygen saturation was 99%."
+    },
+    {
+      "claim_id": "C22",
+      "claim": "She was diagnosed with acute right otitis media with effusion."
+    },
+    {
+      "claim_id": "C23",
+      "claim": "Paracetamol 120 mg was administered."
+    },
+    {
+      "claim_id": "C24",
+      "claim": "She was referred for paediatric or ENT inpatient management."
+    },
+    {
+      "claim_id": "C25",
+      "claim": "The left ear was normal."
+    },
+    {
+      "claim_id": "C26",
+      "claim": "She had moderate pain."
+    },
+    {
+      "claim_id": "C27",
+      "claim": "Oral amoxicillin was started at 125 mg three times daily for 5 days."
+    },
+    {
+      "claim_id": "C28",
+      "claim": "Paracetamol 120 mg was prescribed four times daily for pain."
+    },
+    {
+      "claim_id": "C29",
+      "claim": "Warm compresses were advised."
+    },
+    {
+      "claim_id": "C30",
+      "claim": "Her father received education about warm compresses and ear hygiene."
+    },
+    {
+      "claim_id": "C31",
+      "claim": "Her father was instructed to complete the antibiotic course."
+    },
+    {
+      "claim_id": "C32",
+      "claim": "Her father received education about analgesia and signs of improvement or deterioration."
+    },
+    {
+      "claim_id": "C33",
+      "claim": "Pharmacy review confirmed the amoxicillin dose and 5-day regimen."
+    },
+    {
+      "claim_id": "C34",
+      "claim": "No treatment changes were made after pharmacy review."
+    },
+    {
+      "claim_id": "C35",
+      "claim": "Her pain significantly improved after oral antibiotics and analgesia."
+    },
+    {
+      "claim_id": "C36",
+      "claim": "She tolerated the oral antibiotics and analgesia without adverse effects."
+    },
+    {
+      "claim_id": "C37",
+      "claim": "The right tympanic membrane had reduced erythema and effusion."
+    },
+    {
+      "claim_id": "C38",
+      "claim": "She was alert, interactive, and comfortable."
+    },
+    {
+      "claim_id": "C39",
+      "claim": "She had no systemic infection or distress at follow-up examination."
+    },
+    {
+      "claim_id": "C40",
+      "claim": "She was discharged with amoxicillin 125 mg/5 mL suspension, 2.5 mL three times daily to complete 5 days."
+    },
+    {
+      "claim_id": "C41",
+      "claim": "She was discharged with paracetamol 120 mg/5 mL suspension, 5 mL four times daily as needed."
+    },
+    {
+      "claim_id": "C42",
+      "claim": "Her parents were advised to continue warm compresses."
+    },
+    {
+      "claim_id": "C43",
+      "claim": "Her parents were advised to complete the antibiotic course."
+    },
+    {
+      "claim_id": "C44",
+      "claim": "Her parents were advised to follow up with ENT in 2 weeks."
+    },
+    {
+      "claim_id": "C45",
+      "claim": "The GP was informed of the discharge plan."
+    }
+  ],
+  "Fixed + Gemini": [
+    {
+      "claim_id": "C01",
+      "claim": "Ren Suzuki is a 1-year-old girl."
+    },
+    {
+      "claim_id": "C02",
+      "claim": "She has no past medical history."
+    },
+    {
+      "claim_id": "C03",
+      "claim": "She takes no medications."
+    },
+    {
+      "claim_id": "C04",
+      "claim": "She has no known allergies."
+    },
+    {
+      "claim_id": "C05",
+      "claim": "She presented with acute right ear pain."
+    },
+    {
+      "claim_id": "C06",
+      "claim": "She was irritable."
+    },
+    {
+      "claim_id": "C07",
+      "claim": "She was crying."
+    },
+    {
+      "claim_id": "C08",
+      "claim": "She was feeding poorly."
+    },
+    {
+      "claim_id": "C09",
+      "claim": "She was pulling at her right ear."
+    },
+    {
+      "claim_id": "C10",
+      "claim": "She was afebrile."
+    },
+    {
+      "claim_id": "C11",
+      "claim": "Her observations were normal."
+    },
+    {
+      "claim_id": "C12",
+      "claim": "She was not in acute distress."
+    },
+    {
+      "claim_id": "C13",
+      "claim": "The right outer ear had mild erythema."
+    },
+    {
+      "claim_id": "C14",
+      "claim": "The right outer ear had moderate tenderness."
+    },
+    {
+      "claim_id": "C15",
+      "claim": "The right tympanic membrane was bulging."
+    },
+    {
+      "claim_id": "C16",
+      "claim": "The right tympanic membrane was mildly erythematous."
+    },
+    {
+      "claim_id": "C17",
+      "claim": "There was right middle-ear effusion."
+    },
+    {
+      "claim_id": "C18",
+      "claim": "There was no ear discharge."
+    },
+    {
+      "claim_id": "C19",
+      "claim": "There was no mastoiditis."
+    },
+    {
+      "claim_id": "C20",
+      "claim": "There was no cellulitis."
+    },
+    {
+      "claim_id": "C21",
+      "claim": "There was no facial asymmetry."
+    },
+    {
+      "claim_id": "C22",
+      "claim": "There was no neurological deficit."
+    },
+    {
+      "claim_id": "C23",
+      "claim": "There was no systemic infection."
+    },
+    {
+      "claim_id": "C24",
+      "claim": "The left tympanic membrane was normal."
+    },
+    {
+      "claim_id": "C25",
+      "claim": "She was diagnosed with acute right otitis media with effusion."
+    },
+    {
+      "claim_id": "C26",
+      "claim": "She received oral paracetamol 120 mg for pain."
+    },
+    {
+      "claim_id": "C27",
+      "claim": "She was referred to paediatrics/ENT for admission and further management."
+    },
+    {
+      "claim_id": "C28",
+      "claim": "Paediatric review confirmed the diagnosis."
+    },
+    {
+      "claim_id": "C29",
+      "claim": "The otitis media was considered likely bacterial."
+    },
+    {
+      "claim_id": "C30",
+      "claim": "Oral amoxicillin 125 mg/5 mL was started three times daily for 5 days."
+    },
+    {
+      "claim_id": "C31",
+      "claim": "Paracetamol 120 mg was prescribed four times daily for pain."
+    },
+    {
+      "claim_id": "C32",
+      "claim": "Warm compresses were advised."
+    },
+    {
+      "claim_id": "C33",
+      "claim": "The parents received education about ear care."
+    },
+    {
+      "claim_id": "C34",
+      "claim": "The parents received education about medication adherence."
+    },
+    {
+      "claim_id": "C35",
+      "claim": "The parents received education about symptom improvement."
+    },
+    {
+      "claim_id": "C36",
+      "claim": "The parents received education about red flags."
+    },
+    {
+      "claim_id": "C37",
+      "claim": "Pharmacy review confirmed the amoxicillin dose and 5-day course."
+    },
+    {
+      "claim_id": "C38",
+      "claim": "No medication changes were made after pharmacy review."
+    },
+    {
+      "claim_id": "C39",
+      "claim": "Her ear pain improved significantly overnight."
+    },
+    {
+      "claim_id": "C40",
+      "claim": "She tolerated oral antibiotics without adverse effects."
+    },
+    {
+      "claim_id": "C41",
+      "claim": "She tolerated oral analgesia without adverse effects."
+    },
+    {
+      "claim_id": "C42",
+      "claim": "Right tympanic membrane erythema decreased on follow-up otoscopy."
+    },
+    {
+      "claim_id": "C43",
+      "claim": "Right tympanic membrane effusion decreased on follow-up otoscopy."
+    },
+    {
+      "claim_id": "C44",
+      "claim": "She was alert and interactive."
+    },
+    {
+      "claim_id": "C45",
+      "claim": "She was comfortable."
+    },
+    {
+      "claim_id": "C46",
+      "claim": "She had no signs of systemic infection or distress on follow-up."
+    },
+    {
+      "claim_id": "C47",
+      "claim": "Discharge was planned with amoxicillin 125 mg/5 mL, 2.5 mL three times daily to complete 5 days."
+    },
+    {
+      "claim_id": "C48",
+      "claim": "Discharge was planned with paracetamol 120 mg/5 mL, 5 mL four times daily as needed."
+    },
+    {
+      "claim_id": "C49",
+      "claim": "The parents were advised to continue warm compresses."
+    },
+    {
+      "claim_id": "C50",
+      "claim": "The parents were advised to complete the antibiotic course."
+    },
+    {
+      "claim_id": "C51",
+      "claim": "ENT follow-up was planned in 2 weeks."
+    },
+    {
+      "claim_id": "C52",
+      "claim": "The GP was informed of the discharge plan."
+    }
+  ],
+  "Fixed + BGE": [
+    {
+      "claim_id": "C01",
+      "claim": "The patient was a 1-year-old girl."
+    },
+    {
+      "claim_id": "C02",
+      "claim": "She had no past medical history."
+    },
+    {
+      "claim_id": "C03",
+      "claim": "She was taking no medications."
+    },
+    {
+      "claim_id": "C04",
+      "claim": "She had no known allergies."
+    },
+    {
+      "claim_id": "C05",
+      "claim": "She presented with acute right ear pain."
+    },
+    {
+      "claim_id": "C06",
+      "claim": "She was irritable."
+    },
+    {
+      "claim_id": "C07",
+      "claim": "She cried frequently."
+    },
+    {
+      "claim_id": "C08",
+      "claim": "She had reduced feeding."
+    },
+    {
+      "claim_id": "C09",
+      "claim": "She had difficulty sleeping."
+    },
+    {
+      "claim_id": "C10",
+      "claim": "She was tugging at her right ear."
+    },
+    {
+      "claim_id": "C11",
+      "claim": "She was afebrile."
+    },
+    {
+      "claim_id": "C12",
+      "claim": "She was clinically stable."
+    },
+    {
+      "claim_id": "C13",
+      "claim": "There was mild erythema around the right outer ear."
+    },
+    {
+      "claim_id": "C14",
+      "claim": "There was moderate right auricular tenderness."
+    },
+    {
+      "claim_id": "C15",
+      "claim": "The right tympanic membrane was bulging."
+    },
+    {
+      "claim_id": "C16",
+      "claim": "The right tympanic membrane was mildly erythematous."
+    },
+    {
+      "claim_id": "C17",
+      "claim": "There was right middle-ear effusion."
+    },
+    {
+      "claim_id": "C18",
+      "claim": "The left ear was normal."
+    },
+    {
+      "claim_id": "C19",
+      "claim": "There was no ear discharge."
+    },
+    {
+      "claim_id": "C20",
+      "claim": "There was no mastoiditis."
+    },
+    {
+      "claim_id": "C21",
+      "claim": "There was no cellulitis."
+    },
+    {
+      "claim_id": "C22",
+      "claim": "There was no lymphadenopathy."
+    },
+    {
+      "claim_id": "C23",
+      "claim": "There was no neurological deficit."
+    },
+    {
+      "claim_id": "C24",
+      "claim": "There was no systemic infection."
+    },
+    {
+      "claim_id": "C25",
+      "claim": "She was referred for paediatric/ENT inpatient management."
+    },
+    {
+      "claim_id": "C26",
+      "claim": "Oral paracetamol 120 mg was administered for pain."
+    },
+    {
+      "claim_id": "C27",
+      "claim": "She was diagnosed with acute right otitis media with effusion."
+    },
+    {
+      "claim_id": "C28",
+      "claim": "Amoxicillin 125 mg/5 mL suspension was prescribed at 2.5 mL three times daily for 5 days."
+    },
+    {
+      "claim_id": "C29",
+      "claim": "Paracetamol 120 mg/5 mL was prescribed at 5 mL four times daily as needed for pain."
+    },
+    {
+      "claim_id": "C30",
+      "claim": "Warm compresses were recommended."
+    },
+    {
+      "claim_id": "C31",
+      "claim": "Ear-care advice was provided."
+    },
+    {
+      "claim_id": "C32",
+      "claim": "The parents were advised to complete the medication course."
+    },
+    {
+      "claim_id": "C33",
+      "claim": "The parents were advised about warning symptoms."
+    },
+    {
+      "claim_id": "C34",
+      "claim": "The parents were advised to seek reassessment if symptoms worsened."
+    },
+    {
+      "claim_id": "C35",
+      "claim": "Pharmacy review confirmed that the amoxicillin dose was appropriate."
+    },
+    {
+      "claim_id": "C36",
+      "claim": "Pharmacy review confirmed that the 5-day amoxicillin regimen was appropriate."
+    },
+    {
+      "claim_id": "C37",
+      "claim": "Her ear pain significantly improved."
+    },
+    {
+      "claim_id": "C38",
+      "claim": "She remained afebrile."
+    },
+    {
+      "claim_id": "C39",
+      "claim": "She remained clinically well."
+    },
+    {
+      "claim_id": "C40",
+      "claim": "She tolerated the antibiotics without adverse effects."
+    },
+    {
+      "claim_id": "C41",
+      "claim": "She tolerated the analgesia without adverse effects."
+    },
+    {
+      "claim_id": "C42",
+      "claim": "Right tympanic membrane erythema decreased."
+    },
+    {
+      "claim_id": "C43",
+      "claim": "Right middle-ear effusion decreased."
+    },
+    {
+      "claim_id": "C44",
+      "claim": "She had no distress on ward examination."
+    },
+    {
+      "claim_id": "C45",
+      "claim": "Discharge was planned later that day."
+    },
+    {
+      "claim_id": "C46",
+      "claim": "ENT follow-up was planned in 2 weeks."
+    },
+    {
+      "claim_id": "C47",
+      "claim": "The GP was informed of the discharge plan."
+    },
+    {
+      "claim_id": "C48",
+      "claim": "The GP was informed of the discharge medications."
+    }
+  ],
+  "Fixed + MedCPT": [
+    {
+      "claim_id": "C01",
+      "claim": "Ren Suzuki is a 1-year-old girl."
+    },
+    {
+      "claim_id": "C02",
+      "claim": "She has no documented past medical history."
+    },
+    {
+      "claim_id": "C03",
+      "claim": "She has no documented medications."
+    },
+    {
+      "claim_id": "C04",
+      "claim": "She has no documented allergies."
+    },
+    {
+      "claim_id": "C05",
+      "claim": "She presented with acute right ear pain."
+    },
+    {
+      "claim_id": "C06",
+      "claim": "Her parents reported irritability."
+    },
+    {
+      "claim_id": "C07",
+      "claim": "Her parents reported frequent crying."
+    },
+    {
+      "claim_id": "C08",
+      "claim": "Her parents reported reduced feeding."
+    },
+    {
+      "claim_id": "C09",
+      "claim": "Her parents reported poor sleep."
+    },
+    {
+      "claim_id": "C10",
+      "claim": "Her parents reported that she was pulling at her right ear."
+    },
+    {
+      "claim_id": "C11",
+      "claim": "She had no fever."
+    },
+    {
+      "claim_id": "C12",
+      "claim": "She had no vomiting."
+    },
+    {
+      "claim_id": "C13",
+      "claim": "She had no diarrhoea."
+    },
+    {
+      "claim_id": "C14",
+      "claim": "She had no other systemic symptoms."
+    },
+    {
+      "claim_id": "C15",
+      "claim": "Initial observations were within normal limits."
+    },
+    {
+      "claim_id": "C16",
+      "claim": "She was afebrile."
+    },
+    {
+      "claim_id": "C17",
+      "claim": "She was not in acute distress."
+    },
+    {
+      "claim_id": "C18",
+      "claim": "There was mild erythema around the right outer ear."
+    },
+    {
+      "claim_id": "C19",
+      "claim": "There was moderate tenderness around the right outer ear."
+    },
+    {
+      "claim_id": "C20",
+      "claim": "Otoscopy showed a bulging right tympanic membrane."
+    },
+    {
+      "claim_id": "C21",
+      "claim": "The right tympanic membrane was mildly erythematous."
+    },
+    {
+      "claim_id": "C22",
+      "claim": "The right ear had an effusion."
+    },
+    {
+      "claim_id": "C23",
+      "claim": "The left ear was normal."
+    },
+    {
+      "claim_id": "C24",
+      "claim": "There was no ear discharge."
+    },
+    {
+      "claim_id": "C25",
+      "claim": "There was no mastoid tenderness."
+    },
+    {
+      "claim_id": "C26",
+      "claim": "There was no mastoid swelling."
+    },
+    {
+      "claim_id": "C27",
+      "claim": "There was no pre-auricular tenderness."
+    },
+    {
+      "claim_id": "C28",
+      "claim": "There was no pre-auricular swelling."
+    },
+    {
+      "claim_id": "C29",
+      "claim": "There was no facial asymmetry."
+    },
+    {
+      "claim_id": "C30",
+      "claim": "There was no lymphadenopathy."
+    },
+    {
+      "claim_id": "C31",
+      "claim": "There was no neurological deficit."
+    },
+    {
+      "claim_id": "C32",
+      "claim": "There was no evidence of systemic infection."
+    },
+    {
+      "claim_id": "C33",
+      "claim": "Her heart rate was 110 bpm."
+    },
+    {
+      "claim_id": "C34",
+      "claim": "Her respiratory rate was 28/min."
+    },
+    {
+      "claim_id": "C35",
+      "claim": "Her temperature was 36.8\u00b0C."
+    },
+    {
+      "claim_id": "C36",
+      "claim": "Her oxygen saturation was 99% on air."
+    },
+    {
+      "claim_id": "C37",
+      "claim": "No laboratory tests were performed."
+    },
+    {
+      "claim_id": "C38",
+      "claim": "No imaging was performed."
+    },
+    {
+      "claim_id": "C39",
+      "claim": "She was assessed as having acute right otitis media with effusion."
+    },
+    {
+      "claim_id": "C40",
+      "claim": "She was referred/admitted under paediatrics/ENT for further management."
+    },
+    {
+      "claim_id": "C41",
+      "claim": "She received oral paracetamol 120 mg for pain."
+    },
+    {
+      "claim_id": "C42",
+      "claim": "Amoxicillin 125 mg/5 mL oral suspension three times daily for 5 days was commenced."
+    },
+    {
+      "claim_id": "C43",
+      "claim": "Paracetamol 120 mg four times daily as required was prescribed."
+    },
+    {
+      "claim_id": "C44",
+      "claim": "Warm compresses were recommended."
+    },
+    {
+      "claim_id": "C45",
+      "claim": "Monitoring for worsening symptoms was recommended."
+    },
+    {
+      "claim_id": "C46",
+      "claim": "Pharmacy review confirmed that the antibiotic dose was appropriate."
+    },
+    {
+      "claim_id": "C47",
+      "claim": "Pharmacy review confirmed that the 5-day antibiotic regimen was appropriate."
+    },
+    {
+      "claim_id": "C48",
+      "claim": "Her father received education regarding medication adherence."
+    },
+    {
+      "claim_id": "C49",
+      "claim": "Her father received education regarding ear hygiene."
+    },
+    {
+      "claim_id": "C50",
+      "claim": "Her father received education regarding warm compresses."
+    },
+    {
+      "claim_id": "C51",
+      "claim": "Her father received education regarding symptom improvement."
+    },
+    {
+      "claim_id": "C52",
+      "claim": "Her father received education regarding warning signs."
+    },
+    {
+      "claim_id": "C53",
+      "claim": "Her ear pain significantly improved."
+    },
+    {
+      "claim_id": "C54",
+      "claim": "She tolerated oral antibiotics without adverse effects."
+    },
+    {
+      "claim_id": "C55",
+      "claim": "She tolerated analgesia without adverse effects."
+    },
+    {
+      "claim_id": "C56",
+      "claim": "She was alert."
+    },
+    {
+      "claim_id": "C57",
+      "claim": "She was interactive."
+    },
+    {
+      "claim_id": "C58",
+      "claim": "She was comfortable."
+    },
+    {
+      "claim_id": "C59",
+      "claim": "Right tympanic membrane erythema was reduced."
+    },
+    {
+      "claim_id": "C60",
+      "claim": "Right ear effusion was reduced."
+    },
+    {
+      "claim_id": "C61",
+      "claim": "She had no systemic illness."
+    },
+    {
+      "claim_id": "C62",
+      "claim": "She was not in distress."
+    },
+    {
+      "claim_id": "C63",
+      "claim": "She was planned for discharge with amoxicillin 125 mg/5 mL, 2.5 mL three times daily to complete 5 days."
+    },
+    {
+      "claim_id": "C64",
+      "claim": "She was planned for discharge with paracetamol 120 mg/5 mL, 5 mL four times daily as needed."
+    },
+    {
+      "claim_id": "C65",
+      "claim": "Continued warm compresses were included in the discharge plan."
+    },
+    {
+      "claim_id": "C66",
+      "claim": "ENT follow-up in 2 weeks was planned."
+    },
+    {
+      "claim_id": "C67",
+      "claim": "The discharge plan was communicated to her GP."
+    }
+  ],
+  "Section + Gemini": [
+    {
+      "claim_id": "C01",
+      "claim": "Ren Suzuki is a 1-year-old girl."
+    },
+    {
+      "claim_id": "C02",
+      "claim": "She has no past medical history."
+    },
+    {
+      "claim_id": "C03",
+      "claim": "She has no known allergies."
+    },
+    {
+      "claim_id": "C04",
+      "claim": "She presented with right ear pain."
+    },
+    {
+      "claim_id": "C05",
+      "claim": "She was pulling at her right ear."
+    },
+    {
+      "claim_id": "C06",
+      "claim": "She was afebrile."
+    },
+    {
+      "claim_id": "C07",
+      "claim": "She was clinically stable."
+    },
+    {
+      "claim_id": "C08",
+      "claim": "She had mild erythema around the right outer ear."
+    },
+    {
+      "claim_id": "C09",
+      "claim": "She had moderate right-ear tenderness."
+    },
+    {
+      "claim_id": "C10",
+      "claim": "She had no systemic symptoms."
+    },
+    {
+      "claim_id": "C11",
+      "claim": "She had no hearing loss."
+    },
+    {
+      "claim_id": "C12",
+      "claim": "She had no ear discharge."
+    },
+    {
+      "claim_id": "C13",
+      "claim": "She had no neurological symptoms."
+    },
+    {
+      "claim_id": "C14",
+      "claim": "Her initial heart rate was 110 bpm."
+    },
+    {
+      "claim_id": "C15",
+      "claim": "Her initial respiratory rate was 28 breaths per minute."
+    },
+    {
+      "claim_id": "C16",
+      "claim": "Her initial temperature was 36.8\u00b0C."
+    },
+    {
+      "claim_id": "C17",
+      "claim": "Her initial oxygen saturation was 99% on room air."
+    },
+    {
+      "claim_id": "C18",
+      "claim": "The right tympanic membrane was bulging."
+    },
+    {
+      "claim_id": "C19",
+      "claim": "The right tympanic membrane was erythematous."
+    },
+    {
+      "claim_id": "C20",
+      "claim": "The right ear had effusion."
+    },
+    {
+      "claim_id": "C21",
+      "claim": "The findings were consistent with acute otitis media with effusion."
+    },
+    {
+      "claim_id": "C22",
+      "claim": "She had moderate pain."
+    },
+    {
+      "claim_id": "C23",
+      "claim": "She had no signs of systemic infection."
+    },
+    {
+      "claim_id": "C24",
+      "claim": "Her blood pressure was 90/60 mmHg."
+    },
+    {
+      "claim_id": "C25",
+      "claim": "Her respiratory rate was 24 breaths per minute at the ED assessment."
+    },
+    {
+      "claim_id": "C26",
+      "claim": "Her oxygen saturation was 98% at the ED assessment."
+    },
+    {
+      "claim_id": "C27",
+      "claim": "She was prescribed a 5-day course of oral amoxicillin."
+    },
+    {
+      "claim_id": "C28",
+      "claim": "She was prescribed oral paracetamol 120 mg as needed for pain."
+    },
+    {
+      "claim_id": "C29",
+      "claim": "Her father received education about warm compresses."
+    },
+    {
+      "claim_id": "C30",
+      "claim": "Her father received education about ear hygiene."
+    },
+    {
+      "claim_id": "C31",
+      "claim": "Her father was advised to complete the antibiotics."
+    },
+    {
+      "claim_id": "C32",
+      "claim": "Her father received education about expected improvement."
+    },
+    {
+      "claim_id": "C33",
+      "claim": "Her father was advised to seek care for increasing pain or discharge."
+    },
+    {
+      "claim_id": "C34",
+      "claim": "Her pain significantly improved by follow-up."
+    },
+    {
+      "claim_id": "C35",
+      "claim": "She tolerated the oral antibiotics without adverse effects."
+    },
+    {
+      "claim_id": "C36",
+      "claim": "She tolerated the analgesia without adverse effects."
+    },
+    {
+      "claim_id": "C37",
+      "claim": "She had no systemic infection at follow-up."
+    },
+    {
+      "claim_id": "C38",
+      "claim": "She had no distress at follow-up."
+    },
+    {
+      "claim_id": "C39",
+      "claim": "She was alert at follow-up."
+    },
+    {
+      "claim_id": "C40",
+      "claim": "She was interactive at follow-up."
+    },
+    {
+      "claim_id": "C41",
+      "claim": "She was comfortable at follow-up."
+    },
+    {
+      "claim_id": "C42",
+      "claim": "Right-ear otoscopy showed reduced tympanic membrane erythema."
+    },
+    {
+      "claim_id": "C43",
+      "claim": "Right-ear otoscopy showed reduced effusion."
+    },
+    {
+      "claim_id": "C44",
+      "claim": "The left ear was normal."
+    },
+    {
+      "claim_id": "C45",
+      "claim": "No new imaging was reported."
+    },
+    {
+      "claim_id": "C46",
+      "claim": "No specialist investigations were reported."
+    },
+    {
+      "claim_id": "C47",
+      "claim": "No blood results were reported."
+    },
+    {
+      "claim_id": "C48",
+      "claim": "No urine results were reported."
+    }
+  ],
+  "Section + BGE": [
+    {
+      "claim_id": "C01",
+      "claim": "Ren Suzuki is a 1-year-old girl."
+    },
+    {
+      "claim_id": "C02",
+      "claim": "She has no past medical history."
+    },
+    {
+      "claim_id": "C03",
+      "claim": "She has no known allergies."
+    },
+    {
+      "claim_id": "C04",
+      "claim": "She presented with right ear pain."
+    },
+    {
+      "claim_id": "C05",
+      "claim": "She was irritable and cried frequently."
+    },
+    {
+      "claim_id": "C06",
+      "claim": "She had reduced feeding."
+    },
+    {
+      "claim_id": "C07",
+      "claim": "She was pulling at her right ear."
+    },
+    {
+      "claim_id": "C08",
+      "claim": "She was afebrile."
+    },
+    {
+      "claim_id": "C09",
+      "claim": "She was clinically stable with normal observations."
+    },
+    {
+      "claim_id": "C10",
+      "claim": "She had no systemic symptoms."
+    },
+    {
+      "claim_id": "C11",
+      "claim": "She had no neurological symptoms."
+    },
+    {
+      "claim_id": "C12",
+      "claim": "Examination showed mild erythema around the right outer ear."
+    },
+    {
+      "claim_id": "C13",
+      "claim": "Examination showed moderate tenderness."
+    },
+    {
+      "claim_id": "C14",
+      "claim": "No hearing loss was reported."
+    },
+    {
+      "claim_id": "C15",
+      "claim": "No ear discharge was reported."
+    },
+    {
+      "claim_id": "C16",
+      "claim": "She was diagnosed with acute otitis media with effusion."
+    },
+    {
+      "claim_id": "C17",
+      "claim": "She was referred to paediatrics/ENT."
+    },
+    {
+      "claim_id": "C18",
+      "claim": "She was admitted to the paediatric ward for further management."
+    },
+    {
+      "claim_id": "C19",
+      "claim": "Oral amoxicillin 125 mg/5 mL three times daily for 5 days was prescribed."
+    },
+    {
+      "claim_id": "C20",
+      "claim": "Paracetamol 120 mg/5 mL four times daily or as required was prescribed for pain."
+    },
+    {
+      "claim_id": "C21",
+      "claim": "Warm compresses were advised."
+    },
+    {
+      "claim_id": "C22",
+      "claim": "Ear hygiene was advised."
+    },
+    {
+      "claim_id": "C23",
+      "claim": "Her father was educated about medication adherence."
+    },
+    {
+      "claim_id": "C24",
+      "claim": "Her father was educated about symptom monitoring."
+    },
+    {
+      "claim_id": "C25",
+      "claim": "Her father was educated about red flags requiring medical review."
+    },
+    {
+      "claim_id": "C26",
+      "claim": "No new imaging was documented."
+    },
+    {
+      "claim_id": "C27",
+      "claim": "No laboratory tests were documented."
+    },
+    {
+      "claim_id": "C28",
+      "claim": "No pending results were documented."
+    },
+    {
+      "claim_id": "C29",
+      "claim": "She was planned for discharge after completing the 5-day amoxicillin course."
+    },
+    {
+      "claim_id": "C30",
+      "claim": "Paracetamol as required was included in the discharge plan."
+    },
+    {
+      "claim_id": "C31",
+      "claim": "Warm compresses were included in the discharge plan."
+    },
+    {
+      "claim_id": "C32",
+      "claim": "ENT follow-up in 2 weeks was planned."
+    },
+    {
+      "claim_id": "C33",
+      "claim": "The discharge plan was communicated to her GP."
+    },
+    {
+      "claim_id": "C34",
+      "claim": "No treatment changes were made."
+    }
+  ],
+  "Section + MedCPT": [
+    {
+      "claim_id": "C01",
+      "claim": "Ren Suzuki is a 1-year-old girl."
+    },
+    {
+      "claim_id": "C02",
+      "claim": "She has no past medical history."
+    },
+    {
+      "claim_id": "C03",
+      "claim": "She takes no regular medications."
+    },
+    {
+      "claim_id": "C04",
+      "claim": "She was assessed for ear pain."
+    },
+    {
+      "claim_id": "C05",
+      "claim": "Otoscopy showed a bulging right tympanic membrane."
+    },
+    {
+      "claim_id": "C06",
+      "claim": "The right tympanic membrane was erythematous."
+    },
+    {
+      "claim_id": "C07",
+      "claim": "Right middle-ear effusion was present."
+    },
+    {
+      "claim_id": "C08",
+      "claim": "The findings were consistent with acute otitis media with effusion."
+    },
+    {
+      "claim_id": "C09",
+      "claim": "She had moderate ear pain."
+    },
+    {
+      "claim_id": "C10",
+      "claim": "She was afebrile."
+    },
+    {
+      "claim_id": "C11",
+      "claim": "She had no signs of systemic infection."
+    },
+    {
+      "claim_id": "C12",
+      "claim": "She had no new symptoms."
+    },
+    {
+      "claim_id": "C13",
+      "claim": "Her heart rate was 110 bpm."
+    },
+    {
+      "claim_id": "C14",
+      "claim": "Her respiratory rate was 24\u201328/min."
+    },
+    {
+      "claim_id": "C15",
+      "claim": "Her temperature was 36.8\u00b0C."
+    },
+    {
+      "claim_id": "C16",
+      "claim": "Her oxygen saturation was 98\u201399% on room air."
+    },
+    {
+      "claim_id": "C17",
+      "claim": "Her blood pressure was 90/60 at review."
+    },
+    {
+      "claim_id": "C18",
+      "claim": "She was prescribed oral amoxicillin 125 mg three times daily for 5 days."
+    },
+    {
+      "claim_id": "C19",
+      "claim": "She was prescribed oral paracetamol 120 mg four times daily for pain relief."
+    },
+    {
+      "claim_id": "C20",
+      "claim": "Her parents were advised to monitor for fever."
+    },
+    {
+      "claim_id": "C21",
+      "claim": "Her parents were advised to monitor for vomiting."
+    },
+    {
+      "claim_id": "C22",
+      "claim": "Her parents were advised to monitor for lethargy."
+    },
+    {
+      "claim_id": "C23",
+      "claim": "Her parents were advised to monitor for worsening symptoms."
+    },
+    {
+      "claim_id": "C24",
+      "claim": "Reassessment was advised after 48 hours if there was no improvement."
+    },
+    {
+      "claim_id": "C25",
+      "claim": "Earlier reassessment was advised if she deteriorated."
+    },
+    {
+      "claim_id": "C26",
+      "claim": "No new imaging was documented."
+    },
+    {
+      "claim_id": "C27",
+      "claim": "No specialised investigations were documented."
+    },
+    {
+      "claim_id": "C28",
+      "claim": "No blood results were documented."
+    },
+    {
+      "claim_id": "C29",
+      "claim": "No urine results were documented."
+    },
+    {
+      "claim_id": "C30",
+      "claim": "No pending results were documented."
+    }
+  ]
+}
