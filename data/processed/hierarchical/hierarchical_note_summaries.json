@@ -1,0 +1,91 @@
+{
+  "028998ee-babc-4096-9b28-001bc2f9a84e": {
+    "0": {
+      "source_note_index": 0,
+      "creation_timestamp": "07/01/2026 08:45",
+      "summary": "15-year-old male presented to A&E on 07/01/26 at 08:45 with severe abdominal pain for 3 days. ED diagnosis was constipation. No known allergies, no current medications, and no past medical history documented. Plan was baseline observations and assessment of pain severity."
+    },
+    "1": {
+      "source_note_index": 1,
+      "creation_timestamp": "07/01/2026 09:10",
+      "summary": "15-year-old male with abdominal pain. Focused abdominal assessment at 09:10 on 07/01/26 showed mild abdominal distension and lower abdominal tenderness, with no guarding or rebound tenderness. Advised NPO and plan to initiate IV fluids for mild dehydration pending further investigations."
+    },
+    "2": {
+      "source_note_index": 2,
+      "creation_timestamp": "07/01/2026 09:25",
+      "summary": "15-year-old male with 3 days of abdominal pain. ED diagnosis: constipation. Triage noted mild dehydration. Focused abdominal exam showed mild abdominal distension and lower abdominal tenderness without guarding or rebound tenderness. Management included IV 0.9% sodium chloride 500 mL over 4 hours and keeping the patient NBM. Bloods and abdominal X-ray were pending for further management decisions."
+    },
+    "3": {
+      "source_note_index": 3,
+      "creation_timestamp": "07/01/2026 10:00",
+      "summary": "Abdominal X-ray on 2026-01-07 showed significant faecal loading. Findings were discussed with the patient and his mother. A single oral dose of bisacodyl 10 mg was given to initiate bowel movement, and IV 0.9% NaCl was continued for mild dehydration."
+    },
+    "4": {
+      "source_note_index": 4,
+      "creation_timestamp": "07/01/2026 10:30",
+      "summary": "15-year-old male presented with 3-day history of lower abdominal pain and constipation, with reduced appetite and mild nausea but no vomiting or fever. Pain was constant, dull, worse with eating, and rated 7/10 initially. Exam showed mild abdominal distension, lower quadrant tenderness, mildly hypoactive bowel sounds, and mild dehydration with slightly dry mucous membranes and reduced skin turgor; no guarding, rebound, peritonism, or haemodynamic instability. Pain improved to 5/10 after IV fluids. Abdominal X-ray showed significant faecal loading with no obstruction or perforation. FBC, U&Es, CRP, and LFTs were normal. Impression was constipation with mild dehydration. Referred to paediatrics and admitted to paediatric ward for supportive management and observation. Plan: Movicol 1 sachet TID, encourage oral hydration, and monitor bowel movements; no surgery required."
+    },
+    "5": {
+      "source_note_index": 5,
+      "creation_timestamp": "07/01/2026 11:00",
+      "summary": "3-day history of worsening constant dull lower abdominal pain, worse with eating, associated with constipation and reduced appetite. Pain was 6/10 on arrival, improving to 5/10 after IV 0.9% sodium chloride in the ED; a single 10 mg dose of bisacodyl was also given. No nausea, vomiting, melaena, haematochezia, urinary symptoms, or systemic symptoms reported. Examination showed a distended abdomen with mild bilateral lower quadrant tenderness, no guarding or rebound, tympanic abdomen, normal bowel sounds, and mild dehydration (dry mucous membranes, slightly reduced skin turgor). Vitals were stable. Abdominal X-ray showed significant faecal loading with no obstruction or perforation. Blood tests were normal (FBC, U&Es, CRP). Impression was constipation with associated abdominal pain and mild dehydration. Plan: oral macrogol 13.8 g sachets 1 sachet TID, encourage oral fluids, monitor bowel movements and symptoms, reassess after 24 hours, and consider further imaging or alternative laxatives if not improving."
+    },
+    "6": {
+      "source_note_index": 6,
+      "creation_timestamp": "07/01/2026 13:00",
+      "summary": "Seen on ward round for abdominal pain due to constipation. Abdominal X-ray showed significant faecal loading. Patient reported abdominal discomfort rated 5/10. Examination: alert and comfortable at rest; abdomen distended but soft with mild lower quadrant tenderness, normal bowel sounds, no guarding, rebound, peritonitis, masses, or organomegaly. Observations stable: HR 72, BP 112/68, RR 16, Temp 36.8, SpO2 99%. Plan: start oral macrogol 1 sachet BD, encourage at least 2 L/day oral fluids, monitor bowel movements, and reassess laxative dose if no improvement by next morning."
+    },
+    "7": {
+      "source_note_index": 7,
+      "creation_timestamp": "07/01/2026 15:30",
+      "summary": "Initial physiotherapy session on 07/01/26 at 15:30 focused on gentle mobilisation to aid bowel motility and relieve constipation. Patient completed light exercises including short-distance walking within the ward and seated leg lifts. Education was provided on the importance of regular movement to improve digestion and constipation symptoms. Session was tolerated well without adverse events. Plan: light walking every 2–3 hours as tolerated, with follow-up scheduled for 08/01/26 to assess progress."
+    },
+    "8": {
+      "source_note_index": 8,
+      "creation_timestamp": "07/01/2026 16:00",
+      "summary": "Nurse Jamie Leigh Alexander provided education to the patient and his mother on the importance of dietary fibre and hydration. Written materials on high-fibre foods and recommended fluid intake were given. No changes were made to the existing treatment plan."
+    },
+    "9": {
+      "source_note_index": 9,
+      "creation_timestamp": "08/01/2026 09:00",
+      "summary": "Seen on ward round for abdominal pain due to constipation. Patient had a partial bowel movement overnight and reports reduced abdominal pain and feeling more comfortable. Abdomen is less distended; on exam it is soft, mildly distended, with reduced lower quadrant tenderness and no guarding or rebound. Observations were stable: HR 82, BP 110/70, RR 16, Temp 36.8, SpO2 99%. No new investigations, imaging, or lab results. Plan: continue macrogol 1 sachet TDS, encourage oral hydration, assess for full bowel movement within 24 hours, and consider discharge if symptoms continue to improve."
+    },
+    "10": {
+      "source_note_index": 10,
+      "creation_timestamp": "08/01/2026 10:30",
+      "summary": "Physiotherapy review on 08/01/26 at 10:30 focused on promoting bowel motility and alleviating residual abdominal discomfort related to prior constipation symptoms. Patient was guided through gentle stretching exercises and light mobility activities for 20 minutes, with good tolerance and no adverse events. Advised to continue light walking post-discharge to support recovery and prevent symptom recurrence. No new medications prescribed."
+    },
+    "11": {
+      "source_note_index": 11,
+      "creation_timestamp": "08/01/2026 11:15",
+      "summary": "Dietitian reviewed the patient and advised a high-fibre diet, including whole grains, fresh fruits, and vegetables. No medication changes were made. Current plan of oral laxatives and hydration is to continue."
+    },
+    "12": {
+      "source_note_index": 12,
+      "creation_timestamp": "08/01/2026 14:00",
+      "summary": "Second physiotherapy session on 08/01/26 at 14:00 for residual abdominal discomfort and bowel motility. Patient completed 20 minutes of gentle stretching and light mobility exercises, participated actively, and reported reduced discomfort with movement compared with 07/01/26. No adverse events. Recommended continuation of light mobilization during hospital stay and gentle walking at home after discharge to support bowel motility."
+    },
+    "13": {
+      "source_note_index": 13,
+      "creation_timestamp": "09/01/2026 08:30",
+      "summary": "Presented with abdominal pain due to constipation, which resolved after a full bowel movement overnight. Patient reported no further abdominal pain and felt well. Observations were stable: HR 78, BP 112/74, RR 16, temp 36.6, SpO2 98% on air. Examination was unremarkable, with a soft, non-tender abdomen and no guarding or rebound. Plan was to stop oral macrogol, prescribe take-home lactulose 10 mL BD PRN for maintenance, and discharge today with advice on a high-fibre diet and oral hydration to prevent recurrence."
+    },
+    "14": {
+      "source_note_index": 14,
+      "creation_timestamp": "09/01/2026 09:30",
+      "summary": "Discharge communication was made with the patient’s GP, Dr. CianCian, by Nurse Jamie Leigh Alexander. The GP was informed of the patient’s discharge and hospital management, and follow-up arrangements were discussed to ensure ongoing management for constipation prevention. The patient and family were advised to contact the GP if constipation symptoms recur."
+    }
+  },
+  "04df53ea-55c1-48d9-84a1-1f15c133b29b": {
+    "0": {
+      "source_note_index": 0,
+      "creation_timestamp": "01/01/2026 07:30",
+      "summary": "67-year-old man with history of hypertension and osteoarthritis, no regular medications and no allergies, presented to A&E at 07:30 after a minor fall with acute confusion. Initial vitals: BP 170/95, HR 88. Triage category 2 due to confusion and recent trauma. ED assessment diagnosed subdural hygroma; further assessment and investigations were planned, with review pending."
+    },
+    "1": {
+      "source_note_index": 1,
+      "creation_timestamp": "01/01/2026 08:00",
+      "summary": "67M presented with acute confusion after a minor fall. On triage, GCS 12/15 with disorientation to time and place; BP 170/95 and pulse 88 bpm. Past medical history includes hypertension and osteoarthritis. No known drug allergies. Referred for urgent blood tests and CT head to rule out intracranial injury."
+    }
+  }
+}

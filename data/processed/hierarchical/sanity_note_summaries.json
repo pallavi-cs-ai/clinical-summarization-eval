@@ -1,0 +1,52 @@
+{
+  "0": {
+    "source_note_index": 0,
+    "creation_timestamp": "04/01/2026 10:10",
+    "summary": "1-year-old female with ear pain. Observations (HR, RR, temperature) were within normal limits, and she was in no acute distress. No allergies or past medical history documented. Directed to triage for further evaluation of ear pain."
+  },
+  "1": {
+    "source_note_index": 1,
+    "creation_timestamp": "04/01/2026 10:30",
+    "summary": "Afebrile with mild erythema around the right outer ear and moderate tenderness on palpation. No systemic signs of illness noted. Plan for doctor review and otoscopic examination to confirm diagnosis and determine treatment."
+  },
+  "2": {
+    "source_note_index": 2,
+    "creation_timestamp": "04/01/2026 11:00",
+    "summary": "Patient reviewed in the ED on 04/01/26. Baseline observations were normal: heart rate, temperature, and SpO2 all within normal limits. Patient was in no acute distress and remained stable. Plan was to await senior review; no medications or interventions were initiated, and the patient was to remain in the ED for further assessment."
+  },
+  "3": {
+    "source_note_index": 3,
+    "creation_timestamp": "04/01/2026 11:30",
+    "summary": "1-year-old female presented with irritability, frequent crying, refusal to feed normally, and pulling at the right ear since the previous night. No fever, vomiting, diarrhoea, or other systemic symptoms were reported.\n\nExamination showed an irritable but alert child with mild erythema and tenderness of the right auricle. Otoscopy revealed a bulging tympanic membrane with effusion. No mastoiditis, cellulitis, facial asymmetry, weakness, neck stiffness, or other signs of systemic infection were noted. Observations were HR 110 bpm, RR 28/min, ताप 36.8°C, SpO2 99%.\n\nAssessment was acute otitis media with effusion. Oral paracetamol 120 mg was given in the ED, with advice to continue every 4–6 hours as needed for pain. The patient was referred to Paediatrics/ENT for inpatient admission due to symptom severity and need for further management, and handover was completed to the paediatric ward under Dr. Lisa Doreen Hayes."
+  },
+  "4": {
+    "source_note_index": 4,
+    "creation_timestamp": "04/01/2026 12:00",
+    "summary": "Acute right ear pain for 24 hours with intermittent crying, ear tugging, decreased feeding, irritability, and difficulty sleeping; no fever, vomiting, diarrhoea, cough, wheeze, breathlessness, rash, or abnormal urine output. Examination showed an alert but uncomfortable, consolable child with a bulging right tympanic membrane, effusion, and mild erythema on otoscopy; left ear normal. No mastoid or pre-auricular tenderness, no lymphadenopathy, facial asymmetry, or cranial nerve deficits. Vitals were stable: HR 110 bpm, RR 28, temp 36.8°C, SpO2 99% on air. Impression was acute right otitis media with effusion, likely bacterial. Started oral amoxicillin 125 mg TDS for 5 days and oral paracetamol 120 mg QDS; parents advised to monitor for systemic illness and reassess in 48 hours if no improvement or sooner if worsening."
+  },
+  "5": {
+    "source_note_index": 5,
+    "creation_timestamp": "04/01/2026 13:30",
+    "summary": "Seen on ward round for ear pain. Findings consistent with acute otitis media with effusion: right tympanic membrane bulging and erythematous with effusion on otoscopy; left TM normal. Moderate pain, afebrile, alert, no distress, and no signs of systemic infection. Observations: HR 110, BP 90/60, RR 24, Temp 36.8, SpO2 98%. Throat mildly erythematous without exudate; nasal passages clear; no cervical lymphadenopathy. Treatment started: amoxicillin 125 mg/5 mL oral suspension TDS for 5 days, paracetamol 120 mg oral suspension QID for pain, and warm compresses. Father to be informed of diagnosis and treatment plan."
+  },
+  "6": {
+    "source_note_index": 6,
+    "creation_timestamp": "04/01/2026 15:00",
+    "summary": "Education provided to the patient’s father regarding management of acute otitis media (AOM): warm compresses for ear pain, proper ear hygiene to prevent irritation or infection, and completing the prescribed 5-day course of oral amoxicillin. Reviewed signs of improvement (reduced pain, no discharge) and red flags (increased pain, discharge). Advised to continue oral paracetamol 120 mg as needed for pain relief. No changes made to the current treatment plan."
+  },
+  "7": {
+    "source_note_index": 7,
+    "creation_timestamp": "04/01/2026 16:30",
+    "summary": "Pharmacist reviewed the medication chart with Dr. Rose at 16:30. Amoxicillin 125 mg/5 mL oral suspension was confirmed as an appropriate dose for age and weight, and the 5-day antibiotic course was deemed suitable. No changes were made to the antibiotic regimen."
+  },
+  "8": {
+    "source_note_index": 8,
+    "creation_timestamp": "05/01/2026 08:00",
+    "summary": "Seen on ward round for ear pain due to acute otitis media with effusion. Parents reported significant improvement in pain overnight. Otoscopy showed reduced erythema and effusion of the right tympanic membrane compared with admission; left ear was normal. Patient was alert, interactive, comfortable, and had no signs of systemic infection or distress. Vitals: HR 110 bpm, RR 24/min, temp 36.8°C, SpO2 98% on air. No new investigations were performed and no pending results. Tolerated oral antibiotics and analgesia without adverse effects. Plan was discharge later today with amoxicillin 125 mg/5 mL oral suspension 2.5 mL TDS for 5 days and paracetamol 120 mg/5 mL oral suspension 5 mL QDS PRN for pain, with ENT follow-up in 2 weeks and advice to complete antibiotics, continue analgesia as needed, and use warm compresses for symptom relief."
+  },
+  "9": {
+    "source_note_index": 9,
+    "creation_timestamp": "05/01/2026 09:30",
+    "summary": "Discussed discharge plan with patient’s GP at 09:30. Plan: amoxicillin 125 mg/5 mL TDS for 5 days, paracetamol 120 mg/5 mL QDS PRN, and ENT follow-up in 2 weeks. No treatment changes made. GP aware for continuity of care."
+  }
+}
