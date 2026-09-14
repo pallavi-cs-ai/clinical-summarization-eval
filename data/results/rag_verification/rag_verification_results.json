@@ -1,0 +1,3783 @@
+{
+  "028998ee-babc-4096-9b28-001bc2f9a84e": {
+    "person_id": "028998ee-babc-4096-9b28-001bc2f9a84e",
+    "source_group_count": 15,
+    "source_groups": {
+      "1": {
+        "source_id": 1,
+        "source_sentence": "Tomos Ellis, a 15-year-old male with no documented past medical history, medications, or allergies, presented to the ED on 07/01/2026 with 3 days of constant dull lower abdominal pain, constipation, reduced appetite, and mild nausea without vomiting or fever.",
+        "verified_claims": [
+          {
+            "claim_id": 1,
+            "claim": "The patient was 15 years old.",
+            "source_id": 1,
+            "source_sentence": "Tomos Ellis, a 15-year-old male with no documented past medical history, medications, or allergies, presented to the ED on 07/01/2026 with 3 days of constant dull lower abdominal pain, constipation, reduced appetite, and mild nausea without vomiting or fever.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 and 4 state the patient is 15 years old.",
+            "supporting_evidence_ranks": [
+              1,
+              4
+            ]
+          },
+          {
+            "claim_id": 2,
+            "claim": "The patient was male.",
+            "source_id": 1,
+            "source_sentence": "Tomos Ellis, a 15-year-old male with no documented past medical history, medications, or allergies, presented to the ED on 07/01/2026 with 3 days of constant dull lower abdominal pain, constipation, reduced appetite, and mild nausea without vomiting or fever.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1, 4, and 10 identify the patient as male.",
+            "supporting_evidence_ranks": [
+              1,
+              4,
+              10
+            ]
+          },
+          {
+            "claim_id": 3,
+            "claim": "The patient had no documented past medical history.",
+            "source_id": 1,
+            "source_sentence": "Tomos Ellis, a 15-year-old male with no documented past medical history, medications, or allergies, presented to the ED on 07/01/2026 with 3 days of constant dull lower abdominal pain, constipation, reduced appetite, and mild nausea without vomiting or fever.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 states past medical history: none documented.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 4,
+            "claim": "The patient had no documented medications.",
+            "source_id": 1,
+            "source_sentence": "Tomos Ellis, a 15-year-old male with no documented past medical history, medications, or allergies, presented to the ED on 07/01/2026 with 3 days of constant dull lower abdominal pain, constipation, reduced appetite, and mild nausea without vomiting or fever.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 states current medications: none declared.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 5,
+            "claim": "The patient had no documented allergies.",
+            "source_id": 1,
+            "source_sentence": "Tomos Ellis, a 15-year-old male with no documented past medical history, medications, or allergies, presented to the ED on 07/01/2026 with 3 days of constant dull lower abdominal pain, constipation, reduced appetite, and mild nausea without vomiting or fever.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 states no known allergies reported.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 6,
+            "claim": "The patient presented to the ED.",
+            "source_id": 1,
+            "source_sentence": "Tomos Ellis, a 15-year-old male with no documented past medical history, medications, or allergies, presented to the ED on 07/01/2026 with 3 days of constant dull lower abdominal pain, constipation, reduced appetite, and mild nausea without vomiting or fever.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 states the patient presented via A&E on 07/01/26.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 7,
+            "claim": "The patient had 3 days of constant dull lower abdominal pain.",
+            "source_id": 1,
+            "source_sentence": "Tomos Ellis, a 15-year-old male with no documented past medical history, medications, or allergies, presented to the ED on 07/01/2026 with 3 days of constant dull lower abdominal pain, constipation, reduced appetite, and mild nausea without vomiting or fever.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 5 and 10 describe 3-day lower abdominal pain that is dull/constant.",
+            "supporting_evidence_ranks": [
+              5,
+              10
+            ]
+          },
+          {
+            "claim_id": 8,
+            "claim": "The patient had constipation.",
+            "source_id": 1,
+            "source_sentence": "Tomos Ellis, a 15-year-old male with no documented past medical history, medications, or allergies, presented to the ED on 07/01/2026 with 3 days of constant dull lower abdominal pain, constipation, reduced appetite, and mild nausea without vomiting or fever.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1, 5, 8, and 10 document constipation.",
+            "supporting_evidence_ranks": [
+              1,
+              5,
+              8,
+              10
+            ]
+          },
+          {
+            "claim_id": 9,
+            "claim": "The patient had reduced appetite.",
+            "source_id": 1,
+            "source_sentence": "Tomos Ellis, a 15-year-old male with no documented past medical history, medications, or allergies, presented to the ED on 07/01/2026 with 3 days of constant dull lower abdominal pain, constipation, reduced appetite, and mild nausea without vomiting or fever.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 5 and 10 state reduced appetite.",
+            "supporting_evidence_ranks": [
+              5,
+              10
+            ]
+          },
+          {
+            "claim_id": 10,
+            "claim": "The patient had mild nausea.",
+            "source_id": 1,
+            "source_sentence": "Tomos Ellis, a 15-year-old male with no documented past medical history, medications, or allergies, presented to the ED on 07/01/2026 with 3 days of constant dull lower abdominal pain, constipation, reduced appetite, and mild nausea without vomiting or fever.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 10 states mild nausea.",
+            "supporting_evidence_ranks": [
+              10
+            ]
+          },
+          {
+            "claim_id": 11,
+            "claim": "The patient had no vomiting.",
+            "source_id": 1,
+            "source_sentence": "Tomos Ellis, a 15-year-old male with no documented past medical history, medications, or allergies, presented to the ED on 07/01/2026 with 3 days of constant dull lower abdominal pain, constipation, reduced appetite, and mild nausea without vomiting or fever.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 10 explicitly says mild nausea with no vomiting, and Evidence 8 also notes no persistent vomiting.",
+            "supporting_evidence_ranks": [
+              8,
+              10
+            ]
+          },
+          {
+            "claim_id": 12,
+            "claim": "The patient had no fever.",
+            "source_id": 1,
+            "source_sentence": "Tomos Ellis, a 15-year-old male with no documented past medical history, medications, or allergies, presented to the ED on 07/01/2026 with 3 days of constant dull lower abdominal pain, constipation, reduced appetite, and mild nausea without vomiting or fever.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 10 states no fever, and Evidence 8 records temperature 37.1 without fever documented.",
+            "supporting_evidence_ranks": [
+              10
+            ]
+          }
+        ]
+      },
+      "2": {
+        "source_id": 2,
+        "source_sentence": "Pain was rated 6\u20137/10 and worsened with eating.",
+        "verified_claims": [
+          {
+            "claim_id": 13,
+            "claim": "Pain was rated 6\u20137/10.",
+            "source_id": 2,
+            "source_sentence": "Pain was rated 6\u20137/10 and worsened with eating.",
+            "label": "SUPPORTED",
+            "reason": "The record states the abdominal pain severity was 6/10 on arrival and 7/10 at presentation.",
+            "supporting_evidence_ranks": [
+              5,
+              9
+            ]
+          },
+          {
+            "claim_id": 14,
+            "claim": "Pain worsened with eating.",
+            "source_id": 2,
+            "source_sentence": "Pain was rated 6\u20137/10 and worsened with eating.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly says the pain was worse with eating / exacerbating factors: eating.",
+            "supporting_evidence_ranks": [
+              5,
+              9
+            ]
+          }
+        ]
+      },
+      "3": {
+        "source_id": 3,
+        "source_sentence": "Examination showed mild dehydration, mild abdominal distension, lower abdominal tenderness, and mildly hypoactive bowel sounds, without guarding, rebound tenderness, or peritonism.",
+        "verified_claims": [
+          {
+            "claim_id": 15,
+            "claim": "Examination showed mild dehydration.",
+            "source_id": 3,
+            "source_sentence": "Examination showed mild dehydration, mild abdominal distension, lower abdominal tenderness, and mildly hypoactive bowel sounds, without guarding, rebound tenderness, or peritonism.",
+            "label": "SUPPORTED",
+            "reason": "Evidence notes mild dehydration on triage and hydration assessment, including IV fluids to manage mild dehydration and mild dehydration noted at 10:30/11:00.",
+            "supporting_evidence_ranks": [
+              3,
+              7,
+              9
+            ]
+          },
+          {
+            "claim_id": 16,
+            "claim": "Examination showed mild abdominal distension.",
+            "source_id": 3,
+            "source_sentence": "Examination showed mild dehydration, mild abdominal distension, lower abdominal tenderness, and mildly hypoactive bowel sounds, without guarding, rebound tenderness, or peritonism.",
+            "label": "SUPPORTED",
+            "reason": "Multiple examinations describe the abdomen as mildly distended/distended.",
+            "supporting_evidence_ranks": [
+              2,
+              3,
+              5,
+              7,
+              10
+            ]
+          },
+          {
+            "claim_id": 17,
+            "claim": "Examination showed lower abdominal tenderness.",
+            "source_id": 3,
+            "source_sentence": "Examination showed mild dehydration, mild abdominal distension, lower abdominal tenderness, and mildly hypoactive bowel sounds, without guarding, rebound tenderness, or peritonism.",
+            "label": "SUPPORTED",
+            "reason": "Lower abdominal tenderness is documented as tenderness in the lower abdomen/lower quadrants.",
+            "supporting_evidence_ranks": [
+              2,
+              3,
+              4,
+              5,
+              7,
+              10
+            ]
+          },
+          {
+            "claim_id": 18,
+            "claim": "Examination showed mildly hypoactive bowel sounds.",
+            "source_id": 3,
+            "source_sentence": "Examination showed mild dehydration, mild abdominal distension, lower abdominal tenderness, and mildly hypoactive bowel sounds, without guarding, rebound tenderness, or peritonism.",
+            "label": "SUPPORTED",
+            "reason": "The 10:30 examination explicitly states bowel sounds were present and mildly hypoactive.",
+            "supporting_evidence_ranks": [
+              7
+            ]
+          },
+          {
+            "claim_id": 19,
+            "claim": "There was no guarding.",
+            "source_id": 3,
+            "source_sentence": "Examination showed mild dehydration, mild abdominal distension, lower abdominal tenderness, and mildly hypoactive bowel sounds, without guarding, rebound tenderness, or peritonism.",
+            "label": "SUPPORTED",
+            "reason": "Several examinations explicitly state there was no guarding.",
+            "supporting_evidence_ranks": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_id": 20,
+            "claim": "There was no rebound tenderness.",
+            "source_id": 3,
+            "source_sentence": "Examination showed mild dehydration, mild abdominal distension, lower abdominal tenderness, and mildly hypoactive bowel sounds, without guarding, rebound tenderness, or peritonism.",
+            "label": "SUPPORTED",
+            "reason": "Several examinations explicitly state there was no rebound tenderness.",
+            "supporting_evidence_ranks": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_id": 21,
+            "claim": "There was no peritonism.",
+            "source_id": 3,
+            "source_sentence": "Examination showed mild dehydration, mild abdominal distension, lower abdominal tenderness, and mildly hypoactive bowel sounds, without guarding, rebound tenderness, or peritonism.",
+            "label": "SUPPORTED",
+            "reason": "The 10:30 examination explicitly states there was no peritonism, and 13:00 also notes no signs of peritonitis.",
+            "supporting_evidence_ranks": [
+              4,
+              7
+            ]
+          }
+        ]
+      },
+      "4": {
+        "source_id": 4,
+        "source_sentence": "Observations were stable.",
+        "verified_claims": [
+          {
+            "claim_id": 22,
+            "claim": "Observations were stable.",
+            "source_id": 4,
+            "source_sentence": "Observations were stable.",
+            "label": "SUPPORTED",
+            "reason": "The record on 08/01/2026 states the patient was comfortable, had normal vital signs, no respiratory compromise, no tachycardia or hypotension, and no focal neurological deficits, consistent with stable observations.",
+            "supporting_evidence_ranks": [
+              1,
+              6
+            ]
+          }
+        ]
+      },
+      "5": {
+        "source_id": 5,
+        "source_sentence": "Abdominal X-ray demonstrated significant faecal loading with no obstruction or perforation.",
+        "verified_claims": [
+          {
+            "claim_id": 23,
+            "claim": "Abdominal X-ray demonstrated significant faecal loading.",
+            "source_id": 5,
+            "source_sentence": "Abdominal X-ray demonstrated significant faecal loading with no obstruction or perforation.",
+            "label": "SUPPORTED",
+            "reason": "The abdominal X-ray is documented as showing significant faecal loading.",
+            "supporting_evidence_ranks": [
+              1,
+              2,
+              4,
+              9
+            ]
+          },
+          {
+            "claim_id": 24,
+            "claim": "Abdominal X-ray showed no obstruction.",
+            "source_id": 5,
+            "source_sentence": "Abdominal X-ray demonstrated significant faecal loading with no obstruction or perforation.",
+            "label": "SUPPORTED",
+            "reason": "The abdominal X-ray is documented as showing no evidence of obstruction.",
+            "supporting_evidence_ranks": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_id": 25,
+            "claim": "Abdominal X-ray showed no perforation.",
+            "source_id": 5,
+            "source_sentence": "Abdominal X-ray demonstrated significant faecal loading with no obstruction or perforation.",
+            "label": "SUPPORTED",
+            "reason": "The abdominal X-ray is documented as showing no evidence of perforation.",
+            "supporting_evidence_ranks": [
+              1,
+              2
+            ]
+          }
+        ]
+      },
+      "6": {
+        "source_id": 6,
+        "source_sentence": "FBC, U&Es, CRP, and LFTs were normal.",
+        "verified_claims": [
+          {
+            "claim_id": 26,
+            "claim": "FBC was normal.",
+            "source_id": 6,
+            "source_sentence": "FBC, U&Es, CRP, and LFTs were normal.",
+            "label": "SUPPORTED",
+            "reason": "The investigations explicitly state 'FBC: Normal' and 'Normal FBC' on 07/01/2026.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 27,
+            "claim": "U&Es were normal.",
+            "source_id": 6,
+            "source_sentence": "FBC, U&Es, CRP, and LFTs were normal.",
+            "label": "SUPPORTED",
+            "reason": "The investigations explicitly state 'U&Es: Normal' and 'Normal U&Es' on 07/01/2026.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 28,
+            "claim": "CRP was normal.",
+            "source_id": 6,
+            "source_sentence": "FBC, U&Es, CRP, and LFTs were normal.",
+            "label": "SUPPORTED",
+            "reason": "The investigations explicitly state 'CRP: Normal' and 'Normal FBC, U&Es, and CRP' on 07/01/2026.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 29,
+            "claim": "LFTs were normal.",
+            "source_id": 6,
+            "source_sentence": "FBC, U&Es, CRP, and LFTs were normal.",
+            "label": "SUPPORTED",
+            "reason": "The investigations explicitly state 'LFTs: Normal' on 07/01/2026.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          }
+        ]
+      },
+      "7": {
+        "source_id": 7,
+        "source_sentence": "He was diagnosed with constipation and mild dehydration and admitted to the paediatric ward for supportive management.",
+        "verified_claims": [
+          {
+            "claim_id": 30,
+            "claim": "He was diagnosed with constipation.",
+            "source_id": 7,
+            "source_sentence": "He was diagnosed with constipation and mild dehydration and admitted to the paediatric ward for supportive management.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly states an ED diagnosis of constipation and later notes constipation again.",
+            "supporting_evidence_ranks": [
+              1,
+              2,
+              3,
+              8,
+              10
+            ]
+          },
+          {
+            "claim_id": 31,
+            "claim": "He was diagnosed with mild dehydration.",
+            "source_id": 7,
+            "source_sentence": "He was diagnosed with constipation and mild dehydration and admitted to the paediatric ward for supportive management.",
+            "label": "SUPPORTED",
+            "reason": "Mild dehydration is explicitly documented on triage and in the impression/assessment notes.",
+            "supporting_evidence_ranks": [
+              2,
+              3,
+              7,
+              10
+            ]
+          },
+          {
+            "claim_id": 32,
+            "claim": "He was admitted to the paediatric ward.",
+            "source_id": 7,
+            "source_sentence": "He was diagnosed with constipation and mild dehydration and admitted to the paediatric ward for supportive management.",
+            "label": "SUPPORTED",
+            "reason": "The patient was referred to paeds and transferred to the Paeds Ward, which supports admission to the paediatric ward.",
+            "supporting_evidence_ranks": [
+              3
+            ]
+          },
+          {
+            "claim_id": 33,
+            "claim": "He was admitted for supportive management.",
+            "source_id": 7,
+            "source_sentence": "He was diagnosed with constipation and mild dehydration and admitted to the paediatric ward for supportive management.",
+            "label": "SUPPORTED",
+            "reason": "The record states he was referred to paeds after diagnosis and transferred to the Paeds Ward for ongoing management, consistent with supportive management.",
+            "supporting_evidence_ranks": [
+              3,
+              4,
+              5,
+              6,
+              8,
+              9
+            ]
+          }
+        ]
+      },
+      "8": {
+        "source_id": 8,
+        "source_sentence": "Treatment included IV 0.9% sodium chloride 500 mL over 4 hours, a single 10 mg dose of bisacodyl, oral macrogol/Movicol 1 sachet three times daily, oral hydration, and monitoring of bowel movements.",
+        "verified_claims": [
+          {
+            "claim_id": 34,
+            "claim": "Treatment included IV 0.9% sodium chloride 500 mL over 4 hours.",
+            "source_id": 8,
+            "source_sentence": "Treatment included IV 0.9% sodium chloride 500 mL over 4 hours, a single 10 mg dose of bisacodyl, oral macrogol/Movicol 1 sachet three times daily, oral hydration, and monitoring of bowel movements.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 2 states IV fluids (0.9% sodium chloride) were initiated at 500 mL over 4 hours.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          },
+          {
+            "claim_id": 35,
+            "claim": "Treatment included a single 10 mg dose of bisacodyl.",
+            "source_id": 8,
+            "source_sentence": "Treatment included IV 0.9% sodium chloride 500 mL over 4 hours, a single 10 mg dose of bisacodyl, oral macrogol/Movicol 1 sachet three times daily, oral hydration, and monitoring of bowel movements.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 and Evidence 6 both state a single 10 mg dose of bisacodyl was administered.",
+            "supporting_evidence_ranks": [
+              1,
+              6
+            ]
+          },
+          {
+            "claim_id": 36,
+            "claim": "Treatment included oral macrogol/Movicol 1 sachet.",
+            "source_id": 8,
+            "source_sentence": "Treatment included IV 0.9% sodium chloride 500 mL over 4 hours, a single 10 mg dose of bisacodyl, oral macrogol/Movicol 1 sachet three times daily, oral hydration, and monitoring of bowel movements.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 3 and Evidence 8 state oral macrogol was prescribed/continued as 1 sachet.",
+            "supporting_evidence_ranks": [
+              3,
+              8
+            ]
+          },
+          {
+            "claim_id": 37,
+            "claim": "Oral macrogol/Movicol was prescribed three times daily.",
+            "source_id": 8,
+            "source_sentence": "Treatment included IV 0.9% sodium chloride 500 mL over 4 hours, a single 10 mg dose of bisacodyl, oral macrogol/Movicol 1 sachet three times daily, oral hydration, and monitoring of bowel movements.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 3 says '1 sachet TID' and Evidence 8 says '1 sachet TDS,' both indicating three times daily.",
+            "supporting_evidence_ranks": [
+              3,
+              8
+            ]
+          },
+          {
+            "claim_id": 38,
+            "claim": "Treatment included oral hydration.",
+            "source_id": 8,
+            "source_sentence": "Treatment included IV 0.9% sodium chloride 500 mL over 4 hours, a single 10 mg dose of bisacodyl, oral macrogol/Movicol 1 sachet three times daily, oral hydration, and monitoring of bowel movements.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 3 advises to encourage oral fluid intake, and Evidence 5 and Evidence 8 also mention hydration/oral hydratioon continuing.",
+            "supporting_evidence_ranks": [
+              3,
+              5,
+              8
+            ]
+          },
+          {
+            "claim_id": 39,
+            "claim": "Treatment included monitoring of bowel movements.",
+            "source_id": 8,
+            "source_sentence": "Treatment included IV 0.9% sodium chloride 500 mL over 4 hours, a single 10 mg dose of bisacodyl, oral macrogol/Movicol 1 sachet three times daily, oral hydration, and monitoring of bowel movements.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 3 states to monitor bowel movements, and Evidence 7 also says to monitor for bowel movements.",
+            "supporting_evidence_ranks": [
+              3,
+              7
+            ]
+          }
+        ]
+      },
+      "9": {
+        "source_id": 9,
+        "source_sentence": "No surgery was required.",
+        "verified_claims": [
+          {
+            "claim_id": 40,
+            "claim": "Surgery was not required.",
+            "source_id": 9,
+            "source_sentence": "No surgery was required.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly states the patient was managed with observation, IV fluids, and investigations, and later notes show continued conservative care with oral laxatives/hydration; there is no evidence that surgery was needed.",
+            "supporting_evidence_ranks": [
+              1,
+              2,
+              3,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        ]
+      },
+      "10": {
+        "source_id": 10,
+        "source_sentence": "On 07\u201308/01, he received advice on hydration, dietary fibre, and mobilisation.",
+        "verified_claims": [
+          {
+            "claim_id": 41,
+            "claim": "He received advice on hydration.",
+            "source_id": 10,
+            "source_sentence": "On 07\u201308/01, he received advice on hydration, dietary fibre, and mobilisation.",
+            "label": "SUPPORTED",
+            "reason": "The record states that hydration was discussed and recommended, including encouragement of oral fluid intake and recommended fluid intake provided.",
+            "supporting_evidence_ranks": [
+              7,
+              10,
+              1
+            ]
+          },
+          {
+            "claim_id": 42,
+            "claim": "He received advice on dietary fibre.",
+            "source_id": 10,
+            "source_sentence": "On 07\u201308/01, he received advice on hydration, dietary fibre, and mobilisation.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly says dietary fibre was discussed and a high-fibre diet was advised.",
+            "supporting_evidence_ranks": [
+              7,
+              1
+            ]
+          },
+          {
+            "claim_id": 43,
+            "claim": "He received advice on mobilisation.",
+            "source_id": 10,
+            "source_sentence": "On 07\u201308/01, he received advice on hydration, dietary fibre, and mobilisation.",
+            "label": "SUPPORTED",
+            "reason": "The record documents physiotherapy sessions focused on light mobility/mobilisation, with advice to continue light walking and light mobilisation.",
+            "supporting_evidence_ranks": [
+              6,
+              8,
+              4
+            ]
+          }
+        ]
+      },
+      "11": {
+        "source_id": 11,
+        "source_sentence": "Physiotherapy sessions involved walking, stretching, and light exercises to support bowel motility; these were well tolerated, with reduced discomfort reported during movement on 08/01.",
+        "verified_claims": [
+          {
+            "claim_id": 44,
+            "claim": "Physiotherapy sessions involved walking.",
+            "source_id": 11,
+            "source_sentence": "Physiotherapy sessions involved walking, stretching, and light exercises to support bowel motility; these were well tolerated, with reduced discomfort reported during movement on 08/01.",
+            "label": "SUPPORTED",
+            "reason": "The PT notes state the patient was guided through light mobility activities and advised gentle walking; evidence 3 also explicitly says walking short distances was performed during physiotherapy.",
+            "supporting_evidence_ranks": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_id": 45,
+            "claim": "Physiotherapy sessions involved stretching.",
+            "source_id": 11,
+            "source_sentence": "Physiotherapy sessions involved walking, stretching, and light exercises to support bowel motility; these were well tolerated, with reduced discomfort reported during movement on 08/01.",
+            "label": "SUPPORTED",
+            "reason": "Both PT sessions explicitly mention gentle stretching exercises.",
+            "supporting_evidence_ranks": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_id": 46,
+            "claim": "Physiotherapy sessions involved light exercises.",
+            "source_id": 11,
+            "source_sentence": "Physiotherapy sessions involved walking, stretching, and light exercises to support bowel motility; these were well tolerated, with reduced discomfort reported during movement on 08/01.",
+            "label": "SUPPORTED",
+            "reason": "The PT notes explicitly describe light mobility activities and light physical exercises.",
+            "supporting_evidence_ranks": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_id": 47,
+            "claim": "The walking, stretching, and light exercises were intended to support bowel motility.",
+            "source_id": 11,
+            "source_sentence": "Physiotherapy sessions involved walking, stretching, and light exercises to support bowel motility; these were well tolerated, with reduced discomfort reported during movement on 08/01.",
+            "label": "SUPPORTED",
+            "reason": "The physiotherapy sessions were described as aimed at improving/promoting bowel motility, and walking was advised to support bowel motility.",
+            "supporting_evidence_ranks": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_id": 48,
+            "claim": "The walking, stretching, and light exercises were well tolerated.",
+            "source_id": 11,
+            "source_sentence": "Physiotherapy sessions involved walking, stretching, and light exercises to support bowel motility; these were well tolerated, with reduced discomfort reported during movement on 08/01.",
+            "label": "SUPPORTED",
+            "reason": "One PT session was documented as well-tolerated, and another noted no adverse events with active participation, which supports that the activities were well tolerated.",
+            "supporting_evidence_ranks": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_id": 49,
+            "claim": "Reduced discomfort was reported during movement on 08/01.",
+            "source_id": 11,
+            "source_sentence": "Physiotherapy sessions involved walking, stretching, and light exercises to support bowel motility; these were well tolerated, with reduced discomfort reported during movement on 08/01.",
+            "label": "SUPPORTED",
+            "reason": "The 08/01 PT note states the patient reported reduced discomfort with movement compared to 07/01/26.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          }
+        ]
+      },
+      "12": {
+        "source_id": 12,
+        "source_sentence": "Dietetic review recommended a high-fibre diet including whole grains, fruits, and vegetables.",
+        "verified_claims": [
+          {
+            "claim_id": 50,
+            "claim": "Dietetic review was recommended.",
+            "source_id": 12,
+            "source_sentence": "Dietetic review recommended a high-fibre diet including whole grains, fruits, and vegetables.",
+            "label": "SUPPORTED",
+            "reason": "Evidence states that the dietitian reviewed the patient.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 51,
+            "claim": "A high-fibre diet was recommended.",
+            "source_id": 12,
+            "source_sentence": "Dietetic review recommended a high-fibre diet including whole grains, fruits, and vegetables.",
+            "label": "SUPPORTED",
+            "reason": "The dietitian advised a high-fibre diet, and later the plan also advised high-fibre diet.",
+            "supporting_evidence_ranks": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_id": 52,
+            "claim": "The recommended diet included whole grains.",
+            "source_id": 12,
+            "source_sentence": "Dietetic review recommended a high-fibre diet including whole grains, fruits, and vegetables.",
+            "label": "SUPPORTED",
+            "reason": "The dietitian's recommendations included whole grains.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 53,
+            "claim": "The recommended diet included fruits.",
+            "source_id": 12,
+            "source_sentence": "Dietetic review recommended a high-fibre diet including whole grains, fruits, and vegetables.",
+            "label": "SUPPORTED",
+            "reason": "The dietitian's recommendations included fresh fruits.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 54,
+            "claim": "The recommended diet included vegetables.",
+            "source_id": 12,
+            "source_sentence": "Dietetic review recommended a high-fibre diet including whole grains, fruits, and vegetables.",
+            "label": "SUPPORTED",
+            "reason": "The dietitian's recommendations included vegetables.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          }
+        ]
+      },
+      "13": {
+        "source_id": 13,
+        "source_sentence": "The plan on 08/01 was to continue macrogol and hydration, assess for a bowel movement, and consider discharge if symptoms improved.",
+        "verified_claims": [
+          {
+            "claim_id": 55,
+            "claim": "The plan was to continue macrogol.",
+            "source_id": 13,
+            "source_sentence": "The plan on 08/01 was to continue macrogol and hydration, assess for a bowel movement, and consider discharge if symptoms improved.",
+            "label": "SUPPORTED",
+            "reason": "The 08/01 plan explicitly says to continue macrogol.",
+            "supporting_evidence_ranks": [
+              1,
+              9
+            ]
+          },
+          {
+            "claim_id": 56,
+            "claim": "The plan was to continue hydration.",
+            "source_id": 13,
+            "source_sentence": "The plan on 08/01 was to continue macrogol and hydration, assess for a bowel movement, and consider discharge if symptoms improved.",
+            "label": "SUPPORTED",
+            "reason": "The 08/01 plan explicitly says to continue hydration/oral hydration.",
+            "supporting_evidence_ranks": [
+              1,
+              9
+            ]
+          },
+          {
+            "claim_id": 57,
+            "claim": "The plan was to assess for a bowel movement.",
+            "source_id": 13,
+            "source_sentence": "The plan on 08/01 was to continue macrogol and hydration, assess for a bowel movement, and consider discharge if symptoms improved.",
+            "label": "SUPPORTED",
+            "reason": "The 08/01 plan explicitly says to assess for a bowel movement/full BM.",
+            "supporting_evidence_ranks": [
+              9
+            ]
+          },
+          {
+            "claim_id": 58,
+            "claim": "The plan was to consider discharge if symptoms improved.",
+            "source_id": 13,
+            "source_sentence": "The plan on 08/01 was to continue macrogol and hydration, assess for a bowel movement, and consider discharge if symptoms improved.",
+            "label": "SUPPORTED",
+            "reason": "The 08/01 plan explicitly says to consider discharge if symptoms continue to improve.",
+            "supporting_evidence_ranks": [
+              9
+            ]
+          }
+        ]
+      },
+      "14": {
+        "source_id": 14,
+        "source_sentence": "On 09/01/2026, oral macrogol was discontinued.",
+        "verified_claims": [
+          {
+            "claim_id": 59,
+            "claim": "Oral macrogol was discontinued.",
+            "source_id": 14,
+            "source_sentence": "On 09/01/2026, oral macrogol was discontinued.",
+            "label": "SUPPORTED",
+            "reason": "The plan dated 09/01/2026 explicitly states 'Discontinue oral macrogol.'",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          }
+        ]
+      },
+      "15": {
+        "source_id": 15,
+        "source_sentence": "He was prescribed take-home lactulose 10 mL twice daily as required for maintenance and discharged with advice to maintain a high-fibre diet, adequate oral hydration, and ongoing light walking to help prevent recurrence.",
+        "verified_claims": [
+          {
+            "claim_id": 60,
+            "claim": "He was prescribed take-home lactulose.",
+            "source_id": 15,
+            "source_sentence": "He was prescribed take-home lactulose 10 mL twice daily as required for maintenance and discharged with advice to maintain a high-fibre diet, adequate oral hydration, and ongoing light walking to help prevent recurrence.",
+            "label": "SUPPORTED",
+            "reason": "The plan states 'Prescribe take-home lactulose 10 mL BD PRN for maintenance,' which supports a take-home lactulose prescription.",
+            "supporting_evidence_ranks": [
+              3
+            ]
+          },
+          {
+            "claim_id": 61,
+            "claim": "The lactulose dose was 10 mL.",
+            "source_id": 15,
+            "source_sentence": "He was prescribed take-home lactulose 10 mL twice daily as required for maintenance and discharged with advice to maintain a high-fibre diet, adequate oral hydration, and ongoing light walking to help prevent recurrence.",
+            "label": "SUPPORTED",
+            "reason": "The prescribed lactulose was documented as '10 mL' in the plan.",
+            "supporting_evidence_ranks": [
+              3
+            ]
+          },
+          {
+            "claim_id": 62,
+            "claim": "The lactulose was prescribed twice daily.",
+            "source_id": 15,
+            "source_sentence": "He was prescribed take-home lactulose 10 mL twice daily as required for maintenance and discharged with advice to maintain a high-fibre diet, adequate oral hydration, and ongoing light walking to help prevent recurrence.",
+            "label": "SUPPORTED",
+            "reason": "The plan specifies 'BD,' meaning twice daily.",
+            "supporting_evidence_ranks": [
+              3
+            ]
+          },
+          {
+            "claim_id": 63,
+            "claim": "The lactulose was prescribed as required.",
+            "source_id": 15,
+            "source_sentence": "He was prescribed take-home lactulose 10 mL twice daily as required for maintenance and discharged with advice to maintain a high-fibre diet, adequate oral hydration, and ongoing light walking to help prevent recurrence.",
+            "label": "SUPPORTED",
+            "reason": "The plan includes 'PRN,' indicating it was prescribed as required.",
+            "supporting_evidence_ranks": [
+              3
+            ]
+          },
+          {
+            "claim_id": 64,
+            "claim": "The lactulose was prescribed for maintenance.",
+            "source_id": 15,
+            "source_sentence": "He was prescribed take-home lactulose 10 mL twice daily as required for maintenance and discharged with advice to maintain a high-fibre diet, adequate oral hydration, and ongoing light walking to help prevent recurrence.",
+            "label": "SUPPORTED",
+            "reason": "The plan explicitly says 'for maintenance.'",
+            "supporting_evidence_ranks": [
+              3
+            ]
+          },
+          {
+            "claim_id": 65,
+            "claim": "He was discharged with advice to maintain a high-fibre diet.",
+            "source_id": 15,
+            "source_sentence": "He was prescribed take-home lactulose 10 mL twice daily as required for maintenance and discharged with advice to maintain a high-fibre diet, adequate oral hydration, and ongoing light walking to help prevent recurrence.",
+            "label": "SUPPORTED",
+            "reason": "The plan says discharge with advice on a high-fibre diet, and dietitian notes also advise a high-fibre diet.",
+            "supporting_evidence_ranks": [
+              3,
+              1
+            ]
+          },
+          {
+            "claim_id": 66,
+            "claim": "He was discharged with advice to maintain adequate oral hydration.",
+            "source_id": 15,
+            "source_sentence": "He was prescribed take-home lactulose 10 mL twice daily as required for maintenance and discharged with advice to maintain a high-fibre diet, adequate oral hydration, and ongoing light walking to help prevent recurrence.",
+            "label": "SUPPORTED",
+            "reason": "The plan says discharge with advice on oral hydration, and other notes also refer to continuing hydration.",
+            "supporting_evidence_ranks": [
+              3,
+              1
+            ]
+          },
+          {
+            "claim_id": 67,
+            "claim": "He was discharged with advice to continue ongoing light walking.",
+            "source_id": 15,
+            "source_sentence": "He was prescribed take-home lactulose 10 mL twice daily as required for maintenance and discharged with advice to maintain a high-fibre diet, adequate oral hydration, and ongoing light walking to help prevent recurrence.",
+            "label": "SUPPORTED",
+            "reason": "Physiotherapy notes advise continuing light walking sessions after discharge and gentle walking at home post-discharge.",
+            "supporting_evidence_ranks": [
+              5,
+              6
+            ]
+          },
+          {
+            "claim_id": 68,
+            "claim": "The advice to maintain a high-fibre diet, adequate oral hydration, and ongoing light walking was to help prevent recurrence.",
+            "source_id": 15,
+            "source_sentence": "He was prescribed take-home lactulose 10 mL twice daily as required for maintenance and discharged with advice to maintain a high-fibre diet, adequate oral hydration, and ongoing light walking to help prevent recurrence.",
+            "label": "SUPPORTED",
+            "reason": "The plan explicitly states the discharge advice on high-fibre diet and oral hydration was 'to prevent recurrence,' and physiotherapy notes similarly mention preventing symptom recurrence.",
+            "supporting_evidence_ranks": [
+              3,
+              5
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "04df53ea-55c1-48d9-84a1-1f15c133b29b": {
+    "person_id": "04df53ea-55c1-48d9-84a1-1f15c133b29b",
+    "source_group_count": 23,
+    "source_groups": {
+      "1": {
+        "source_id": 1,
+        "source_sentence": "**01/01/2026:** Allan Victor Robinson, 67-year-old man with hypertension and osteoarthritis, no known drug allergies and no regular medications documented, presented to A&E with acute confusion after a minor fall.",
+        "verified_claims": [
+          {
+            "claim_id": 1,
+            "claim": "The patient was 67 years old.",
+            "source_id": 1,
+            "source_sentence": "**01/01/2026:** Allan Victor Robinson, 67-year-old man with hypertension and osteoarthritis, no known drug allergies and no regular medications documented, presented to A&E with acute confusion after a minor fall.",
+            "label": "SUPPORTED",
+            "reason": "The record repeatedly states the patient is 67 years old / 67M.",
+            "supporting_evidence_ranks": [
+              1,
+              3,
+              5,
+              6,
+              10
+            ]
+          },
+          {
+            "claim_id": 2,
+            "claim": "The patient was male.",
+            "source_id": 1,
+            "source_sentence": "**01/01/2026:** Allan Victor Robinson, 67-year-old man with hypertension and osteoarthritis, no known drug allergies and no regular medications documented, presented to A&E with acute confusion after a minor fall.",
+            "label": "SUPPORTED",
+            "reason": "The record repeatedly identifies the patient as male.",
+            "supporting_evidence_ranks": [
+              1,
+              3,
+              5,
+              6,
+              10
+            ]
+          },
+          {
+            "claim_id": 3,
+            "claim": "The patient had hypertension.",
+            "source_id": 1,
+            "source_sentence": "**01/01/2026:** Allan Victor Robinson, 67-year-old man with hypertension and osteoarthritis, no known drug allergies and no regular medications documented, presented to A&E with acute confusion after a minor fall.",
+            "label": "SUPPORTED",
+            "reason": "Past medical history includes HTN, which is hypertension.",
+            "supporting_evidence_ranks": [
+              1,
+              3,
+              8,
+              10
+            ]
+          },
+          {
+            "claim_id": 4,
+            "claim": "The patient had osteoarthritis.",
+            "source_id": 1,
+            "source_sentence": "**01/01/2026:** Allan Victor Robinson, 67-year-old man with hypertension and osteoarthritis, no known drug allergies and no regular medications documented, presented to A&E with acute confusion after a minor fall.",
+            "label": "SUPPORTED",
+            "reason": "Past medical history includes osteoarthritis / OA.",
+            "supporting_evidence_ranks": [
+              1,
+              3,
+              10
+            ]
+          },
+          {
+            "claim_id": 5,
+            "claim": "The patient had no known drug allergies.",
+            "source_id": 1,
+            "source_sentence": "**01/01/2026:** Allan Victor Robinson, 67-year-old man with hypertension and osteoarthritis, no known drug allergies and no regular medications documented, presented to A&E with acute confusion after a minor fall.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly states no known drug allergies / no allergies.",
+            "supporting_evidence_ranks": [
+              3,
+              10
+            ]
+          },
+          {
+            "claim_id": 6,
+            "claim": "No regular medications were documented.",
+            "source_id": 1,
+            "source_sentence": "**01/01/2026:** Allan Victor Robinson, 67-year-old man with hypertension and osteoarthritis, no known drug allergies and no regular medications documented, presented to A&E with acute confusion after a minor fall.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly states no meds / no regular medications documented.",
+            "supporting_evidence_ranks": [
+              3,
+              10
+            ]
+          },
+          {
+            "claim_id": 7,
+            "claim": "The patient presented to A&E.",
+            "source_id": 1,
+            "source_sentence": "**01/01/2026:** Allan Victor Robinson, 67-year-old man with hypertension and osteoarthritis, no known drug allergies and no regular medications documented, presented to A&E with acute confusion after a minor fall.",
+            "label": "SUPPORTED",
+            "reason": "The patient is documented as arriving/presenting to A&E.",
+            "supporting_evidence_ranks": [
+              3,
+              7,
+              10
+            ]
+          },
+          {
+            "claim_id": 8,
+            "claim": "The patient had acute confusion.",
+            "source_id": 1,
+            "source_sentence": "**01/01/2026:** Allan Victor Robinson, 67-year-old man with hypertension and osteoarthritis, no known drug allergies and no regular medications documented, presented to A&E with acute confusion after a minor fall.",
+            "label": "SUPPORTED",
+            "reason": "The clinical context states acute confusion, with disorientation to time and place.",
+            "supporting_evidence_ranks": [
+              1,
+              2,
+              3,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_id": 9,
+            "claim": "The presentation followed a minor fall.",
+            "source_id": 1,
+            "source_sentence": "**01/01/2026:** Allan Victor Robinson, 67-year-old man with hypertension and osteoarthritis, no known drug allergies and no regular medications documented, presented to A&E with acute confusion after a minor fall.",
+            "label": "SUPPORTED",
+            "reason": "The presentation is documented as occurring after / following a minor fall.",
+            "supporting_evidence_ranks": [
+              1,
+              2,
+              3,
+              7,
+              10
+            ]
+          }
+        ]
+      },
+      "2": {
+        "source_id": 2,
+        "source_sentence": "He was triage category 2, with GCS 12/15 and disorientation to time and place; initial BP was 170/95 and pulse 88.",
+        "verified_claims": [
+          {
+            "claim_id": 10,
+            "claim": "He was triage category 2.",
+            "source_id": 2,
+            "source_sentence": "He was triage category 2, with GCS 12/15 and disorientation to time and place; initial BP was 170/95 and pulse 88.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly states he was assigned/triaged as category 2.",
+            "supporting_evidence_ranks": [
+              1,
+              2,
+              4
+            ]
+          },
+          {
+            "claim_id": 11,
+            "claim": "His GCS was 12/15.",
+            "source_id": 2,
+            "source_sentence": "He was triage category 2, with GCS 12/15 and disorientation to time and place; initial BP was 170/95 and pulse 88.",
+            "label": "SUPPORTED",
+            "reason": "Multiple notes document a GCS of 12/15 at the relevant time.",
+            "supporting_evidence_ranks": [
+              1,
+              2,
+              3,
+              7,
+              9
+            ]
+          },
+          {
+            "claim_id": 12,
+            "claim": "He was disoriented to time.",
+            "source_id": 2,
+            "source_sentence": "He was triage category 2, with GCS 12/15 and disorientation to time and place; initial BP was 170/95 and pulse 88.",
+            "label": "SUPPORTED",
+            "reason": "The evidence explicitly says he was disoriented to time.",
+            "supporting_evidence_ranks": [
+              1,
+              2,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_id": 13,
+            "claim": "He was disoriented to place.",
+            "source_id": 2,
+            "source_sentence": "He was triage category 2, with GCS 12/15 and disorientation to time and place; initial BP was 170/95 and pulse 88.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly states disorientation to place.",
+            "supporting_evidence_ranks": [
+              1,
+              2,
+              5,
+              7
+            ]
+          },
+          {
+            "claim_id": 14,
+            "claim": "His initial blood pressure was 170/95.",
+            "source_id": 2,
+            "source_sentence": "He was triage category 2, with GCS 12/15 and disorientation to time and place; initial BP was 170/95 and pulse 88.",
+            "label": "SUPPORTED",
+            "reason": "Initial BP is documented as 170/95 in the triage and ED notes.",
+            "supporting_evidence_ranks": [
+              2,
+              3,
+              4,
+              9
+            ]
+          },
+          {
+            "claim_id": 15,
+            "claim": "His initial pulse was 88.",
+            "source_id": 2,
+            "source_sentence": "He was triage category 2, with GCS 12/15 and disorientation to time and place; initial BP was 170/95 and pulse 88.",
+            "label": "SUPPORTED",
+            "reason": "Initial pulse/HR is documented as 88 bpm in the triage and ED notes.",
+            "supporting_evidence_ranks": [
+              2,
+              3,
+              4
+            ]
+          }
+        ]
+      },
+      "3": {
+        "source_id": 3,
+        "source_sentence": "Urgent blood tests and CT head were arranged to exclude intracranial injury.",
+        "verified_claims": [
+          {
+            "claim_id": 16,
+            "claim": "Urgent blood tests were arranged.",
+            "source_id": 3,
+            "source_sentence": "Urgent blood tests and CT head were arranged to exclude intracranial injury.",
+            "label": "SUPPORTED",
+            "reason": "The record states that urgent bloods/blood draws were completed and urgent bloods were requested, indicating they were arranged.",
+            "supporting_evidence_ranks": [
+              1,
+              8
+            ]
+          },
+          {
+            "claim_id": 17,
+            "claim": "CT head was arranged.",
+            "source_id": 3,
+            "source_sentence": "Urgent blood tests and CT head were arranged to exclude intracranial injury.",
+            "label": "SUPPORTED",
+            "reason": "The record states the patient was prepared for CT head scan, escorted to radiology, and CT head was requested/planned.",
+            "supporting_evidence_ranks": [
+              1,
+              8,
+              10
+            ]
+          },
+          {
+            "claim_id": 18,
+            "claim": "The blood tests and CT head were arranged to exclude intracranial injury.",
+            "source_id": 3,
+            "source_sentence": "Urgent blood tests and CT head were arranged to exclude intracranial injury.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly says the blood draws and CT head were done to investigate potential intracranial injury / to rule out intracranial injury.",
+            "supporting_evidence_ranks": [
+              1,
+              8
+            ]
+          }
+        ]
+      },
+      "4": {
+        "source_id": 4,
+        "source_sentence": "Blood samples were sent for FNC, electrolytes and coagulation studies.",
+        "verified_claims": [
+          {
+            "claim_id": 19,
+            "claim": "Blood samples were sent for FNC.",
+            "source_id": 4,
+            "source_sentence": "Blood samples were sent for FNC, electrolytes and coagulation studies.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly states that blood samples were sent for FNC.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 20,
+            "claim": "Blood samples were sent for electrolytes.",
+            "source_id": 4,
+            "source_sentence": "Blood samples were sent for FNC, electrolytes and coagulation studies.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly states that blood samples were sent for electrolytes.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 21,
+            "claim": "Blood samples were sent for coagulation studies.",
+            "source_id": 4,
+            "source_sentence": "Blood samples were sent for FNC, electrolytes and coagulation studies.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly states that blood samples were sent for coagulation profile, which supports coagulation studies.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          }
+        ]
+      },
+      "5": {
+        "source_id": 5,
+        "source_sentence": "CT head demonstrated a **subdural hygroma**, and admission to the Neurology Ward was planned.",
+        "verified_claims": [
+          {
+            "claim_id": 22,
+            "claim": "CT head demonstrated a subdural hygroma.",
+            "source_id": 5,
+            "source_sentence": "CT head demonstrated a **subdural hygroma**, and admission to the Neurology Ward was planned.",
+            "label": "SUPPORTED",
+            "reason": "CT head was documented as showing a subdural hygroma / confirmed subdural hygroma.",
+            "supporting_evidence_ranks": [
+              5,
+              8,
+              2
+            ]
+          },
+          {
+            "claim_id": 23,
+            "claim": "Admission to the Neurology Ward was planned.",
+            "source_id": 5,
+            "source_sentence": "CT head demonstrated a **subdural hygroma**, and admission to the Neurology Ward was planned.",
+            "label": "SUPPORTED",
+            "reason": "The record states a plan to hand over to the medical team for admission to the Neurology Ward.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          }
+        ]
+      },
+      "6": {
+        "source_id": 6,
+        "source_sentence": "He remained haemodynamically stable with no external injuries.",
+        "verified_claims": [
+          {
+            "claim_id": 24,
+            "claim": "He remained haemodynamically stable.",
+            "source_id": 6,
+            "source_sentence": "He remained haemodynamically stable with no external injuries.",
+            "label": "SUPPORTED",
+            "reason": "Evidence on 01/01 and 02/01 describes the patient as cardiovascularly/circulation stable, and later on 05/01 and 07/01 he is again documented as haemodynamically/CVS stable. This supports that he remained haemodynamically stable in the relevant course of care.",
+            "supporting_evidence_ranks": [
+              3,
+              4,
+              5,
+              2
+            ]
+          },
+          {
+            "claim_id": 25,
+            "claim": "He had no external injuries.",
+            "source_id": 6,
+            "source_sentence": "He remained haemodynamically stable with no external injuries.",
+            "label": "SUPPORTED",
+            "reason": "The records explicitly state 'No external injuries' on 01/01 at 10:15 and 'No external injuries or skin breakdown observed' on 01/01 at 15:30, with no contrary evidence in the provided records.",
+            "supporting_evidence_ranks": [
+              6,
+              4
+            ]
+          }
+        ]
+      },
+      "7": {
+        "source_id": 7,
+        "source_sentence": "**01/01/2026:** Physiotherapy noted mild confusion, slight gait unsteadiness and no significant falls risk; daily balance and mobility therapy was planned.",
+        "verified_claims": [
+          {
+            "claim_id": 26,
+            "claim": "Physiotherapy noted mild confusion.",
+            "source_id": 7,
+            "source_sentence": "**01/01/2026:** Physiotherapy noted mild confusion, slight gait unsteadiness and no significant falls risk; daily balance and mobility therapy was planned.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 states 'mild confusion noted,' and Evidence 2 also says mild confusion persists.",
+            "supporting_evidence_ranks": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_id": 27,
+            "claim": "Physiotherapy noted slight gait unsteadiness.",
+            "source_id": 7,
+            "source_sentence": "**01/01/2026:** Physiotherapy noted mild confusion, slight gait unsteadiness and no significant falls risk; daily balance and mobility therapy was planned.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 states the patient had 'slight unsteadiness' and 'Gait slightly unsteady.'",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 28,
+            "claim": "Physiotherapy noted no significant falls risk.",
+            "source_id": 7,
+            "source_sentence": "**01/01/2026:** Physiotherapy noted mild confusion, slight gait unsteadiness and no significant falls risk; daily balance and mobility therapy was planned.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 explicitly says 'no significant risk of falls noted,' and Evidence 2 says there was 'no evidence of acute risk of falls.'",
+            "supporting_evidence_ranks": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_id": 29,
+            "claim": "Daily balance therapy was planned.",
+            "source_id": 7,
+            "source_sentence": "**01/01/2026:** Physiotherapy noted mild confusion, slight gait unsteadiness and no significant falls risk; daily balance and mobility therapy was planned.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 states 'daily physiotherapy sessions focusing on balance and mobility exercises,' which supports daily balance therapy.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 30,
+            "claim": "Daily mobility therapy was planned.",
+            "source_id": 7,
+            "source_sentence": "**01/01/2026:** Physiotherapy noted mild confusion, slight gait unsteadiness and no significant falls risk; daily balance and mobility therapy was planned.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 states 'daily physiotherapy sessions focusing on balance and mobility exercises,' which supports daily mobility therapy.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          }
+        ]
+      },
+      "8": {
+        "source_id": 8,
+        "source_sentence": "Occupational therapy identified mild fine-motor difficulties affecting buttons and utensil use, with therapy planned for ADLs and adaptive strategies.",
+        "verified_claims": [
+          {
+            "claim_id": 31,
+            "claim": "Occupational therapy identified mild fine-motor difficulties.",
+            "source_id": 8,
+            "source_sentence": "Occupational therapy identified mild fine-motor difficulties affecting buttons and utensil use, with therapy planned for ADLs and adaptive strategies.",
+            "label": "SUPPORTED",
+            "reason": "OT assessment explicitly states the patient exhibited mild impairments in fine motor coordination.",
+            "supporting_evidence_ranks": [
+              2,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_id": 32,
+            "claim": "The mild fine-motor difficulties affected buttons.",
+            "source_id": 8,
+            "source_sentence": "Occupational therapy identified mild fine-motor difficulties affecting buttons and utensil use, with therapy planned for ADLs and adaptive strategies.",
+            "label": "SUPPORTED",
+            "reason": "The OT assessment notes specific difficulty fastening buttons.",
+            "supporting_evidence_ranks": [
+              2,
+              8
+            ]
+          },
+          {
+            "claim_id": 33,
+            "claim": "The mild fine-motor difficulties affected utensil use.",
+            "source_id": 8,
+            "source_sentence": "Occupational therapy identified mild fine-motor difficulties affecting buttons and utensil use, with therapy planned for ADLs and adaptive strategies.",
+            "label": "SUPPORTED",
+            "reason": "The OT assessment notes specific difficulty handling utensils.",
+            "supporting_evidence_ranks": [
+              2,
+              8
+            ]
+          },
+          {
+            "claim_id": 34,
+            "claim": "Therapy was planned for ADLs.",
+            "source_id": 8,
+            "source_sentence": "Occupational therapy identified mild fine-motor difficulties affecting buttons and utensil use, with therapy planned for ADLs and adaptive strategies.",
+            "label": "SUPPORTED",
+            "reason": "The OT plan was to initiate sessions targeting improvement in fine motor coordination and adaptive strategies for self-care tasks, and the assessment focused on ADLs.",
+            "supporting_evidence_ranks": [
+              2,
+              8
+            ]
+          },
+          {
+            "claim_id": 35,
+            "claim": "Therapy was planned for adaptive strategies.",
+            "source_id": 8,
+            "source_sentence": "Occupational therapy identified mild fine-motor difficulties affecting buttons and utensil use, with therapy planned for ADLs and adaptive strategies.",
+            "label": "SUPPORTED",
+            "reason": "The OT plan explicitly included adaptive strategies for self-care tasks.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          }
+        ]
+      },
+      "9": {
+        "source_id": 9,
+        "source_sentence": "His next of kin was updated.",
+        "verified_claims": [
+          {
+            "claim_id": 36,
+            "claim": "His next of kin was updated.",
+            "source_id": 9,
+            "source_sentence": "His next of kin was updated.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly states that NOK Margaret Robinson was phoned and updated on the patient\u2019s admission and current condition.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          }
+        ]
+      },
+      "10": {
+        "source_id": 10,
+        "source_sentence": "**02/01/2026:** Speech and language assessment showed an adequate swallow without aspiration.",
+        "verified_claims": [
+          {
+            "claim_id": 37,
+            "claim": "Speech and language assessment showed an adequate swallow.",
+            "source_id": 10,
+            "source_sentence": "**02/01/2026:** Speech and language assessment showed an adequate swallow without aspiration.",
+            "label": "SUPPORTED",
+            "reason": "The SLT assessment documented an \"Adequate swallow reflex observed\" during the water swallow test, which supports that the swallow was adequate.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 38,
+            "claim": "Speech and language assessment showed no aspiration.",
+            "source_id": 10,
+            "source_sentence": "**02/01/2026:** Speech and language assessment showed an adequate swallow without aspiration.",
+            "label": "SUPPORTED",
+            "reason": "The same SLT assessment states \"No signs of aspiration noted,\" directly supporting no aspiration.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          }
+        ]
+      },
+      "11": {
+        "source_id": 11,
+        "source_sentence": "Communication was appropriate overall, with mild word-finding difficulty attributed in the note to residual confusion; no ongoing swallowing or speech intervention was required unless symptoms persisted.",
+        "verified_claims": [
+          {
+            "claim_id": 39,
+            "claim": "Communication was appropriate overall.",
+            "source_id": 11,
+            "source_sentence": "Communication was appropriate overall, with mild word-finding difficulty attributed in the note to residual confusion; no ongoing swallowing or speech intervention was required unless symptoms persisted.",
+            "label": "SUPPORTED",
+            "reason": "Speech and Language assessment states the patient's speech articulation and comprehension were appropriate for age.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          },
+          {
+            "claim_id": 40,
+            "claim": "There was mild word-finding difficulty.",
+            "source_id": 11,
+            "source_sentence": "Communication was appropriate overall, with mild word-finding difficulty attributed in the note to residual confusion; no ongoing swallowing or speech intervention was required unless symptoms persisted.",
+            "label": "SUPPORTED",
+            "reason": "The communication assessment explicitly identified mild word-finding difficulties.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          },
+          {
+            "claim_id": 41,
+            "claim": "The mild word-finding difficulty was attributed in the note to residual confusion.",
+            "source_id": 11,
+            "source_sentence": "Communication was appropriate overall, with mild word-finding difficulty attributed in the note to residual confusion; no ongoing swallowing or speech intervention was required unless symptoms persisted.",
+            "label": "SUPPORTED",
+            "reason": "The note says the mild word-finding difficulties were potentially secondary to residual confusion.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          },
+          {
+            "claim_id": 42,
+            "claim": "No ongoing swallowing intervention was required unless symptoms persisted.",
+            "source_id": 11,
+            "source_sentence": "Communication was appropriate overall, with mild word-finding difficulty attributed in the note to residual confusion; no ongoing swallowing or speech intervention was required unless symptoms persisted.",
+            "label": "SUPPORTED",
+            "reason": "The SLT note states no further swallowing interventions were required at this stage.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          },
+          {
+            "claim_id": 43,
+            "claim": "No ongoing speech intervention was required unless symptoms persisted.",
+            "source_id": 11,
+            "source_sentence": "Communication was appropriate overall, with mild word-finding difficulty attributed in the note to residual confusion; no ongoing swallowing or speech intervention was required unless symptoms persisted.",
+            "label": "SUPPORTED",
+            "reason": "The SLT note states no further speech interventions were required at this stage.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          }
+        ]
+      },
+      "12": {
+        "source_id": 12,
+        "source_sentence": "**04/01/2026:** Discharge planning included social work home assessment, continued daily physiotherapy and occupational therapy, and reassessment for discharge.",
+        "verified_claims": [
+          {
+            "claim_id": 44,
+            "claim": "Discharge planning included a social work home assessment.",
+            "source_id": 12,
+            "source_sentence": "**04/01/2026:** Discharge planning included social work home assessment, continued daily physiotherapy and occupational therapy, and reassessment for discharge.",
+            "label": "SUPPORTED",
+            "reason": "The OT assessment for discharge planning and home safety included recommendations for home safety modifications and a follow-up to reassess progress; this supports a home assessment being part of discharge planning.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 45,
+            "claim": "Discharge planning included continued daily physiotherapy.",
+            "source_id": 12,
+            "source_sentence": "**04/01/2026:** Discharge planning included social work home assessment, continued daily physiotherapy and occupational therapy, and reassessment for discharge.",
+            "label": "SUPPORTED",
+            "reason": "Physiotherapy notes on 01/01, 02/01, 03/01, and 04/01 state to continue daily physio sessions or daily mobility exercises, supporting continued daily physiotherapy as part of discharge preparation.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 46,
+            "claim": "Discharge planning included continued daily occupational therapy.",
+            "source_id": 12,
+            "source_sentence": "**04/01/2026:** Discharge planning included social work home assessment, continued daily physiotherapy and occupational therapy, and reassessment for discharge.",
+            "label": "SUPPORTED",
+            "reason": "The OT note on 03/01 documents an occupational therapist assessment related to discharge planning, and the patient had follow-up OT planned; this supports continued occupational therapy as part of discharge planning.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 47,
+            "claim": "Discharge planning included reassessment for discharge.",
+            "source_id": 12,
+            "source_sentence": "**04/01/2026:** Discharge planning included social work home assessment, continued daily physiotherapy and occupational therapy, and reassessment for discharge.",
+            "label": "SUPPORTED",
+            "reason": "The OT assessment explicitly states that a follow-up session is planned to reassess progress, which supports reassessment for discharge.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          }
+        ]
+      },
+      "13": {
+        "source_id": 13,
+        "source_sentence": "During physiotherapy he managed five stairs with a handrail using minimal supervision and verbal cues.",
+        "verified_claims": [
+          {
+            "claim_id": 48,
+            "claim": "He managed five stairs.",
+            "source_id": 13,
+            "source_sentence": "During physiotherapy he managed five stairs with a handrail using minimal supervision and verbal cues.",
+            "label": "SUPPORTED",
+            "reason": "The physiotherapy record states the patient ascended and descended a flight of five steps, which supports that he managed five stairs.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 49,
+            "claim": "He used a handrail.",
+            "source_id": 13,
+            "source_sentence": "During physiotherapy he managed five stairs with a handrail using minimal supervision and verbal cues.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly says he used a handrail while climbing the steps.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 50,
+            "claim": "He required minimal supervision.",
+            "source_id": 13,
+            "source_sentence": "During physiotherapy he managed five stairs with a handrail using minimal supervision and verbal cues.",
+            "label": "SUPPORTED",
+            "reason": "The evidence states that minimal supervision was required during the stair activity.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 51,
+            "claim": "He required verbal cues.",
+            "source_id": 13,
+            "source_sentence": "During physiotherapy he managed five stairs with a handrail using minimal supervision and verbal cues.",
+            "label": "SUPPORTED",
+            "reason": "The evidence explicitly notes that verbal cues were required for foot placement.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          }
+        ]
+      },
+      "14": {
+        "source_id": 14,
+        "source_sentence": "Mobility and balance were improving; mild residual confusion remained, although he was alert and oriented to person and place.",
+        "verified_claims": [
+          {
+            "claim_id": 52,
+            "claim": "Mobility was improving.",
+            "source_id": 14,
+            "source_sentence": "Mobility and balance were improving; mild residual confusion remained, although he was alert and oriented to person and place.",
+            "label": "SUPPORTED",
+            "reason": "Evidence shows improving mobility: progress in mobility was noted on 04/01, and by 05/01 he was confident mobilising with supervision.",
+            "supporting_evidence_ranks": [
+              7,
+              10
+            ]
+          },
+          {
+            "claim_id": 53,
+            "claim": "Balance was improving.",
+            "source_id": 14,
+            "source_sentence": "Mobility and balance were improving; mild residual confusion remained, although he was alert and oriented to person and place.",
+            "label": "SUPPORTED",
+            "reason": "Evidence shows improving balance: progress in balance was noted on 04/01, and gait instability was improving with physiotherapy on later review.",
+            "supporting_evidence_ranks": [
+              7,
+              10
+            ]
+          },
+          {
+            "claim_id": 54,
+            "claim": "Mild residual confusion remained.",
+            "source_id": 14,
+            "source_sentence": "Mobility and balance were improving; mild residual confusion remained, although he was alert and oriented to person and place.",
+            "label": "SUPPORTED",
+            "reason": "Evidence explicitly states mild residual confusion on 04/01, and 05/01 notes he felt clearer but still had recent confusion history.",
+            "supporting_evidence_ranks": [
+              7
+            ]
+          },
+          {
+            "claim_id": 55,
+            "claim": "He was alert.",
+            "source_id": 14,
+            "source_sentence": "Mobility and balance were improving; mild residual confusion remained, although he was alert and oriented to person and place.",
+            "label": "SUPPORTED",
+            "reason": "On 04/01 the exam states the patient was alert.",
+            "supporting_evidence_ranks": [
+              7
+            ]
+          },
+          {
+            "claim_id": 56,
+            "claim": "He was oriented to person.",
+            "source_id": 14,
+            "source_sentence": "Mobility and balance were improving; mild residual confusion remained, although he was alert and oriented to person and place.",
+            "label": "SUPPORTED",
+            "reason": "On 04/01 the exam states he was oriented to person.",
+            "supporting_evidence_ranks": [
+              7
+            ]
+          },
+          {
+            "claim_id": 57,
+            "claim": "He was oriented to place.",
+            "source_id": 14,
+            "source_sentence": "Mobility and balance were improving; mild residual confusion remained, although he was alert and oriented to person and place.",
+            "label": "SUPPORTED",
+            "reason": "On 04/01 the exam states he was oriented to place.",
+            "supporting_evidence_ranks": [
+              7
+            ]
+          }
+        ]
+      },
+      "15": {
+        "source_id": 15,
+        "source_sentence": "**05/01/2026:** Atorvastatin 40 mg once daily was commenced as a 7-day course for cardiovascular risk.",
+        "verified_claims": [
+          {
+            "claim_id": 58,
+            "claim": "Atorvastatin was commenced.",
+            "source_id": 15,
+            "source_sentence": "**05/01/2026:** Atorvastatin 40 mg once daily was commenced as a 7-day course for cardiovascular risk.",
+            "label": "SUPPORTED",
+            "reason": "The plan states \"Start atorvastatin 40 mg OD,\" which indicates atorvastatin was commenced.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 59,
+            "claim": "The atorvastatin dose was 40 mg.",
+            "source_id": 15,
+            "source_sentence": "**05/01/2026:** Atorvastatin 40 mg once daily was commenced as a 7-day course for cardiovascular risk.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 2 specifies \"atorvastatin 40 mg.\"",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 60,
+            "claim": "Atorvastatin was prescribed once daily.",
+            "source_id": 15,
+            "source_sentence": "**05/01/2026:** Atorvastatin 40 mg once daily was commenced as a 7-day course for cardiovascular risk.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 2 states \"40 mg OD,\" where OD means once daily.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 61,
+            "claim": "Atorvastatin was prescribed as a 7-day course.",
+            "source_id": 15,
+            "source_sentence": "**05/01/2026:** Atorvastatin 40 mg once daily was commenced as a 7-day course for cardiovascular risk.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 2 explicitly says \"7-day course.\"",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 62,
+            "claim": "Atorvastatin was prescribed for cardiovascular risk.",
+            "source_id": 15,
+            "source_sentence": "**05/01/2026:** Atorvastatin 40 mg once daily was commenced as a 7-day course for cardiovascular risk.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 2 states the atorvastatin was started \"for CV risk,\" which matches cardiovascular risk.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          }
+        ]
+      },
+      "16": {
+        "source_id": 16,
+        "source_sentence": "Physiotherapy assessment showed resolution of confusion, GCS 15/15, independent walking for 15 metres, steady gait, and good balance and coordination.",
+        "verified_claims": [
+          {
+            "claim_id": 63,
+            "claim": "Physiotherapy assessment showed resolution of confusion.",
+            "source_id": 16,
+            "source_sentence": "Physiotherapy assessment showed resolution of confusion, GCS 15/15, independent walking for 15 metres, steady gait, and good balance and coordination.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 explicitly states that the patient's confusion has resolved.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 64,
+            "claim": "GCS was 15/15.",
+            "source_id": 16,
+            "source_sentence": "Physiotherapy assessment showed resolution of confusion, GCS 15/15, independent walking for 15 metres, steady gait, and good balance and coordination.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 states GCS 15/15.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 65,
+            "claim": "He was independently walking for 15 metres.",
+            "source_id": 16,
+            "source_sentence": "Physiotherapy assessment showed resolution of confusion, GCS 15/15, independent walking for 15 metres, steady gait, and good balance and coordination.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 states the patient walked 15m independently.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 66,
+            "claim": "He had a steady gait.",
+            "source_id": 16,
+            "source_sentence": "Physiotherapy assessment showed resolution of confusion, GCS 15/15, independent walking for 15 metres, steady gait, and good balance and coordination.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 describes the gait as steady.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 67,
+            "claim": "He had good balance.",
+            "source_id": 16,
+            "source_sentence": "Physiotherapy assessment showed resolution of confusion, GCS 15/15, independent walking for 15 metres, steady gait, and good balance and coordination.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 states the patient demonstrated good balance throughout exercises.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 68,
+            "claim": "He had good coordination.",
+            "source_id": 16,
+            "source_sentence": "Physiotherapy assessment showed resolution of confusion, GCS 15/15, independent walking for 15 metres, steady gait, and good balance and coordination.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 states the patient demonstrated good coordination throughout exercises.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          }
+        ]
+      },
+      "17": {
+        "source_id": 17,
+        "source_sentence": "He was cleared for independent mobility with home exercises; no further physiotherapy was required.",
+        "verified_claims": [
+          {
+            "claim_id": 69,
+            "claim": "He was cleared for independent mobility.",
+            "source_id": 17,
+            "source_sentence": "He was cleared for independent mobility with home exercises; no further physiotherapy was required.",
+            "label": "SUPPORTED",
+            "reason": "The record states he was \"cleared for independent mobility\" and also that he was \"Independent in mobility\" / \"Patient cleared for independent mobility.\"",
+            "supporting_evidence_ranks": [
+              1,
+              4
+            ]
+          },
+          {
+            "claim_id": 70,
+            "claim": "He was given home exercises.",
+            "source_id": 17,
+            "source_sentence": "He was cleared for independent mobility with home exercises; no further physiotherapy was required.",
+            "label": "SUPPORTED",
+            "reason": "The record says he was advised to continue light mobility exercises at home and to continue exercises at home post-discharge.",
+            "supporting_evidence_ranks": [
+              1,
+              4
+            ]
+          },
+          {
+            "claim_id": 71,
+            "claim": "No further physiotherapy was required.",
+            "source_id": 17,
+            "source_sentence": "He was cleared for independent mobility with home exercises; no further physiotherapy was required.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly states \"no further physio needs\" and \"No further physiotherapy sessions required at this stage.\"",
+            "supporting_evidence_ranks": [
+              1,
+              4
+            ]
+          }
+        ]
+      },
+      "18": {
+        "source_id": 18,
+        "source_sentence": "Social work discussed discharge support and recommended community support services.",
+        "verified_claims": [
+          {
+            "claim_id": 72,
+            "claim": "Social work discussed discharge support.",
+            "source_id": 18,
+            "source_sentence": "Social work discussed discharge support and recommended community support services.",
+            "label": "SUPPORTED",
+            "reason": "The record states that social work met the patient and that discharge support was discussed.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          },
+          {
+            "claim_id": 73,
+            "claim": "Social work recommended community support services.",
+            "source_id": 18,
+            "source_sentence": "Social work discussed discharge support and recommended community support services.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly says social work recommended community support services post-discharge.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          }
+        ]
+      },
+      "19": {
+        "source_id": 19,
+        "source_sentence": "**06/01/2026:** Education was provided regarding dizziness/confusion management, falls prevention and post-discharge safety.",
+        "verified_claims": [
+          {
+            "claim_id": 74,
+            "claim": "Education was provided regarding dizziness management.",
+            "source_id": 19,
+            "source_sentence": "**06/01/2026:** Education was provided regarding dizziness/confusion management, falls prevention and post-discharge safety.",
+            "label": "SUPPORTED",
+            "reason": "The 06/01/2026 note states: \"Info on dizziness/confusion mgmt...\" which supports education on dizziness management.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          },
+          {
+            "claim_id": 75,
+            "claim": "Education was provided regarding confusion management.",
+            "source_id": 19,
+            "source_sentence": "**06/01/2026:** Education was provided regarding dizziness/confusion management, falls prevention and post-discharge safety.",
+            "label": "SUPPORTED",
+            "reason": "The same 06/01/2026 note explicitly states education on \"dizziness/confusion mgmt,\" supporting confusion management education.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          },
+          {
+            "claim_id": 76,
+            "claim": "Education was provided regarding falls prevention.",
+            "source_id": 19,
+            "source_sentence": "**06/01/2026:** Education was provided regarding dizziness/confusion management, falls prevention and post-discharge safety.",
+            "label": "SUPPORTED",
+            "reason": "The 06/01/2026 note says \"falls prev at home,\" which supports education on falls prevention.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          },
+          {
+            "claim_id": 77,
+            "claim": "Education was provided regarding post-discharge safety.",
+            "source_id": 19,
+            "source_sentence": "**06/01/2026:** Education was provided regarding dizziness/confusion management, falls prevention and post-discharge safety.",
+            "label": "SUPPORTED",
+            "reason": "The 06/01/2026 note states \"Piost-d/c safety advice given,\" supporting post-discharge safety education.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          }
+        ]
+      },
+      "20": {
+        "source_id": 20,
+        "source_sentence": "**07/01/2026:** The patient was clinically stable without residual confusion or neurological deficits.",
+        "verified_claims": [
+          {
+            "claim_id": 78,
+            "claim": "The patient was clinically stable.",
+            "source_id": 20,
+            "source_sentence": "**07/01/2026:** The patient was clinically stable without residual confusion or neurological deficits.",
+            "label": "SUPPORTED",
+            "reason": "The 07/01/2026 consultant note explicitly states the patient was clinically stable.",
+            "supporting_evidence_ranks": [
+              5
+            ]
+          },
+          {
+            "claim_id": 79,
+            "claim": "The patient had no residual confusion.",
+            "source_id": 20,
+            "source_sentence": "**07/01/2026:** The patient was clinically stable without residual confusion or neurological deficits.",
+            "label": "SUPPORTED",
+            "reason": "The 07/01/2026 consultant note explicitly says there was no residual confusion.",
+            "supporting_evidence_ranks": [
+              5
+            ]
+          },
+          {
+            "claim_id": 80,
+            "claim": "The patient had no neurological deficits.",
+            "source_id": 20,
+            "source_sentence": "**07/01/2026:** The patient was clinically stable without residual confusion or neurological deficits.",
+            "label": "SUPPORTED",
+            "reason": "The 07/01/2026 consultant note explicitly states there were no neurological deficits, and the same-day physio note says the patient was neurologically intact.",
+            "supporting_evidence_ranks": [
+              5,
+              4
+            ]
+          }
+        ]
+      },
+      "21": {
+        "source_id": 21,
+        "source_sentence": "Final physiotherapy confirmed independence with walking, five stairs using a handrail and obstacle navigation; GCS was 15/15.",
+        "verified_claims": [
+          {
+            "claim_id": 81,
+            "claim": "Final physiotherapy confirmed independence with walking.",
+            "source_id": 21,
+            "source_sentence": "Final physiotherapy confirmed independence with walking, five stairs using a handrail and obstacle navigation; GCS was 15/15.",
+            "label": "SUPPORTED",
+            "reason": "The final physiotherapy session documented that the patient was independent in walking, including walking 15m independently.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 82,
+            "claim": "Final physiotherapy confirmed independence with five stairs using a handrail.",
+            "source_id": 21,
+            "source_sentence": "Final physiotherapy confirmed independence with walking, five stairs using a handrail and obstacle navigation; GCS was 15/15.",
+            "label": "SUPPORTED",
+            "reason": "The final physiotherapy session stated the patient was fully independent with stair climbing using a handrail, specifically 5 steps.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 83,
+            "claim": "Final physiotherapy confirmed independence with obstacle navigation.",
+            "source_id": 21,
+            "source_sentence": "Final physiotherapy confirmed independence with walking, five stairs using a handrail and obstacle navigation; GCS was 15/15.",
+            "label": "SUPPORTED",
+            "reason": "The final physiotherapy session documented good balance during exercises, including obstacle navigation, matching independent obstacle navigation.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 84,
+            "claim": "GCS was 15/15.",
+            "source_id": 21,
+            "source_sentence": "Final physiotherapy confirmed independence with walking, five stairs using a handrail and obstacle navigation; GCS was 15/15.",
+            "label": "SUPPORTED",
+            "reason": "The final physiotherapy note recorded GCS 15/15.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          }
+        ]
+      },
+      "22": {
+        "source_id": 22,
+        "source_sentence": "He was considered fit for discharge with no further physiotherapy needs and was advised to continue light mobility exercises at home.",
+        "verified_claims": [
+          {
+            "claim_id": 85,
+            "claim": "He was considered fit for discharge.",
+            "source_id": 22,
+            "source_sentence": "He was considered fit for discharge with no further physiotherapy needs and was advised to continue light mobility exercises at home.",
+            "label": "SUPPORTED",
+            "reason": "The record states he was \"deemed fit for discharge\" and cleared for discharge planning.",
+            "supporting_evidence_ranks": [
+              2,
+              4
+            ]
+          },
+          {
+            "claim_id": 86,
+            "claim": "He had no further physiotherapy needs.",
+            "source_id": 22,
+            "source_sentence": "He was considered fit for discharge with no further physiotherapy needs and was advised to continue light mobility exercises at home.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly says \"with no further physio needs\" and \"No further physiotherapy sessions required at this stage.\"",
+            "supporting_evidence_ranks": [
+              2,
+              4
+            ]
+          },
+          {
+            "claim_id": 87,
+            "claim": "He was advised to continue light mobility exercises at home.",
+            "source_id": 22,
+            "source_sentence": "He was considered fit for discharge with no further physiotherapy needs and was advised to continue light mobility exercises at home.",
+            "label": "SUPPORTED",
+            "reason": "The record states he was \"Advised to continue light mobility exercises at home as tolerated\" and recommends continuation of light mobility exercises at home post-discharge.",
+            "supporting_evidence_ranks": [
+              2,
+              4
+            ]
+          }
+        ]
+      },
+      "23": {
+        "source_id": 23,
+        "source_sentence": "Discharge planning was completed, with neurology clinic follow-up arranged.",
+        "verified_claims": [
+          {
+            "claim_id": 88,
+            "claim": "Discharge planning was completed.",
+            "source_id": 23,
+            "source_sentence": "Discharge planning was completed, with neurology clinic follow-up arranged.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 8 states the discharge was confirmed and discharge was being carried out, and Evidence 2 notes discharge plans were reviewed and confirmed.",
+            "supporting_evidence_ranks": [
+              8,
+              2
+            ]
+          },
+          {
+            "claim_id": 89,
+            "claim": "Neurology clinic follow-up was arranged.",
+            "source_id": 23,
+            "source_sentence": "Discharge planning was completed, with neurology clinic follow-up arranged.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 2 explicitly says a follow-up in neurology clinic was arranged, and Evidence 8 also notes neurology outpatient follow-up was arranged.",
+            "supporting_evidence_ranks": [
+              2,
+              8
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "05192757-942f-460d-b4ff-004ec39cc5ee": {
+    "person_id": "05192757-942f-460d-b4ff-004ec39cc5ee",
+    "source_group_count": 29,
+    "source_groups": {
+      "1": {
+        "source_id": 1,
+        "source_sentence": "**21/12/2025 \u2013 Preoperative assessment:** Hope Chinwo was evaluated for severe, gradually worsening left hip pain due to end-stage osteoarthritis, associated with stiffness and limited mobility.",
+        "verified_claims": [
+          {
+            "claim_id": 1,
+            "claim": "Hope Chinwo was evaluated.",
+            "source_id": 1,
+            "source_sentence": "**21/12/2025 \u2013 Preoperative assessment:** Hope Chinwo was evaluated for severe, gradually worsening left hip pain due to end-stage osteoarthritis, associated with stiffness and limited mobility.",
+            "label": "SUPPORTED",
+            "reason": "The record documents pre-op assessment/checks and notes the patient was seen/evaluated on 21/12/25.",
+            "supporting_evidence_ranks": [
+              1,
+              2,
+              5
+            ]
+          },
+          {
+            "claim_id": 2,
+            "claim": "Hope Chinwo had severe left hip pain.",
+            "source_id": 1,
+            "source_sentence": "**21/12/2025 \u2013 Preoperative assessment:** Hope Chinwo was evaluated for severe, gradually worsening left hip pain due to end-stage osteoarthritis, associated with stiffness and limited mobility.",
+            "label": "SUPPORTED",
+            "reason": "Evidence states severe OA of the left hip and limited ROM/tenderness; the presenting complaint is elective left THR due to end-stage OA with left hip pain implied by the procedure context and pre-op pain discussions.",
+            "supporting_evidence_ranks": [
+              2,
+              5,
+              8
+            ]
+          },
+          {
+            "claim_id": 3,
+            "claim": "Hope Chinwo's left hip pain was gradually worsening.",
+            "source_id": 1,
+            "source_sentence": "**21/12/2025 \u2013 Preoperative assessment:** Hope Chinwo was evaluated for severe, gradually worsening left hip pain due to end-stage osteoarthritis, associated with stiffness and limited mobility.",
+            "label": "UNSUPPORTED",
+            "reason": "The record supports severe left hip OA and limited mobility, but does not explicitly state the pain was gradually worsening.",
+            "supporting_evidence_ranks": [
+              2,
+              8
+            ]
+          },
+          {
+            "claim_id": 4,
+            "claim": "Hope Chinwo's left hip pain was due to end-stage osteoarthritis.",
+            "source_id": 1,
+            "source_sentence": "**21/12/2025 \u2013 Preoperative assessment:** Hope Chinwo was evaluated for severe, gradually worsening left hip pain due to end-stage osteoarthritis, associated with stiffness and limited mobility.",
+            "label": "SUPPORTED",
+            "reason": "Multiple entries state the procedure was for end-stage OA and the patient had severe left hip OA.",
+            "supporting_evidence_ranks": [
+              1,
+              2,
+              5,
+              8
+            ]
+          },
+          {
+            "claim_id": 5,
+            "claim": "Hope Chinwo's left hip pain was associated with stiffness.",
+            "source_id": 1,
+            "source_sentence": "**21/12/2025 \u2013 Preoperative assessment:** Hope Chinwo was evaluated for severe, gradually worsening left hip pain due to end-stage osteoarthritis, associated with stiffness and limited mobility.",
+            "label": "UNSUPPORTED",
+            "reason": "The evidence mentions limited ROM and inability to fully bear weight, but does not explicitly state the pain was associated with stiffness.",
+            "supporting_evidence_ranks": [
+              8
+            ]
+          },
+          {
+            "claim_id": 6,
+            "claim": "Hope Chinwo's left hip pain was associated with limited mobility.",
+            "source_id": 1,
+            "source_sentence": "**21/12/2025 \u2013 Preoperative assessment:** Hope Chinwo was evaluated for severe, gradually worsening left hip pain due to end-stage osteoarthritis, associated with stiffness and limited mobility.",
+            "label": "SUPPORTED",
+            "reason": "The record shows limited ROM and inability to fully bear weight, supporting limited mobility in the context of the left hip problem.",
+            "supporting_evidence_ranks": [
+              8,
+              1
+            ]
+          }
+        ]
+      },
+      "2": {
+        "source_id": 2,
+        "source_sentence": "Medical history included hypertension, severe left hip OA, and cataract surgery in 2018.",
+        "verified_claims": [
+          {
+            "claim_id": 7,
+            "claim": "Medical history included hypertension.",
+            "source_id": 2,
+            "source_sentence": "Medical history included hypertension, severe left hip OA, and cataract surgery in 2018.",
+            "label": "SUPPORTED",
+            "reason": "Past medical history explicitly lists HTN, and other notes also describe known HTN/history of HTN.",
+            "supporting_evidence_ranks": [
+              1,
+              2,
+              7,
+              9
+            ]
+          },
+          {
+            "claim_id": 8,
+            "claim": "Medical history included severe left hip osteoarthritis.",
+            "source_id": 2,
+            "source_sentence": "Medical history included hypertension, severe left hip OA, and cataract surgery in 2018.",
+            "label": "SUPPORTED",
+            "reason": "Past medical history explicitly lists OA (severe, left hip), matching severe left hip osteoarthritis.",
+            "supporting_evidence_ranks": [
+              1,
+              2,
+              6
+            ]
+          },
+          {
+            "claim_id": 9,
+            "claim": "Medical history included cataract surgery.",
+            "source_id": 2,
+            "source_sentence": "Medical history included hypertension, severe left hip OA, and cataract surgery in 2018.",
+            "label": "SUPPORTED",
+            "reason": "Past medical history explicitly lists Cataract surgery (2018), which supports the claim.",
+            "supporting_evidence_ranks": [
+              1,
+              2
+            ]
+          }
+        ]
+      },
+      "3": {
+        "source_id": 3,
+        "source_sentence": "BP was 145/85 mmHg and Hb 11.3 g/dL, consistent with mild anaemia; she was taking ferrous sulfate 200 mg daily, paracetamol as needed, and calcium/vitamin D supplements.",
+        "verified_claims": [
+          {
+            "claim_id": 10,
+            "claim": "BP was 145/85 mmHg.",
+            "source_id": 3,
+            "source_sentence": "BP was 145/85 mmHg and Hb 11.3 g/dL, consistent with mild anaemia; she was taking ferrous sulfate 200 mg daily, paracetamol as needed, and calcium/vitamin D supplements.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1, 3, 4, 6, and 8 all document BP 145/85 mmHg (or note the same pre-op BP).",
+            "supporting_evidence_ranks": [
+              1,
+              3,
+              4,
+              6,
+              8
+            ]
+          },
+          {
+            "claim_id": 11,
+            "claim": "Hb was 11.3 g/dL.",
+            "source_id": 3,
+            "source_sentence": "BP was 145/85 mmHg and Hb 11.3 g/dL, consistent with mild anaemia; she was taking ferrous sulfate 200 mg daily, paracetamol as needed, and calcium/vitamin D supplements.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1, 3, 6, and 8 explicitly state Hb 11.3 g/dL.",
+            "supporting_evidence_ranks": [
+              1,
+              3,
+              6,
+              8
+            ]
+          },
+          {
+            "claim_id": 12,
+            "claim": "The Hb finding was consistent with mild anaemia.",
+            "source_id": 3,
+            "source_sentence": "BP was 145/85 mmHg and Hb 11.3 g/dL, consistent with mild anaemia; she was taking ferrous sulfate 200 mg daily, paracetamol as needed, and calcium/vitamin D supplements.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 and 6 describe Hb 11.3 as mild anaemia, and Evidence 3 also notes mild anaemia detected with Hb 11.3 g/dL.",
+            "supporting_evidence_ranks": [
+              1,
+              3,
+              6
+            ]
+          },
+          {
+            "claim_id": 13,
+            "claim": "She was taking ferrous sulfate.",
+            "source_id": 3,
+            "source_sentence": "BP was 145/85 mmHg and Hb 11.3 g/dL, consistent with mild anaemia; she was taking ferrous sulfate 200 mg daily, paracetamol as needed, and calcium/vitamin D supplements.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1, 3, 4, 7, and 10 document ferrous sulfate use or prescription.",
+            "supporting_evidence_ranks": [
+              1,
+              3,
+              4,
+              7,
+              10
+            ]
+          },
+          {
+            "claim_id": 14,
+            "claim": "She was taking ferrous sulfate 200 mg daily.",
+            "source_id": 3,
+            "source_sentence": "BP was 145/85 mmHg and Hb 11.3 g/dL, consistent with mild anaemia; she was taking ferrous sulfate 200 mg daily, paracetamol as needed, and calcium/vitamin D supplements.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 and 3 specify ferrous sulfate 200 mg daily/once daily, and Evidence 10 states 200 mg OD.",
+            "supporting_evidence_ranks": [
+              1,
+              3,
+              10
+            ]
+          },
+          {
+            "claim_id": 15,
+            "claim": "She was taking paracetamol as needed.",
+            "source_id": 3,
+            "source_sentence": "BP was 145/85 mmHg and Hb 11.3 g/dL, consistent with mild anaemia; she was taking ferrous sulfate 200 mg daily, paracetamol as needed, and calcium/vitamin D supplements.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1, 3, 4, and 7 list paracetamol as needed/PRN.",
+            "supporting_evidence_ranks": [
+              1,
+              3,
+              4,
+              7
+            ]
+          },
+          {
+            "claim_id": 16,
+            "claim": "She was taking calcium supplements.",
+            "source_id": 3,
+            "source_sentence": "BP was 145/85 mmHg and Hb 11.3 g/dL, consistent with mild anaemia; she was taking ferrous sulfate 200 mg daily, paracetamol as needed, and calcium/vitamin D supplements.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1, 3, and 4 list calcium with vitamin D supplements, which includes calcium supplementation.",
+            "supporting_evidence_ranks": [
+              1,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_id": 17,
+            "claim": "She was taking vitamin D supplements.",
+            "source_id": 3,
+            "source_sentence": "BP was 145/85 mmHg and Hb 11.3 g/dL, consistent with mild anaemia; she was taking ferrous sulfate 200 mg daily, paracetamol as needed, and calcium/vitamin D supplements.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1, 3, and 4 list calcium with vitamin D supplements, which includes vitamin D supplementation.",
+            "supporting_evidence_ranks": [
+              1,
+              3,
+              4
+            ]
+          }
+        ]
+      },
+      "4": {
+        "source_id": 4,
+        "source_sentence": "ECG showed normal sinus rhythm without ischaemic changes.",
+        "verified_claims": [
+          {
+            "claim_id": 18,
+            "claim": "ECG showed normal sinus rhythm.",
+            "source_id": 4,
+            "source_sentence": "ECG showed normal sinus rhythm without ischaemic changes.",
+            "label": "SUPPORTED",
+            "reason": "The ECG is documented as showing normal sinus rhythm / NSR in the original evidence.",
+            "supporting_evidence_ranks": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_id": 19,
+            "claim": "ECG showed no ischaemic changes.",
+            "source_id": 4,
+            "source_sentence": "ECG showed normal sinus rhythm without ischaemic changes.",
+            "label": "SUPPORTED",
+            "reason": "The ECG is documented as having no ischemic/ischaemic changes in the original evidence.",
+            "supporting_evidence_ranks": [
+              1,
+              2,
+              3
+            ]
+          }
+        ]
+      },
+      "5": {
+        "source_id": 5,
+        "source_sentence": "No allergies were reported.",
+        "verified_claims": [
+          {
+            "claim_id": 20,
+            "claim": "No allergies were reported.",
+            "source_id": 5,
+            "source_sentence": "No allergies were reported.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly states in the allergies section that none were reported / NKDA.",
+            "supporting_evidence_ranks": [
+              1,
+              2,
+              5,
+              6
+            ]
+          }
+        ]
+      },
+      "6": {
+        "source_id": 6,
+        "source_sentence": "She was deemed suitable for spinal anaesthesia, consented for elective total left hip replacement, and cleared for admission on 02/01/2026.",
+        "verified_claims": [
+          {
+            "claim_id": 21,
+            "claim": "She was deemed suitable for spinal anaesthesia.",
+            "source_id": 6,
+            "source_sentence": "She was deemed suitable for spinal anaesthesia, consented for elective total left hip replacement, and cleared for admission on 02/01/2026.",
+            "label": "SUPPORTED",
+            "reason": "The record states the patient was found suitable for spinal anaesthesia during the anaesthetic assessment and again notes suitability for spinal anaesthesia on 02/01/26.",
+            "supporting_evidence_ranks": [
+              2,
+              3
+            ]
+          },
+          {
+            "claim_id": 22,
+            "claim": "She consented for elective total left hip replacement.",
+            "source_id": 6,
+            "source_sentence": "She was deemed suitable for spinal anaesthesia, consented for elective total left hip replacement, and cleared for admission on 02/01/2026.",
+            "label": "SUPPORTED",
+            "reason": "The evidence explicitly says pre-op consent was obtained for the procedure and that consent had previously been obtained for the total left hip replacement.",
+            "supporting_evidence_ranks": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_id": 23,
+            "claim": "She was cleared for admission.",
+            "source_id": 6,
+            "source_sentence": "She was deemed suitable for spinal anaesthesia, consented for elective total left hip replacement, and cleared for admission on 02/01/2026.",
+            "label": "SUPPORTED",
+            "reason": "The record states she was cleared for surgery and, on 02/01/26, was explicitly cleared to proceed to theatre for surgery; this supports being cleared for admission in the operative admission context.",
+            "supporting_evidence_ranks": [
+              1,
+              2,
+              8
+            ]
+          }
+        ]
+      },
+      "7": {
+        "source_id": 7,
+        "source_sentence": "**02/01/2026 \u2013 Admission and surgery:** Preoperative checks confirmed identity, fasting status, correct left hip site, medication reconciliation, and suitability to proceed.",
+        "verified_claims": [
+          {
+            "claim_id": 24,
+            "claim": "Preoperative checks confirmed identity.",
+            "source_id": 7,
+            "source_sentence": "**02/01/2026 \u2013 Admission and surgery:** Preoperative checks confirmed identity, fasting status, correct left hip site, medication reconciliation, and suitability to proceed.",
+            "label": "SUPPORTED",
+            "reason": "The checklist explicitly states that identity was confirmed via wristband and verbal confirmation.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          },
+          {
+            "claim_id": 25,
+            "claim": "Preoperative checks confirmed fasting status.",
+            "source_id": 7,
+            "source_sentence": "**02/01/2026 \u2013 Admission and surgery:** Preoperative checks confirmed identity, fasting status, correct left hip site, medication reconciliation, and suitability to proceed.",
+            "label": "SUPPORTED",
+            "reason": "The checklist states the patient confirmed she was fasting as instructed.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          },
+          {
+            "claim_id": 26,
+            "claim": "Preoperative checks confirmed the correct left hip site.",
+            "source_id": 7,
+            "source_sentence": "**02/01/2026 \u2013 Admission and surgery:** Preoperative checks confirmed identity, fasting status, correct left hip site, medication reconciliation, and suitability to proceed.",
+            "label": "SUPPORTED",
+            "reason": "The checklist explicitly documents left hip as the correct surgical site.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          },
+          {
+            "claim_id": 27,
+            "claim": "Preoperative checks confirmed medication reconciliation.",
+            "source_id": 7,
+            "source_sentence": "**02/01/2026 \u2013 Admission and surgery:** Preoperative checks confirmed identity, fasting status, correct left hip site, medication reconciliation, and suitability to proceed.",
+            "label": "SUPPORTED",
+            "reason": "The checklist states current medications were reviewed and reconciled.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          },
+          {
+            "claim_id": 28,
+            "claim": "Preoperative checks confirmed suitability to proceed.",
+            "source_id": 7,
+            "source_sentence": "**02/01/2026 \u2013 Admission and surgery:** Preoperative checks confirmed identity, fasting status, correct left hip site, medication reconciliation, and suitability to proceed.",
+            "label": "SUPPORTED",
+            "reason": "The checklist says the patient was in stable condition, fit to proceed, and cleared to proceed to theatre for surgery.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          }
+        ]
+      },
+      "8": {
+        "source_id": 8,
+        "source_sentence": "Mild anaemia had been optimised following ferrous sulfate, and elevated BP was considered consistent with known hypertension without acute concerns.",
+        "verified_claims": [
+          {
+            "claim_id": 29,
+            "claim": "Mild anaemia had been optimised following ferrous sulfate.",
+            "source_id": 8,
+            "source_sentence": "Mild anaemia had been optimised following ferrous sulfate, and elevated BP was considered consistent with known hypertension without acute concerns.",
+            "label": "PARTIALLY_SUPPORTED",
+            "reason": "The record supports that mild anaemia was present and treated with ferrous sulfate, but it does not explicitly state that the anaemia had been optimised in the original clinical evidence.",
+            "supporting_evidence_ranks": [
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_id": 30,
+            "claim": "BP was elevated.",
+            "source_id": 8,
+            "source_sentence": "Mild anaemia had been optimised following ferrous sulfate, and elevated BP was considered consistent with known hypertension without acute concerns.",
+            "label": "SUPPORTED",
+            "reason": "The BP is explicitly described as mildly elevated (e.g., 142/88 mmHg and 145/85 mmHg).",
+            "supporting_evidence_ranks": [
+              1,
+              5
+            ]
+          },
+          {
+            "claim_id": 31,
+            "claim": "The elevated BP was considered consistent with known hypertension.",
+            "source_id": 8,
+            "source_sentence": "Mild anaemia had been optimised following ferrous sulfate, and elevated BP was considered consistent with known hypertension without acute concerns.",
+            "label": "SUPPORTED",
+            "reason": "The elevated BP is explicitly stated to be consistent with the patient's history of HTN/known hypertension.",
+            "supporting_evidence_ranks": [
+              1,
+              5
+            ]
+          },
+          {
+            "claim_id": 32,
+            "claim": "There were no acute concerns.",
+            "source_id": 8,
+            "source_sentence": "Mild anaemia had been optimised following ferrous sulfate, and elevated BP was considered consistent with known hypertension without acute concerns.",
+            "label": "SUPPORTED",
+            "reason": "The evidence indicates stable observations and no acute issues: normal rhythm/no ischemic changes, stable PACU observations, no significant pain, and no acute concerns documented.",
+            "supporting_evidence_ranks": [
+              1,
+              4,
+              5
+            ]
+          }
+        ]
+      },
+      "9": {
+        "source_id": 9,
+        "source_sentence": "She underwent spinal-anaesthetic total left hip replacement for end-stage OA.",
+        "verified_claims": [
+          {
+            "claim_id": 33,
+            "claim": "She underwent a total left hip replacement.",
+            "source_id": 9,
+            "source_sentence": "She underwent spinal-anaesthetic total left hip replacement for end-stage OA.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly states a procedure of 'Total left hip replacement' and documents that it was performed on 02/01/26.",
+            "supporting_evidence_ranks": [
+              1,
+              3,
+              6,
+              7,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_id": 34,
+            "claim": "The total left hip replacement was performed under spinal anaesthetic.",
+            "source_id": 9,
+            "source_sentence": "She underwent spinal-anaesthetic total left hip replacement for end-stage OA.",
+            "label": "SUPPORTED",
+            "reason": "Evidence states the procedure was done under 'spinal anaesthesia' and notes she was cleared/suitable for spinal anaesthesia.",
+            "supporting_evidence_ranks": [
+              2,
+              3,
+              7,
+              9
+            ]
+          },
+          {
+            "claim_id": 35,
+            "claim": "The total left hip replacement was for end-stage OA.",
+            "source_id": 9,
+            "source_sentence": "She underwent spinal-anaesthetic total left hip replacement for end-stage OA.",
+            "label": "SUPPORTED",
+            "reason": "The procedure is explicitly described as 'Total left hip replacement for end-stage OA,' and admission notes also state elective L THR due to end-stage OA.",
+            "supporting_evidence_ranks": [
+              1,
+              2,
+              3,
+              6,
+              8,
+              10
+            ]
+          }
+        ]
+      },
+      "10": {
+        "source_id": 10,
+        "source_sentence": "Severe degenerative changes with significant cartilage loss were found; the left femoral head was removed and a cemented prosthesis implanted.",
+        "verified_claims": [
+          {
+            "claim_id": 36,
+            "claim": "Severe degenerative changes were found.",
+            "source_id": 10,
+            "source_sentence": "Severe degenerative changes with significant cartilage loss were found; the left femoral head was removed and a cemented prosthesis implanted.",
+            "label": "SUPPORTED",
+            "reason": "The record states that severe degenerative changes were noted in the left hip joint.",
+            "supporting_evidence_ranks": [
+              4
+            ]
+          },
+          {
+            "claim_id": 37,
+            "claim": "Significant cartilage loss was found.",
+            "source_id": 10,
+            "source_sentence": "Severe degenerative changes with significant cartilage loss were found; the left femoral head was removed and a cemented prosthesis implanted.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly says there was significant cartilage loss.",
+            "supporting_evidence_ranks": [
+              4
+            ]
+          },
+          {
+            "claim_id": 38,
+            "claim": "The left femoral head was removed.",
+            "source_id": 10,
+            "source_sentence": "Severe degenerative changes with significant cartilage loss were found; the left femoral head was removed and a cemented prosthesis implanted.",
+            "label": "SUPPORTED",
+            "reason": "The tissue removed is listed as the left femoral head.",
+            "supporting_evidence_ranks": [
+              4
+            ]
+          },
+          {
+            "claim_id": 39,
+            "claim": "A cemented prosthesis was implanted.",
+            "source_id": 10,
+            "source_sentence": "Severe degenerative changes with significant cartilage loss were found; the left femoral head was removed and a cemented prosthesis implanted.",
+            "label": "SUPPORTED",
+            "reason": "The operative record states that a cemented prosthetic implant was placed in the left hip.",
+            "supporting_evidence_ranks": [
+              4
+            ]
+          }
+        ]
+      },
+      "11": {
+        "source_id": 11,
+        "source_sentence": "Estimated blood loss was approximately 150 mL, with no intraoperative complications.",
+        "verified_claims": [
+          {
+            "claim_id": 40,
+            "claim": "Estimated blood loss was approximately 150 mL.",
+            "source_id": 11,
+            "source_sentence": "Estimated blood loss was approximately 150 mL, with no intraoperative complications.",
+            "label": "UNSUPPORTED",
+            "reason": "The record does not state an estimated blood loss of approximately 150 mL anywhere in the original evidence.",
+            "supporting_evidence_ranks": []
+          },
+          {
+            "claim_id": 41,
+            "claim": "There were no intraoperative complications.",
+            "source_id": 11,
+            "source_sentence": "Estimated blood loss was approximately 150 mL, with no intraoperative complications.",
+            "label": "UNSUPPORTED",
+            "reason": "The record does not explicitly state that there were no intraoperative complications.",
+            "supporting_evidence_ranks": []
+          }
+        ]
+      },
+      "12": {
+        "source_id": 12,
+        "source_sentence": "Postoperative management included enoxaparin 40 mg subcutaneously once daily, regular paracetamol 1 g every 6 hours, and early mobilisation with physiotherapy.",
+        "verified_claims": [
+          {
+            "claim_id": 42,
+            "claim": "Postoperative management included enoxaparin.",
+            "source_id": 12,
+            "source_sentence": "Postoperative management included enoxaparin 40 mg subcutaneously once daily, regular paracetamol 1 g every 6 hours, and early mobilisation with physiotherapy.",
+            "label": "SUPPORTED",
+            "reason": "The record states enoxaparin 40 mg SC once daily was started/continued as postoperative thromboprophylaxis, which supports that postoperative management included enoxaparin.",
+            "supporting_evidence_ranks": [
+              1,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_id": 43,
+            "claim": "The enoxaparin dose was 40 mg.",
+            "source_id": 12,
+            "source_sentence": "Postoperative management included enoxaparin 40 mg subcutaneously once daily, regular paracetamol 1 g every 6 hours, and early mobilisation with physiotherapy.",
+            "label": "SUPPORTED",
+            "reason": "The evidence explicitly documents enoxaparin 40 mg.",
+            "supporting_evidence_ranks": [
+              1,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_id": 44,
+            "claim": "Enoxaparin was administered subcutaneously.",
+            "source_id": 12,
+            "source_sentence": "Postoperative management included enoxaparin 40 mg subcutaneously once daily, regular paracetamol 1 g every 6 hours, and early mobilisation with physiotherapy.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly says enoxaparin was given/continued as 'SC' (subcutaneous).",
+            "supporting_evidence_ranks": [
+              1,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_id": 45,
+            "claim": "Enoxaparin was administered once daily.",
+            "source_id": 12,
+            "source_sentence": "Postoperative management included enoxaparin 40 mg subcutaneously once daily, regular paracetamol 1 g every 6 hours, and early mobilisation with physiotherapy.",
+            "label": "SUPPORTED",
+            "reason": "The record states enoxaparin 40 mg SC OD / once daily.",
+            "supporting_evidence_ranks": [
+              1,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_id": 46,
+            "claim": "Postoperative management included regular paracetamol.",
+            "source_id": 12,
+            "source_sentence": "Postoperative management included enoxaparin 40 mg subcutaneously once daily, regular paracetamol 1 g every 6 hours, and early mobilisation with physiotherapy.",
+            "label": "SUPPORTED",
+            "reason": "Postoperative care included regular paracetamol 1 g every 6 hours, which supports that regular paracetamol was included.",
+            "supporting_evidence_ranks": [
+              5
+            ]
+          },
+          {
+            "claim_id": 47,
+            "claim": "The paracetamol dose was 1 g.",
+            "source_id": 12,
+            "source_sentence": "Postoperative management included enoxaparin 40 mg subcutaneously once daily, regular paracetamol 1 g every 6 hours, and early mobilisation with physiotherapy.",
+            "label": "SUPPORTED",
+            "reason": "The postoperative care plan explicitly lists paracetamol 1 g.",
+            "supporting_evidence_ranks": [
+              5
+            ]
+          },
+          {
+            "claim_id": 48,
+            "claim": "Paracetamol was administered every 6 hours.",
+            "source_id": 12,
+            "source_sentence": "Postoperative management included enoxaparin 40 mg subcutaneously once daily, regular paracetamol 1 g every 6 hours, and early mobilisation with physiotherapy.",
+            "label": "SUPPORTED",
+            "reason": "The postoperative care plan explicitly states regular paracetamol 1 g every 6 hours.",
+            "supporting_evidence_ranks": [
+              5
+            ]
+          },
+          {
+            "claim_id": 49,
+            "claim": "Postoperative management included early mobilisation.",
+            "source_id": 12,
+            "source_sentence": "Postoperative management included enoxaparin 40 mg subcutaneously once daily, regular paracetamol 1 g every 6 hours, and early mobilisation with physiotherapy.",
+            "label": "SUPPORTED",
+            "reason": "The record states early mobilisation with physio planned to commence later today and to initiate physio for mobilisation.",
+            "supporting_evidence_ranks": [
+              1,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_id": 50,
+            "claim": "Postoperative management included physiotherapy.",
+            "source_id": 12,
+            "source_sentence": "Postoperative management included enoxaparin 40 mg subcutaneously once daily, regular paracetamol 1 g every 6 hours, and early mobilisation with physiotherapy.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly includes physiotherapy/physio as part of postoperative management.",
+            "supporting_evidence_ranks": [
+              1,
+              4,
+              5,
+              6,
+              9
+            ]
+          }
+        ]
+      },
+      "13": {
+        "source_id": 13,
+        "source_sentence": "**02/01/2026 \u2013 Immediate postoperative course:** In PACU, observations were stable (BP 130/85, HR 72, RR 16, oxygen saturation 98% on room air).",
+        "verified_claims": [
+          {
+            "claim_id": 51,
+            "claim": "In PACU, observations were stable.",
+            "source_id": 13,
+            "source_sentence": "**02/01/2026 \u2013 Immediate postoperative course:** In PACU, observations were stable (BP 130/85, HR 72, RR 16, oxygen saturation 98% on room air).",
+            "label": "SUPPORTED",
+            "reason": "The PACU note explicitly states \"Obs stable\" in the immediate postoperative period.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          },
+          {
+            "claim_id": 52,
+            "claim": "The blood pressure was 130/85.",
+            "source_id": 13,
+            "source_sentence": "**02/01/2026 \u2013 Immediate postoperative course:** In PACU, observations were stable (BP 130/85, HR 72, RR 16, oxygen saturation 98% on room air).",
+            "label": "SUPPORTED",
+            "reason": "The PACU observations list BP as 130/85.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          },
+          {
+            "claim_id": 53,
+            "claim": "The heart rate was 72.",
+            "source_id": 13,
+            "source_sentence": "**02/01/2026 \u2013 Immediate postoperative course:** In PACU, observations were stable (BP 130/85, HR 72, RR 16, oxygen saturation 98% on room air).",
+            "label": "SUPPORTED",
+            "reason": "The PACU observations list HR as 72.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          },
+          {
+            "claim_id": 54,
+            "claim": "The respiratory rate was 16.",
+            "source_id": 13,
+            "source_sentence": "**02/01/2026 \u2013 Immediate postoperative course:** In PACU, observations were stable (BP 130/85, HR 72, RR 16, oxygen saturation 98% on room air).",
+            "label": "SUPPORTED",
+            "reason": "The PACU observations list RR as 16.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          },
+          {
+            "claim_id": 55,
+            "claim": "The oxygen saturation was 98%.",
+            "source_id": 13,
+            "source_sentence": "**02/01/2026 \u2013 Immediate postoperative course:** In PACU, observations were stable (BP 130/85, HR 72, RR 16, oxygen saturation 98% on room air).",
+            "label": "SUPPORTED",
+            "reason": "The PACU observations list SpO2 as 98%.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          },
+          {
+            "claim_id": 56,
+            "claim": "The oxygen saturation was on room air.",
+            "source_id": 13,
+            "source_sentence": "**02/01/2026 \u2013 Immediate postoperative course:** In PACU, observations were stable (BP 130/85, HR 72, RR 16, oxygen saturation 98% on room air).",
+            "label": "SUPPORTED",
+            "reason": "The PACU observations specify SpO2 98% on room air (RA).",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          }
+        ]
+      },
+      "14": {
+        "source_id": 14,
+        "source_sentence": "She was alert and oriented, with no nausea or vomiting and only mild discomfort treated with IV paracetamol.",
+        "verified_claims": [
+          {
+            "claim_id": 57,
+            "claim": "She was alert.",
+            "source_id": 14,
+            "source_sentence": "She was alert and oriented, with no nausea or vomiting and only mild discomfort treated with IV paracetamol.",
+            "label": "SUPPORTED",
+            "reason": "Evidence states the patient was \"alert\" and \"alert and oriented to time, place, and person.\"",
+            "supporting_evidence_ranks": [
+              1,
+              10
+            ]
+          },
+          {
+            "claim_id": 58,
+            "claim": "She was oriented.",
+            "source_id": 14,
+            "source_sentence": "She was alert and oriented, with no nausea or vomiting and only mild discomfort treated with IV paracetamol.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly says the patient was \"orient\" and \"alert and oriented to time, place, and person.\"",
+            "supporting_evidence_ranks": [
+              1,
+              10
+            ]
+          },
+          {
+            "claim_id": 59,
+            "claim": "She had no nausea.",
+            "source_id": 14,
+            "source_sentence": "She was alert and oriented, with no nausea or vomiting and only mild discomfort treated with IV paracetamol.",
+            "label": "SUPPORTED",
+            "reason": "The record says \"No N/V,\" which supports no nausea.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 60,
+            "claim": "She had no vomiting.",
+            "source_id": 14,
+            "source_sentence": "She was alert and oriented, with no nausea or vomiting and only mild discomfort treated with IV paracetamol.",
+            "label": "SUPPORTED",
+            "reason": "The record says \"No N/V,\" which supports no vomiting.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 61,
+            "claim": "She had mild discomfort.",
+            "source_id": 14,
+            "source_sentence": "She was alert and oriented, with no nausea or vomiting and only mild discomfort treated with IV paracetamol.",
+            "label": "SUPPORTED",
+            "reason": "Evidence reports \"mild discomfort reported\" and also notes mild tenderness/pain 3/10, consistent with mild discomfort.",
+            "supporting_evidence_ranks": [
+              1,
+              10
+            ]
+          },
+          {
+            "claim_id": 62,
+            "claim": "Her mild discomfort was treated with IV paracetamol.",
+            "source_id": 14,
+            "source_sentence": "She was alert and oriented, with no nausea or vomiting and only mild discomfort treated with IV paracetamol.",
+            "label": "SUPPORTED",
+            "reason": "The record states \"mild discomfort reported, IV Paracetamol 1g given,\" directly supporting treatment with IV paracetamol.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          }
+        ]
+      },
+      "15": {
+        "source_id": 15,
+        "source_sentence": "The surgical site was clean and dry, and she was transferred to the orthopaedic ward.",
+        "verified_claims": [
+          {
+            "claim_id": 63,
+            "claim": "The surgical site was clean.",
+            "source_id": 15,
+            "source_sentence": "The surgical site was clean and dry, and she was transferred to the orthopaedic ward.",
+            "label": "SUPPORTED",
+            "reason": "The record states the surgical site was \"clean\" and \"clean, dry\" after surgery.",
+            "supporting_evidence_ranks": [
+              1,
+              4,
+              9
+            ]
+          },
+          {
+            "claim_id": 64,
+            "claim": "The surgical site was dry.",
+            "source_id": 15,
+            "source_sentence": "The surgical site was clean and dry, and she was transferred to the orthopaedic ward.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly says the surgical site was \"dry\" and \"clean, dry\".",
+            "supporting_evidence_ranks": [
+              4,
+              9
+            ]
+          },
+          {
+            "claim_id": 65,
+            "claim": "She was transferred to the orthopaedic ward.",
+            "source_id": 15,
+            "source_sentence": "The surgical site was clean and dry, and she was transferred to the orthopaedic ward.",
+            "label": "SUPPORTED",
+            "reason": "The note states she was \"cleared for transfer to Ward 3A,\" which matches transfer to the orthopaedic ward.",
+            "supporting_evidence_ranks": [
+              4,
+              2
+            ]
+          }
+        ]
+      },
+      "16": {
+        "source_id": 16,
+        "source_sentence": "Her GP was contacted with an update; no treatment changes were advised.",
+        "verified_claims": [
+          {
+            "claim_id": 66,
+            "claim": "Her GP was contacted with an update.",
+            "source_id": 16,
+            "source_sentence": "Her GP was contacted with an update; no treatment changes were advised.",
+            "label": "SUPPORTED",
+            "reason": "The record states that the patient's GP was contacted to provide an update on post-op progress.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 67,
+            "claim": "No treatment changes were advised.",
+            "source_id": 16,
+            "source_sentence": "Her GP was contacted with an update; no treatment changes were advised.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly says no immediate changes to the treatment plan were advised and also notes no changes to treatment plan/no medication changes.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          }
+        ]
+      },
+      "17": {
+        "source_id": 17,
+        "source_sentence": "**03/01/2026:** The plan was to encourage oral hydration and an iron-rich diet, continue daily physiotherapy and enoxaparin, and review the Hb trend.",
+        "verified_claims": [
+          {
+            "claim_id": 68,
+            "claim": "The plan was to encourage oral hydration.",
+            "source_id": 17,
+            "source_sentence": "**03/01/2026:** The plan was to encourage oral hydration and an iron-rich diet, continue daily physiotherapy and enoxaparin, and review the Hb trend.",
+            "label": "SUPPORTED",
+            "reason": "The plan explicitly says to encourage oral hydration.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 69,
+            "claim": "The plan was to encourage an iron-rich diet.",
+            "source_id": 17,
+            "source_sentence": "**03/01/2026:** The plan was to encourage oral hydration and an iron-rich diet, continue daily physiotherapy and enoxaparin, and review the Hb trend.",
+            "label": "SUPPORTED",
+            "reason": "The plan explicitly says to encourage an iron-rich diet.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 70,
+            "claim": "The plan was to continue daily physiotherapy.",
+            "source_id": 17,
+            "source_sentence": "**03/01/2026:** The plan was to encourage oral hydration and an iron-rich diet, continue daily physiotherapy and enoxaparin, and review the Hb trend.",
+            "label": "SUPPORTED",
+            "reason": "The plan explicitly says to continue daily physio.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 71,
+            "claim": "The plan was to continue enoxaparin.",
+            "source_id": 17,
+            "source_sentence": "**03/01/2026:** The plan was to encourage oral hydration and an iron-rich diet, continue daily physiotherapy and enoxaparin, and review the Hb trend.",
+            "label": "SUPPORTED",
+            "reason": "The plan explicitly says to continue enoxaparin 40 mg SC once daily.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 72,
+            "claim": "The plan was to review the Hb trend.",
+            "source_id": 17,
+            "source_sentence": "**03/01/2026:** The plan was to encourage oral hydration and an iron-rich diet, continue daily physiotherapy and enoxaparin, and review the Hb trend.",
+            "label": "SUPPORTED",
+            "reason": "The plan explicitly says to review the Hb trend tomorrow.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          }
+        ]
+      },
+      "18": {
+        "source_id": 18,
+        "source_sentence": "Physiotherapy focused on stair navigation; she demonstrated improved confidence and strength using a walker and handrail without pain or safety issues.",
+        "verified_claims": [
+          {
+            "claim_id": 73,
+            "claim": "Physiotherapy focused on stair navigation.",
+            "source_id": 18,
+            "source_sentence": "Physiotherapy focused on stair navigation; she demonstrated improved confidence and strength using a walker and handrail without pain or safety issues.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 explicitly states the physio session focused on stair navigation.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 74,
+            "claim": "She demonstrated improved confidence.",
+            "source_id": 18,
+            "source_sentence": "Physiotherapy focused on stair navigation; she demonstrated improved confidence and strength using a walker and handrail without pain or safety issues.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 says the patient demonstrated improved confidence compared to the previous session.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 75,
+            "claim": "She demonstrated improved strength.",
+            "source_id": 18,
+            "source_sentence": "Physiotherapy focused on stair navigation; she demonstrated improved confidence and strength using a walker and handrail without pain or safety issues.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 states the patient demonstrated improved strength compared to the previous session.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 76,
+            "claim": "She used a walker.",
+            "source_id": 18,
+            "source_sentence": "Physiotherapy focused on stair navigation; she demonstrated improved confidence and strength using a walker and handrail without pain or safety issues.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 says the patient practiced stairs using a walker.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 77,
+            "claim": "She used a handrail.",
+            "source_id": 18,
+            "source_sentence": "Physiotherapy focused on stair navigation; she demonstrated improved confidence and strength using a walker and handrail without pain or safety issues.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 says the patient practiced stairs using a handrail.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 78,
+            "claim": "She used a walker and handrail without pain.",
+            "source_id": 18,
+            "source_sentence": "Physiotherapy focused on stair navigation; she demonstrated improved confidence and strength using a walker and handrail without pain or safety issues.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 states she practiced with a walker and handrail and that there were no issues with pain.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 79,
+            "claim": "She used a walker and handrail without safety issues.",
+            "source_id": 18,
+            "source_sentence": "Physiotherapy focused on stair navigation; she demonstrated improved confidence and strength using a walker and handrail without pain or safety issues.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 states there were no safety issues observed while she used the walker and handrail.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          }
+        ]
+      },
+      "19": {
+        "source_id": 19,
+        "source_sentence": "Occupational therapy addressed bed transfers, dressing, hip precautions, and safe use of mobility aids.",
+        "verified_claims": [
+          {
+            "claim_id": 80,
+            "claim": "Occupational therapy addressed bed transfers.",
+            "source_id": 19,
+            "source_sentence": "Occupational therapy addressed bed transfers, dressing, hip precautions, and safe use of mobility aids.",
+            "label": "SUPPORTED",
+            "reason": "OT documentation states the patient was observed practicing getting in and out of bed, including bed transfers, with minimal assistance.",
+            "supporting_evidence_ranks": [
+              1,
+              3
+            ]
+          },
+          {
+            "claim_id": 81,
+            "claim": "Occupational therapy addressed dressing.",
+            "source_id": 19,
+            "source_sentence": "Occupational therapy addressed bed transfers, dressing, hip precautions, and safe use of mobility aids.",
+            "label": "SUPPORTED",
+            "reason": "OT documentation explicitly notes the patient was observed practicing dressing and safe dressing techniques using adaptive strategies.",
+            "supporting_evidence_ranks": [
+              1,
+              3
+            ]
+          },
+          {
+            "claim_id": 82,
+            "claim": "Occupational therapy addressed hip precautions.",
+            "source_id": 19,
+            "source_sentence": "Occupational therapy addressed bed transfers, dressing, hip precautions, and safe use of mobility aids.",
+            "label": "SUPPORTED",
+            "reason": "OT provided education on hip precautions and emphasized maintaining them during tool use and ADLs.",
+            "supporting_evidence_ranks": [
+              1,
+              3
+            ]
+          },
+          {
+            "claim_id": 83,
+            "claim": "Occupational therapy addressed safe use of mobility aids.",
+            "source_id": 19,
+            "source_sentence": "Occupational therapy addressed bed transfers, dressing, hip precautions, and safe use of mobility aids.",
+            "label": "SUPPORTED",
+            "reason": "The OT notes say mobility aids were reinforced as important for safety, and a hip kit was provided to support ADLs while adhering to precautions.",
+            "supporting_evidence_ranks": [
+              1,
+              3
+            ]
+          }
+        ]
+      },
+      "20": {
+        "source_id": 20,
+        "source_sentence": "She required minimal assistance and was advised to avoid hip flexion beyond 90 degrees, internal rotation, and adduction.",
+        "verified_claims": [
+          {
+            "claim_id": 84,
+            "claim": "She required minimal assistance.",
+            "source_id": 20,
+            "source_sentence": "She required minimal assistance and was advised to avoid hip flexion beyond 90 degrees, internal rotation, and adduction.",
+            "label": "SUPPORTED",
+            "reason": "The OT note states the patient demonstrated understanding and competency with minimal assistance required, and observed ADLs were performed with minimal assistance.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 85,
+            "claim": "She was advised to avoid hip flexion beyond 90 degrees.",
+            "source_id": 20,
+            "source_sentence": "She required minimal assistance and was advised to avoid hip flexion beyond 90 degrees, internal rotation, and adduction.",
+            "label": "SUPPORTED",
+            "reason": "The OT education note explicitly says to avoid hip flexion beyond 90 degrees.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          },
+          {
+            "claim_id": 86,
+            "claim": "She was advised to avoid internal rotation.",
+            "source_id": 20,
+            "source_sentence": "She required minimal assistance and was advised to avoid hip flexion beyond 90 degrees, internal rotation, and adduction.",
+            "label": "SUPPORTED",
+            "reason": "The OT education note explicitly includes avoiding internal rotation as part of hip precautions.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          },
+          {
+            "claim_id": 87,
+            "claim": "She was advised to avoid adduction.",
+            "source_id": 20,
+            "source_sentence": "She required minimal assistance and was advised to avoid hip flexion beyond 90 degrees, internal rotation, and adduction.",
+            "label": "SUPPORTED",
+            "reason": "The OT education note explicitly includes avoiding adduction as part of hip precautions.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          }
+        ]
+      },
+      "21": {
+        "source_id": 21,
+        "source_sentence": "A raised toilet seat and bathroom grab bars were recommended, with arrangements made for delivery before discharge.",
+        "verified_claims": [
+          {
+            "claim_id": 88,
+            "claim": "A raised toilet seat was recommended.",
+            "source_id": 21,
+            "source_sentence": "A raised toilet seat and bathroom grab bars were recommended, with arrangements made for delivery before discharge.",
+            "label": "SUPPORTED",
+            "reason": "The OT note states that a raised toilet seat was recommended as a minor home adaptation.",
+            "supporting_evidence_ranks": [
+              2,
+              3
+            ]
+          },
+          {
+            "claim_id": 89,
+            "claim": "Bathroom grab bars were recommended.",
+            "source_id": 21,
+            "source_sentence": "A raised toilet seat and bathroom grab bars were recommended, with arrangements made for delivery before discharge.",
+            "label": "SUPPORTED",
+            "reason": "The OT note states that grab bars in the bathroom were recommended.",
+            "supporting_evidence_ranks": [
+              2,
+              3
+            ]
+          },
+          {
+            "claim_id": 90,
+            "claim": "Arrangements were made for delivery before discharge.",
+            "source_id": 21,
+            "source_sentence": "A raised toilet seat and bathroom grab bars were recommended, with arrangements made for delivery before discharge.",
+            "label": "SUPPORTED",
+            "reason": "The OT note states that arrangements were made for delivery of the recommended home adaptations prior to discharge.",
+            "supporting_evidence_ranks": [
+              2,
+              3
+            ]
+          }
+        ]
+      },
+      "22": {
+        "source_id": 22,
+        "source_sentence": "**04/01/2026:** Physiotherapy progressed her from a walker to crutches.",
+        "verified_claims": [
+          {
+            "claim_id": 91,
+            "claim": "Physiotherapy progressed her from a walker to crutches.",
+            "source_id": 22,
+            "source_sentence": "**04/01/2026:** Physiotherapy progressed her from a walker to crutches.",
+            "label": "SUPPORTED",
+            "reason": "The 04/01/2026 physiotherapy note explicitly states the patient was transitioned from a walker to crutches.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          }
+        ]
+      },
+      "23": {
+        "source_id": 23,
+        "source_sentence": "She demonstrated good balance and coordination while maintaining hip precautions.",
+        "verified_claims": [
+          {
+            "claim_id": 92,
+            "claim": "She demonstrated good balance.",
+            "source_id": 23,
+            "source_sentence": "She demonstrated good balance and coordination while maintaining hip precautions.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 2 explicitly states the patient demonstrated good balance during the final physio assessment; Evidence 4 also notes good balance.",
+            "supporting_evidence_ranks": [
+              2,
+              4
+            ]
+          },
+          {
+            "claim_id": 93,
+            "claim": "She demonstrated good coordination.",
+            "source_id": 23,
+            "source_sentence": "She demonstrated good balance and coordination while maintaining hip precautions.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 2 explicitly states the patient demonstrated good coordination during the final physio assessment.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          },
+          {
+            "claim_id": 94,
+            "claim": "She maintained hip precautions.",
+            "source_id": 23,
+            "source_sentence": "She demonstrated good balance and coordination while maintaining hip precautions.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 2 explicitly states the patient showed adherence to post-op hip precautions throughout the session.",
+            "supporting_evidence_ranks": [
+              2
+            ]
+          }
+        ]
+      },
+      "24": {
+        "source_id": 24,
+        "source_sentence": "Nutritional review recommended a high-protein diet, including meat, fish, eggs, and legumes, with supplements if appetite remained reduced.",
+        "verified_claims": [
+          {
+            "claim_id": 95,
+            "claim": "Nutritional review recommended a high-protein diet.",
+            "source_id": 24,
+            "source_sentence": "Nutritional review recommended a high-protein diet, including meat, fish, eggs, and legumes, with supplements if appetite remained reduced.",
+            "label": "SUPPORTED",
+            "reason": "The dietitian explicitly emphasised a high-protein diet.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 96,
+            "claim": "The recommended diet included meat.",
+            "source_id": 24,
+            "source_sentence": "Nutritional review recommended a high-protein diet, including meat, fish, eggs, and legumes, with supplements if appetite remained reduced.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 states inclusion of lean meat.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 97,
+            "claim": "The recommended diet included fish.",
+            "source_id": 24,
+            "source_sentence": "Nutritional review recommended a high-protein diet, including meat, fish, eggs, and legumes, with supplements if appetite remained reduced.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 states inclusion of fish.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 98,
+            "claim": "The recommended diet included eggs.",
+            "source_id": 24,
+            "source_sentence": "Nutritional review recommended a high-protein diet, including meat, fish, eggs, and legumes, with supplements if appetite remained reduced.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 states inclusion of eggs.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 99,
+            "claim": "The recommended diet included legumes.",
+            "source_id": 24,
+            "source_sentence": "Nutritional review recommended a high-protein diet, including meat, fish, eggs, and legumes, with supplements if appetite remained reduced.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 states inclusion of legumes.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 100,
+            "claim": "Supplements were recommended if appetite remained reduced.",
+            "source_id": 24,
+            "source_sentence": "Nutritional review recommended a high-protein diet, including meat, fish, eggs, and legumes, with supplements if appetite remained reduced.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 1 says supplements were recommended if appetite remained reduced.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          }
+        ]
+      },
+      "25": {
+        "source_id": 25,
+        "source_sentence": "No medication changes were made.",
+        "verified_claims": [
+          {
+            "claim_id": 101,
+            "claim": "No medication changes were made.",
+            "source_id": 25,
+            "source_sentence": "No medication changes were made.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly states 'No med changes req\u2019d' and later 'No changes made to medication or current therapy plan' / 'No medication changes required,' matching the claim.",
+            "supporting_evidence_ranks": [
+              1,
+              5,
+              9,
+              10
+            ]
+          }
+        ]
+      },
+      "26": {
+        "source_id": 26,
+        "source_sentence": "**05/01/2026:** Final physiotherapy assessment found her safe to mobilise independently with crutches, including gait, transfers, turning, and navigating simulated home obstacles while maintaining hip precautions.",
+        "verified_claims": [
+          {
+            "claim_id": 102,
+            "claim": "Final physiotherapy assessment found her safe to mobilise independently with crutches.",
+            "source_id": 26,
+            "source_sentence": "**05/01/2026:** Final physiotherapy assessment found her safe to mobilise independently with crutches, including gait, transfers, turning, and navigating simulated home obstacles while maintaining hip precautions.",
+            "label": "SUPPORTED",
+            "reason": "The final physio assessment states the patient was deemed safe for independent discharge with crutches.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 103,
+            "claim": "Final physiotherapy assessment found her safe to mobilise independently with crutches during gait.",
+            "source_id": 26,
+            "source_sentence": "**05/01/2026:** Final physiotherapy assessment found her safe to mobilise independently with crutches, including gait, transfers, turning, and navigating simulated home obstacles while maintaining hip precautions.",
+            "label": "SUPPORTED",
+            "reason": "The assessment explicitly included practicing gait while assessing safe use of crutches, and she was deemed safe for independent discharge with crutches.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 104,
+            "claim": "Final physiotherapy assessment found her safe to mobilise independently with crutches during transfers.",
+            "source_id": 26,
+            "source_sentence": "**05/01/2026:** Final physiotherapy assessment found her safe to mobilise independently with crutches, including gait, transfers, turning, and navigating simulated home obstacles while maintaining hip precautions.",
+            "label": "SUPPORTED",
+            "reason": "The assessment explicitly included standing up from a chair, which is a transfer-related activity, and she was deemed safe for independent discharge with crutches.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 105,
+            "claim": "Final physiotherapy assessment found her safe to mobilise independently with crutches during turning.",
+            "source_id": 26,
+            "source_sentence": "**05/01/2026:** Final physiotherapy assessment found her safe to mobilise independently with crutches, including gait, transfers, turning, and navigating simulated home obstacles while maintaining hip precautions.",
+            "label": "SUPPORTED",
+            "reason": "The assessment explicitly included turning safely while using crutches, and she was deemed safe for independent discharge with crutches.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 106,
+            "claim": "Final physiotherapy assessment found her safe to mobilise independently with crutches while navigating simulated home obstacles.",
+            "source_id": 26,
+            "source_sentence": "**05/01/2026:** Final physiotherapy assessment found her safe to mobilise independently with crutches, including gait, transfers, turning, and navigating simulated home obstacles while maintaining hip precautions.",
+            "label": "SUPPORTED",
+            "reason": "The assessment explicitly states a simulated home environment was used to evaluate navigation of obstacles.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 107,
+            "claim": "She maintained hip precautions.",
+            "source_id": 26,
+            "source_sentence": "**05/01/2026:** Final physiotherapy assessment found her safe to mobilise independently with crutches, including gait, transfers, turning, and navigating simulated home obstacles while maintaining hip precautions.",
+            "label": "SUPPORTED",
+            "reason": "The record says she demonstrated adherence to post-op hip precautions throughout the session.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          }
+        ]
+      },
+      "27": {
+        "source_id": 27,
+        "source_sentence": "Discharge was planned for 06/01/2026.",
+        "verified_claims": [
+          {
+            "claim_id": 108,
+            "claim": "Discharge was planned.",
+            "source_id": 27,
+            "source_sentence": "Discharge was planned for 06/01/2026.",
+            "label": "SUPPORTED",
+            "reason": "The record explicitly states that the patient was to be discharged home on 06/01/26, which supports that discharge was planned.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          }
+        ]
+      },
+      "28": {
+        "source_id": 28,
+        "source_sentence": "The intended discharge plan included rivaroxaban 10 mg once daily for 7 days, ferrous sulfate 200 mg once daily for postoperative anaemia, a high-iron diet, outpatient physiotherapy, and follow-up appointments.",
+        "verified_claims": [
+          {
+            "claim_id": 109,
+            "claim": "The intended discharge plan included rivaroxaban.",
+            "source_id": 28,
+            "source_sentence": "The intended discharge plan included rivaroxaban 10 mg once daily for 7 days, ferrous sulfate 200 mg once daily for postoperative anaemia, a high-iron diet, outpatient physiotherapy, and follow-up appointments.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 2 explicitly states a discharge plan with prophylactic rivaroxaban 10 mg OD x7 days.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 110,
+            "claim": "The rivaroxaban dose was 10 mg.",
+            "source_id": 28,
+            "source_sentence": "The intended discharge plan included rivaroxaban 10 mg once daily for 7 days, ferrous sulfate 200 mg once daily for postoperative anaemia, a high-iron diet, outpatient physiotherapy, and follow-up appointments.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 2 specifies rivaroxaban 10 mg OD x7 days.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 111,
+            "claim": "Rivaroxaban was prescribed once daily.",
+            "source_id": 28,
+            "source_sentence": "The intended discharge plan included rivaroxaban 10 mg once daily for 7 days, ferrous sulfate 200 mg once daily for postoperative anaemia, a high-iron diet, outpatient physiotherapy, and follow-up appointments.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 2 states rivaroxaban 10 mg OD x7 days, which supports once daily dosing.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 112,
+            "claim": "Rivaroxaban was prescribed for 7 days.",
+            "source_id": 28,
+            "source_sentence": "The intended discharge plan included rivaroxaban 10 mg once daily for 7 days, ferrous sulfate 200 mg once daily for postoperative anaemia, a high-iron diet, outpatient physiotherapy, and follow-up appointments.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 2 states rivaroxaban 10 mg OD x7 days.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 113,
+            "claim": "Rivaroxaban was prescribed for postoperative anaemia.",
+            "source_id": 28,
+            "source_sentence": "The intended discharge plan included rivaroxaban 10 mg once daily for 7 days, ferrous sulfate 200 mg once daily for postoperative anaemia, a high-iron diet, outpatient physiotherapy, and follow-up appointments.",
+            "label": "UNSUPPORTED",
+            "reason": "Evidence 2 gives rivaroxaban for prophylaxis, not for postoperative anaemia.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 114,
+            "claim": "The intended discharge plan included ferrous sulfate.",
+            "source_id": 28,
+            "source_sentence": "The intended discharge plan included rivaroxaban 10 mg once daily for 7 days, ferrous sulfate 200 mg once daily for postoperative anaemia, a high-iron diet, outpatient physiotherapy, and follow-up appointments.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 2 explicitly includes a prescription for ferrous sulfate 200 mg OD for post-op anaemia.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 115,
+            "claim": "The ferrous sulfate dose was 200 mg.",
+            "source_id": 28,
+            "source_sentence": "The intended discharge plan included rivaroxaban 10 mg once daily for 7 days, ferrous sulfate 200 mg once daily for postoperative anaemia, a high-iron diet, outpatient physiotherapy, and follow-up appointments.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 2 states ferrous sulfate 200 mg OD.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 116,
+            "claim": "Ferrous sulfate was prescribed once daily.",
+            "source_id": 28,
+            "source_sentence": "The intended discharge plan included rivaroxaban 10 mg once daily for 7 days, ferrous sulfate 200 mg once daily for postoperative anaemia, a high-iron diet, outpatient physiotherapy, and follow-up appointments.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 2 states ferrous sulfate 200 mg OD, supporting once daily dosing.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 117,
+            "claim": "Ferrous sulfate was prescribed for postoperative anaemia.",
+            "source_id": 28,
+            "source_sentence": "The intended discharge plan included rivaroxaban 10 mg once daily for 7 days, ferrous sulfate 200 mg once daily for postoperative anaemia, a high-iron diet, outpatient physiotherapy, and follow-up appointments.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 2 says ferrous sulfate 200 mg OD for post-op anaemia.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 118,
+            "claim": "The intended discharge plan included a high-iron diet.",
+            "source_id": 28,
+            "source_sentence": "The intended discharge plan included rivaroxaban 10 mg once daily for 7 days, ferrous sulfate 200 mg once daily for postoperative anaemia, a high-iron diet, outpatient physiotherapy, and follow-up appointments.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 2 explicitly says to advise a high-iron diet.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 119,
+            "claim": "The intended discharge plan included outpatient physiotherapy.",
+            "source_id": 28,
+            "source_sentence": "The intended discharge plan included rivaroxaban 10 mg once daily for 7 days, ferrous sulfate 200 mg once daily for postoperative anaemia, a high-iron diet, outpatient physiotherapy, and follow-up appointments.",
+            "label": "SUPPORTED",
+            "reason": "Evidence 2 states follow-up physio arranged.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          },
+          {
+            "claim_id": 120,
+            "claim": "The intended discharge plan included follow-up appointments.",
+            "source_id": 28,
+            "source_sentence": "The intended discharge plan included rivaroxaban 10 mg once daily for 7 days, ferrous sulfate 200 mg once daily for postoperative anaemia, a high-iron diet, outpatient physiotherapy, and follow-up appointments.",
+            "label": "UNSUPPORTED",
+            "reason": "The evidence mentions follow-up physio, but does not mention follow-up appointments in general.",
+            "supporting_evidence_ranks": [
+              1
+            ]
+          }
+        ]
+      },
+      "29": {
+        "source_id": 29,
+        "source_sentence": "She and her daughter received postoperative care and hip-precaution instructions.",
+        "verified_claims": [
+          {
+            "claim_id": 121,
+            "claim": "She received postoperative care.",
+            "source_id": 29,
+            "source_sentence": "She and her daughter received postoperative care and hip-precaution instructions.",
+            "label": "SUPPORTED",
+            "reason": "The record documents postoperative care after the total left hip replacement, including PACU care, ward transfer, OT, physio, and post-op progress updates.",
+            "supporting_evidence_ranks": [
+              4,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_id": 122,
+            "claim": "Her daughter received postoperative care.",
+            "source_id": 29,
+            "source_sentence": "She and her daughter received postoperative care and hip-precaution instructions.",
+            "label": "UNSUPPORTED",
+            "reason": "The evidence mentions contact with the next of kin and GP, but does not show the daughter received postoperative care.",
+            "supporting_evidence_ranks": [
+              9
+            ]
+          },
+          {
+            "claim_id": 123,
+            "claim": "She received hip-precaution instructions.",
+            "source_id": 29,
+            "source_sentence": "She and her daughter received postoperative care and hip-precaution instructions.",
+            "label": "SUPPORTED",
+            "reason": "Hip precautions were explicitly provided and reinforced in OT and physiotherapy notes, and the patient demonstrated understanding/adherence.",
+            "supporting_evidence_ranks": [
+              5,
+              6,
+              8
+            ]
+          },
+          {
+            "claim_id": 124,
+            "claim": "Her daughter received hip-precaution instructions.",
+            "source_id": 29,
+            "source_sentence": "She and her daughter received postoperative care and hip-precaution instructions.",
+            "label": "UNSUPPORTED",
+            "reason": "The record does not state that the daughter received hip-precaution instructions; those instructions were given to the patient.",
+            "supporting_evidence_ranks": [
+              5,
+              6,
+              8
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
