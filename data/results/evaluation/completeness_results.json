@@ -1,0 +1,5173 @@
+{
+  "028998ee-babc-4096-9b28-001bc2f9a84e": {
+    "person_id": "028998ee-babc-4096-9b28-001bc2f9a84e",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "04df53ea-55c1-48d9-84a1-1f15c133b29b": {
+    "person_id": "04df53ea-55c1-48d9-84a1-1f15c133b29b",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 1,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 14,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      }
+    ]
+  },
+  "05192757-942f-460d-b4ff-004ec39cc5ee": {
+    "person_id": "05192757-942f-460d-b4ff-004ec39cc5ee",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 14,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 15,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 16,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 17,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 18,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 19,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 20,
+        "direct": 2,
+        "hierarchical": 1,
+        "rag": 2,
+        "rag_verification": 1
+      }
+    ]
+  },
+  "0c04d9fb-d8d0-4ee0-8fc9-0c3f7f148bdf": {
+    "person_id": "0c04d9fb-d8d0-4ee0-8fc9-0c3f7f148bdf",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 14,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "0f438665-d430-4adb-8acc-c3beed9e4942": {
+    "person_id": "0f438665-d430-4adb-8acc-c3beed9e4942",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 1,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "136c7916-4f9b-4e5c-bf01-77e9d2c681a2": {
+    "person_id": "136c7916-4f9b-4e5c-bf01-77e9d2c681a2",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      }
+    ]
+  },
+  "137b8481-4f1d-4b7f-babd-20f7117023ad": {
+    "person_id": "137b8481-4f1d-4b7f-babd-20f7117023ad",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 14,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      }
+    ]
+  },
+  "1705dd0f-011a-492c-b006-b27e03f2f4ed": {
+    "person_id": "1705dd0f-011a-492c-b006-b27e03f2f4ed",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 14,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 15,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 16,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "1dbe23dc-0d1e-431b-81eb-497282b46a14": {
+    "person_id": "1dbe23dc-0d1e-431b-81eb-497282b46a14",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 14,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 15,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 16,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 17,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "28570119-9cdc-4120-98c0-4edb76cf36a3": {
+    "person_id": "28570119-9cdc-4120-98c0-4edb76cf36a3",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "29ea304f-821d-474e-81a1-394ca3945e02": {
+    "person_id": "29ea304f-821d-474e-81a1-394ca3945e02",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 1,
+        "rag": 2,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "31f9612b-5a6b-48ea-887b-895772a83b99": {
+    "person_id": "31f9612b-5a6b-48ea-887b-895772a83b99",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 14,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 15,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 16,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 17,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 18,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 19,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 20,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 21,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "359014a1-10e6-4bd8-9ba7-513d021c971e": {
+    "person_id": "359014a1-10e6-4bd8-9ba7-513d021c971e",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      }
+    ]
+  },
+  "37b5ce4d-dcfd-4bb7-bee4-d597eb114703": {
+    "person_id": "37b5ce4d-dcfd-4bb7-bee4-d597eb114703",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 14,
+        "direct": 1,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 15,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 1
+      }
+    ]
+  },
+  "420df33b-0072-4124-b1c6-0589daef3677": {
+    "person_id": "420df33b-0072-4124-b1c6-0589daef3677",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 14,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 15,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 16,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 17,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 18,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "42149ae1-6a3c-471e-a002-cb7263e8bb8c": {
+    "person_id": "42149ae1-6a3c-471e-a002-cb7263e8bb8c",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 14,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 15,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 1
+      }
+    ]
+  },
+  "51f15281-8840-4fd0-92de-89188ab8d736": {
+    "person_id": "51f15281-8840-4fd0-92de-89188ab8d736",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 14,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 15,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "58b8aad6-7327-4450-956f-b775be0f4984": {
+    "person_id": "58b8aad6-7327-4450-956f-b775be0f4984",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 1,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 14,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "5cfa1b7e-c60e-4bae-b31f-b6be2c09adcb": {
+    "person_id": "5cfa1b7e-c60e-4bae-b31f-b6be2c09adcb",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "5e434d78-b2f6-4d88-b327-fff6ee50b901": {
+    "person_id": "5e434d78-b2f6-4d88-b327-fff6ee50b901",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 14,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 15,
+        "direct": 2,
+        "hierarchical": 1,
+        "rag": 2,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 16,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 1
+      }
+    ]
+  },
+  "61699d6d-904a-4ece-9026-cd61b3fd9a50": {
+    "person_id": "61699d6d-904a-4ece-9026-cd61b3fd9a50",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "68258b8d-7d36-4d32-9093-6170a32bf087": {
+    "person_id": "68258b8d-7d36-4d32-9093-6170a32bf087",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "69bf7e25-abb2-4dde-857f-f1138d4d0d8a": {
+    "person_id": "69bf7e25-abb2-4dde-857f-f1138d4d0d8a",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 14,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 15,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 16,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 17,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      }
+    ]
+  },
+  "6e93f9d9-213d-4f2c-a1f0-f475dacef554": {
+    "person_id": "6e93f9d9-213d-4f2c-a1f0-f475dacef554",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 14,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 15,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 16,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 17,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 18,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 19,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "8448b3fa-1f5e-45b5-bda5-eb0b7921b8cc": {
+    "person_id": "8448b3fa-1f5e-45b5-bda5-eb0b7921b8cc",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 1,
+        "hierarchical": 0,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 1,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "900efb9a-fb57-4f25-b2a3-0a8c6f55b2d6": {
+    "person_id": "900efb9a-fb57-4f25-b2a3-0a8c6f55b2d6",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "94264e23-ea67-496e-b027-5dd0cc334f1e": {
+    "person_id": "94264e23-ea67-496e-b027-5dd0cc334f1e",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      }
+    ]
+  },
+  "96766f3f-aa50-4bcb-abbf-884328049ea9": {
+    "person_id": "96766f3f-aa50-4bcb-abbf-884328049ea9",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "973ee9d2-7c23-4e1d-afb2-86f679b55964": {
+    "person_id": "973ee9d2-7c23-4e1d-afb2-86f679b55964",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "9d8fd25d-c4fe-4343-8ff5-5da5dad4e740": {
+    "person_id": "9d8fd25d-c4fe-4343-8ff5-5da5dad4e740",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 14,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 15,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 16,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 17,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 18,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 19,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 20,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "a8629d2e-7fd8-449a-9149-e0f5045a04c4": {
+    "person_id": "a8629d2e-7fd8-449a-9149-e0f5045a04c4",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "a9827c1c-fb54-4e5b-8bc6-d3099869e671": {
+    "person_id": "a9827c1c-fb54-4e5b-8bc6-d3099869e671",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 14,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 15,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 16,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 17,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 18,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 19,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 20,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "b70c7ff6-c2af-4df6-bd88-889bf767a168": {
+    "person_id": "b70c7ff6-c2af-4df6-bd88-889bf767a168",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 14,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "b8085350-6748-47a5-a12f-6acd07c40a82": {
+    "person_id": "b8085350-6748-47a5-a12f-6acd07c40a82",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 1
+      }
+    ]
+  },
+  "c332ce87-7afd-4a74-9896-3fef50179bd0": {
+    "person_id": "c332ce87-7afd-4a74-9896-3fef50179bd0",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 14,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 15,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 16,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 17,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 18,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 1
+      }
+    ]
+  },
+  "c50e236f-6b3d-41c8-9e16-7ec343cac820": {
+    "person_id": "c50e236f-6b3d-41c8-9e16-7ec343cac820",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      }
+    ]
+  },
+  "c51243b8-e3d9-4cf7-ab29-0315048f91dc": {
+    "person_id": "c51243b8-e3d9-4cf7-ab29-0315048f91dc",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "c54a9649-495a-4f89-a8ca-fbb14ba70ca6": {
+    "person_id": "c54a9649-495a-4f89-a8ca-fbb14ba70ca6",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 1,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 14,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 15,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 16,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "c6c45c39-cd73-49dd-818d-0a7865fe8a7f": {
+    "person_id": "c6c45c39-cd73-49dd-818d-0a7865fe8a7f",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 14,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 15,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 16,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 17,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "c87e610e-ac2a-48cf-ac32-054f3e595498": {
+    "person_id": "c87e610e-ac2a-48cf-ac32-054f3e595498",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "ce0046dc-0ad3-4710-8147-549793c58b44": {
+    "person_id": "ce0046dc-0ad3-4710-8147-549793c58b44",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "d362867a-d350-4aca-82d0-a63b7e0a14c7": {
+    "person_id": "d362867a-d350-4aca-82d0-a63b7e0a14c7",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 1,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 14,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "e8885d7c-b863-4c41-997e-588416d655ae": {
+    "person_id": "e8885d7c-b863-4c41-997e-588416d655ae",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 0,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 1,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 14,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 15,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "ebb1ca4c-f42f-41d8-adbc-1b08949036d1": {
+    "person_id": "ebb1ca4c-f42f-41d8-adbc-1b08949036d1",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "ef943dfb-1368-44e0-a946-a0be360e1d54": {
+    "person_id": "ef943dfb-1368-44e0-a946-a0be360e1d54",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 14,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "f1538231-21af-4cfa-8b40-3303aa0d0c96": {
+    "person_id": "f1538231-21af-4cfa-8b40-3303aa0d0c96",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "f44d4a08-4c76-4000-ad61-d1d81032e643": {
+    "person_id": "f44d4a08-4c76-4000-ad61-d1d81032e643",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 13,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 14,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 15,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 16,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "f97ee974-67f3-4d72-9ed4-f17025da3749": {
+    "person_id": "f97ee974-67f3-4d72-9ed4-f17025da3749",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "fc6268ab-ad15-4613-9d8d-12c045e2fd46": {
+    "person_id": "fc6268ab-ad15-4613-9d8d-12c045e2fd46",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 0
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  },
+  "ff8c4724-b7de-4189-bccf-cffddd4d6d44": {
+    "person_id": "ff8c4724-b7de-4189-bccf-cffddd4d6d44",
+    "scores": [
+      {
+        "fact_id": 1,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 8,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 9,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "fact_id": 10,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 11,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "fact_id": 12,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      }
+    ]
+  }
+}
