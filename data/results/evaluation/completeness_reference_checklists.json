@@ -1,0 +1,3767 @@
+{
+  "028998ee-babc-4096-9b28-001bc2f9a84e": {
+    "person_id": "028998ee-babc-4096-9b28-001bc2f9a84e",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "15-year-old male presented to the ED with a 3-day history of severe lower abdominal pain and constipation.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Initial ED impression was constipation, later associated with mild dehydration.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Abdominal X-ray showed significant faecal loading with no evidence of obstruction or perforation.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "Blood tests including FBC, U&Es, CRP, and LFTs were normal.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 5,
+        "fact": "The patient was treated with IV 0.9% sodium chloride for mild dehydration.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 6,
+        "fact": "A single 10 mg oral dose of bisacodyl was administered in the ED to initiate bowel movement.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 7,
+        "fact": "Oral macrogol/Movicol was started for constipation during admission and later discontinued once symptoms resolved.",
+        "category": "treatment"
+      },
+      {
+        "fact": "The patient was referred and admitted to paediatrics for supportive management and observation.",
+        "category": "procedure",
+        "fact_id": 8
+      },
+      {
+        "fact_id": 9,
+        "fact": "Physiotherapy was provided to encourage gentle mobilisation to improve bowel motility, and the patient tolerated sessions well.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 10,
+        "fact": "The patient improved clinically with reduction in abdominal pain, passage of a partial bowel movement overnight, then a full bowel movement, and resolution of abdominal pain.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 11,
+        "fact": "The patient was discharged home after symptom resolution with advice on high-fibre diet and oral hydration.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 12,
+        "fact": "He was discharged with take-home lactulose 10 mL twice daily as needed for maintenance and recurrence prevention.",
+        "category": "treatment"
+      }
+    ]
+  },
+  "04df53ea-55c1-48d9-84a1-1f15c133b29b": {
+    "person_id": "04df53ea-55c1-48d9-84a1-1f15c133b29b",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient presented after a minor fall with acute confusion and disorientation, with an initial GCS of 12/15 that later improved during admission.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 2,
+        "fact": "CT head showed a subdural hygroma without midline shift or acute intracranial haemorrhage.",
+        "category": "investigation"
+      },
+      {
+        "fact": "FBC, U&E, and coagulation studies were normal initially.",
+        "category": "investigation",
+        "fact_id": 3
+      },
+      {
+        "fact_id": 4,
+        "fact": "Mild hyponatremia was identified during admission with serum sodium 132 mmol/L and was considered a contributor to confusion.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 5,
+        "fact": "The patient was admitted to the neurology ward for monitoring and neuro observations, with a repeat CT head planned.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 6,
+        "fact": "Hyponatremia was treated with oral sodium chloride tablets 1 g three times daily.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 7,
+        "fact": "Headache after the fall was treated with paracetamol 1 g four times daily by mouth.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 8,
+        "fact": "Repeat CT head on 03/01/26 showed no progression of the subdural hygroma.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 9,
+        "fact": "The patient received physiotherapy for gait instability and balance impairment, with gradual improvement over the hospital stay.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 10,
+        "fact": "Occupational therapy addressed fine motor difficulty and home safety, including recommendations for a raised toilet seat, grab rails, removal of loose rugs, improved lighting, and stair/bathroom handrails.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 11,
+        "fact": "Speech and language assessment found an adequate swallow and no aspiration, with mild word-finding difficulty thought to be related to residual confusion.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 12,
+        "fact": "The patient's cognition and mobility improved during admission, and by the end of physiotherapy he was walking independently with a steady gait and GCS 15/15.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 13,
+        "fact": "The patient was discharged home with community support services and follow-up arranged in neurology outpatient clinic.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 14,
+        "fact": "Short courses of levetiracetam 500 mg twice daily for 7 days and atorvastatin 40 mg daily for 7 days were started near discharge.",
+        "category": "treatment"
+      }
+    ]
+  },
+  "05192757-942f-460d-b4ff-004ec39cc5ee": {
+    "person_id": "05192757-942f-460d-b4ff-004ec39cc5ee",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient had end-stage osteoarthritis of the left hip causing severe chronic pain and functional limitation, and underwent elective total left hip replacement.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "The patient had a history of hypertension, with peri-operative blood pressures mildly elevated but without acute hypertensive complications.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Pre-operative assessment showed mild anaemia with hemoglobin 11.3 g/dL, and ferrous sulfate was started for optimization before surgery.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 4,
+        "fact": "Pre-operative ECG showed normal sinus rhythm without ischemic changes.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 5,
+        "fact": "Written informed consent was obtained for the total left hip replacement after discussion of risks, benefits, and recovery expectations.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 6,
+        "fact": "The patient underwent a total left hip replacement of the left hip under spinal anaesthesia via a posterolateral approach.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 7,
+        "fact": "Intraoperative findings were severe degenerative changes with significant cartilage loss and no evidence of infection or abnormal surrounding tissue.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 8,
+        "fact": "The removed left femoral head was sent for histological examination.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 9,
+        "fact": "A cemented prosthetic implant was placed in the left hip.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 10,
+        "fact": "Estimated intraoperative blood loss was approximately 150 mL and there were no intraoperative complications.",
+        "category": "complication"
+      },
+      {
+        "fact_id": 11,
+        "fact": "Immediate postoperative course was stable in PACU, with the patient alert, comfortable, and the surgical site clean and dry; she was transferred to the orthopaedic ward.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 12,
+        "fact": "Postoperative thromboprophylaxis with enoxaparin 40 mg subcutaneously once daily was started.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 13,
+        "fact": "Postoperative pain was managed with paracetamol, including regular dosing initially and PRN use later in the admission.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 14,
+        "fact": "Postoperative anaemia developed after surgery, with hemoglobin around 104\u2013105 g/L and no acute intervention required initially.",
+        "category": "complication"
+      },
+      {
+        "fact_id": 15,
+        "fact": "Ferrous sulfate 200 mg once daily was prescribed for postoperative anaemia, alongside advice for a high-iron diet and monitoring of hemoglobin.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 16,
+        "fact": "The patient progressed through physiotherapy from walker-assisted mobilization to crutches, then was deemed safe for independent discharge with crutches.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 17,
+        "fact": "Occupational therapy provided a hip kit and recommended minor home adaptations, including a raised toilet seat and bathroom grab bars, to support safe activities of daily living.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 18,
+        "fact": "The postoperative wound remained clean and dry without signs of infection, erythema, discharge, swelling, or DVT signs during ward reviews.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 19,
+        "fact": "The patient was discharged home on 06/01/26 with follow-up physiotherapy and outpatient clinic arrangements in place.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 20,
+        "fact": "Discharge medications included rivaroxaban 10 mg once daily for 7 days for postoperative thromboprophylaxis and paracetamol as needed for pain.",
+        "category": "treatment"
+      }
+    ]
+  },
+  "0c04d9fb-d8d0-4ee0-8fc9-0c3f7f148bdf": {
+    "person_id": "0c04d9fb-d8d0-4ee0-8fc9-0c3f7f148bdf",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient had end-stage osteoarthritis of the left hip with severe chronic pain and functional limitation, and was scheduled for elective total left hip replacement.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Pre-operative assessment showed mild anaemia with haemoglobin around 10.8 g/dL, while renal and liver function tests were otherwise normal.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Relevant past medical history included hypertension, hyperlipidaemia, and mild osteopenia.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 4,
+        "fact": "Pre-operative management included stopping ibuprofen 48 hours before surgery, starting ferrous sulfate for mild anaemia, and starting omeprazole to reduce gastrointestinal side effects from ibuprofen.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 5,
+        "fact": "The patient underwent elective total left hip replacement under general anaesthesia with spinal block.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 6,
+        "fact": "Intraoperative findings confirmed severe cartilage erosion and subchondral bone exposure in the left hip without evidence of acute inflammation or infection.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 7,
+        "fact": "A cemented total hip prosthesis with polyethylene acetabular component and metal femoral component was implanted.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 8,
+        "fact": "Estimated blood loss during surgery was 300 mL and there were no operative complications.",
+        "category": "complication"
+      },
+      {
+        "fact_id": 9,
+        "fact": "Immediate post-operative care included enoxaparin for VTE prophylaxis, cefuroxime for infection prophylaxis, and multimodal analgesia with paracetamol and tramadol, with IV morphine used for early post-op pain.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 10,
+        "fact": "The post-operative course was uncomplicated, with stable vital signs, no bleeding, no nausea or vomiting, and no neurovascular deficits.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 11,
+        "fact": "Post-operatively, haemoglobin remained mildly low at 10.8 g/dL and ferrous sulfate was prescribed for 4 weeks.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 12,
+        "fact": "The patient mobilised progressively after surgery with physiotherapy, advancing from early assisted steps to walker use, then crutches, and by discharge could ambulate independently and climb stairs safely.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 13,
+        "fact": "Occupational therapy identified the need for home adaptations, including a raised toilet seat, bathroom grab rails, and a long-handled reacher, and the patient was eventually cleared for independent activities of daily living.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 14,
+        "fact": "The patient was discharged home after satisfactory recovery with apixaban 2.5 mg twice daily for 2 weeks, a home exercise programme, and follow-up with the GP in 6 weeks for wound review and outpatient physiotherapy referral.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "0f438665-d430-4adb-8acc-c3beed9e4942": {
+    "person_id": "0f438665-d430-4adb-8acc-c3beed9e4942",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "A 3-year-old boy presented to the emergency department with poor feeding, reduced oral intake, and mild lethargy, with fewer wet nappies suggesting dehydration.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Initial assessment showed mild fever and mild tachycardia, with no respiratory distress and no severe dehydration.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 3,
+        "fact": "The working diagnosis in the ED was a viral illness / viral upper respiratory tract infection with associated poor feeding and mild dehydration.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 4,
+        "fact": "The child had allergies to pollen and macrolides.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 5,
+        "fact": "Paracetamol was given for fever, and oral normal saline fluid bolus / oral rehydration measures were started for dehydration.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 6,
+        "fact": "He was admitted to the Paediatric Assessment Unit for observation and supportive care, including IV maintenance fluids.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 7,
+        "fact": "No blood or urine tests were initially performed in the ED.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 8,
+        "fact": "Subsequent blood gas showed mild metabolic acidosis with venous pH 7.33 and bicarbonate 17 mmol/L.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 9,
+        "fact": "During admission, hydration and oral intake gradually improved and fever settled, with no respiratory distress.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 10,
+        "fact": "Nasal congestion persisted during the ward stay and was felt to be part of a viral URTI affecting feeding.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 11,
+        "fact": "ENT review found moderate nasal mucosal inflammation consistent with viral URTI, without purulent discharge or anatomical abnormality.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 12,
+        "fact": "Supportive treatment included IV fluids, paracetamol as needed, nasal saline drops, advice on oral rehydration, and later saline spray / steam inhalation for congestion.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 13,
+        "fact": "He improved enough to be discharged home, with stable observations, no dehydration, and parents educated on home hydration and warning signs.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "136c7916-4f9b-4e5c-bf01-77e9d2c681a2": {
+    "person_id": "136c7916-4f9b-4e5c-bf01-77e9d2c681a2",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient presented to the ED with acute confusion after a minor fall, initially with GCS 14/15 and mild disorientation.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "CT head showed a subdural hygroma with no midline shift and no acute intracranial bleed.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 3,
+        "fact": "The confusion was attributed to the subdural hygroma, with mild hyponatremia and dehydration felt to be contributing factors.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 4,
+        "fact": "Neurological examinations remained without focal deficits, with only transient disorientation and mild gait instability/unsteadiness during admission.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 5,
+        "fact": "Initial laboratory testing was largely normal except for mild hyponatremia, with serum sodium around 132 mmol/L that later improved to 133 mmol/L but remained slightly low.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 6,
+        "fact": "The patient was treated with intravenous 0.9% sodium chloride for dehydration and hyponatremia, then oral sodium chloride supplementation and fluid restriction were used to manage persistent hyponatremia.",
+        "category": "treatment"
+      },
+      {
+        "fact": "The patient received prophylactic ceftriaxone 2 g IV daily for 5 days during the admission.",
+        "category": "treatment",
+        "fact_id": 7
+      },
+      {
+        "fact_id": 8,
+        "fact": "Physiotherapy was required for post-fall mobility and balance impairment, with gradual improvement over the admission using walking aids and gait/balance training.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 9,
+        "fact": "Occupational therapy addressed impaired fine motor/ADL performance and cognitive difficulties, and recommended adaptive equipment such as a button hook, long-handled reacher, non-slip mat, and shower chair.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 10,
+        "fact": "By discharge, the patient was neurologically stable, oriented, and mobilizing safely with a walking stick, with no headache, dizziness, or confusion.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 11,
+        "fact": "The patient was discharged home with community care and outpatient follow-up plans, including neurology follow-up in 2 weeks, GP review, and ongoing physiotherapy.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "137b8481-4f1d-4b7f-babd-20f7117023ad": {
+    "person_id": "137b8481-4f1d-4b7f-babd-20f7117023ad",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "Patient presented with acute confusion after a minor fall/head injury with no reported loss of consciousness.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "CT head showed a subdural hygroma without acute intracranial hemorrhage or mass effect.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 3,
+        "fact": "The acute confusion was managed conservatively with observation and neurological monitoring rather than surgery.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 4,
+        "fact": "The patient had a documented history of hypertension, osteoarthritis, and a prior TIA in 2018.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 5,
+        "fact": "Initial neurological status was mildly abnormal with GCS 14/15 and disorientation/confusion but no focal neurological deficits.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 6,
+        "fact": "The patient had a mild right-sided headache after the fall, treated symptomatically with paracetamol.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 7,
+        "fact": "Mild dehydration and mild hyponatremia were identified during admission, with serum sodium as low as 131 mmol/L.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 8,
+        "fact": "Hyponatremia/dehydration were treated with IV normal saline initially and later oral hydration plus electrolyte supplementation, including Dioralyte and sodium chloride tablets.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 9,
+        "fact": "Serial reviews showed progressive improvement in cognition, with resolution of confusion by discharge.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 10,
+        "fact": "Serial reviews showed improvement in serum sodium to 133 mmol/L prior to discharge.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 11,
+        "fact": "Occupational therapy and speech-language therapy identified mild cognitive/word-finding and short-term memory issues early in admission, with recommendation for cognitive rehabilitation exercises.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 12,
+        "fact": "Physiotherapy documented improving mobility and balance over the admission, progressing to safe independent ambulation and stair assessment prior to discharge.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 13,
+        "fact": "A home safety assessment identified bathroom and stair hazards, leading to installation of grab rails before discharge.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 14,
+        "fact": "The patient was discharged home medically fit with community physiotherapy follow-up and GP review arranged.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "1705dd0f-011a-492c-b006-b27e03f2f4ed": {
+    "person_id": "1705dd0f-011a-492c-b006-b27e03f2f4ed",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient had end-stage osteoarthritis of the right shoulder causing severe pain, stiffness, reduced range of motion, crepitus, and night pain before surgery.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Pre-operative blood work showed mild anaemia with haemoglobin 11.2 g/dL, and ferrous sulfate was started to optimise haemoglobin before surgery.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Pre-operative ECG and chest X-ray were normal, and other routine blood tests were within acceptable limits.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "The patient underwent an elective total right shoulder replacement under general anaesthesia using an anterior deltopectoral approach with layered closure and a cemented modular shoulder prosthesis.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 5,
+        "fact": "Intra-operative findings showed severe glenohumeral joint degeneration with significant cartilage loss and no evidence of infection or periarticular inflammation.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 6,
+        "fact": "The operation had minimal blood loss and no intra-operative complications.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 7,
+        "fact": "Post-operatively, the patient received IV cefuroxime for 24 hours, morphine PCA and other analgesia, shoulder sling immobilisation, wound care, and physiotherapy.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 8,
+        "fact": "Immediately after surgery in recovery, the patient was stable, awake, had no wound bleeding or haematoma, and was transferred back to the ward.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 9,
+        "fact": "Post-operative nausea occurred in recovery and was treated with ondansetron.",
+        "category": "complication"
+      },
+      {
+        "fact_id": 10,
+        "fact": "During the ward stay, the wound remained clean, dry, and without infection, swelling, erythema, discharge, or neurovascular compromise.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 11,
+        "fact": "Post-operative pain was manageable with analgesia and shoulder mobility improved progressively with physiotherapy.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 12,
+        "fact": "Enoxaparin was started for venous thromboembolism prophylaxis during the hospital stay.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 13,
+        "fact": "The patient received physiotherapy education and home exercise programme instruction for shoulder rehabilitation, including sling use, passive and active-assisted range-of-motion exercises, strengthening, and activities of daily living management.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 14,
+        "fact": "The patient was planned for discharge the day after the final ward review if no new issues arose, with oral paracetamol and follow-up physiotherapy/home exercises.",
+        "category": "outcome"
+      },
+      {
+        "fact": "Pre-operative assessment found the patient fit for general anaesthesia, with hypertension and acid reflux as past medical history and no known drug allergies.",
+        "category": "diagnosis",
+        "fact_id": 15
+      },
+      {
+        "fact_id": 16,
+        "fact": "The patient had documented informed consent for the shoulder replacement after discussion of risks, benefits, and recovery/physiotherapy expectations.",
+        "category": "procedure"
+      }
+    ]
+  },
+  "1dbe23dc-0d1e-431b-81eb-497282b46a14": {
+    "person_id": "1dbe23dc-0d1e-431b-81eb-497282b46a14",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient is a 4-year-old boy with a history of right tibial fracture treated with internal fixation in 2024.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "He has mild asthma, managed with inhalers, and this was considered stable pre-operatively.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 3,
+        "fact": "He has eczema.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 4,
+        "fact": "He has documented allergies to penicillin, sulfonamides, pollen, and nuts.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 5,
+        "fact": "He underwent elective removal of internal fixation hardware from the right tibia under general anaesthesia.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 6,
+        "fact": "Pre-operative asthma optimisation included montelukast 4 mg once daily for two weeks and pre-operative salbutamol inhaler use.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 7,
+        "fact": "Pre-operative blood tests (FBC and coagulation screen) were reviewed and were satisfactory for surgery.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 8,
+        "fact": "At pre-operative assessment, mild wheeze was noted but there was no acute asthma exacerbation or respiratory distress, and the patient was deemed fit for surgery.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 9,
+        "fact": "Peri-operative antibiotic prophylaxis was planned and given with cefuroxime, with allergy-aware alternative coverage considered.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 10,
+        "fact": "Intra-operatively, the internal fixation device was removed successfully; the surrounding tissue was healthy, blood loss was minimal, and there were no complications.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 11,
+        "fact": "Post-operative recovery was uncomplicated: he was fully awake quickly, had stable oxygenation and no nausea, and the wound dressing was intact without bleeding or discharge.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 12,
+        "fact": "Post-operative course included pain control with paracetamol and a single oral ibuprofen dose in recovery, with pain later well controlled.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 13,
+        "fact": "Post-operative review noted a clean, healing surgical site without infection, swelling, erythema, or tenderness.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 14,
+        "fact": "A mildly elevated CRP of 12 mg/L was interpreted as post-operative inflammation, with monitoring planned.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 15,
+        "fact": "He received post-operative physiotherapy and occupational therapy for mobilisation, gait support, and home exercise/crutch training.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 16,
+        "fact": "He was discharged the day after surgery with follow-up planned in 2 weeks for wound/suture review, and home instructions for wound care, infection monitoring, pain control, and exercises.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 17,
+        "fact": "Discharge antibiotics included a 5-day course of cefuroxime suspension, despite the recorded penicillin and sulfonamide allergies.",
+        "category": "treatment"
+      }
+    ]
+  },
+  "28570119-9cdc-4120-98c0-4edb76cf36a3": {
+    "person_id": "28570119-9cdc-4120-98c0-4edb76cf36a3",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient was diagnosed with reversible cerebral vasoconstriction syndrome (RCVS) after presenting with a sudden severe thunderclap headache triggered by exertion.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "She was triaged as Category 2 urgent for the severe exertional headache, with elevated blood pressure around 160/90 mmHg and heart rate around 88 bpm.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Initial neurological examinations were normal, with no focal deficits or signs of raised intracranial pressure.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "CT head showed no intracranial haemorrhage or mass lesion.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 5,
+        "fact": "Blood tests during admission showed mild inflammatory marker elevation and mild leukocytosis with otherwise normal renal and liver function tests.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 6,
+        "fact": "MRI/MRA of the brain and cerebral vasculature confirmed RCVS and later repeat MRA showed improvement/resolution of vasoconstriction.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 7,
+        "fact": "She was treated with oral nimodipine during admission for vasospasm/RCVS.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 8,
+        "fact": "Her headache improved progressively during admission and resolved by discharge, with no new neurological symptoms.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 9,
+        "fact": "Admission was accompanied by mild hypokalaemia, which was treated with oral potassium supplementation.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 10,
+        "fact": "She developed mild hyponatraemia during admission, managed with dietary sodium increase and fluid restriction.",
+        "category": "complication"
+      },
+      {
+        "fact_id": 11,
+        "fact": "She was discharged home after clinical improvement and documented resolution/improvement of vasoconstriction on repeat MRA.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 12,
+        "fact": "Discharge plan included tapering nimodipine over 2 weeks and neurology outpatient follow-up in 4 weeks.",
+        "category": "treatment"
+      }
+    ]
+  },
+  "29ea304f-821d-474e-81a1-394ca3945e02": {
+    "person_id": "29ea304f-821d-474e-81a1-394ca3945e02",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient was diagnosed in the ED with spontaneous pneumomediastinum after presenting with sudden severe central chest pain worsened by deep breathing and movement.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Chest X-ray showed pneumomediastinum with subcutaneous emphysema, and there was no pneumothorax reported.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 3,
+        "fact": "ECG showed sinus tachycardia without ischaemic changes.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "The spontaneous pneumomediastinum was managed conservatively with observation and analgesia, including paracetamol and ibuprofen.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 5,
+        "fact": "The patient was advised to avoid straining, Valsalva manoeuvres, and heavy lifting because these could worsen the pneumomediastinum.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 6,
+        "fact": "The patient remained hemodynamically stable throughout admission and had no evidence of respiratory compromise.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 7,
+        "fact": "Repeat chest imaging showed gradual improvement with slight reduction in the pneumomediastinum, followed by complete resolution on the final CXR.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 8,
+        "fact": "Analgesics were stopped once the patient became pain-free.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 9,
+        "fact": "Discharge planning was initiated with outpatient respiratory follow-up arranged and the patient educated about recurrence symptoms and when to seek urgent care.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "31f9612b-5a6b-48ea-887b-895772a83b99": {
+    "person_id": "31f9612b-5a6b-48ea-887b-895772a83b99",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient had end-stage osteoarthritis of the right knee and underwent an elective total right knee replacement.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Pre-operative assessment documented chronic right knee pain with reduced range of motion, intermittent swelling, and occasional night pain despite analgesia.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Relevant past medical history included hypertension, hyperlipidaemia, and prior appendectomy in 1998.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 4,
+        "fact": "There were no known drug allergies.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 5,
+        "fact": "Pre-operative ECG showed sinus rhythm without acute abnormalities.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 6,
+        "fact": "Pre-operative blood tests including FBC, U&Es/renal function, and clotting profile were within acceptable range for surgery.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 7,
+        "fact": "Hypertension was optimised pre-operatively with amlodipine 5 mg daily.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 8,
+        "fact": "The patient received informed consent for the operation before surgery.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 9,
+        "fact": "The operation was performed under general anaesthesia with a cemented total knee prosthesis implanted and absorbable sutures used for closure.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 10,
+        "fact": "Intra-operative findings were significant cartilage erosion and osteophyte formation consistent with end-stage osteoarthritis.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 11,
+        "fact": "There were no operative complications and estimated blood loss was minimal.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 12,
+        "fact": "Immediate post-operative recovery in PACU was stable; pain and mild nausea were treated with morphine and ondansetron, and the patient was cleared for transfer to the orthopaedic ward.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 13,
+        "fact": "Post-operative analgesia included morphine via PCA, regular paracetamol, and ibuprofen initially, with later adjustment of anti-inflammatory therapy during recovery.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 14,
+        "fact": "Post-operative thromboprophylaxis was started with enoxaparin and later dalteparin, and at discharge apixaban 2.5 mg twice daily for 14 days was prescribed.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 15,
+        "fact": "Post-operative antibiotic prophylaxis with cefuroxime 1.5 g IV for 24 hours was given.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 16,
+        "fact": "Post-operative haemoglobin decreased to 110 g/L without need for transfusion.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 17,
+        "fact": "Post-operative inflammation was reflected by CRP 45 mg/L, later 44 mg/L, with no evidence of infection.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 18,
+        "fact": "Recovery progressed with physiotherapy, including improvement in knee flexion to 90 degrees, transition from walker to crutches, and ability to mobilise safely.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 19,
+        "fact": "The surgical wound remained clean and healing well throughout recovery, with only mild expected swelling and bruising and no signs of infection or DVT.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 20,
+        "fact": "Occupational therapy recommended crutches and a raised toilet seat to support safe discharge.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 21,
+        "fact": "Discharge was deemed safe from a physiotherapy standpoint after the patient demonstrated safe stair climbing and mobility with crutches.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "359014a1-10e6-4bd8-9ba7-513d021c971e": {
+    "person_id": "359014a1-10e6-4bd8-9ba7-513d021c971e",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient presented with sudden severe central chest pain and was diagnosed with spontaneous pneumomediastinum.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Mild subcutaneous emphysema was detected on examination during the initial assessment and early ward course.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Chest X-ray confirmed pneumomediastinum and showed no pneumothorax or other major abnormality.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "CT chest confirmed spontaneous pneumomediastinum and showed no oesophageal or tracheal rupture.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 5,
+        "fact": "The patient was admitted to the Acute Respiratory Ward for conservative management and monitoring.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 6,
+        "fact": "Management was supportive, including analgesia with paracetamol and ibuprofen, later tapered to PRN use as symptoms improved.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 7,
+        "fact": "Breathing exercises and physiotherapy were used repeatedly during admission to aid recovery, improve lung expansion, and support mobilisation.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 8,
+        "fact": "Serial chest radiographs showed progressive improvement, with mild reduction in mediastinal air on 08/01/26 and near-complete resolution by 10/01/26.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 9,
+        "fact": "The patient's symptoms improved steadily during admission, progressing from severe chest pain to no chest pain and comfortable breathing without respiratory distress.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 10,
+        "fact": "No complications were identified during the admission, and there was no evidence of oesophageal or tracheal injury.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 11,
+        "fact": "The patient was discharged with conservative management instructions, breathing exercises, and follow-up chest X-ray planned in 2 weeks.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 12,
+        "fact": "Discharge medications included ibuprofen and paracetamol as needed for residual discomfort, with salbutamol also provided at discharge.",
+        "category": "treatment"
+      }
+    ]
+  },
+  "37b5ce4d-dcfd-4bb7-bee4-d597eb114703": {
+    "person_id": "37b5ce4d-dcfd-4bb7-bee4-d597eb114703",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient had end-stage osteoarthritis of the left hip causing chronic pain and reduced mobility, and was admitted for elective total left hip replacement.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Pre-operative evaluation showed mild vitamin D deficiency with a serum 25-hydroxyvitamin D level of 18 ng/mL.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Pre-operative ECG showed borderline first-degree AV block, which was assessed as not clinically significant.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "Relevant comorbidities included hypertension, hyperlipidaemia, and osteoporosis.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 5,
+        "fact": "The patient had a penicillin allergy, and clindamycin 600 mg IV was planned/used as peri-operative antibiotic prophylaxis.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 6,
+        "fact": "The patient underwent elective total left hip replacement under general anaesthesia with cemented total hip prosthesis implantation and removal of the left femoral head.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 7,
+        "fact": "Intra-operative findings were severe cartilage loss of the femoral head and acetabulum without surrounding inflammation or infection.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 8,
+        "fact": "The operation had estimated blood loss of 200 mL and no intra-operative complications.",
+        "category": "complication"
+      },
+      {
+        "fact": "Post-operatively, the patient had expected anaemia with haemoglobin around 10.2 g/dL (110 g/L) after surgery.",
+        "category": "clinical_course",
+        "fact_id": 9
+      },
+      {
+        "fact_id": 10,
+        "fact": "Post-operative pain required regular paracetamol and later tramadol 50 mg as needed for breakthrough pain.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 11,
+        "fact": "VTE prophylaxis was given with enoxaparin initially and then dalteparin 5000 units subcutaneously daily, with discharge prophylaxis planned for 4 weeks.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 12,
+        "fact": "The post-operative wound remained clean and dry without infection or dehiscence, with only mild bruising/swelling consistent with expected recovery.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 13,
+        "fact": "The patient progressed with physiotherapy from bed-edge exercises to assisted mobilization and partial weight-bearing with a walker, with improving confidence and stability.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 14,
+        "fact": "Occupational therapy found that transfers and toilet use required moderate assistance and recommended discharge with mobility aids including a raised toilet seat, long-handled reacher, and walker.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 15,
+        "fact": "The patient was discharged home after recovery with instructions for home exercises, wound care, follow-up in orthopaedic clinic in 6 weeks, and continuation of post-operative medications.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "420df33b-0072-4124-b1c6-0589daef3677": {
+    "person_id": "420df33b-0072-4124-b1c6-0589daef3677",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient had end-stage osteoarthritis of the left hip causing severe pain and reduced mobility, and was admitted for elective total left hip replacement.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Past medical history included hypertension diagnosed in 2021, described as well-controlled pre-operatively.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Pre-operative blood tests showed mild anaemia with haemoglobin around 10.8 g/dL to 114 g/L.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "Pre-operative CRP was mildly elevated at 7 mg/L, felt to be consistent with inflammatory osteoarthritis and with no evidence of infection.",
+        "category": "investigation"
+      },
+      {
+        "fact": "The patient had allergies to penicillin and aspirin.",
+        "category": "diagnosis",
+        "fact_id": 5
+      },
+      {
+        "fact_id": 6,
+        "fact": "Pre-operatively, ibuprofen was stopped 48 hours before surgery and ferrous sulfate was prescribed for mild anaemia.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 7,
+        "fact": "The patient underwent a total left hip replacement under spinal anaesthesia with sedation via a posterolateral approach.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 8,
+        "fact": "Intraoperative findings showed advanced degeneration of the left hip with severe cartilage erosion and no surrounding tissue infection or abnormal pathology.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 9,
+        "fact": "The operation involved removal of the degenerated left femoral head and acetabular cartilage and implantation of cemented femoral stem and acetabular cup prostheses.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 10,
+        "fact": "Estimated blood loss during surgery was 300 mL and there were no operative complications noted.",
+        "category": "complication"
+      },
+      {
+        "fact_id": 11,
+        "fact": "Immediate post-operative care included analgesia with paracetamol and tramadol as needed, and venous thromboembolism prophylaxis with enoxaparin/dalteparin.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 12,
+        "fact": "The post-operative course was uncomplicated, with the surgical wound remaining clean, dry, and intact without erythema, discharge, or evidence of deep infection.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 13,
+        "fact": "Post-operative haemoglobin decreased to 105 g/L and later improved to 110 g/L without intervention.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 14,
+        "fact": "The patient developed mild nausea attributed to tramadol, which was treated with ondansetron and then prescribed as needed.",
+        "category": "complication"
+      },
+      {
+        "fact_id": 15,
+        "fact": "Post-operative rehabilitation progressed appropriately: the patient advanced from bed exercises to mobilising with a frame, then crutches, and completed stair training with physiotherapy.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 16,
+        "fact": "Occupational therapy provided ADL training and recommended home adaptations and a community OT home visit.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 17,
+        "fact": "The patient was discharged with a home exercise and mobility plan, mobility aids, and follow-up arranged in orthopaedic clinic and with the GP for wound and blood pressure review.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 18,
+        "fact": "Discharge anticoagulation was planned as rivaroxaban 10 mg daily for 10 days, with a documented note elsewhere confirming enoxaparin 40 mg SC daily for 4 weeks as the discharge anticoagulant arrangement.",
+        "category": "treatment"
+      }
+    ]
+  },
+  "42149ae1-6a3c-471e-a002-cb7263e8bb8c": {
+    "person_id": "42149ae1-6a3c-471e-a002-cb7263e8bb8c",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient had end-stage osteoarthritis of the right hip causing severe chronic pain and reduced mobility, leading to elective total right hip replacement.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Past medical history included hypertension, which was noted during pre-operative assessment and treated with ramipril 2.5 mg once daily for blood pressure optimization.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Pre-operative investigations showed normal ECG (sinus rhythm without ischemic changes) and normal blood tests including FBC and renal function/clotting profile.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "The patient underwent elective total right hip replacement under general anaesthesia on 07/01/2026.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 5,
+        "fact": "Intra-operative findings were severe degeneration of the articular cartilage with no evidence of acute synovitis or infection.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 6,
+        "fact": "A cemented total hip prosthesis was implanted during the right total hip replacement.",
+        "category": "procedure"
+      },
+      {
+        "fact": "Estimated intra-operative blood loss was 150 mL and no transfusion was required.",
+        "category": "outcome",
+        "fact_id": 7
+      },
+      {
+        "fact_id": 8,
+        "fact": "There were no operative or immediate post-operative complications.",
+        "category": "complication"
+      },
+      {
+        "fact_id": 9,
+        "fact": "Post-operative prophylaxis included enoxaparin 40 mg subcutaneously daily in hospital, with dalteparin 5000 IU subcutaneously daily prescribed after discharge for thromboprophylaxis.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 10,
+        "fact": "Post-operative pain was managed with paracetamol, with ibuprofen also used later during recovery, and pain improved to well-controlled/mild levels.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 11,
+        "fact": "The surgical wound remained clean, dry, and healing well throughout the post-operative course, without erythema, discharge, or bleeding.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 12,
+        "fact": "The patient mobilized progressively with physiotherapy using a walking frame and then crutches, including stair practice, and was judged safe for independent mobilization with crutches.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 13,
+        "fact": "Occupational therapy supported discharge preparation with adaptive equipment and training for transfers, dressing, toileting, and home safety.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 14,
+        "fact": "Mild postoperative anemia was noted with hemoglobin 110 g/L, but no intervention was required.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 15,
+        "fact": "The patient was discharged home on 10/01/2026 with instructions for pain control, wound care, crutch use, and follow-up with the GP in about 2 weeks for wound/recovery review.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "51f15281-8840-4fd0-92de-89188ab8d736": {
+    "person_id": "51f15281-8840-4fd0-92de-89188ab8d736",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient presented to the ED with severe right lower quadrant abdominal pain and was triaged as urgent (Category 2).",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Initial assessment showed fever/tachycardia and right lower quadrant tenderness with guarding/rebound features concerning for appendicitis.",
+        "category": "clinical_course"
+      },
+      {
+        "fact": "Laboratory tests showed inflammatory markers and leukocytosis, including CRP elevation and WBC 14.2 x10^9/L.",
+        "category": "investigation",
+        "fact_id": 3
+      },
+      {
+        "fact_id": 4,
+        "fact": "Abdominal ultrasound showed an enlarged, non-compressible appendix with peri-appendiceal fluid, consistent with acute appendicitis.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 5,
+        "fact": "The working diagnosis was acute appendicitis and the patient was admitted under General Surgery/Surgical Assessment Unit.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 6,
+        "fact": "Pre-operative management included NBM status, IV cefuroxime, IV metronidazole, and IV fluids while awaiting surgery.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 7,
+        "fact": "The patient underwent laparoscopic appendectomy under general anaesthesia on 01/01/26.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 8,
+        "fact": "Intra-operative findings were an inflamed appendix without perforation or abscess, and the appendix was removed.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 9,
+        "fact": "The operation had minimal blood loss and no intra-operative complications.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 10,
+        "fact": "Post-operatively, the patient recovered well, became alert and stable, and had no nausea, vomiting, or wound complications immediately after surgery.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 11,
+        "fact": "Post-operative labs and ward review showed improvement, with CRP trending down to 18 mg/L and normal WBC, and there were no signs of infection.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 12,
+        "fact": "The patient required physiotherapy and occupational therapy during recovery to support mobilization, stairs, and activities of daily living, and progressed to independent mobility.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 13,
+        "fact": "The patient was treated with analgesia and oral antibiotics during recovery, including paracetamol, ibuprofen, and co-amoxiclav.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 14,
+        "fact": "The surgical wound remained clean, dry, and healing well throughout the post-operative course without infection or dehiscence.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 15,
+        "fact": "The patient was discharged after an uncomplicated recovery from laparoscopic appendectomy with advice for light activity and avoidance of heavy lifting for six weeks.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "58b8aad6-7327-4450-956f-b775be0f4984": {
+    "person_id": "58b8aad6-7327-4450-956f-b775be0f4984",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient had end-stage osteoarthritis of the left hip causing severe pain and impaired mobility, and underwent elective left total hip replacement.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Pre-operative anaesthetic assessment classified the patient as ASA grade II and planned general anaesthesia with additional spinal anaesthesia for pain control.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Pre-operative investigations showed mild anaemia with haemoglobin 11.2 g/dL, while ECG was normal sinus rhythm and other blood tests were unremarkable.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "The patient was treated pre-operatively with ferrous sulfate for mild anaemia and was advised to stop ibuprofen before surgery; omeprazole was prescribed for gastric protection.",
+        "category": "treatment"
+      },
+      {
+        "fact": "Written informed consent was obtained after discussion of the procedure, benefits, alternatives, and risks including infection, blood clots, dislocation, pain, leg length discrepancy, and anaesthetic risk.",
+        "category": "procedure",
+        "fact_id": 5
+      },
+      {
+        "fact": "The left total hip replacement was performed through a posterolateral approach with cementless acetabular and femoral components and modular head implantation.",
+        "category": "procedure",
+        "fact_id": 6
+      },
+      {
+        "fact": "Intra-operative findings confirmed severe cartilage loss and subchondral bone sclerosis consistent with advanced osteoarthritis, with no signs of infection or inflammation.",
+        "category": "diagnosis",
+        "fact_id": 7
+      },
+      {
+        "fact": "The operation had an estimated blood loss of 300 mL and no intra-operative complications.",
+        "category": "complication",
+        "fact_id": 8
+      },
+      {
+        "fact": "Immediate post-operative recovery was stable in PACU, with mild surgical pain controlled and no recovery complications, allowing transfer to the ward.",
+        "category": "clinical_course",
+        "fact_id": 9
+      },
+      {
+        "fact_id": 10,
+        "fact": "Post-operative haemoglobin fell to 108 g/L, attributed to perioperative blood loss, but the patient remained haemodynamically stable and asymptomatic.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 11,
+        "fact": "Post-operative thromboprophylaxis was managed sequentially with enoxaparin, then rivaroxaban 10 mg daily for 28 days, and finally apixaban 2.5 mg twice daily at discharge.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 12,
+        "fact": "Post-operative analgesia included regular paracetamol and ibuprofen with morphine as needed, and pain was generally well controlled during ward recovery.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 13,
+        "fact": "The surgical wound remained clean, dry, and healing well throughout post-operative review, with no erythema, swelling, discharge, or signs of infection.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 14,
+        "fact": "The patient mobilised progressively with physiotherapy and crutches during recovery and was discharged home with outpatient physiotherapy follow-up and routine GP review planned.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "5cfa1b7e-c60e-4bae-b31f-b6be2c09adcb": {
+    "person_id": "5cfa1b7e-c60e-4bae-b31f-b6be2c09adcb",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient had end-stage osteoarthritis of the left knee causing severe pain and functional limitation, and was admitted electively for total left knee replacement.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Pre-operative assessment identified mild anaemia with hemoglobin 11.3 g/dL, while other blood tests, urinalysis, and ECG were normal.",
+        "category": "investigation"
+      },
+      {
+        "fact": "The patient was started on ferrous sulfate to address mild anaemia before surgery and it was continued peri-operatively/post-operatively.",
+        "category": "treatment",
+        "fact_id": 3
+      },
+      {
+        "fact": "The patient underwent elective total left knee replacement under general anaesthesia.",
+        "category": "procedure",
+        "fact_id": 4
+      },
+      {
+        "fact": "Intra-operative findings showed severe cartilage degeneration with subchondral bone exposure in the left knee and no evidence of infection or peri-articular inflammation.",
+        "category": "procedure",
+        "fact_id": 5
+      },
+      {
+        "fact": "The operation used a cemented total knee prosthesis, with minimal blood loss and no operative complications.",
+        "category": "procedure",
+        "fact_id": 6
+      },
+      {
+        "fact": "Post-operatively, the patient received thromboprophylaxis with tinzaparin initially and later enoxaparin 40 mg subcutaneously once daily.",
+        "category": "treatment",
+        "fact_id": 7
+      },
+      {
+        "fact": "Post-operative analgesia included paracetamol, ibuprofen, codeine phosphate as needed, and initial PCA with IV morphine in PACU.",
+        "category": "treatment",
+        "fact_id": 8
+      },
+      {
+        "fact": "Cefuroxime 1.5 g IV was given intra-operatively as prophylactic antibiotic cover, and later oral co-amoxiclav was prescribed for wound infection prophylaxis.",
+        "category": "treatment",
+        "fact_id": 9
+      },
+      {
+        "fact": "Early post-operative recovery was uncomplicated, with the wound remaining clean and dry, no signs of infection or DVT, and pain gradually improving.",
+        "category": "clinical_course",
+        "fact_id": 10
+      },
+      {
+        "fact": "Post-operative hemoglobin was 108 g/L, consistent with mild post-operative anaemia, but there was no evidence of further blood loss or infection.",
+        "category": "investigation",
+        "fact_id": 11
+      },
+      {
+        "fact": "The patient underwent physiotherapy and occupational therapy after surgery, progressing from exercises to walking frame and then crutches, and was deemed safe for discharge with crutches.",
+        "category": "clinical_course",
+        "fact_id": 12
+      },
+      {
+        "fact": "The patient was discharged with post-operative wound care instructions, a home exercise programme, oral analgesia, and outpatient follow-up arranged.",
+        "category": "outcome",
+        "fact_id": 13
+      }
+    ]
+  },
+  "5e434d78-b2f6-4d88-b327-fff6ee50b901": {
+    "person_id": "5e434d78-b2f6-4d88-b327-fff6ee50b901",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient has a background of asthma, hypertension, and hypercholesterolaemia.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "She presented with 3 days of progressive shortness of breath and increased use of salbutamol without significant relief.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 3,
+        "fact": "On presentation she was hypoxic, with oxygen saturation 88% on room air, requiring supplemental oxygen by nasal cannula.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 4,
+        "fact": "Chest X-ray showed right lower lobe consolidation consistent with a lower respiratory tract infection.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 5,
+        "fact": "Initial blood tests showed inflammatory markers and leukocytosis, including elevated CRP and WCC, with blood cultures sent and pending.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 6,
+        "fact": "Arterial blood gas showed hypoxaemia, and later clerking documented mild respiratory acidosis.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 7,
+        "fact": "She was diagnosed with lower respiratory tract infection with right lower lobe consolidation, complicated by hypoxia.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 8,
+        "fact": "An acute asthma exacerbation was also considered during the admission.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 9,
+        "fact": "She was admitted under the respiratory team for inpatient management.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 10,
+        "fact": "Treatment included intravenous co-amoxiclav, later with added intravenous clarithromycin, along with nebulised salbutamol as needed and supplemental oxygen.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 11,
+        "fact": "Respiratory physiotherapy was provided during admission, focusing on breathing exercises, active cycle of breathing techniques, sputum clearance, mobility, and exercise tolerance.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 12,
+        "fact": "A dietitian noted mild weight loss and recommended oral nutritional supplements (Fortisip) twice daily.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 13,
+        "fact": "Her clinical and inflammatory markers improved over the admission, with falling CRP, improved oxygenation, and reduced work of breathing.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 14,
+        "fact": "She was successfully weaned off supplemental oxygen and maintained oxygen saturation on room air before discharge.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 15,
+        "fact": "She was discharged with oral amoxicillin/co-amoxiclav to complete the antibiotic course and advised to continue salbutamol and breathing exercises.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 16,
+        "fact": "Follow-up with primary care or respiratory clinic was arranged after discharge, and she was advised to return if shortness of breath or fever developed.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "61699d6d-904a-4ece-9026-cd61b3fd9a50": {
+    "person_id": "61699d6d-904a-4ece-9026-cd61b3fd9a50",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient presented with sudden severe central chest pain radiating to the back, associated with shortness of breath and worse on deep inspiration.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Initial assessment showed tachypnoea and mild hypoxia on room air, with oxygen saturations around 93% and respiratory rate 26-28 breaths/min.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Chest X-ray demonstrated mediastinal air consistent with spontaneous pneumomediastinum, with no pneumothorax.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "Arterial blood gas showed mild respiratory alkalosis without significant hypercapnia or acidosis.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 5,
+        "fact": "Inflammatory markers were not significantly elevated, with CRP normal/2 mg/L and white cell count reported at 12.5 x10^9/L.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 6,
+        "fact": "The patient was diagnosed with spontaneous pneumomediastinum, considered likely benign with no obvious precipitant.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 7,
+        "fact": "He was managed conservatively on the acute medical unit with oxygen at 2 L/min via nasal cannula and analgesia including paracetamol, with ibuprofen added as needed.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 8,
+        "fact": "Repeat imaging showed gradual improvement, with slight reduction in mediastinal air on 06/01/26 and further reduction on 07/01/26, progressing to near-complete resolution by 07/01/26.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 9,
+        "fact": "Bedside nasoendoscopy found no mucosal tears, submucosal emphysema, or evidence of tracheal/laryngeal injury.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 10,
+        "fact": "The patient had mild subcutaneous emphysema in the neck/upper chest during admission, which resolved by discharge.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 11,
+        "fact": "The patient's symptoms improved steadily, with no further chest pain or respiratory distress by the time of discharge.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 12,
+        "fact": "He was discharged once medically fit, with advice to avoid activities that increase intrathoracic pressure, follow up with the GP in 2 weeks, and continue paracetamol as needed.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "68258b8d-7d36-4d32-9093-6170a32bf087": {
+    "person_id": "68258b8d-7d36-4d32-9093-6170a32bf087",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "13-year-old girl was admitted with acute gastroenteritis presenting with 24 hours of vomiting, weakness, and inability to tolerate oral intake.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "On presentation she had mild dehydration, with dry mucous membranes/reduced skin turgor and reduced urine output.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Initial blood tests showed mild acute kidney injury attributed to dehydration, with urea 12.4 and creatinine 140.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "She was treated with intravenous 0.9% saline for rehydration, with ondansetron used as needed for nausea/vomiting.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 5,
+        "fact": "Stool microbiology was sent to assess for bacterial gastroenteritis and later returned negative for bacterial pathogens.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 6,
+        "fact": "Her clinical state improved during admission, with resolution of vomiting and improved hydration status while tolerating oral rehydration solution and small meals.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 7,
+        "fact": "Repeat blood tests showed improvement and then resolution of the acute kidney injury, with creatinine falling to 95 and later 68 and urea falling to 8.5 and later 4.8.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 8,
+        "fact": "Intravenous fluids were reduced and then stopped as oral intake improved and she transitioned off IV hydration.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 9,
+        "fact": "She was discharged fit and well after recovery from gastroenteritis and dehydration-associated AKI, with no ongoing vomiting or abdominal symptoms.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 10,
+        "fact": "Discharge advice included oral rehydration, gradual return to a normal diet, and ondansetron as needed if vomiting recurred.",
+        "category": "treatment"
+      }
+    ]
+  },
+  "69bf7e25-abb2-4dde-857f-f1138d4d0d8a": {
+    "person_id": "69bf7e25-abb2-4dde-857f-f1138d4d0d8a",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient presented after a minor fall with acute confusion and mild disorientation.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "CT head showed a subdural hygroma with no acute intracranial hemorrhage and no mass effect.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 3,
+        "fact": "MRI head later confirmed the subdural hygroma and showed no significant mass effect or herniation.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "The patient was managed conservatively without neurosurgical intervention, with daily neurological observation.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 5,
+        "fact": "Neurosurgery accepted the patient for ongoing inpatient management/transfer under the care of the neurosurgical team.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 6,
+        "fact": "Mild hyponatremia was identified during admission, with sodium persistently around 132 mmol/L and considered a possible contributor to confusion.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 7,
+        "fact": "Mild hyponatremia was treated initially with sodium chloride tablets and hydration, then later managed with oral hydration and dietary adjustment.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 8,
+        "fact": "Thiamine 100 mg three times daily was started for possible Wernicke's encephalopathy.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 9,
+        "fact": "Atorvastatin was started for hyperlipidaemia during the admission.",
+        "category": "treatment"
+      },
+      {
+        "fact": "Amlodipine was included on the discharge medication list for hypertension.",
+        "category": "treatment",
+        "fact_id": 10
+      },
+      {
+        "fact_id": 11,
+        "fact": "The patient had intermittent mild headache during admission, which was treated symptomatically with paracetamol.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 12,
+        "fact": "The patient had mild unsteadiness/falls risk and received physiotherapy for gait, balance, and mobility rehabilitation.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 13,
+        "fact": "Occupational therapy assessed home safety and recommended walking aids and home adaptations such as grab rails and removal of trip hazards.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 14,
+        "fact": "Speech and language therapy identified mild dysphasia/word-finding difficulty and advised ongoing speech exercises and follow-up.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 15,
+        "fact": "Dietitian assessment identified insufficient protein intake, and Ensure Plus protein supplement was prescribed.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 16,
+        "fact": "The patient's confusion and mobility improved over the admission, with resolution of confusion by discharge and independent ambulation.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 17,
+        "fact": "The patient was discharged with outpatient neurology follow-up arranged in 4 weeks and neurosurgery follow-up planned in 6 weeks.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "6e93f9d9-213d-4f2c-a1f0-f475dacef554": {
+    "person_id": "6e93f9d9-213d-4f2c-a1f0-f475dacef554",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient had juvenile idiopathic scoliosis with progressive thoracolumbar curvature and underwent elective posterior spinal fusion for correction.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Pre-operative assessment documented no neurologic deficits or bowel/bladder symptoms, and imaging showed thoracolumbar scoliosis without other chest abnormalities.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Pre-operative blood tests showed borderline/mild anaemia with hemoglobin around 11.5 g/dL, with normal renal function, clotting, white cell count, and platelets.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "Aspirin allergy was documented and noted during peri-operative planning.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 5,
+        "fact": "She was started on oral ferrous sulfate pre-operatively to optimize hemoglobin before surgery.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 6,
+        "fact": "The planned anesthetic approach was general anesthesia with intraoperative neuromonitoring, with oral midazolam planned as premedication.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 7,
+        "fact": "Written consent for posterior spinal fusion was obtained from the patient\u2019s mother/legal guardian after discussion of risks, benefits, and recovery expectations.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 8,
+        "fact": "The patient underwent posterior spinal fusion with midline posterior thoracolumbar approach and placement of titanium pedicle screws and rods.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 9,
+        "fact": "Intra-operatively, the spinal curvature was corrected and there were no operative complications.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 10,
+        "fact": "Estimated blood loss during surgery was 350 mL.",
+        "category": "procedure"
+      },
+      {
+        "fact": "Immediate post-operative care included PCA morphine, IV paracetamol, IV cefuroxime prophylaxis, IV fluids, and monitoring in PACU before transfer to the ward.",
+        "category": "treatment",
+        "fact_id": 11
+      },
+      {
+        "fact_id": 12,
+        "fact": "Post-operatively she had expected pain and mild wound swelling/minimal serous discharge but no neurologic deficits or clear evidence of wound infection.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 13,
+        "fact": "CRP was elevated at 45 mg/L during recovery, interpreted as inflammatory rather than infectious in the notes.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 14,
+        "fact": "Her post-operative mobility improved progressively with physiotherapy, including assisted ambulation, then unassisted walking, stair practice, and independent ambulation by discharge.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 15,
+        "fact": "Occupational therapy focused on safe transfers and self-care after spinal fusion, using adaptive equipment such as a sock aid, long-handled reacher, and shoehorn.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 16,
+        "fact": "Because of mild wound swelling, oral flucloxacillin was started post-operatively, later followed by oral amoxicillin before discharge.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 17,
+        "fact": "Her analgesia was adjusted over the admission, including oral morphine reduction and use of paracetamol and ibuprofen, with pain ultimately well controlled.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 18,
+        "fact": "Discharge planning included mobility aids and community/outpatient physiotherapy referral, with outpatient follow-up arranged with the surgeon in about 2 weeks.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 19,
+        "fact": "At discharge, the wound was clean and dry with sutures intact, she was ambulating independently, and she was discharged home with short-course paracetamol and follow-up instructions.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "8448b3fa-1f5e-45b5-bda5-eb0b7921b8cc": {
+    "person_id": "8448b3fa-1f5e-45b5-bda5-eb0b7921b8cc",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient presented to the ED with severe headache, nausea/vomiting, photophobia, and neck stiffness, with fever and tachycardia developing during assessment.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Bacterial meningitis was the working diagnosis and was later confirmed by CSF analysis showing neutrophilic pleocytosis, low CSF glucose, and elevated CSF protein.",
+        "category": "diagnosis"
+      },
+      {
+        "fact": "CT head was performed and showed no abnormalities.",
+        "category": "investigation",
+        "fact_id": 3
+      },
+      {
+        "fact": "Lumbar puncture was performed and CSF was sent for cell count, glucose, protein, Gram stain, and culture.",
+        "category": "procedure",
+        "fact_id": 4
+      },
+      {
+        "fact": "Initial blood tests showed leukocytosis and markedly elevated CRP, supporting infection.",
+        "category": "investigation",
+        "fact_id": 5
+      },
+      {
+        "fact": "The patient was admitted to the Neurology Ward under Dr. Afua Asare for further management.",
+        "category": "outcome",
+        "fact_id": 6
+      },
+      {
+        "fact": "Treatment was started with IV ceftriaxone and IV vancomycin, and dexamethasone was added during the ward stay.",
+        "category": "treatment",
+        "fact_id": 7
+      },
+      {
+        "fact": "The patient improved clinically during admission, with resolution of fever and progressive improvement in headache, photophobia, and nausea.",
+        "category": "clinical_course",
+        "fact_id": 8
+      },
+      {
+        "fact": "Repeat inflammatory markers normalized during admission, with CRP falling to normal and WBC returning to normal range.",
+        "category": "investigation",
+        "fact_id": 9
+      },
+      {
+        "fact": "CSF culture and blood cultures were negative at 72 hours, and antibiotics were de-escalated and then changed from IV to oral therapy.",
+        "category": "treatment",
+        "fact_id": 10
+      },
+      {
+        "fact": "The patient was discharged clinically well with complete resolution of headache, nausea, and photophobia.",
+        "category": "outcome",
+        "fact_id": 11
+      },
+      {
+        "fact": "Discharge treatment included oral amoxicillin 500 mg three times daily for 7 days, with neurology follow-up arranged in 2 weeks.",
+        "category": "treatment",
+        "fact_id": 12
+      }
+    ]
+  },
+  "900efb9a-fb57-4f25-b2a3-0a8c6f55b2d6": {
+    "person_id": "900efb9a-fb57-4f25-b2a3-0a8c6f55b2d6",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "Child had a prior right tibia fracture in 2019 treated with internal fixation surgery in 2019.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Elective removal of the internal fixation device from the right tibia was the planned procedure and was performed under general anaesthesia on 07/01/26.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Pre-operative assessment identified mild anaemia with haemoglobin around 10.5-11.2 g/dL, which was considered acceptable for surgery and treated with iron supplementation.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "Pre-operative anaesthetic assessment found the child fit for surgery with a low-risk airway and normal cardiovascular and respiratory examination.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 5,
+        "fact": "The surgical consent for removal of the right tibial hardware was obtained from the mother after discussion of the procedure, risks, benefits, and recovery.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 6,
+        "fact": "Intra-operative findings showed the internal fixation device was intact, surrounding tissues were healthy, and there was no infection or inflammation.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 7,
+        "fact": "The operation had minimal blood loss and no complications, and the wound was closed with absorbable sutures.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 8,
+        "fact": "Post-operatively, the child received analgesia and antibiotic prophylaxis including peri-operative IV cefuroxime and oral paracetamol/co-amoxiclav.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 9,
+        "fact": "Immediate post-operative recovery was uncomplicated: the child regained consciousness, remained haemodynamically stable, and had no respiratory distress or wound bleeding/haematoma in PACU.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 10,
+        "fact": "On postoperative day 1, the surgical site remained clean with good wound healing, pain was well controlled, and the child was mobilising safely with crutches and physiotherapy.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 11,
+        "fact": "The child was discharged home on 09/01/26 after meeting physiotherapy goals and being deemed safe for discharge.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 12,
+        "fact": "Discharge plan included short courses of analgesia and oral antibiotics, home wound care advice, light physiotherapy at home, and outpatient orthopaedic follow-up in 2 weeks.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "94264e23-ea67-496e-b027-5dd0cc334f1e": {
+    "person_id": "94264e23-ea67-496e-b027-5dd0cc334f1e",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient had a known history of asthma and seasonal allergies, with a sulfonamide allergy.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "He presented to the ED with an acute worsening asthma exacerbation characterized by wheeze and shortness of breath.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Initial assessment showed hypoxia and increased work of breathing, including RR 26-28/min, SpO2 91-92% on room air, audible bilateral wheeze, and mild accessory muscle use.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 4,
+        "fact": "Peak expiratory flow was 180 L/min, indicating severe airflow obstruction.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 5,
+        "fact": "Arterial blood gas showed mild respiratory acidosis with pH 7.32 and elevated PaCO2 around 6.0-6.2 kPa.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 6,
+        "fact": "The acute asthma exacerbation was thought to be triggered by a recent upper respiratory tract infection, with possible environmental allergy triggers such as pollen and dust mites also considered.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 7,
+        "fact": "He was treated acutely with nebulised salbutamol and ipratropium bromide, oral prednisolone, then IV hydrocortisone, with supplemental oxygen and ongoing bronchodilator therapy.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 8,
+        "fact": "Chest X-ray showed no pneumothorax or consolidation, and no evidence of infection or alternative pathology was found.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 9,
+        "fact": "He improved clinically over the admission, with decreasing wheeze and work of breathing and weaning off oxygen until he maintained normal oxygen saturations on room air.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 10,
+        "fact": "Montelukast 5 mg nightly was started during admission.",
+        "category": "treatment"
+      },
+      {
+        "fact": "Physiotherapy/respiratory teaching was provided, including diaphragmatic breathing and correct spacer use, and he was able to demonstrate correct spacer technique.",
+        "category": "treatment",
+        "fact_id": 11
+      },
+      {
+        "fact_id": 12,
+        "fact": "By discharge, peak flow improved to 280 L/min and symptoms had resolved enough for discharge.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 13,
+        "fact": "He was discharged on salbutamol reliever inhaler and beclometasone preventer inhaler, with an updated asthma action plan and follow-up arranged in respiratory clinic in 4 weeks.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "96766f3f-aa50-4bcb-abbf-884328049ea9": {
+    "person_id": "96766f3f-aa50-4bcb-abbf-884328049ea9",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient is a 16-year-old male who presented with a headache as the main complaint.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Initial assessment found a moderate headache pain score of 6/10 with normal vital signs and no neurological red flag symptoms.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 3,
+        "fact": "The headache had a gradual onset and was persistent, bilateral/frontal, dull or pressing in character, and worsened with prolonged screen use, studying, or prolonged sitting.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 4,
+        "fact": "The patient had no significant past medical history, took no regular medications, and had no allergies reported.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 5,
+        "fact": "Neurological examination was normal, without focal deficits, and the patient had no signs of increased intracranial pressure or other concerning neurological abnormalities.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 6,
+        "fact": "CT head imaging was normal and showed no acute intracranial pathology.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 7,
+        "fact": "Laboratory testing including FBC, U&E, CRP, and LFTs was normal.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 8,
+        "fact": "The working diagnosis was tension headache, later described as tension headache exacerbated by neck muscle tightness.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 9,
+        "fact": "He was treated with paracetamol 1 g every 6 hours as needed, and later ibuprofen was added for pain relief.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 10,
+        "fact": "He was referred for physiotherapy focused on neck and shoulder muscle relaxation, stretching, posture correction, and mobility exercises.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 11,
+        "fact": "During admission, his headache and neck tension gradually improved, with significant improvement noted before discharge.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 12,
+        "fact": "He was discharged home with follow-up physiotherapy and advice to continue home exercises, hydration, posture/stress management, and use OTC analgesics as needed.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "973ee9d2-7c23-4e1d-afb2-86f679b55964": {
+    "person_id": "973ee9d2-7c23-4e1d-afb2-86f679b55964",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "13-year-old male presented with 2 days of abdominal pain and bloating, with suspected constipation as the working diagnosis.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Initial assessment showed abdominal distension and mild lower abdominal/LLQ tenderness, but no peritonism, guarding, or signs of bowel obstruction.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Abdominal X-ray demonstrated significant faecal loading in the colon with no bowel obstruction.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "Blood tests showed normal FBC and U&E; CRP was mildly elevated during admission (reported as 8 mg/L initially and later 12 mg/L).",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 5,
+        "fact": "He was diagnosed with severe constipation and admitted to the paediatric ward for medical management.",
+        "category": "diagnosis"
+      },
+      {
+        "fact": "Treatment in hospital included oral senna, macrogol, lactulose, and encouragement of increased oral fluids.",
+        "category": "treatment",
+        "fact_id": 6
+      },
+      {
+        "fact_id": 7,
+        "fact": "He received physiotherapy/OT-style constipation management education including abdominal massage and light mobility exercises, with advice to continue these at home with parental supervision.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 8,
+        "fact": "Dietary advice was provided recommending a high-fibre diet and increased fluid intake for constipation management.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 9,
+        "fact": "During admission he improved clinically, with passage of bowel movements, reduced abdominal pain and bloating, and resolution of abdominal distension/tenderness.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 10,
+        "fact": "He was discharged once symptoms resolved and bowel movements improved, with no evidence of complications.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 11,
+        "fact": "Discharge medications included lactulose, macrogol, and senna, with instructions for parental supervision and short-term home use.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 12,
+        "fact": "Follow-up was arranged in paediatric outpatient clinic in 2 weeks.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "9d8fd25d-c4fe-4343-8ff5-5da5dad4e740": {
+    "person_id": "9d8fd25d-c4fe-4343-8ff5-5da5dad4e740",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient had severe end-stage osteoarthritis of the right shoulder causing pain and restricted range of motion, and was scheduled for elective total right shoulder replacement.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Pre-operative assessment showed mild anaemia with haemoglobin 11.2 g/dL, while other blood tests and coagulation studies were within acceptable limits.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Pre-operative ECG showed minor age-related changes with no acute abnormalities.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "Pre-operative optimisation included starting ferrous sulfate 200 mg twice daily to improve haemoglobin before surgery.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 5,
+        "fact": "Ibuprofen was stopped pre-operatively as part of surgery preparation, and the patient was also instructed to fast before surgery.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 6,
+        "fact": "A formal pre-operative consent discussion was held covering the procedure, risks, and benefits, and written consent was obtained.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 7,
+        "fact": "The patient had a documented nut allergy.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 8,
+        "fact": "The patient underwent total right shoulder replacement on 06/01/26 under general anaesthesia via a deltopectoral approach with cemented shoulder prosthesis placement.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 9,
+        "fact": "Intra-operative findings were severe glenohumeral cartilage damage with osteophyte formation and no significant surrounding tissue inflammation.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 10,
+        "fact": "The operation had minimal blood loss and no intra-operative complications.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 11,
+        "fact": "The removed degenerated cartilage and remnant joint surfaces were sent for histology.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 12,
+        "fact": "Immediate post-operative recovery was stable, with pain and mild nausea managed using paracetamol and ondansetron, and the patient was transferred to the ward.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 13,
+        "fact": "Post-operative analgesia included oxycodone/co-codamol and paracetamol, with antiemetic ondansetron as needed.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 14,
+        "fact": "Early post-operative physiotherapy was initiated, including pendulum exercises, passive-assisted movements, active-assisted range of motion exercises, posture and sling education, and a home exercise programme.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 15,
+        "fact": "Occupational therapy assessed the home environment and recommended post-discharge modifications including a raised toilet seat and bathroom grab bars.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 16,
+        "fact": "On post-operative day 1 to 3, the wound remained clean and intact with only mild swelling and no clear clinical signs of infection, while pain was generally controlled and mobility was gradually improving.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 17,
+        "fact": "Post-operative inflammatory markers were elevated, with CRP 65 mg/L and WBC 11.5 x10^9/L, prompting concern for early infection.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 18,
+        "fact": "Because of the elevated inflammatory markers, co-amoxiclav was started as prophylaxis/treatment for suspected early post-operative infection.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 19,
+        "fact": "Post-operative thromboprophylaxis included enoxaparin in hospital and dalteparin after discharge.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 20,
+        "fact": "The patient was discharged with a home exercise programme, wound care instructions, oral analgesia, a short course of antibiotics, and follow-up arranged in outpatient clinic/physiotherapy.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "a8629d2e-7fd8-449a-9149-e0f5045a04c4": {
+    "person_id": "a8629d2e-7fd8-449a-9149-e0f5045a04c4",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient had congenital left clubfoot / congenital talipes equinovarus identified at birth.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "The patient underwent elective Ponseti casting for the left clubfoot.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Ponseti casting was performed under general anaesthesia.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 4,
+        "fact": "Pre-operative blood tests showed mild iron deficiency anaemia with haemoglobin 10.8 g/dL; electrolytes and coagulation profile were normal.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 5,
+        "fact": "Oral ferrous sulfate 75 mg once daily was started to treat the mild iron deficiency anaemia.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 6,
+        "fact": "The child was deemed fit for surgery after pre-operative assessment, with no active infection or other contraindication documented.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 7,
+        "fact": "The operation was uncomplicated, with no incision, no blood loss, and no reported complications.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 8,
+        "fact": "Foot alignment was corrected as expected during the Ponseti casting procedure.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 9,
+        "fact": "Post-operatively, the child recovered well in PACU and was stable for transfer to the ward, with pain controlled using paracetamol and ibuprofen.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 10,
+        "fact": "The cast was left in place after the procedure and monitored; it was documented as well applied and intact without pressure sores or skin irritation.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 11,
+        "fact": "Discharge was planned on the day of surgery with oral paracetamol and ibuprofen as needed and follow-up with paediatric orthopaedics in about 1 week.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 12,
+        "fact": "Family/caregiver education was provided on cast care and warning signs such as swelling, discoloration, odour, fever, or excessive pain, with instructions to seek medical advice if concerns arose.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 13,
+        "fact": "Past medical history included prematurity at 34 weeks and resolved developmental dysplasia of the hip.",
+        "category": "diagnosis"
+      }
+    ]
+  },
+  "a9827c1c-fb54-4e5b-8bc6-d3099869e671": {
+    "person_id": "a9827c1c-fb54-4e5b-8bc6-d3099869e671",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient was admitted with progressive breathlessness and was diagnosed with chronic thromboembolic pulmonary hypertension (CTEPH).",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "On presentation, the patient was hypoxic and visibly short of breath, requiring supplemental oxygen via nasal cannula.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Initial oxygen saturation was 91% on room air, improving to the low-mid 90s on 2 L/min oxygen by nasal cannula.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "Arterial blood gas testing was performed and showed mild hypoxemia without hypercapnia.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 5,
+        "fact": "Chest X-ray showed mild pulmonary vascular congestion.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 6,
+        "fact": "ECG showed right heart strain.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 7,
+        "fact": "Echocardiography showed significant right ventricular strain consistent with pulmonary hypertension.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 8,
+        "fact": "CT pulmonary angiogram confirmed CTEPH with segmental perfusion defects in both the right and left pulmonary arteries.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 9,
+        "fact": "NT-proBNP was elevated during admission, with values reported as 900 pg/mL initially and later 450 pg/mL, indicating improvement in cardiac strain.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 10,
+        "fact": "Therapeutic anticoagulation was started for suspected/confirmed CTEPH, including apixaban during the hospital course.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 11,
+        "fact": "The anticoagulation plan was later changed to rivaroxaban on discharge, with warfarin and bridging enoxaparin also documented in the discharge plan.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 12,
+        "fact": "The patient remained clinically stable overall with gradual improvement in breathlessness and mobility during the admission.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 13,
+        "fact": "The patient developed mild peripheral edema and mild jugular venous distension during admission, and furosemide 20 mg daily was started.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 14,
+        "fact": "Right heart catheterisation was planned/performed to assess pulmonary artery pressures and guide further management, including evaluation for pulmonary endarterectomy suitability.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 15,
+        "fact": "The patient was referred to a regional pulmonary endarterectomy center / pulmonary hypertension team for multidisciplinary evaluation of advanced treatment options.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 16,
+        "fact": "The patient received inpatient physiotherapy focused on breathing exercises, graded walking, and mobility training, with stable oxygen saturations during sessions.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 17,
+        "fact": "The patient received occupational therapy for energy conservation, home safety, and adaptive equipment planning for activities of daily living.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 18,
+        "fact": "The patient had psychological support/counselling for anxiety and adjustment related to the new chronic pulmonary hypertension diagnosis.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 19,
+        "fact": "The patient was discharged home in a clinically stable condition with improved symptoms and room-air oxygen saturation of 96%.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 20,
+        "fact": "Discharge follow-up was arranged with the pulmonary hypertension clinic, and anticoagulation monitoring was to continue in primary care.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "b70c7ff6-c2af-4df6-bd88-889bf767a168": {
+    "person_id": "b70c7ff6-c2af-4df6-bd88-889bf767a168",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient had end-stage osteoarthritis of the right hip causing severe pain, stiffness, and reduced range of motion, leading to elective right total hip replacement.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Pre-operative evaluation identified mild anemia with hemoglobin 10.8 g/dL, while U&E and coagulation profile were within normal limits.",
+        "category": "investigation"
+      },
+      {
+        "fact": "The patient underwent elective total right hip replacement on 2026-01-06 under spinal anaesthesia via a posterolateral approach.",
+        "category": "procedure",
+        "fact_id": 3
+      },
+      {
+        "fact": "The right total hip replacement used a cemented total hip prosthesis with acetabular and femoral components.",
+        "category": "procedure",
+        "fact_id": 4
+      },
+      {
+        "fact": "Intra-operative findings showed severe cartilage loss and joint degeneration consistent with end-stage osteoarthritis, with no other significant pathology noted.",
+        "category": "procedure",
+        "fact_id": 5
+      },
+      {
+        "fact_id": 6,
+        "fact": "The operation had minimal blood loss and no intra-operative complications.",
+        "category": "complication"
+      },
+      {
+        "fact_id": 7,
+        "fact": "Post-operatively, the patient remained hemodynamically stable and neurologically intact with a clean, dry wound and no signs of infection, bleeding, DVT, or PE.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 8,
+        "fact": "Post-operative hemoglobin fell to about 10.5 g/dL, described as a mild expected post-operative anemia and remained stable.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 9,
+        "fact": "Pain after surgery was well controlled with paracetamol, with no significant nausea or vomiting.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 10,
+        "fact": "VTE prophylaxis was given with enoxaparin 40 mg subcutaneously daily in hospital, and discharge prophylaxis was planned with rivaroxaban 10 mg daily for 35 days; one discharge note also documents dalteparin 5000 IU daily for 6 weeks.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 11,
+        "fact": "Prophylactic cefuroxime 1.5 g IV was planned/given at anaesthetic induction to reduce surgical site infection risk.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 12,
+        "fact": "Post-operative rehabilitation progressed well with physiotherapy and occupational therapy, including transfers, stair practice, crutch use, and ADL training, and the patient became independently mobile with crutches and was deemed ready for discharge from a physiotherapy perspective.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 13,
+        "fact": "Ferrous sulfate was started for mild anemia during the peri-operative period, with follow-up hemoglobin monitoring planned/recommended.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 14,
+        "fact": "The patient was discharged home after the right total hip replacement with wound-care instructions, hip precautions including avoiding flexion beyond 90 degrees, outpatient physiotherapy, and follow-up arranged in about 6 weeks.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "b8085350-6748-47a5-a12f-6acd07c40a82": {
+    "person_id": "b8085350-6748-47a5-a12f-6acd07c40a82",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "Infant was diagnosed with developmental dysplasia of the hips (DDH), confirmed on preoperative imaging and clinical examination.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "At pre-admission assessment, the infant had mild erythema/nappy rash in the diaper area, which was monitored and treated with barrier cream (Sudocrem).",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Preoperative laboratory tests (FBC and U&E) were normal.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "The infant underwent Pavlik harness application for DDH on 03/01/26.",
+        "category": "procedure"
+      },
+      {
+        "fact": "The Pavlik harness was applied successfully with both hips positioned for optimal reduction; no incision was made and estimated blood loss was none.",
+        "category": "procedure",
+        "fact_id": 5
+      },
+      {
+        "fact_id": 6,
+        "fact": "Oral midazolam 0.5 mg/kg was used for sedation during the Pavlik harness procedure.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 7,
+        "fact": "There were no procedural complications, and the harness did not cause skin irritation or pressure sores during the admission.",
+        "category": "complication"
+      },
+      {
+        "fact_id": 8,
+        "fact": "Post-procedure care included paracetamol 15 mg/kg every 6 hours as needed for pain and repeated parental instruction on harness care and daily skin checks.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 9,
+        "fact": "Parents received education and written instructions on safe handling, positioning, skin care, and not adjusting the harness straps at home.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 10,
+        "fact": "The infant remained clinically stable, fed well, and had no distress throughout the postoperative course.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 11,
+        "fact": "The infant was discharged home after the procedure with follow-up arranged in the orthopedic clinic for harness review and hip positioning assessment in 1 week.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "c332ce87-7afd-4a74-9896-3fef50179bd0": {
+    "person_id": "c332ce87-7afd-4a74-9896-3fef50179bd0",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient presented with severe fatigue and shortness of breath and was assessed as urgent triage category 2.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 2,
+        "fact": "He had a history of hypertension and type 2 diabetes mellitus.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Initial vital signs showed fever, tachycardia, hypotension, and mild hypoxemia, prompting sepsis screening.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 4,
+        "fact": "He was diagnosed with sepsis secondary to right lower lobe pneumonia.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 5,
+        "fact": "Chest X-ray showed right lower lobe consolidation consistent with pneumonia.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 6,
+        "fact": "Inflammatory and sepsis markers were elevated early in the admission, including CRP, lactate, and white blood cell count.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 7,
+        "fact": "He received initial IV fluid resuscitation with a 500 mL normal saline bolus for hypotension.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 8,
+        "fact": "Antibiotic treatment was started with IV co-amoxiclav, then escalated to IV piperacillin-tazobactam with added clarithromycin for pneumonia/sepsis coverage.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 9,
+        "fact": "He required supplemental oxygen by nasal cannula during the acute phase, with target saturations above 94%.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 10,
+        "fact": "The patient remained on the respiratory ward for ongoing treatment and monitoring of sepsis and pneumonia.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 11,
+        "fact": "Chest physiotherapy was initiated and continued during admission, including percussion, postural drainage, breathing exercises, and mobilisation therapy.",
+        "category": "treatment"
+      },
+      {
+        "fact": "Serial reassessment showed gradual clinical improvement with defervescence, improved oxygenation, and improving mobility.",
+        "category": "clinical_course",
+        "fact_id": 12
+      },
+      {
+        "fact": "Repeat chest X-ray showed mild resolution of the right lower lobe consolidation.",
+        "category": "investigation",
+        "fact_id": 13
+      },
+      {
+        "fact": "Inflammatory markers improved substantially during the hospital stay, with CRP falling to normal/near-normal levels and WBC normalizing.",
+        "category": "clinical_course",
+        "fact_id": 14
+      },
+      {
+        "fact": "He was stepped down from IV antibiotics to oral amoxicillin, with a planned short outpatient course after discharge.",
+        "category": "treatment",
+        "fact_id": 15
+      },
+      {
+        "fact": "He was weaned off oxygen and was breathing comfortably on room air before discharge.",
+        "category": "outcome",
+        "fact_id": 16
+      },
+      {
+        "fact": "At discharge he was afebrile, clinically improved, mobilizing independently, and had no ongoing shortness of breath.",
+        "category": "outcome",
+        "fact_id": 17
+      },
+      {
+        "fact": "He was discharged with advice to complete oral amoxicillin and follow up with his GP within one week.",
+        "category": "outcome",
+        "fact_id": 18
+      }
+    ]
+  },
+  "c50e236f-6b3d-41c8-9e16-7ec343cac820": {
+    "person_id": "c50e236f-6b3d-41c8-9e16-7ec343cac820",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient presented with a sudden severe headache after exertion, described as the worst headache of her life, with associated nausea and photophobia.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "The working diagnosis during admission was reversible cerebral vasoconstriction syndrome (RCVS).",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Initial CT head showed no intracranial hemorrhage or mass lesion.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "MRI angiogram confirmed findings consistent with RCVS, later described as resolving vasoconstriction.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 5,
+        "fact": "Initial laboratory testing showed mildly elevated CRP at 12 mg/L, with later blood tests normal.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 6,
+        "fact": "Lumbar puncture was planned after the negative CT head to evaluate other causes of the severe headache.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 7,
+        "fact": "She was treated with oral nimodipine during admission for RCVS, with dose adjusted over time.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 8,
+        "fact": "Analgesic therapy included sumatriptan and paracetamol during the hospitalization, but triptans were later discontinued before discharge.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 9,
+        "fact": "The headache improved progressively during admission from severe to resolved, and she became asymptomatic by discharge.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 10,
+        "fact": "She remained neurologically intact throughout admission with no focal deficits, seizures, or other new neurological symptoms.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 11,
+        "fact": "She was discharged with oral amlodipine 5 mg daily for at least 4 weeks and follow-up in the neurology outpatient clinic in 4 weeks.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 12,
+        "fact": "Discharge planning included education on hydration, stress management, and avoidance of headache triggers such as caffeine and strenuous activity.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "c51243b8-e3d9-4cf7-ab29-0315048f91dc": {
+    "person_id": "c51243b8-e3d9-4cf7-ab29-0315048f91dc",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "A 10-year-old boy presented to the ED with severe lower abdominal pain and bloating.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Initial examination showed a distended, tender abdomen without signs of dehydration, peritonism, obstruction, or other acute instability.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Abdominal X-ray showed significant faecal loading in the colon with no evidence of obstruction or perforation.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "Blood tests including FBC, U&E, and CRP were normal.",
+        "category": "investigation"
+      },
+      {
+        "fact": "He was diagnosed with constipation causing abdominal pain.",
+        "category": "diagnosis",
+        "fact_id": 5
+      },
+      {
+        "fact_id": 6,
+        "fact": "He was admitted under paediatrics/general surgery for inpatient management of constipation.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 7,
+        "fact": "Treatment included oral macrogol (Movicol) and encouragement of oral hydration, with later addition of lactulose 10 mL twice daily.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 8,
+        "fact": "Despite initial laxative therapy, he initially had ongoing bloating and had not passed stool, prompting escalation of treatment.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 9,
+        "fact": "His symptoms improved during admission, and he eventually passed stools with resolution of abdominal pain and bloating.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 10,
+        "fact": "He was discharged home fit for discharge with instructions for high-fibre diet, adequate hydration, and follow-up with the GP for bowel regularity and recurrence prevention.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "c54a9649-495a-4f89-a8ca-fbb14ba70ca6": {
+    "person_id": "c54a9649-495a-4f89-a8ca-fbb14ba70ca6",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The child presented with several days of poor feeding and reduced activity/lethargy.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 2,
+        "fact": "He was assessed as mildly dehydrated on presentation, with dry mucous membranes, slightly sunken fontanelle, reduced skin turgor, and capillary refill time of 3 seconds.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Capillary blood glucose was 3.8 mmol/L, indicating mild hypoglycaemia.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "Venous blood gas showed mild metabolic acidosis with pH 7.32 and bicarbonate 18 mmol/L.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 5,
+        "fact": "Urea was mildly elevated at 8.2 mmol/L.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 6,
+        "fact": "Urinalysis was negative for infection and the inflammatory workup was not suggestive of bacterial sepsis, with CRP within normal limits and only mild lymphocytosis on FBC.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 7,
+        "fact": "The working diagnosis during admission was viral illness causing poor feeding, mild dehydration, and mild hypoglycaemia.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 8,
+        "fact": "He was admitted to the paediatric observation unit and treated with IV maintenance fluids using 0.9% saline with 5% dextrose at 100 mL/kg/day.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 9,
+        "fact": "Oral rehydration solution and oral glucose solution were given in the emergency department.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 10,
+        "fact": "No antibiotics were prescribed because a viral aetiology remained the working diagnosis.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 11,
+        "fact": "Speech and language therapy assessment identified mild oral-motor fatigue and difficulty coordinating sucking, swallowing, and breathing, with latching difficulty during feeds.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 12,
+        "fact": "Feeding support was provided, including parental coaching on positioning and pacing, and recommendation for smaller, more frequent bottle feeds.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 13,
+        "fact": "The child's hydration and feeding improved over the admission, with normalization of capillary refill time and increasing alertness.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 14,
+        "fact": "IV fluids were weaned and then stopped as oral intake and hydration improved.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 15,
+        "fact": "Dietary advice was provided to switch to a high-calorie hydrolysed formula, with smaller frequent feeds, to support post-discharge nutrition and weight gain.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 16,
+        "fact": "He was discharged with feeding and hydration advice, ORS use as needed, hydrolysed formula for home use, and follow-up arranged with the GP and paediatric outpatient clinic.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "c6c45c39-cd73-49dd-818d-0a7865fe8a7f": {
+    "person_id": "c6c45c39-cd73-49dd-818d-0a7865fe8a7f",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient was diagnosed with chronic thromboembolic pulmonary hypertension (CTEPH) causing progressive breathlessness and hypoxia.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "The patient had a history of hypertension and asthma, and a nut allergy.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Initial assessment showed hypoxia with oxygen saturation 89% on room air and compensated respiratory alkalosis on ABG with PaO2 8.5 kPa.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "NT-proBNP was markedly elevated, with values reported as 3,200 pg/mL and later 4,500 pg/mL, indicating significant cardiac strain/right heart strain.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 5,
+        "fact": "Chest X-ray showed bilateral pulmonary congestion/cardiomegaly without focal consolidation or pneumothorax.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 6,
+        "fact": "CT pulmonary angiogram confirmed chronic thromboembolic disease.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 7,
+        "fact": "Echocardiography showed severe pulmonary hypertension with right ventricular strain.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 8,
+        "fact": "V/Q scanning showed mismatched perfusion defects consistent with CTEPH.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 9,
+        "fact": "The patient required supplemental oxygen during admission, with oxygen saturation improving from 89% to the low-to-mid 90s on low-flow nasal cannula.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 10,
+        "fact": "Therapeutic anticoagulation was started during admission, initially with enoxaparin and later transitioned to rivaroxaban.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 11,
+        "fact": "Sildenafil 20 mg three times daily was started for pulmonary hypertension before discharge.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 12,
+        "fact": "Furosemide was started for fluid retention/right heart strain during the hospital course.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 13,
+        "fact": "The patient underwent physiotherapy/occupational therapy with diaphragmatic breathing exercises, graded mobilization, energy conservation education, and use of a walking aid/rollator.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 14,
+        "fact": "The patient was referred to a tertiary pulmonary hypertension centre for pulmonary endarterectomy assessment.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 15,
+        "fact": "She clinically improved during admission, with reduced breathlessness, ability to mobilize better, and oxygen saturation stable around 94% on room air by discharge.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 16,
+        "fact": "Mild anemia was noted during admission with hemoglobin around 110 g/L, and ferrous sulfate was prescribed.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 17,
+        "fact": "The patient was discharged with rivaroxaban, sildenafil, ferrous sulfate, and a home exercise program, with follow-up planned at the tertiary pulmonary hypertension centre in about 4 weeks.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "c87e610e-ac2a-48cf-ac32-054f3e595498": {
+    "person_id": "c87e610e-ac2a-48cf-ac32-054f3e595498",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient presented as a 1-year-old female with acute right-sided ear pain, irritability, reduced feeding, and ear tugging.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "On examination, the right tympanic membrane was bulging with effusion and mild erythema, supporting a diagnosis of acute otitis media with effusion of the right ear.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 3,
+        "fact": "There were no signs of systemic infection, mastoiditis, cellulitis, facial asymmetry, or neurologic deficit during assessment.",
+        "category": "clinical_course"
+      },
+      {
+        "fact": "The patient was admitted under Paediatrics/ENT for inpatient management because of symptom severity and need for further treatment.",
+        "category": "procedure",
+        "fact_id": 4
+      },
+      {
+        "fact_id": 5,
+        "fact": "Oral paracetamol was given in the ED for pain relief and continued as needed/scheduled during admission.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 6,
+        "fact": "Oral amoxicillin was started for presumed bacterial acute otitis media, prescribed as a 5-day course.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 7,
+        "fact": "The child clinically improved during admission, with significant reduction in pain and improved otoscopic findings showing reduced erythema and effusion.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 8,
+        "fact": "The patient tolerated oral antibiotics and analgesia without adverse effects.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 9,
+        "fact": "The patient was discharged later the same day with amoxicillin and paracetamol, with advice for warm compresses and ENT follow-up in 2 weeks.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "ce0046dc-0ad3-4710-8147-549793c58b44": {
+    "person_id": "ce0046dc-0ad3-4710-8147-549793c58b44",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient was a 3-year-old boy who presented with 24 hours of poor feeding, lethargy, and pallor, and was triaged as urgent.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Initial assessment showed fever, tachycardia, mildly delayed capillary refill, dry mucous membranes, and reduced skin turgor, consistent with mild dehydration.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 3,
+        "fact": "The working diagnosis on presentation was viral illness with mild dehydration.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 4,
+        "fact": "He received oral paracetamol for fever in the emergency department.",
+        "category": "treatment"
+      },
+      {
+        "fact": "Oral rehydration therapy was started, including a small bolus of oral rehydration solution in the emergency department and continued during admission.",
+        "category": "treatment",
+        "fact_id": 5
+      },
+      {
+        "fact_id": 6,
+        "fact": "Because of dehydration, IV maintenance fluids (0.9% saline with 5% dextrose) were started during admission.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 7,
+        "fact": "Laboratory testing showed mild hypernatremia (Na 148 mmol/L), mildly elevated CRP (15 mg/L), and elevated WCC (12.5 x10^9/L).",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 8,
+        "fact": "A viral swab was obtained and later confirmed rhinovirus/common viral illness with no bacterial infection.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 9,
+        "fact": "The child improved clinically with better oral intake, resolution of fever and irritability, and normalization of hydration status during hospitalization.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 10,
+        "fact": "He tolerated supervised feeding trials, including small amounts of mashed banana and high-calorie pudding, without choking or distress.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 11,
+        "fact": "High-calorie liquid nutritional supplements were recommended to support recovery and intake.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 12,
+        "fact": "Saline nasal drops were prescribed for mild nasal congestion after rhinovirus was confirmed.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 13,
+        "fact": "He was discharged home in good condition with improved feeding and hydration, no ongoing dehydration, and outpatient GP follow-up arranged in one week.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "d362867a-d350-4aca-82d0-a63b7e0a14c7": {
+    "person_id": "d362867a-d350-4aca-82d0-a63b7e0a14c7",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "An 88-year-old woman presented with acute confusion/delirium.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Initial assessment showed fever, tachycardia, and mild hypotension with reduced GCS and disorientation.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Urinalysis was positive for leukocytes and nitrites, supporting a urinary tract infection as the cause of delirium.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "Blood tests showed raised inflammatory markers and mild acute kidney injury, including CRP 120 mg/L and creatinine 145 \u00b5mol/L.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 5,
+        "fact": "Chest X-ray and ECG showed no significant abnormalities.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 6,
+        "fact": "The patient was treated initially with IV ceftriaxone and IV 0.9% sodium chloride for suspected UTI, dehydration, and renal support.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 7,
+        "fact": "Urine culture later confirmed E. coli, and antibiotics were changed to targeted therapy based on sensitivity.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 8,
+        "fact": "The delirium gradually improved with treatment, along with temperature, inflammatory markers, and renal function.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 9,
+        "fact": "The patient\u2019s creatinine normalized and urine testing showed no ongoing infection before discharge.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 10,
+        "fact": "By discharge, the delirium had fully resolved and she was alert and oriented.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 11,
+        "fact": "She completed IV ceftriaxone and was discharged on oral nitrofurantoin to complete the antibiotic course.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 12,
+        "fact": "Occupational therapy and physiotherapy were involved for cognitive recovery, ADL support, balance, and mobility rehabilitation.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 13,
+        "fact": "She initially required a walking frame and stair practice, but mobility improved to independent walking by discharge.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 14,
+        "fact": "She was deemed medically fit for discharge with outpatient geriatrics follow-up arranged.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "e8885d7c-b863-4c41-997e-588416d655ae": {
+    "person_id": "e8885d7c-b863-4c41-997e-588416d655ae",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient is a 7-year-old girl with progressive right tibial rotational deformity/out-toeing, prompting elective surgical correction.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "She had a planned right tibial derotation osteotomy performed on 07/01/26 under general anaesthesia.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Intraoperative findings confirmed rotational malalignment of the right tibia, with surrounding tissues appearing normal and no evidence of infection or inflammation.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 4,
+        "fact": "The osteotomy was fixed with a titanium plate and screws and the wound was closed with absorbable sutures.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 5,
+        "fact": "The surgery had no reported complications and estimated blood loss was 20 mL.",
+        "category": "complication"
+      },
+      {
+        "fact_id": 6,
+        "fact": "Post-operatively she was managed with a below-knee plaster cast, sterile dressing, and physiotherapy for gentle range-of-motion and progressive weight-bearing rehabilitation.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 7,
+        "fact": "Post-operative analgesia included paracetamol, initially given IV in PACU and continued orally thereafter.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 8,
+        "fact": "She received oral amoxicillin 125 mg three times daily for 5 days as prophylaxis against post-operative infection.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 9,
+        "fact": "She had mild anaemia pre-operatively, with haemoglobin values reported as 10.8 to 11.3 g/dL, but this was deemed acceptable for surgery.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 10,
+        "fact": "Pre-operative investigations otherwise showed normal white cell count, platelets, U&E and clotting profile, and no additional imaging was performed during the admission.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 11,
+        "fact": "Her immediate post-operative recovery in PACU was stable, with no airway, respiratory, haemodynamic, neurological, or wound complications; pain was present but controlled.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 12,
+        "fact": "She progressed through physiotherapy from gentle ROM to assisted and partial weight-bearing with crutches, tolerated rehabilitation well, and was cleared for independent crutch use at home.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 13,
+        "fact": "Discharge planning included paracetamol as needed and dalteparin 2,500 IU subcutaneously once daily for 7 days for DVT prophylaxis.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 14,
+        "fact": "Planned outpatient orthopaedic follow-up was arranged for 17/01/26 after discharge.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 15,
+        "fact": "Her past medical history included resolved mild asthma and frequent URTIs in early childhood, and she had a pollen allergy.",
+        "category": "diagnosis"
+      }
+    ]
+  },
+  "ebb1ca4c-f42f-41d8-adbc-1b08949036d1": {
+    "person_id": "ebb1ca4c-f42f-41d8-adbc-1b08949036d1",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient had recurrent left knee pain and gait abnormality due to an angular deformity/growth plate abnormality of the left distal femur.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "The patient had iron deficiency anaemia pre-operatively, with haemoglobin 10.9 g/dL, and was treated with oral ferrous sulfate before surgery.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 3,
+        "fact": "She underwent elective hemiepiphysiodesis of the left distal femur under general anaesthesia on 2026-01-06.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 4,
+        "fact": "A guided growth plate tether/implant was placed during the hemiepiphysiodesis.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 5,
+        "fact": "Intraoperative findings showed no evidence of infection or significant inflammation, and the growth plate was intact.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 6,
+        "fact": "Estimated blood loss during surgery was minimal, less than 10 mL, and there were no intraoperative complications.",
+        "category": "complication"
+      },
+      {
+        "fact_id": 7,
+        "fact": "Post-operatively she had a mild haemoglobin drop to 104 g/L, attributed to minor blood loss during surgery.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 8,
+        "fact": "She developed mild postoperative superficial wound inflammation with slight erythema/warmth at the surgical site and CRP 18 mg/L, without evidence of deep infection.",
+        "category": "complication"
+      },
+      {
+        "fact_id": 9,
+        "fact": "Flucloxacillin 250 mg three times daily for 5 days was started as prophylaxis/treatment for the suspected superficial wound infection.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 10,
+        "fact": "Postoperative analgesia included paracetamol and ibuprofen, with paracetamol later reduced to PRN and ibuprofen continued.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 11,
+        "fact": "Enoxaparin 20 mg subcutaneously once daily was prescribed for postoperative DVT prophylaxis.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 12,
+        "fact": "She participated in postoperative physiotherapy and progressed from assisted mobilisation to walking with crutches, eventually being assessed as safe for independent mobilisation with crutches.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 13,
+        "fact": "She was discharged on 2026-01-08 with oral paracetamol and ibuprofen, instructed on wound care and crutch use, and planned for outpatient physiotherapy follow-up.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "ef943dfb-1368-44e0-a946-a0be360e1d54": {
+    "person_id": "ef943dfb-1368-44e0-a946-a0be360e1d54",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient had end-stage osteoarthritis of the left hip causing chronic pain, stiffness, reduced range of motion, and impaired mobility before surgery.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Pre-operative evaluation showed mild anaemia with haemoglobin around 10.8 g/dL, and oral ferrous sulfate was started for this.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Pre-operative investigations included a left hip X-ray showing severe degenerative changes consistent with end-stage osteoarthritis and an ECG showing normal sinus rhythm.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "The patient underwent a total left hip replacement under general anaesthesia.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 5,
+        "fact": "Intra-operative findings were severe cartilage loss and osteophyte formation in the left hip joint, with no surrounding soft tissue inflammation.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 6,
+        "fact": "The total hip prosthetic implant was inserted during the left hip replacement.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 7,
+        "fact": "The operation had an estimated blood loss of 200 mL and no reported complications.",
+        "category": "complication"
+      },
+      {
+        "fact_id": 8,
+        "fact": "Immediate post-operative care included IV cefuroxime for 24 hours, patient-controlled morphine analgesia, and initiation of VTE prophylaxis with dalteparin.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 9,
+        "fact": "After surgery, the patient was stable in PACU, transferred from oxygen to room air without desaturation, and was deemed fit for transfer to the orthopaedic ward.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 10,
+        "fact": "Post-operatively, the patient developed mild anaemia with haemoglobin falling to about 105\u2013108 g/L, without clinical signs of significant anaemia.",
+        "category": "complication"
+      },
+      {
+        "fact_id": 11,
+        "fact": "Post-operative pain was controlled with analgesia, and the patient mobilised progressively with physiotherapy support and a zimmer frame.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 12,
+        "fact": "The surgical wound remained clean and dry without signs of infection or haematoma during post-operative review.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 13,
+        "fact": "Discharge planning included stopping enoxaparin and starting aspirin 75 mg daily for VTE prophylaxis, with discharge planned for the following day.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 14,
+        "fact": "The patient had relevant past medical history of hypertension, mild hearing loss, cataract surgery, and lower back pain.",
+        "category": "diagnosis"
+      }
+    ]
+  },
+  "f1538231-21af-4cfa-8b40-3303aa0d0c96": {
+    "person_id": "f1538231-21af-4cfa-8b40-3303aa0d0c96",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "A 1-year-old male presented with poor feeding, reduced oral intake for 2 days, fever, lethargy, and fewer wet nappies.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Initial assessment showed mild dehydration with fever (38.2\u00b0C), tachycardia (HR 120 bpm), and weight below the 10th percentile for age.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Blood and urine investigations were obtained, including FBC, U&Es, CRP, viral panel, urinalysis, and urine culture.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "Initial laboratory results showed raised CRP (35 mg/L), mild hyponatraemia (Na 132 mmol/L), normal FBC, and urinalysis negative for infection.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 5,
+        "fact": "The working diagnosis was viral illness with mild dehydration and poor feeding.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 6,
+        "fact": "The patient was accepted by Paediatrics and admitted/transferred to PAU for IV rehydration with 0.9% saline plus 5% dextrose.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 7,
+        "fact": "The viral panel was positive for RSV, supporting the diagnosis of viral illness.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 8,
+        "fact": "Inflammation and hydration status improved during admission, with CRP falling from 35 to 15 and then 12 mg/L, and clinical dehydration resolving.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 9,
+        "fact": "IV fluids were gradually reduced as oral intake improved and then discontinued once the patient tolerated feeds and maintained hydration.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 10,
+        "fact": "The patient tolerated oral feeds, had improved hydration and urine output, and remained clinically well without respiratory distress before discharge.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 11,
+        "fact": "Dietitian and speech-language therapy reviewed feeding; no swallowing or structural feeding abnormality was found, and parents were advised on small frequent feeds and paced feeding.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 12,
+        "fact": "The patient was discharged home with advice to continue small, frequent oral feeds and to seek medical advice if dehydration or feeding problems recur, with GP follow-up arranged in one week.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "f44d4a08-4c76-4000-ad61-d1d81032e643": {
+    "person_id": "f44d4a08-4c76-4000-ad61-d1d81032e643",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient had end-stage osteoarthritis of the left hip causing severe pain, stiffness, reduced range of motion, and impaired mobility.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Pre-operative ECG showed a borderline prolonged QTc of 470 ms, which was reviewed by the anaesthetics team.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Pre-operative blood tests showed a mildly elevated white cell count of 12.5, while U&E and coagulation studies were normal.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "The patient underwent an elective total left hip replacement for end-stage osteoarthritis.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 5,
+        "fact": "The hip replacement was performed through a posterolateral approach under general anaesthesia.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 6,
+        "fact": "Intraoperative findings showed severe cartilage degeneration of the acetabulum and femoral head without evidence of acute inflammation or infection.",
+        "category": "procedure"
+      },
+      {
+        "fact": "A cemented acetabular cup and cemented femoral stem with modular head were implanted during the hip replacement.",
+        "category": "procedure",
+        "fact_id": 7
+      },
+      {
+        "fact_id": 8,
+        "fact": "The procedure had no intraoperative complications and estimated blood loss was 250 mL.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 9,
+        "fact": "Prophylactic cefuroxime 1.5 g IV was given intraoperatively.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 10,
+        "fact": "Post-operatively, enoxaparin 40 mg subcutaneously daily was prescribed for 4 weeks for venous thromboembolism prophylaxis.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 11,
+        "fact": "Post-operative pain was managed with oxycodone initially, then paracetamol and codeine for breakthrough pain.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 12,
+        "fact": "Post-operative nausea in PACU was treated with ondansetron and resolved.",
+        "category": "complication"
+      },
+      {
+        "fact_id": 13,
+        "fact": "Post-operatively, the patient had a mild drop in haemoglobin to about 10.4\u201310.5 g/dL, consistent with post-surgical change.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 14,
+        "fact": "The patient mobilised well with physiotherapy, progressing from frame-assisted mobilisation to walking confidently with crutches.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 15,
+        "fact": "The surgical wound remained clean, dry, and without signs of infection throughout the post-operative course.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 16,
+        "fact": "The patient recovered well after surgery and was discharged home with outpatient follow-up and physio arranged.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "f97ee974-67f3-4d72-9ed4-f17025da3749": {
+    "person_id": "f97ee974-67f3-4d72-9ed4-f17025da3749",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient had progressive left leg deformity due to left knee valgus/angular deformity of the left distal femur, leading to planned hemiepiphysiodesis.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "Pre-operative blood tests showed borderline anemia with hemoglobin 10.2 g/dL, and oral ferrous sulfate 200 mg once daily was started to optimize for surgery.",
+        "category": "treatment"
+      },
+      {
+        "fact": "Pre-operative repeat hemoglobin improved to 12.4 g/dL, considered adequate for surgery.",
+        "category": "investigation",
+        "fact_id": 3
+      },
+      {
+        "fact_id": 4,
+        "fact": "The patient underwent elective hemiepiphysiodesis of the left distal femur under general anesthesia with caudal block.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 5,
+        "fact": "Intraoperative findings showed a healthy growth plate with no inflammation, infection, or abnormal tissue.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 6,
+        "fact": "A guided growth plate tension band device was implanted and the incision was closed with absorbable sutures.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 7,
+        "fact": "The surgery had minimal blood loss and no intraoperative complications.",
+        "category": "complication"
+      },
+      {
+        "fact_id": 8,
+        "fact": "Post-operative analgesia included paracetamol and ibuprofen, with prophylactic cefazolin given for 24 hours after surgery.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 9,
+        "fact": "Post-operatively, the wound remained clean and dry with no signs of infection, swelling, discharge, or dehiscence, and recovery was clinically stable.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 10,
+        "fact": "Post-operative hemoglobin was 10.8 g/dL and was described as a mild transient anemia that was clinically insignificant.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 11,
+        "fact": "The patient mobilized with crutches after surgery and completed physiotherapy focused on range-of-motion exercises, safe crutch use, and home exercise planning.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 12,
+        "fact": "The patient was discharged with outpatient orthopedic follow-up planned in 6 weeks for clinical and radiological review.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "fc6268ab-ad15-4613-9d8d-12c045e2fd46": {
+    "person_id": "fc6268ab-ad15-4613-9d8d-12c045e2fd46",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "A 4-year-old boy presented with 3 days of poor feeding, reduced oral intake, and mild lethargy.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "He was clinically assessed as having mild dehydration, with dry mucous membranes and slightly sunken fontanelle noted on examination.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Initial ED impression was viral illness / viral gastroenteritis causing mild dehydration.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 4,
+        "fact": "Urinalysis and urine culture were sent to assess hydration status and exclude urinary tract infection.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 5,
+        "fact": "Blood tests including FBC, CRP, and U&E were obtained to assess dehydration and rule out secondary complications or electrolyte imbalance.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 6,
+        "fact": "He was admitted to paediatrics / PAU for ongoing management of dehydration and poor oral intake.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 7,
+        "fact": "Treatment included IV fluids with 0.9% saline plus 5% dextrose at maintenance rate.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 8,
+        "fact": "A structured feeding plan was implemented with small, frequent oral feeds and oral rehydration solution, with parent education and dietary advice.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 9,
+        "fact": "The child improved clinically, with better oral intake, return of wet nappies, and resolution of dehydration; IV fluids were stopped.",
+        "category": "clinical_course"
+      },
+      {
+        "fact_id": 10,
+        "fact": "CRP was 12 mg/L and there was no evidence of bacterial infection, so antibiotics were not required.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 11,
+        "fact": "He was discharged home once clinically well and tolerating oral intake, with oral rehydration solution and paracetamol as needed.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 12,
+        "fact": "GP follow-up was arranged for 16/01/26 to review recovery and hydration status.",
+        "category": "outcome"
+      }
+    ]
+  },
+  "ff8c4724-b7de-4189-bccf-cffddd4d6d44": {
+    "person_id": "ff8c4724-b7de-4189-bccf-cffddd4d6d44",
+    "facts": [
+      {
+        "fact_id": 1,
+        "fact": "The patient is a 61-year-old man with chronic obstructive pulmonary disease, hypertension, and hyperlipidemia.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 2,
+        "fact": "He presented with a 3-day history of worsening shortness of breath with wheezing and increased work of breathing, and was diagnosed with an acute COPD exacerbation.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 3,
+        "fact": "Initial oxygen saturation was 89% on room air, with subsequent type 2 respiratory failure on ABG showing hypercapnia and respiratory acidosis.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 4,
+        "fact": "Chest X-ray showed hyperinflation consistent with COPD exacerbation and no evidence of pneumonia or pneumothorax.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 5,
+        "fact": "The exacerbation was felt to be likely triggered by a bacterial infection, supported by elevated CRP and yellow sputum.",
+        "category": "diagnosis"
+      },
+      {
+        "fact_id": 6,
+        "fact": "He was treated in hospital with oxygen, nebulized salbutamol and ipratropium, systemic prednisolone, and antibiotics including amoxicillin, co-amoxiclav, and doxycycline during the admission.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 7,
+        "fact": "He required oxygen support initially up to 4 L/min, with a target saturation of 88-92%, and was later weaned successfully to room air.",
+        "category": "treatment"
+      },
+      {
+        "fact_id": 8,
+        "fact": "He received respiratory physiotherapy with breathing exercises, sputum clearance techniques, and mobility training during admission.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 9,
+        "fact": "Occupational therapy assessed discharge needs and home safety, recommended adaptive equipment such as a perching stool and grab rails, and later deemed him safe for discharge home.",
+        "category": "procedure"
+      },
+      {
+        "fact_id": 10,
+        "fact": "His inflammatory markers improved during admission, with CRP falling to 8 mg/L by discharge, indicating resolution of inflammation.",
+        "category": "investigation"
+      },
+      {
+        "fact_id": 11,
+        "fact": "He improved clinically, became independent with mobility, and had no shortness of breath or respiratory distress at discharge.",
+        "category": "outcome"
+      },
+      {
+        "fact_id": 12,
+        "fact": "He was discharged with follow-up arranged in respiratory clinic, and was referred to smoking cessation services.",
+        "category": "outcome"
+      }
+    ]
+  }
+}
