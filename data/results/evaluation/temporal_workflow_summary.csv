@@ -1,0 +1,5 @@
+workflow,count,mean,median,std,min,max
+direct,50,98.98,100.0,1.88,91.89,100.0
+hierarchical,50,98.83,100.0,1.99,89.71,100.0
+rag,50,98.91,100.0,2.09,90.62,100.0
+rag_verification,50,98.69,100.0,2.77,86.96,100.0

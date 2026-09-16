@@ -1,0 +1,5 @@
+workflow,correct_pairs,reversed_pairs,evaluated_pairs,tied_pairs,missing_event_pairs
+direct,3305,37,3342,862,171
+hierarchical,3213,40,3253,895,227
+rag,2725,28,2753,618,1004
+rag_verification,2574,35,2609,687,1079

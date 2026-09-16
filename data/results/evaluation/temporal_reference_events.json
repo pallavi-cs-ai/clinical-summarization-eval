@@ -1,0 +1,3492 @@
+{
+  "028998ee-babc-4096-9b28-001bc2f9a84e": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-07 08:45",
+        "event": "Presented to A&E with 3 days of severe abdominal pain and was diagnosed with constipation."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-07 09:25",
+        "event": "IV 0.9% sodium chloride was started for mild dehydration; abdominal X-ray and blood tests were pending."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-07 10:00",
+        "event": "Abdominal X-ray showed significant faecal loading, and a single 10 mg oral bisacodyl dose was given; IV fluids were continued."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-07 10:30",
+        "event": "ED review confirmed constipation with mild dehydration; pain had improved after fluids, and the patient was referred to paediatrics for admission and started on oral macrogol."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-07 15:30",
+        "event": "Physiotherapy session focused on gentle mobilisation to aid bowel motility; patient tolerated exercises well."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-08 09:00",
+        "event": "Partial bowel movement overnight with reduced abdominal pain and decreased distension; macrogol was continued and discharge was being considered if improvement continued."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-09 08:30",
+        "event": "Constipation resolved after a full bowel movement overnight; oral macrogol was stopped, lactulose PRN was prescribed for maintenance, and discharge was planned."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-09 09:30",
+        "event": "GP was informed of the discharge and follow-up advice for constipation prevention was communicated to the patient and family."
+      }
+    ]
+  },
+  "04df53ea-55c1-48d9-84a1-1f15c133b29b": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-01 07:30",
+        "event": "Presented to A&E after a minor fall with acute confusion and was triaged as category 2; subdural hygroma was suspected."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-01 08:30",
+        "event": "Initial blood tests were drawn and the patient was sent for urgent CT head imaging to assess for intracranial injury."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-01 10:15",
+        "event": "CT head showed a subdural hygroma without midline shift or acute haemorrhage, and admission to the neurology ward was planned."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-01 10:45",
+        "event": "ED review confirmed subdural hygroma with normal blood tests; the patient was accepted by neurology and transferred to the neuro ward."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-01 11:30",
+        "event": "Neurology clerking assessed the patient as having subdural hygroma after minor fall with improving confusion; paracetamol was started and repeat CT was planned in 48 hours."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-01 13:30",
+        "event": "Mild hyponatremia (serum sodium 132 mmol/L) was identified and oral sodium chloride tablets were started."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-01 15:30",
+        "event": "Physiotherapy assessment found mild gait instability and started daily physiotherapy for balance and mobility."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-01 17:00",
+        "event": "Occupational therapy assessment identified mild fine motor impairment and initiated OT sessions for self-care strategies."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-03 10:30",
+        "event": "Repeat CT head showed no progression of the subdural hygroma, with no new findings."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-04 15:00",
+        "event": "Occupational therapy provided home safety education and referred for home assessment with recommendations such as handrails and removal of loose rugs."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-05 08:45",
+        "event": "At ward round the patient had improved cognition and mild residual gait instability; atorvastatin 40 mg daily for 7 days was started."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-05 10:30",
+        "event": "Final physiotherapy session showed resolution of confusion and independent mobility; the patient was cleared for independent mobility and no further physiotherapy was required."
+      },
+      {
+        "event_id": 13,
+        "timestamp": "2026-01-06 09:15",
+        "event": "Discharge was confirmed; levetiracetam 500 mg twice daily for 7 days was started and neurology follow-up plus community support were arranged."
+      },
+      {
+        "event_id": 14,
+        "timestamp": "2026-01-07 08:30",
+        "event": "Patient remained clinically stable without residual confusion or neurological deficits and discharge plans were confirmed for the next day."
+      },
+      {
+        "event_id": 15,
+        "timestamp": "2026-01-07 14:00",
+        "event": "Discharge summary was completed with follow-up arrangements documented."
+      }
+    ]
+  },
+  "05192757-942f-460d-b4ff-004ec39cc5ee": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2025-12-21 10:00",
+        "event": "Pre-operative assessment for elective total left hip replacement due to end-stage left hip osteoarthritis; mild anaemia (Hb 11.3 g/dL) identified and ferrous sulfate started."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2025-12-21 11:30",
+        "event": "Anaesthetic review determined the patient was suitable for spinal anaesthesia and consent was obtained for the planned left total hip replacement."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2025-12-21 12:15",
+        "event": "Written informed consent obtained for total left hip replacement."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2025-12-21 12:45",
+        "event": "Pre-operative checks completed; patient cleared for surgery with no contraindications identified."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-02 07:50",
+        "event": "Elective admission for total left hip replacement; pre-operative review confirmed end-stage left hip osteoarthritis, stable mild anaemia, and hypertension."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-02 08:15",
+        "event": "Day-of-surgery checklist completed and patient cleared to proceed to theatre for the scheduled hip replacement."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-02 09:00",
+        "event": "Underwent total left hip replacement under spinal anaesthesia with cemented prosthesis placement; no intraoperative complications, estimated blood loss 150 mL; enoxaparin and postoperative paracetamol started."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-02 11:30",
+        "event": "Post-operative recovery in PACU was stable; pain was mild and the patient was transferred to the ward with thromboprophylaxis in place."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-02 14:00",
+        "event": "Post-operative ward review identified anaemia (Hb 104 g/L); ferrous sulfate was started and physiotherapy planned."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-02 16:00",
+        "event": "Initial physiotherapy after surgery: patient mobilised short distances with a walker and began hip precaution education."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-03 08:30",
+        "event": "Post-operative review showed improving recovery: pain controlled, mobilising with walker, wound clean, and anaemia stable (Hb 105 g/L)."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-03 10:00",
+        "event": "Physiotherapy session focused on stair practice; patient demonstrated improved confidence and strength."
+      },
+      {
+        "event_id": 13,
+        "timestamp": "2026-01-03 14:30",
+        "event": "Occupational therapy assessment completed; hip precautions reinforced and home adaptations including a raised toilet seat and grab bars were recommended and arranged."
+      },
+      {
+        "event_id": 14,
+        "timestamp": "2026-01-04 09:00",
+        "event": "Ward review noted mild stiffness but continued progress; patient was advanced to crutch mobilisation."
+      },
+      {
+        "event_id": 15,
+        "timestamp": "2026-01-04 11:00",
+        "event": "Physiotherapy progressed the patient from walker to crutches with good balance and coordination."
+      },
+      {
+        "event_id": 16,
+        "timestamp": "2026-01-04 15:30",
+        "event": "Occupational therapy provided a hip kit and reinforced safe use of adaptive equipment for activities of daily living."
+      },
+      {
+        "event_id": 17,
+        "timestamp": "2026-01-05 08:00",
+        "event": "Post-operative review showed the patient was mobilising well with crutches; wound remained clean and anaemia persisted (Hb 10.8 g/dL), so ferrous sulfate and a high-iron diet were advised."
+      },
+      {
+        "event_id": 18,
+        "timestamp": "2026-01-05 09:30",
+        "event": "Final physiotherapy assessment determined the patient was safe for independent discharge with crutches."
+      },
+      {
+        "event_id": 19,
+        "timestamp": "2026-01-05 11:00",
+        "event": "Discharge planning meeting confirmed recovery progress and planned discharge home on 2026-01-06 with follow-up physiotherapy and clinic appointments."
+      },
+      {
+        "event_id": 20,
+        "timestamp": "2026-01-05 16:00",
+        "event": "Discharge medications and instructions were provided, including paracetamol PRN and wound care and mobility education."
+      }
+    ]
+  },
+  "0c04d9fb-d8d0-4ee0-8fc9-0c3f7f148bdf": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2025-12-20 10:00",
+        "event": "Pre-operative assessment for elective total left hip replacement due to end-stage osteoarthritis; mild anaemia identified (Hb 10.8 g/dL), mild hypertension noted, and ferrous sulfate started."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2025-12-20 11:30",
+        "event": "Anaesthetic assessment for elective left total hip replacement; BP remained elevated, GA with spinal block was planned, omeprazole was started, and the patient consented to the anaesthetic plan."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2025-12-20 12:00",
+        "event": "Surgical consent discussion completed for elective total left hip replacement; risks, benefits, recovery, and postoperative pain management were explained and the consent form was signed."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2025-12-20 12:30",
+        "event": "Pre-operative checklist completed; planned hip replacement, fasting instructions, and discontinuation of ibuprofen 48 hours before surgery were confirmed."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-02 15:20",
+        "event": "Admission for planned total left hip replacement; patient clinically stable with no signs of infection and surgery preparations initiated, including pre-op cefuroxime and repeat instruction to stop ibuprofen."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-02 17:00",
+        "event": "Pre-operative ward review confirmed mild anaemia (Hb 11.2 g/dL) and no new issues; TXA was planned for surgery and the operation proceeded as scheduled."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-03 08:00",
+        "event": "Elective total left hip replacement performed under general anaesthesia with spinal block; prosthesis implanted, estimated blood loss was 300 mL, and postoperative enoxaparin, analgesia, and cefuroxime were prescribed."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-03 10:30",
+        "event": "Immediate postoperative PACU review showed stable vital signs and no major complications; pain was treated with IV morphine and postoperative oral analgesia and VTE prophylaxis were continued."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-03 14:00",
+        "event": "Initial postoperative physiotherapy began with early mobilisation exercises and first assisted steps using a walker; patient bore partial weight with minimal discomfort."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-03 16:00",
+        "event": "Occupational therapy assessment identified need for home adaptations, including a raised toilet seat, grab rails, and a long-handled reacher, with community OT referral made."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-04 08:30",
+        "event": "Postoperative ward review showed improving recovery with pain controlled, mobilisation with walker assistance, expected mild swelling, and ferrous sulfate prescribed for postoperative anaemia."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-04 10:00",
+        "event": "Physiotherapy progressed to partial weight-bearing exercises with a walking frame, with improved ambulation and no significant pain."
+      },
+      {
+        "event_id": 13,
+        "timestamp": "2026-01-04 14:00",
+        "event": "Occupational therapy focused on safe transfer techniques for home, including bed-chair, sit-stand, and toilet use with adaptations."
+      },
+      {
+        "event_id": 14,
+        "timestamp": "2026-01-05 09:00",
+        "event": "Ward review documented satisfactory postoperative recovery with good pain control, mobilisation of short distances, and discontinuation of ibuprofen; dalteparin was started for thromboprophylaxis until discharge."
+      },
+      {
+        "event_id": 15,
+        "timestamp": "2026-01-05 11:00",
+        "event": "Physiotherapy stair training was successful, and ibuprofen discontinuation was confirmed as pain remained controlled."
+      },
+      {
+        "event_id": 16,
+        "timestamp": "2026-01-05 15:00",
+        "event": "Final occupational therapy review cleared the patient for independent activities of daily living at home with adaptive equipment."
+      },
+      {
+        "event_id": 17,
+        "timestamp": "2026-01-06 08:00",
+        "event": "Postoperative recovery remained uncomplicated with a clean healing wound and safe ambulation; discharge planned with apixaban, home exercises, and follow-up in 6 weeks."
+      },
+      {
+        "event_id": 18,
+        "timestamp": "2026-01-06 09:30",
+        "event": "Final physiotherapy session confirmed safe stair navigation and independent mobility with crutches, meeting discharge mobility criteria."
+      }
+    ]
+  },
+  "0f438665-d430-4adb-8acc-c3beed9e4942": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-06 08:45",
+        "event": "Presented to A&E with poor feeding and mild lethargy; initial nursing assessment found no respiratory distress or severe dehydration."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-06 09:15",
+        "event": "Triage identified mild fever, slight tachycardia, and normal oxygen saturation; ED diagnosis was viral illness and paracetamol was given for fever."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-06 09:45",
+        "event": "Received a 10 mL/kg normal saline oral fluid bolus for mild dehydration and tolerated it well."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-06 10:30",
+        "event": "ED assessment diagnosed viral illness with associated mild dehydration and reduced oral intake; patient was accepted for admission to Paediatric Assessment Unit with plans for IV fluids and supportive care."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-06 11:15",
+        "event": "Ward clerking confirmed viral illness with mild dehydration; IV maintenance fluids were prescribed and blood tests (U&Es, FBC, CRP) were pending."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-06 13:00",
+        "event": "Ward round identified mild metabolic acidosis on venous blood gas (pH 7.33, bicarbonate 17 mmol/L); IV maintenance fluids were initiated, with paracetamol and nasal saline drops prescribed."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-07 08:30",
+        "event": "Clinical improvement noted overnight with better oral intake, no fever, and improved hydration; IV fluids were reduced to 50% maintenance."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-07 11:30",
+        "event": "ENT review found moderate nasal mucosal inflammation consistent with viral URTI; supportive nasal treatment was expanded to include saline spray and steam inhalation advice."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-07 17:00",
+        "event": "Further improvement with being more active, alert, and feeding better; discharge planning was initiated for the following day."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-08 09:00",
+        "event": "Patient was clinically well, afebrile, hydrated, and eating/drinking better; discharge was planned for that day with ongoing saline nasal drops, nasal irrigation, and steam inhalation."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-08 10:30",
+        "event": "Discharge summary was finalised and parents were given discharge instructions, with advice to contact the GP if symptoms or hydration/feeding concerns worsened."
+      }
+    ]
+  },
+  "136c7916-4f9b-4e5c-bf01-77e9d2c681a2": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-02 21:15",
+        "event": "Presented to ED after a minor fall with acute confusion; GCS 14/15 and mild disorientation. Triage category 2 emergency assigned and neurological observation started."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-02 23:45",
+        "event": "ED consultant review identified subdural hygroma on CT head with no midline shift or acute bleed; diagnosis made of subdural hygroma causing acute confusion likely related to the fall. Patient was accepted for neuro ward admission, IV paracetamol was prescribed, and transfer for ongoing neurological monitoring was arranged."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-03 00:15",
+        "event": "Inpatient clerking confirmed acute confusion with mild hyponatremia (Na 132) and dehydration as contributing factors; IV normal saline was started and ongoing neuro observations were planned."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-03 08:30",
+        "event": "Ward round noted stable subdural hygroma without midline shift but persistent mild hyponatremia and dehydration; ceftriaxone prophylaxis was started and physio referral made."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-03 10:00",
+        "event": "First physiotherapy assessment showed mild unsteadiness with balance exercises and minimal assistance required."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-03 11:30",
+        "event": "Occupational therapy identified mild difficulty with fine motor tasks and recommended a button hook to support ADLs."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-04 09:00",
+        "event": "Sodium remained 132 mmol/L and oral sodium chloride supplementation was initiated for persistent mild hyponatremia."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-04 15:00",
+        "event": "OT session added adaptive equipment for discharge planning, including a long-handled reacher and adaptive cutlery."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-04 17:00",
+        "event": "Patient reported mild evening headaches; fluid restriction to 1.5 L/day and PRN paracetamol were prescribed for hyponatremia and headache management."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-05 11:00",
+        "event": "Ward round noted improving mobility but persistent mild hyponatremia and imbalance; fluid restriction and oral sodium chloride tablets were continued."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-05 16:00",
+        "event": "Family meeting held with the patient's spouse to discuss treatment progress and tentative discharge planning."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-06 10:30",
+        "event": "Physiotherapy documented moderate improvement in mobility with rollator-assisted gait training."
+      },
+      {
+        "event_id": 13,
+        "timestamp": "2026-01-06 12:00",
+        "event": "Speech and language assessment found mild short-term memory recall difficulties; ongoing cognitive rehabilitation was recommended."
+      },
+      {
+        "event_id": 14,
+        "timestamp": "2026-01-06 17:00",
+        "event": "Ward round noted stable neurologic status with improving gait; discharge planning for 2026-01-09 was continued and fluid intake was adjusted for ongoing mild hyponatremia."
+      },
+      {
+        "event_id": 15,
+        "timestamp": "2026-01-07 11:00",
+        "event": "Ward round found patient clinically well with persistent mild hyponatremia; discharge paperwork was finalized and follow-up arrangements confirmed."
+      },
+      {
+        "event_id": 16,
+        "timestamp": "2026-01-07 14:00",
+        "event": "OT assessed home navigation and recommended grabber and non-slip mats for post-discharge safety."
+      },
+      {
+        "event_id": 17,
+        "timestamp": "2026-01-08 10:30",
+        "event": "Physiotherapy determined the patient could manage stairs and transfers independently and was safe for discharge from inpatient physio."
+      },
+      {
+        "event_id": 18,
+        "timestamp": "2026-01-08 12:00",
+        "event": "Community care home visits were finalized and the patient was cleared for discharge."
+      },
+      {
+        "event_id": 19,
+        "timestamp": "2026-01-08 14:00",
+        "event": "OT provided discharge adaptive equipment including a long-handled reacher, non-slip mat, and shower chair; patient was cleared for discharge preparation."
+      },
+      {
+        "event_id": 20,
+        "timestamp": "2026-01-09 08:30",
+        "event": "Final ward round documented clinical improvement with stable neurologic status and safe ambulation; patient was discharged with neurology follow-up, adaptive home equipment, and paracetamol."
+      },
+      {
+        "event_id": 21,
+        "timestamp": "2026-01-09 10:00",
+        "event": "Discharge summary was completed and provided to the patient with instructions for GP follow-up."
+      },
+      {
+        "event_id": 22,
+        "timestamp": "2026-01-09 11:00",
+        "event": "GP was contacted to update them on discharge and ensure continuity of care."
+      }
+    ]
+  },
+  "137b8481-4f1d-4b7f-babd-20f7117023ad": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-06 11:25",
+        "event": "Presented to ED after a minor fall with acute confusion, mild disorientation, and left hip bruising; triaged as urgent."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-06 11:45",
+        "event": "ED assessment documented GCS 14/15 with mild right-sided headache and suspicion of subdural hygroma; CT head was planned."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-06 12:50",
+        "event": "CT head reviewed showing subdural hygroma with no acute intracranial hemorrhage; patient placed under close observation awaiting medical review."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-06 13:15",
+        "event": "ED consultant review confirmed subdural hygroma after minor fall with acute confusion; patient admitted to AMU for neuro observations and conservative management, with paracetamol and BP monitoring planned."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-06 14:00",
+        "event": "Ward clerking identified mild dehydration and confirmed subdural hygroma without acute bleed; IV normal saline was started and repeat blood tests were planned."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-06 16:00",
+        "event": "Ward round noted mild hyponatremia (Na 131 mmol/L) contributing to confusion; IV normal saline and oral hydration were continued and therapy assessment was requested."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-06 17:30",
+        "event": "Occupational therapy cognitive and functional assessment found mild short-term memory issues but no motor deficit; cognitive rehabilitation was recommended."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-07 09:00",
+        "event": "Ward round showed persistent but non-worsening confusion with improving sodium (132 mmol/L); oral hydration with Dioralyte was continued."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-07 13:00",
+        "event": "Neurology consultant review documented subtle cognitive improvement, stable neurology, and ongoing conservative management with neuro observations and hydration."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-07 15:00",
+        "event": "Speech and language therapy cognitive training session was performed for memory and problem-solving, with the patient engaging well."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-08 08:45",
+        "event": "Ward round noted improving confusion but persistent mild headache, dizziness on mobilising, and mild hyponatremia (Na 133 mmol/L); sodium chloride tablets were started and physio continued."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-08 12:00",
+        "event": "Family meeting held to discuss progress, recovery timeline, and discharge planning, with home environment assessment arranged before discharge."
+      },
+      {
+        "event_id": 13,
+        "timestamp": "2026-01-09 09:15",
+        "event": "Ward round documented improved cognitive clarity, resolution of headache, and no focal deficits; stair-climbing and discharge readiness assessment were planned."
+      },
+      {
+        "event_id": 14,
+        "timestamp": "2026-01-09 10:45",
+        "event": "Pre-discharge home environment assessment identified bathroom and stair hazards; grab rails and community physio follow-up were recommended."
+      },
+      {
+        "event_id": 15,
+        "timestamp": "2026-01-10 08:30",
+        "event": "Ward round found the patient nearly back to baseline with no further confusion, no headache or dizziness, and safe mobility with minimal supervision; IV fluids were reduced and discharge planning began."
+      },
+      {
+        "event_id": 16,
+        "timestamp": "2026-01-10 11:00",
+        "event": "Speech and language reassessment showed normal speech and swallowing, with no further SLT required and discharge planning cleared from SLT perspective."
+      },
+      {
+        "event_id": 17,
+        "timestamp": "2026-01-10 16:00",
+        "event": "Physiotherapy review found safe unaided walking and improved balance; the patient was cleared for independent walking."
+      },
+      {
+        "event_id": 18,
+        "timestamp": "2026-01-11 09:00",
+        "event": "Ward round documented resolution of confusion, independent safe mobility, and improving sodium (133 mmol/L); IV fluids were stopped and discharge preparation initiated."
+      },
+      {
+        "event_id": 19,
+        "timestamp": "2026-01-11 14:00",
+        "event": "Final physiotherapy assessment cleared the patient for discharge from a mobility perspective after demonstrating independent balance and stair function."
+      },
+      {
+        "event_id": 20,
+        "timestamp": "2026-01-12 08:45",
+        "event": "Discharge ward round confirmed the patient was medically fit with no symptoms, mild hyponatremia persisted, and discharge with paracetamol, oral hydration advice, GP follow-up, and community physio was planned."
+      },
+      {
+        "event_id": 21,
+        "timestamp": "2026-01-12 10:00",
+        "event": "Patient was discharged with medications and instructions after discharge summary completion."
+      }
+    ]
+  },
+  "1705dd0f-011a-492c-b006-b27e03f2f4ed": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2025-12-22 10:00",
+        "event": "Pre-operative clerking for elective total right shoulder replacement for end-stage osteoarthritis; mild anemia (Hb 11.2 g/dL) identified and ferrous sulfate started to optimize hemoglobin before surgery."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2025-12-22 11:30",
+        "event": "Pre-anaesthetic assessment completed; patient deemed fit for general anaesthesia with no contraindications."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2025-12-22 12:15",
+        "event": "Informed consent obtained for total right shoulder replacement after discussion of procedure, risks, benefits, recovery, and physiotherapy needs."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-03 14:35",
+        "event": "Elective admission for right shoulder replacement; pre-operative review confirmed stable condition and no new concerns, with surgery planned for later that day."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-03 16:00",
+        "event": "Total right shoulder replacement performed under general anaesthesia for end-stage osteoarthritis; severe glenohumeral degeneration noted, cemented modular shoulder prosthesis implanted, minimal blood loss, no complications."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-03 18:30",
+        "event": "Post-operative recovery in PACU was stable; pain treated with IV morphine, mild nausea treated with ondansetron, and IV cefuroxime commenced; patient transferred back to ward."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-04 08:30",
+        "event": "Post-operative ward review showed stable recovery without complications; enoxaparin VTE prophylaxis initiated and physiotherapy mobilisation planned."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-04 10:00",
+        "event": "First post-operative physiotherapy session with assisted passive range-of-motion exercises and sling education."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-04 16:00",
+        "event": "Pain management escalated with addition of codeine phosphate for breakthrough pain; mobilisation and enoxaparin prophylaxis continued."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-05 09:00",
+        "event": "Post-operative improvement documented: shoulder mobility significantly improved, pain well controlled, wound healing well; analgesia changed from IV to oral paracetamol and discharge planned for the next day."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-06 10:00",
+        "event": "Final physiotherapy session completed with reinforcement of home exercise program, sling use, and post-discharge activity guidance."
+      }
+    ]
+  },
+  "1dbe23dc-0d1e-431b-81eb-497282b46a14": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2025-12-28 10:00",
+        "event": "Pre-operative clinic assessment for planned removal of internal fixation device from the right tibia; mild asthma noted and montelukast started for two weeks pre-operatively to optimise respiratory control."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2025-12-28 11:00",
+        "event": "Anaesthetic pre-operative assessment found the child fit for general anaesthesia (ASA II) with controlled asthma; salbutamol pre-medication planned and routine blood tests obtained."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2025-12-28 12:00",
+        "event": "Written informed consent obtained from the patient's mother for removal of the right tibial fixation device, with risks, benefits, allergies, antibiotic plan, and asthma precautions discussed."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2025-12-28 12:15",
+        "event": "Pre-operative nursing assessment confirmed allergies, stable asthma, satisfactory blood test results, and admission arrangements for the planned surgery."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-07 15:25",
+        "event": "Elective admission for removal of internal fixation device from the right tibia; patient was clinically well with no active infection and surgery remained planned."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-07 19:15",
+        "event": "Post-operative care instructions were given to the mother, and paracetamol suspension was prescribed for home analgesia."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-08 09:30",
+        "event": "Removal of the internal fixation device from the right tibia was performed under general anaesthesia with minimal blood loss and no complications; cefuroxime and paracetamol were prescribed post-operatively and discharge was planned for the next day."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-08 11:00",
+        "event": "Post-anaesthetic recovery was uncomplicated; the child was fully awake, pain was controlled with oral ibuprofen, and he was cleared for transfer back to the ward."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-08 14:00",
+        "event": "Post-operative ward review noted a clean surgical site, mild CRP elevation consistent with post-operative inflammation, and a 48-hour course of IV cefuroxime was started."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-08 15:30",
+        "event": "Physiotherapy began post-operatively with weight-bearing, range-of-motion exercises, and assisted walking using a child-sized frame."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-08 17:00",
+        "event": "Occupational therapy session introduced safe mobilisation techniques and a lightweight paediatric crutch for post-operative mobility."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-09 08:30",
+        "event": "Ward review found the surgical site healing well with no infection and pain controlled; discharge was planned for later that day with ibuprofen added for home analgesia."
+      },
+      {
+        "event_id": 13,
+        "timestamp": "2026-01-09 10:00",
+        "event": "Physiotherapy review showed independent mobilisation without pain or limp; no further inpatient physiotherapy was required."
+      },
+      {
+        "event_id": 14,
+        "timestamp": "2026-01-09 12:00",
+        "event": "Primary care physician was contacted to relay the discharge summary and postoperative follow-up plan."
+      }
+    ]
+  },
+  "28570119-9cdc-4120-98c0-4edb76cf36a3": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-07 14:05",
+        "event": "Presented to ED with sudden severe exertional headache; diagnosed with suspected RCVS and urgent neuroimaging planned."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-07 14:45",
+        "event": "CT head performed and showed no intracranial haemorrhage or mass lesion."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-07 15:15",
+        "event": "Blood tests obtained, showing mild leukocytosis with normal renal and liver function and mildly elevated CRP."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-07 16:30",
+        "event": "ED assessment confirmed reversible cerebral vasoconstriction syndrome; oral nimodipine was started and transfer to neurology ward arranged with MRI/MRA planned."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-07 18:30",
+        "event": "Ward review noted persistent headache, mild hypokalaemia and elevated CRP; nimodipine continued and oral potassium replacement started."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-08 10:00",
+        "event": "MRI/MRA confirmed RCVS; headache improved and nimodipine was continued at a reduced dose with repeat MRA planned."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-08 16:00",
+        "event": "Patient received education on RCVS and trigger avoidance, with no change to treatment."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-09 10:30",
+        "event": "Headache continued to improve but mild hyponatraemia was noted; dietary sodium increase and fluid restriction were advised."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-09 15:00",
+        "event": "Rehab assessment found mild residual neck stiffness without functional impairment and outpatient physiotherapy was planned."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-11 10:30",
+        "event": "Repeat MRA showed significant improvement in cerebral vasoconstriction, and discharge planning with outpatient neurology follow-up was arranged."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-12 09:00",
+        "event": "Patient was clinically well with no further headaches and was discharged home; nimodipine taper and neurology follow-up were planned."
+      }
+    ]
+  },
+  "29ea304f-821d-474e-81a1-394ca3945e02": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-05 01:45",
+        "event": "Presented to ED with sudden severe central chest pain; diagnosed with spontaneous pneumomediastinum and urgent chest imaging arranged."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-05 02:30",
+        "event": "ECG performed showing sinus tachycardia without ischaemic changes."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-05 02:50",
+        "event": "Chest X-ray showed subcutaneous emphysema and pneumomediastinum; findings escalated to ED senior."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-05 03:15",
+        "event": "ED review confirmed spontaneous pneumomediastinum, likely secondary to recent coughing; admitted to respiratory HDU with plan for conservative management and analgesia."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-05 09:30",
+        "event": "Ward review found stable spontaneous pneumomediastinum with no progression; continued paracetamol and ibuprofen and planned repeat chest X-ray."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-05 11:00",
+        "event": "Physiotherapy session provided diaphragmatic and pursed-lip breathing exercises with education to avoid increased intrathoracic pressure."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-05 17:00",
+        "event": "Clinical improvement noted with residual chest discomfort only; no subcutaneous emphysema on examination and omeprazole was started for ibuprofen GI protection."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-06 10:30",
+        "event": "Repeat chest X-ray showed slight reduction in pneumomediastinum; conservative management continued without medication changes."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-07 09:00",
+        "event": "Further improvement with no chest pain overnight and no palpable subcutaneous crepitus; regular paracetamol and ibuprofen were stopped as pain-free."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-07 13:00",
+        "event": "Patient received discharge education on pneumomediastinum recurrence and when to seek urgent medical attention."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-08 09:00",
+        "event": "Patient was pain-free and clinically stable with no complications on chest X-ray; discharge planning and routine respiratory follow-up were initiated."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-08 11:15",
+        "event": "Patient's GP was contacted and informed about discharge planning and the patient's clinical stability."
+      },
+      {
+        "event_id": 13,
+        "timestamp": "2026-01-09 11:00",
+        "event": "Final chest X-ray showed complete resolution of spontaneous pneumomediastinum with no subcutaneous emphysema or abnormalities; cleared for discharge the next day."
+      }
+    ]
+  },
+  "31f9612b-5a6b-48ea-887b-895772a83b99": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2025-12-15 09:00",
+        "event": "Pre-operative assessment for elective total right knee replacement for end-stage osteoarthritis of the right knee; blood pressure optimisation started with amlodipine, ibuprofen advised to stop before surgery, and paracetamol increased for pain control."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2025-12-18 10:30",
+        "event": "Anaesthetic review confirmed patient fit for general anaesthesia, with plan for oral midazolam pre-medication on the morning of surgery and no further investigations required."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2025-12-20 11:15",
+        "event": "Formal pre-operative consent obtained for total right knee replacement after discussion of benefits, risks, and recovery."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-01 12:30",
+        "event": "Elective total right knee replacement performed under general anaesthesia with cemented prosthesis; findings were severe cartilage erosion and osteophytes, with minimal blood loss and no complications."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-01 15:30",
+        "event": "Transferred to PACU post-operatively; pain and mild nausea were treated with IV morphine and ondansetron, and the patient was stable for transfer to the ward."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-01 17:00",
+        "event": "Early post-operative ward review documented pain 6/10, post-operative anaemia with haemoglobin 110 g/L, and initiation of enoxaparin thromboprophylaxis."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-02 09:30",
+        "event": "First post-operative physiotherapy session \u0628\u062f\u0623\u062a with early range-of-motion exercises and ankle pumps; swelling was noted but severe pain was absent."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-02 11:00",
+        "event": "Ward review showed CRP 45 mg/L consistent with post-surgical inflammation and dalteparin thromboprophylaxis was started until discharge."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-03 09:00",
+        "event": "Physiotherapy documented improved knee flexion to 90 degrees with assisted range-of-motion and partial weight-bearing exercises."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-03 10:30",
+        "event": "Ward review noted improving mobility and pain control; ibuprofen was reduced to 200 mg TDS as part of gradual weaning."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-04 10:00",
+        "event": "Ward review found the surgical site clean and healing well; pain was well controlled, the patient was mobilising independently with crutches, and ibuprofen was stopped with naproxen plus omeprazole started."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-04 15:00",
+        "event": "Discharge medication counselling provided, including paracetamol, ibuprofen, and apixaban 2.5 mg twice daily for 14 days post-operatively."
+      }
+    ]
+  },
+  "359014a1-10e6-4bd8-9ba7-513d021c971e": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-07 00:05",
+        "event": "Presented to A&E with sudden severe central chest pain; spontaneous pneumomediastinum suspected at triage."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-07 00:40",
+        "event": "Mild subcutaneous emphysema was detected on examination; chest X-ray was requested to confirm suspected pneumomediastinum."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-07 01:30",
+        "event": "CT chest confirmed spontaneous pneumomediastinum and showed no oesophageal or tracheal rupture."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-07 02:00",
+        "event": "ED assessment confirmed spontaneous pneumomediastinum; patient was admitted to the Acute Respiratory Ward for conservative management with analgesia."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-07 11:00",
+        "event": "Physiotherapy started with diaphragmatic breathing and light stretching exercises to improve lung expansion and reduce discomfort."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-08 11:00",
+        "event": "Repeat chest X-ray showed mild reduction in mediastinal air; conservative management continued."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-08 18:00",
+        "event": "Clinical improvement noted with no subcutaneous emphysema on palpation; regular paracetamol was stopped and analgesia was tapered."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-09 16:00",
+        "event": "Repeat chest X-ray showed significant resolution of mediastinal air; discharge planning was started."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-10 09:15",
+        "event": "Further clinical improvement with no chest pain and further reduction in mediastinal air on repeat chest X-ray; discharge planning and follow-up were arranged."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-10 14:00",
+        "event": "Pharmacist reviewed medications ahead of discharge and prescribed paracetamol and ibuprofen as needed for residual discomfort."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-11 08:30",
+        "event": "Chest X-ray confirmed resolution with no residual mediastinal air; patient was asymptomatic and mobilising well."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-11 10:00",
+        "event": "Discharge paperwork was started and home care advice was given, including breathing exercises and hydration; discharge medications included ibuprofen and salbutamol PRN."
+      }
+    ]
+  },
+  "37b5ce4d-dcfd-4bb7-bee4-d597eb114703": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2025-12-20 10:00",
+        "event": "Pre-operative assessment for elective total left hip replacement for end-stage left hip osteoarthritis; mild vitamin D deficiency identified and vitamin D supplementation started."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2025-12-20 11:15",
+        "event": "Anaesthetic assessment deemed the patient fit for general anaesthesia; clindamycin planned for penicillin allergy and consent obtained for anaesthetic procedure."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2025-12-20 11:45",
+        "event": "Formal pre-operative consent obtained for total left hip replacement, with surgery scheduled for 2026-01-03."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2025-12-20 12:15",
+        "event": "Pre-op checklist completed confirming investigations, penicillin allergy, clindamycin prophylaxis plan, and instruction to stop bisoprolol 24 hours pre-operatively."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-03 10:00",
+        "event": "Admission for elective total left hip replacement; surgery planned for 2026-01-04 and pre-operative preparations continued."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-04 08:30",
+        "event": "Total left hip replacement performed under general anaesthesia with cemented prosthesis; estimated blood loss 200 mL and no intraoperative complications."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-04 11:00",
+        "event": "Immediate post-operative recovery was uncomplicated; patient was stable, received IV paracetamol, and was transferred to the orthopaedic ward with enoxaparin prophylaxis."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-04 14:00",
+        "event": "Post-operative review noted Hb 10.2 g/dL and moderate pain with limited mobilisation; dalteparin thromboprophylaxis was started."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-04 16:30",
+        "event": "Initial physiotherapy began, with bedside sitting, ankle pumps, and breathing exercises; assisted mobilisation planned."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-05 10:00",
+        "event": "Physiotherapy progressed to assisted mobilisation with a walker, including standing and short-distance walking."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-05 17:00",
+        "event": "Tramadol 50 mg as needed was added for persistent post-operative pain."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-06 08:10",
+        "event": "Post-operative recovery continued with improving mobility and pain control; IV fluids were stopped and senna was prescribed for constipation."
+      },
+      {
+        "event_id": 13,
+        "timestamp": "2026-01-06 15:15",
+        "event": "Final physiotherapy session completed, including stair training and home exercise programme; discharge planned for 2026-01-07."
+      },
+      {
+        "event_id": 14,
+        "timestamp": "2026-01-07 08:00",
+        "event": "Patient was clinically well, ambulating independently with a frame, and discharged home with dalteparin for 4 weeks, paracetamol and tramadol, mobility aids, and outpatient follow-up in 6 weeks."
+      },
+      {
+        "event_id": 15,
+        "timestamp": "2026-01-07 11:00",
+        "event": "Discharge summary completed and sent to the patient's GP, with instructions to continue post-operative medication regimen and pre-existing medications."
+      }
+    ]
+  },
+  "420df33b-0072-4124-b1c6-0589daef3677": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2025-12-20 10:00",
+        "event": "Pre-operative clerking for severe end-stage left hip osteoarthritis with plan for total left hip replacement; mild anaemia identified (Hb 10.8 g/dL) and ferrous sulfate started."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2025-12-20 11:15",
+        "event": "Pre-operative anaesthetic review confirmed suitability for spinal anaesthesia with sedation; ibuprofen was advised to be stopped 48 hours pre-op and patient was fit for anaesthesia."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2025-12-20 11:45",
+        "event": "Surgical consent obtained for total left hip replacement after discussion of risks, benefits, expected recovery, and peri-operative plan."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2025-12-20 12:30",
+        "event": "Pre-op checklist completed: blood tests reviewed as acceptable, mild CRP elevation noted, ibuprofen stop instruction reinforced, and patient cleared for surgery."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-03 16:05",
+        "event": "Admission for elective total left hip replacement; pre-operative assessment completed and enoxaparin was planned to start that evening with surgery scheduled for the next day."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-04 07:00",
+        "event": "Pre-operative ward review confirmed mild anaemia and no infection; enoxaparin prophylaxis and oral ferrous sulfate were continued and surgery was to proceed that morning."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-04 08:30",
+        "event": "Total left hip replacement performed under spinal anaesthesia with sedation; cemented prostheses inserted, estimated blood loss 300 mL, and no complications noted."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-04 11:30",
+        "event": "Immediate post-operative recovery was stable and patient was transferred to the orthopaedic ward with mild pain and intact dressing."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-04 14:00",
+        "event": "First post-operative physiotherapy session initiated with bed exercises and assisted sitting/standing using a Zimmer frame."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-05 09:30",
+        "event": "Physiotherapy progressed to mobilisation with a Zimmer frame, with patient walking 10 metres in the ward corridor."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-05 14:30",
+        "event": "Occupational therapy assessment completed; ADL training and home adaptation recommendations provided, with community OT follow-up arranged."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-05 17:00",
+        "event": "Post-operative nausea attributed to tramadol was treated with ondansetron 4 mg orally, and ondansetron was added as PRN medication."
+      },
+      {
+        "event_id": 13,
+        "timestamp": "2026-01-06 08:30",
+        "event": "Physiotherapy progressed from frame walking to elbow crutches, with patient demonstrating good confidence and balance."
+      },
+      {
+        "event_id": 14,
+        "timestamp": "2026-01-06 15:00",
+        "event": "Stair-navigation physiotherapy completed successfully with crutches, with patient able to perform the task with moderate assistance."
+      },
+      {
+        "event_id": 15,
+        "timestamp": "2026-01-07 10:30",
+        "event": "Post-operative recovery documented as significantly improved; wound healing well, Hb 110 g/L, enoxaparin stopped on discharge and rivaroxaban prescribed for thromboprophylaxis."
+      },
+      {
+        "event_id": 16,
+        "timestamp": "2026-01-07 13:00",
+        "event": "GP was contacted to confirm post-discharge anticoagulant arrangement."
+      },
+      {
+        "event_id": 17,
+        "timestamp": "2026-01-07 17:00",
+        "event": "Discharge plan discussed with patient, including wound care, mobilisation, and enoxaparin for 4 weeks; patient understood the plan."
+      },
+      {
+        "event_id": 18,
+        "timestamp": "2026-01-08 08:00",
+        "event": "Final physiotherapy session completed; patient demonstrated safe independent crutch use and stair navigation and was deemed fit for discharge physio plan."
+      }
+    ]
+  },
+  "42149ae1-6a3c-471e-a002-cb7263e8bb8c": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2025-12-28 10:00",
+        "event": "Pre-operative assessment for elective total right hip replacement for end-stage right hip osteoarthritis; hypertension noted and ramipril 2.5 mg daily started, with normal ECG and blood tests."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2025-12-28 11:30",
+        "event": "Anaesthetic review determined the patient was fit for general anaesthesia and the elective hip replacement could proceed as planned."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2025-12-28 12:00",
+        "event": "Surgeon discussed the planned total right hip replacement, risks and benefits, and obtained informed consent from the patient."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2025-12-28 12:30",
+        "event": "Pre-operative checklist completed; patient confirmed fit for general anaesthesia, instructed to start chlorhexidine 4% body wash from 2026-01-02, and remained scheduled for surgery."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-06 16:25",
+        "event": "Admitted for elective total right hip replacement; pre-operative assessment showed stable clinical status, normal investigations, and paracetamol plus chlorhexidine body wash were prescribed for peri-operative management."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-06 18:00",
+        "event": "Pre-operative ward review noted mild blood pressure elevation; enoxaparin 40 mg SC daily was started for thromboprophylaxis and surgery was confirmed for the next morning with NBM from midnight."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-07 08:30",
+        "event": "Underwent elective right total hip replacement under general anaesthesia with cemented prosthesis; estimated blood loss was 150 mL and there were no complications, with postoperative cefuroxime, paracetamol, and enoxaparin planned."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-07 11:30",
+        "event": "Immediate post-operative recovery was stable; pain was controlled with IV paracetamol, wound dressing was intact, no nausea or bleeding occurred, and the patient was transferred back to the ward."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-07 13:00",
+        "event": "Post-operative ward review showed improving pain and a clean, intact wound; enoxaparin thromboprophylaxis was continued and physiotherapy was initiated that afternoon."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-07 15:00",
+        "event": "First post-operative physiotherapy session: patient began mobilising with a walking frame and took a few assisted steps without dizziness or instability."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-07 17:30",
+        "event": "Initial occupational therapy session focused on transfers and dressing with adaptive equipment; equipment for home use was ordered."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-08 08:00",
+        "event": "Post-operative review documented good wound healing and pain control; analgesia was stepped down to oral paracetamol as primary pain relief and mobilisation with crutches was advanced."
+      },
+      {
+        "event_id": 13,
+        "timestamp": "2026-01-08 10:00",
+        "event": "Physiotherapy progressed to supervised crutch ambulation and balance training, with no adverse events."
+      },
+      {
+        "event_id": 14,
+        "timestamp": "2026-01-08 14:00",
+        "event": "Occupational therapy continued with adaptive equipment training for dressing and home activities; patient showed improving independence."
+      },
+      {
+        "event_id": 15,
+        "timestamp": "2026-01-09 08:30",
+        "event": "Post-operative day 2 review noted improved pain control and safe mobilisation with crutches; discharge planning began and dalteparin was prescribed for post-discharge thromboprophylaxis."
+      },
+      {
+        "event_id": 16,
+        "timestamp": "2026-01-09 10:00",
+        "event": "Physiotherapy session focused on stair training with crutches; patient demonstrated confidence and good coordination."
+      },
+      {
+        "event_id": 17,
+        "timestamp": "2026-01-09 13:30",
+        "event": "Occupational therapy determined the patient was safe for discharge with adaptive equipment, and a referral to community OT was made."
+      },
+      {
+        "event_id": 18,
+        "timestamp": "2026-01-10 07:30",
+        "event": "Post-operative day 3 ward review found the patient well, wound healing appropriately, and mobilising safely; discharge was planned for that day with paracetamol and dalteparin prescribed."
+      },
+      {
+        "event_id": 19,
+        "timestamp": "2026-01-10 09:30",
+        "event": "Final physiotherapy session confirmed safe independent mobilisation with crutches and discharge approval."
+      },
+      {
+        "event_id": 20,
+        "timestamp": "2026-01-10 11:00",
+        "event": "Discharge briefing completed with medication, wound care, crutch use, and follow-up instructions provided."
+      }
+    ]
+  },
+  "51f15281-8840-4fd0-92de-89188ab8d736": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-01 03:40",
+        "event": "ED presentation with severe right lower quadrant abdominal pain; triaged as urgent/category 2."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-01 05:00",
+        "event": "Abdominal ultrasound showed an enlarged non-compressible appendix with peri-appendiceal fluid, consistent with acute appendicitis; surgical review requested."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-01 06:00",
+        "event": "ED doctor confirmed acute appendicitis with fever, leukocytosis, and elevated CRP; patient admitted to surgical assessment unit and started on IV cefuroxime and IV metronidazole with plan for laparoscopic appendectomy."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-01 11:00",
+        "event": "Anaesthetic assessment found the patient fit for general anaesthesia and laparoscopic appendectomy; prophylactic antibiotics planned at induction."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-01 12:00",
+        "event": "Consent obtained and signed for laparoscopic appendectomy."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-01 14:15",
+        "event": "Laparoscopic appendectomy performed under general anaesthesia; inflamed appendix removed without perforation or abscess and no operative complications."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-01 16:00",
+        "event": "Post-operative recovery in PACU was uncomplicated; patient was awake, stable, and transferred back to the surgical ward."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-01 18:00",
+        "event": "Post-op ward review showed stable recovery with mild discomfort and good oral fluid tolerance; regular paracetamol and light diet were planned."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-02 08:30",
+        "event": "Post-operative inflammation noted with CRP 425 mg/L and mild surgical site pain; ibuprofen was started for pain control."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-02 19:30",
+        "event": "Oral co-amoxiclav was started for five days and mobilization encouraged after continued stable post-operative recovery."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-05 08:00",
+        "event": "Patient was clinically well with healed surgical wounds and no signs of infection; discharge process initiated with prescriptions for paracetamol and co-amoxiclav."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-05 12:30",
+        "event": "Final physiotherapy assessment showed safe independent mobility and stair negotiation; patient cleared for discharge."
+      },
+      {
+        "event_id": 13,
+        "timestamp": "2026-01-05 16:00",
+        "event": "Patient received wound infection education and emergency surgical contact information; no further treatment changes."
+      }
+    ]
+  },
+  "58b8aad6-7327-4450-956f-b775be0f4984": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2025-12-20 10:00",
+        "event": "Pre-operative assessment for elective left total hip replacement for end-stage osteoarthritis; mild anaemia (Hb 11.2 g/dL) identified and ferrous sulfate started, ibuprofen stopped pre-operatively, and surgery planned for 2026-01-03."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2025-12-20 11:00",
+        "event": "Anaesthetic assessment completed; patient classified ASA II and deemed fit for surgery with plan for general anaesthesia plus spinal anaesthesia, and omeprazole prescribed for gastric protection."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2025-12-20 11:30",
+        "event": "Written informed consent obtained for total left hip replacement after discussion of procedure, risks, benefits, and alternatives."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2025-12-20 12:00",
+        "event": "Pre-admission preparation confirmed completion of pre-op investigations (including negative MRSA swab, normal blood tests, and normal ECG) and patient cleared for surgery on 2026-01-03."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-03 10:25",
+        "event": "Day-of-surgery admission for elective left total hip replacement; patient clinically stable and the operative plan proceeded with omission of ibuprofen and continuation of perioperative preparations."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-03 13:30",
+        "event": "Left total hip replacement performed under general anaesthesia with spinal anaesthesia; severe osteoarthritic changes noted, cementless prostheses implanted, estimated blood loss 300 mL, and postoperative cefuroxime, enoxaparin, and analgesia prescribed."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-03 16:00",
+        "event": "Immediate postoperative recovery in PACU was uncomplicated; patient was stable, alert, and transferred to the orthopaedic ward after receiving IV paracetamol."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-04 09:00",
+        "event": "Postoperative ward review showed mild haemoglobin drop to 108 g/L with stable wound and hemodynamics; ferrous sulfate restarted, analgesia continued, and physiotherapy planned to mobilize the patient."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-05 08:30",
+        "event": "Ongoing postoperative recovery with moderate pain controlled on analgesia and improving mobility with physiotherapy; enoxaparin thromboprophylaxis continued with plan to review progress."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-06 08:45",
+        "event": "Postoperative day 3 review showed effective mobilisation with crutches and stable wound healing; thromboprophylaxis changed from enoxaparin to rivaroxaban, and discharge was planned for the next day if stable."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-07 08:30",
+        "event": "Patient was well, pain controlled, mobilising with crutches, and discharged home with apixaban for thromboprophylaxis, outpatient physiotherapy, and GP follow-up arranged."
+      }
+    ]
+  },
+  "5cfa1b7e-c60e-4bae-b31f-b6be2c09adcb": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2025-12-20 09:30",
+        "event": "Pre-operative assessment for elective total left knee replacement documented severe end-stage left knee osteoarthritis, mild anaemia (Hb 11.3 g/dL), and initiation of ferrous sulfate 200 mg daily with advice to increase dietary iron."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2025-12-20 11:00",
+        "event": "Anaesthetic pre-op assessment cleared the patient for general anaesthesia; ASA grade I assigned and pre-op fasting/carbohydrate-loading instructions given."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2025-12-21 10:00",
+        "event": "Formal consent obtained for elective total left knee replacement, with procedure risks and postoperative recovery discussed."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-05 08:20",
+        "event": "Elective admission for total left knee replacement; pre-op admission assessment confirmed persistent mild anaemia and plan to proceed with surgery."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-05 10:00",
+        "event": "Total left knee replacement performed under general anaesthesia with cemented prosthesis; no complications and minimal blood loss."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-05 12:15",
+        "event": "Transferred to PACU postoperatively drowsy but stable; PCA morphine started, oxygen given, and tinzaparin thromboprophylaxis initiated."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-05 15:00",
+        "event": "Early postoperative ward review noted moderate pain and clean surgical site; enoxaparin, regular paracetamol, and PRN codeine were started with physiotherapy planned."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-06 10:00",
+        "event": "First physiotherapy session after surgery: began knee mobilisation exercises and gentle flexion/extension with mild discomfort."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-06 17:00",
+        "event": "Postoperative recovery improved with mild pain controlled on oral analgesia and good oral intake; enoxaparin continued and mobilisation planned to progress."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-07 10:00",
+        "event": "Physiotherapy advanced to supervised walking with a Zimmer frame; patient tolerated mobilisation with mild discomfort."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-07 11:30",
+        "event": "Medication review switched paracetamol from IV to oral 1 g four times daily and advised ibuprofen 400 mg three times daily if tolerated."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-07 14:00",
+        "event": "Occupational therapy assessed activities of daily living and recommended home adaptations including a raised toilet seat and sock aid."
+      },
+      {
+        "event_id": 13,
+        "timestamp": "2026-01-07 17:00",
+        "event": "Ward review noted improving mobility, wound healing, and mild postoperative anaemia (Hb 108 g/L); ferrous sulfate 200 mg twice daily started and discharge readiness to be reviewed."
+      },
+      {
+        "event_id": 14,
+        "timestamp": "2026-01-08 08:30",
+        "event": "Ward review documented stable recovery with good pain control and effective mobilisation; discharge planning initiated with co-amoxiclav and ongoing iron supplementation."
+      },
+      {
+        "event_id": 15,
+        "timestamp": "2026-01-08 10:00",
+        "event": "Final physiotherapy session confirmed safe independent use of crutches on flat surfaces and stairs, and patient was deemed safe for discharge."
+      },
+      {
+        "event_id": 16,
+        "timestamp": "2026-01-08 11:30",
+        "event": "Discharge instructions provided including wound care guidance, immediate postoperative analgesia plan, and outpatient follow-up on 15/01/26."
+      },
+      {
+        "event_id": 17,
+        "timestamp": "2026-01-08 14:00",
+        "event": "Occupational therapy confirmed independence with essential activities of daily living and readiness for discharge with crutches."
+      }
+    ]
+  },
+  "5e434d78-b2f6-4d88-b327-fff6ee50b901": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-06 03:35",
+        "event": "Presented to ED with shortness of breath; triaged as urgent with history of asthma, hypertension, and hypercholesterolaemia."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-06 04:10",
+        "event": "Found hypoxic with SpO2 88% on room air and started on 2 L oxygen via nasal cannula."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-06 05:00",
+        "event": "Chest X-ray showed right lower lobe consolidation consistent with lower respiratory tract infection; findings escalated for medical review and oxygen continued."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-06 05:30",
+        "event": "ED assessment confirmed lower respiratory tract infection with right lower lobe consolidation complicated by hypoxia; IV co-amoxiclav/augmentin was started and admission to respiratory ward arranged."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-06 06:00",
+        "event": "Clerking review added acute asthma exacerbation to the diagnosis alongside lower respiratory tract infection; nebulised salbutamol was prescribed and oxygen continued."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-06 09:30",
+        "event": "Ward round documented clinical improvement but ongoing oxygen requirement; IV co-amoxiclav was continued and IV clarithromycin was added."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-06 11:00",
+        "event": "Initial respiratory physiotherapy started with breathing exercises and airway clearance; small amount of thick yellow sputum was expectorated."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-07 08:30",
+        "event": "Improving lower respiratory tract infection with reduced inflammatory markers and less breathlessness; IV co-amoxiclav was switched to oral amoxicillin."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-07 12:15",
+        "event": "Dietitian noted mild weight loss and started oral nutritional supplements (Fortisip) twice daily."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-08 09:00",
+        "event": "Further improvement with oxygen requirement reduced to 1 L and plan made to wean oxygen to 0.5 L while continuing antibiotics and physiotherapy."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-09 08:45",
+        "event": "Weaned off oxygen and clinically improved; IV antibiotics were stopped and oral amoxicillin continued, with discharge planning underway."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-09 13:00",
+        "event": "GP was informed of planned discharge and asked to arrange follow-up within 2 weeks."
+      },
+      {
+        "event_id": 13,
+        "timestamp": "2026-01-09 16:00",
+        "event": "Final physiotherapy session before discharge showed independence with breathing and mobility exercises; physiotherapy goals were met and patient cleared for discharge."
+      },
+      {
+        "event_id": 14,
+        "timestamp": "2026-01-10 08:30",
+        "event": "Respiratory infection was resolving with CRP down to 12 mg/L and stable oxygenation on room air; discharge planned for the following day with oral co-amoxiclav."
+      },
+      {
+        "event_id": 15,
+        "timestamp": "2026-01-10 14:00",
+        "event": "Discharge education provided including amoxicillin use, salbutamol inhaler use, and red-flag advice for worsening breathlessness or fever."
+      },
+      {
+        "event_id": 16,
+        "timestamp": "2026-01-11 08:30",
+        "event": "Patient was clinically well, mobilising independently, and discharged home with a 5-day course of oral co-amoxiclav and respiratory follow-up in 2 weeks."
+      },
+      {
+        "event_id": 17,
+        "timestamp": "2026-01-11 10:00",
+        "event": "Discharge paperwork completed and amoxicillin dispensed."
+      },
+      {
+        "event_id": 18,
+        "timestamp": "2026-01-11 11:30",
+        "event": "Final discharge advice reinforced medication use, breathing exercises, red flags, and respiratory clinic follow-up in 2 weeks."
+      }
+    ]
+  },
+  "61699d6d-904a-4ece-9026-cd61b3fd9a50": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-05 07:40",
+        "event": "Presented with sudden severe central chest pain radiating to the back with shortness of breath; triaged as Category 2 and moved to a monitored bay with mild hypoxia and tachypnoea."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-05 08:30",
+        "event": "Chest X-ray showed mediastinal air consistent with spontaneous pneumomediastinum; ABG and inflammatory markers were arranged."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-05 09:15",
+        "event": "ED assessment confirmed spontaneous pneumomediastinum with mild hypoxia and respiratory alkalosis; admitted to AMU, started on oxygen 2 L/min via nasal cannula and paracetamol, and managed conservatively."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-05 11:00",
+        "event": "Ward review showed improving chest pain but persistent tachypnoea; continued oxygen, analgesia, and conservative management with repeat chest X-ray planned."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-05 13:00",
+        "event": "Physiotherapy session taught diaphragmatic breathing exercises; patient improved and was instructed to continue exercises every two hours while awake."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-06 11:30",
+        "event": "Repeat chest X-ray showed slight reduction in mediastinal air, indicating gradual resolution of the pneumomediastinum."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-06 14:00",
+        "event": "ENT bedside nasoendoscopy showed no mucosal tears or tracheolaryngeal injury; no ENT intervention required and conservative respiratory management continued."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-07 12:00",
+        "event": "Repeat chest X-ray showed further reduction in mediastinal air with no pneumothorax or other complications."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-08 08:10",
+        "event": "Symptoms had resolved with near-complete radiographic resolution of mediastinal air; patient was medically fit for discharge with advice, paracetamol, and GP follow-up."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-08 10:00",
+        "event": "Discharge instructions were provided, including warning signs of recurrence and when to seek medical attention."
+      }
+    ]
+  },
+  "68258b8d-7d36-4d32-9093-6170a32bf087": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-06 13:20",
+        "event": "Presented to ED with 24 hours of vomiting, weakness, and inability to tolerate oral intake; diagnosed with gastroenteritis and triaged as category 3."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-06 14:15",
+        "event": "IV cannula inserted and 1L 0.9% saline started for dehydration; blood tests sent."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-06 15:00",
+        "event": "Blood results showed mild acute kidney injury with urea 12.4 and creatinine 140, with raised CRP, felt secondary to dehydration; IV fluids continued."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-06 15:30",
+        "event": "Paediatric assessment confirmed gastroenteritis with mild dehydration and AKI; accepted to Paeds Obs Unit with plan to continue IV fluids, give ondansetron as needed, and monitor hydration and urine output."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-06 19:00",
+        "event": "Dietary review advised starting oral rehydration solution in small frequent sips alongside ongoing IV fluids and avoiding solid food initially."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-07 08:30",
+        "event": "Clinical improvement noted with resolved vomiting, tolerating oral rehydration, and improving AKI (urea 8.5, creatinine 95); IV fluids reduced, ondansetron stopped, and discharge suitability to be reviewed."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-07 13:00",
+        "event": "Stool sample collected and sent for microbiological testing."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-07 17:00",
+        "event": "Stool culture reported no bacterial pathogens and blood tests showed resolution of AKI; IV fluids stopped and oral ondansetron started PRN with discharge planned if stable."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-08 09:00",
+        "event": "Patient clinically well with no further vomiting; blood tests confirmed resolved AKI and stool sample remained negative, and she was deemed fit for discharge."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-08 12:00",
+        "event": "Discharge summary finalized documenting gastroenteritis, hospital course, treatment, recovery, and advice for GP follow-up if symptoms recur."
+      }
+    ]
+  },
+  "69bf7e25-abb2-4dde-857f-f1138d4d0d8a": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-05 00:05",
+        "event": "Presented to the ED after a minor fall with acute confusion; initial assessment showed GCS 14 and otherwise stable vital signs."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-05 00:25",
+        "event": "Neurological observations showed worsening confusion with GCS 13; CT head was planned and ED diagnosis listed subdural hygroma."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-05 01:30",
+        "event": "CT head confirmed a subdural hygroma with no acute intracranial bleed; neurology opinion was requested."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-05 02:30",
+        "event": "ED doctor review confirmed subdural hygroma with ongoing mild confusion; patient was accepted by neurosurgery and transferred to C03 for admission and observation, with IV saline started."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-05 09:00",
+        "event": "Ward round noted persistent mild confusion and headache with mild dehydration; IV normal saline and regular paracetamol were started, and physiotherapy was requested."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-05 16:00",
+        "event": "Mild hyponatremia was identified (sodium 132 mmol/L); sodium chloride tablets were started."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-05 17:30",
+        "event": "Occupational therapy assessment found mild unsteadiness and falls risk; home safety adaptations and a walking aid were recommended."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-06 09:30",
+        "event": "Ward round documented slight improvement but ongoing confusion; MRI head was arranged and oral sodium supplementation was increased."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-06 15:30",
+        "event": "MRI confirmed subdural hygroma without mass effect or herniation; conservative management with daily neuro checks was continued and no surgery was indicated."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-06 16:30",
+        "event": "Thiamine 100 mg TID was started for possible Wernicke's encephalopathy while conservative management continued."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-07 07:00",
+        "event": "Dietitian review identified poor nutritional intake and Ensure Plus protein supplement was prescribed."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-07 17:00",
+        "event": "Atorvastatin 20 mg nocte was initiated for hyperlipidaemia, and discharge planning with ongoing therapies was arranged."
+      },
+      {
+        "event_id": 13,
+        "timestamp": "2026-01-08 09:30",
+        "event": "Ward round documented significant improvement with GCS 15 and resolution of confusion; IV fluids were stopped and discharge preparation began."
+      },
+      {
+        "event_id": 14,
+        "timestamp": "2026-01-09 09:00",
+        "event": "Further improvement was noted with no confusion or headache; discharge was planned for the same day with outpatient follow-up and discharge medications arranged."
+      },
+      {
+        "event_id": 15,
+        "timestamp": "2026-01-10 09:00",
+        "event": "Discharged home with instructions for fall prevention and follow-up neurology review; discharge medications included atorvastatin, amlodipine, sodium valproate, and paracetamol."
+      }
+    ]
+  },
+  "6e93f9d9-213d-4f2c-a1f0-f475dacef554": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-02 09:00",
+        "event": "Pre-operative assessment for elective posterior spinal fusion for juvenile idiopathic scoliosis; borderline anemia (Hb 11.5 g/dL) identified, ferrous sulfate started, and pre-op chest X-ray ordered."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-02 11:15",
+        "event": "Written consent obtained from the patient\u2019s mother for posterior spinal fusion after discussion of benefits and risks."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-02 11:45",
+        "event": "Pre-op checklist completed and patient cleared for surgery; chest X-ray and baseline bloods reviewed as normal, with fasting and premedication instructions confirmed."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-04 10:00",
+        "event": "Ward round documented mild anemia (Hb 10.5 g/dL) but patient was clinically well and surgery was scheduled to proceed at 13:00 with pre-op IV cefuroxime planned."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-04 13:00",
+        "event": "Posterior spinal fusion performed under general anesthesia with intraoperative neuromonitoring; titanium pedicle screws and rods inserted, estimated blood loss 350 mL, and no complications reported."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-04 17:30",
+        "event": "Transferred to PACU post-operatively drowsy but stable; pain controlled with PCA morphine, IV cefuroxime and IV paracetamol started, and Foley catheter/IV fluids in place."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-06 08:30",
+        "event": "Post-op wound swelling with elevated CRP led to initiation of oral flucloxacillin for possible wound infection/inflammation."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-06 10:00",
+        "event": "First assisted ambulation with physiotherapy using a walker, showing early post-op mobility progress."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-07 08:30",
+        "event": "Analgesia and anemia management adjusted: ferrous sulfate started and physiotherapy advanced toward unassisted walking as recovery improved."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-08 08:30",
+        "event": "Oral morphine dose reduced from 5 mg to 2.5 mg every 4 hours as needed due to improved pain control."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-08 16:00",
+        "event": "Social work discharge planning completed, including arrangements for mobility aids and community physiotherapy referral."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-09 08:30",
+        "event": "Activity level increased to allow unsupervised ward ambulation; oral flucloxacillin continued and oral morphine further reduced as recovery progressed."
+      },
+      {
+        "event_id": 13,
+        "timestamp": "2026-01-10 08:30",
+        "event": "IV fluids stopped, oral amoxicillin started for 5 days, and discharge preparation initiated with plan for discharge the next day."
+      },
+      {
+        "event_id": 14,
+        "timestamp": "2026-01-11 07:30",
+        "event": "Post-op recovery deemed complete with independent ambulation, clean wound, and well-controlled pain; patient discharged home with a 5-day course of paracetamol and outpatient follow-up planned."
+      }
+    ]
+  },
+  "8448b3fa-1f5e-45b5-bda5-eb0b7921b8cc": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-04 06:40",
+        "event": "Presented to A&E with severe headache, nausea, and photophobia; triaged as Category 2 and admitted to Neurology for urgent evaluation."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-04 07:10",
+        "event": "Clinical deterioration with fever, tachycardia, worsening headache, and mild neck stiffness raised concern for bacterial meningitis; urgent blood tests and imaging were requested."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-04 07:30",
+        "event": "Blood samples were taken for FBC, CRP, U&Es, and blood cultures; CT head was requested to exclude an intracranial lesion."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-04 08:15",
+        "event": "CT head showed no abnormalities, and the plan was made to proceed with lumbar puncture."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-04 08:45",
+        "event": "Lumbar puncture was performed and CSF sent for analysis to investigate suspected bacterial meningitis."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-04 09:15",
+        "event": "ED review documented CSF results consistent with bacterial meningitis and planned admission to Neurology with IV ceftriaxone, vancomycin, and supportive care."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-04 09:30",
+        "event": "Clerking review confirmed bacterial meningitis on CSF analysis and initiated treatment with IV ceftriaxone, IV vancomycin, and IV dexamethasone."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-04 11:00",
+        "event": "Ward round documented persistent bacterial meningitis with abnormal CSF and ongoing fever/headache; dexamethasone was added and IV antibiotics continued."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-05 08:00",
+        "event": "Clinical improvement noted with reduced headache and lower inflammatory markers, while IV ceftriaxone, vancomycin, and dexamethasone were continued."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-05 11:30",
+        "event": "Repeat blood cultures were drawn to assess response to intravenous antibiotics."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-06 08:10",
+        "event": "Marked clinical improvement with afebrile status, improving headache, and falling CRP/WBC while IV antibiotics were continued."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-06 11:45",
+        "event": "Microbiology was consulted and advised continuing the current IV antibiotic regimen pending final CSF culture results."
+      },
+      {
+        "event_id": 13,
+        "timestamp": "2026-01-07 08:20",
+        "event": "Blood culture and CSF culture were negative at 72 hours with further clinical improvement, leading to discontinuation of IV vancomycin and continuation of IV ceftriaxone alone."
+      },
+      {
+        "event_id": 14,
+        "timestamp": "2026-01-08 08:10",
+        "event": "Continued recovery with no headache, nausea, photophobia, or new neurological symptoms; plan made to switch from IV ceftriaxone to oral amoxicillin if stable."
+      },
+      {
+        "event_id": 15,
+        "timestamp": "2026-01-09 08:15",
+        "event": "Infectious process considered resolved with normal clinical status; IV ceftriaxone and vancomycin were stopped and oral ciprofloxacin was started, with discharge planning and neurology follow-up arranged."
+      },
+      {
+        "event_id": 16,
+        "timestamp": "2026-01-11 10:00",
+        "event": "Discharge paperwork was provided, with instructions to complete oral amoxicillin and attend neurology follow-up in 2 weeks."
+      }
+    ]
+  },
+  "900efb9a-fb57-4f25-b2a3-0a8c6f55b2d6": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2025-12-20 09:30",
+        "event": "Pre-operative assessment for planned removal of internal fixation device from the right tibia; mild iron-deficiency anaemia identified (Hb 10.8 g/dL) and ferrous sulfate started to optimise haemoglobin before surgery."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2025-12-21 10:15",
+        "event": "Anaesthetic pre-op review confirmed the child was fit for general anaesthesia with low-risk airway; mild anaemia persisted (Hb 10.5 g/dL) and ferrous sulfate was continued."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2025-12-21 11:00",
+        "event": "Formal consent obtained from the mother for elective removal of the right tibial internal fixation device."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-07 10:15",
+        "event": "Day-of-surgery pre-op checklist completed; patient cleared to proceed with elective surgery later that day."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-07 15:00",
+        "event": "Removal of internal fixation device from the right tibia performed under general anaesthesia; implant removed intact, tissues appeared healthy, no complications, minimal blood loss, and prophylactic IV cefuroxime plus postoperative analgesia and antibiotics were prescribed."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-07 16:30",
+        "event": "Post-anaesthesia recovery in PACU: patient regained consciousness, remained haemodynamically stable, had mild pain controlled with IV paracetamol, and no wound bleeding or haematoma was seen."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-08 10:30",
+        "event": "Physiotherapy initiated after surgery with assisted standing, crutch-assisted walking, and range-of-motion exercises; patient made good progress with only mild discomfort."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-08 14:00",
+        "event": "Occupational therapy session provided discharge self-care advice; no further OT sessions were required during the admission."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-09 08:30",
+        "event": "Post-operative review showed clean healing wound, mild tenderness only, safe mobilisation with crutches, and discharge home arranged with oral analgesia, antibiotics, and outpatient follow-up in 2 weeks."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-09 10:15",
+        "event": "Final physiotherapy session confirmed safe independent crutch use and that no further inpatient physiotherapy was required before discharge."
+      }
+    ]
+  },
+  "94264e23-ea67-496e-b027-5dd0cc334f1e": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-03 08:50",
+        "event": "Presented to ED with wheeze and shortness of breath; found to have tachypnea, SpO2 92% on room air, and audible wheeze, with acute asthma exacerbation suspected."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-03 09:25",
+        "event": "Initial asthma treatment given with nebulised salbutamol 2.5 mg, ipratropium bromide 500 mcg, and oral prednisolone 40 mg."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-03 09:50",
+        "event": "Peak expiratory flow measured at 180 L/min and arterial blood gas showed mild respiratory acidosis (pH 7.32); care escalated to ED physician review."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-03 10:20",
+        "event": "ED review confirmed acute asthma exacerbation with mild respiratory acidosis; patient was admitted to the paediatric respiratory ward and treatment was changed to IV hydrocortisone with ongoing nebulised bronchodilators and oxygen, with PICU escalation considered if no improvement."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-03 13:00",
+        "event": "Ward round showed persistent but unchanged respiratory distress with ongoing hypoxia on 2L oxygen, ABG still showing mild respiratory acidosis, and chest X-ray without pneumothorax or consolidation; IV hydrocortisone and regular nebulisers were continued."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-03 15:00",
+        "event": "Physiotherapy session provided breathing exercises and spacer inhaler technique teaching; patient demonstrated correct independent spacer use."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-04 09:00",
+        "event": "Clinical improvement noted with reduced breathlessness and wheeze; oxygen was planned to be weaned to 1L, montelukast was started, and repeat blood gases were planned."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-04 17:00",
+        "event": "Allergy consultant review noted ongoing improvement, clear chest X-ray, persistent mild respiratory acidosis on blood gas, and likely environmental triggers; outpatient allergy testing and allergen avoidance advice were arranged."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-05 09:00",
+        "event": "Marked improvement with no chest tightness or breathlessness, SpO2 96% on room air, reduced wheeze with good air entry; IV hydrocortisone was stopped and oral prednisolone taper plus as-needed salbutamol were started."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-05 10:30",
+        "event": "Peak flow improved to 250 L/min during physiotherapy session; breathing techniques were reinforced and a further session was planned before discharge."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-05 13:00",
+        "event": "Patient and mother were educated on inhaler use, asthma action plan, and early exacerbation signs."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-06 08:30",
+        "event": "Recovered clinically with no further shortness of breath or chest tightness, clear chest examination, peak flow 280 L/min, and SpO2 97% on room air; discharge was approved with salbutamol and beclometasone inhalers, updated asthma action plan, and respiratory clinic follow-up in 4 weeks."
+      },
+      {
+        "event_id": 13,
+        "timestamp": "2026-01-06 09:30",
+        "event": "Discharge medications were prepared and written inhaler instructions provided; GP follow-up for asthma review was arranged."
+      }
+    ]
+  },
+  "96766f3f-aa50-4bcb-abbf-884328049ea9": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-05 12:00",
+        "event": "Presented to triage with headache, pain score 6/10, normal vitals, no red flag neurological symptoms, and was assigned triage category 4."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-05 14:30",
+        "event": "ED assessment diagnosed tension headache; CT head was normal with no intracranial pathology, paracetamol was prescribed, and the patient was transferred to the observation ward for monitoring."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-05 15:00",
+        "event": "Ward clerking confirmed persistent tension headache with neck muscle tightness; blood tests were normal, ibuprofen was added, and physiotherapy referral was made."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-05 17:00",
+        "event": "Ward review noted slight improvement after initial analgesia but ongoing headache and neck/shoulder muscle tension; ibuprofen was started and physiotherapy was arranged."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-05 18:30",
+        "event": "Received a 30-minute physiotherapy session focused on neck and shoulder relaxation exercises, with mild relief by the end of the session."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-06 08:30",
+        "event": "Morning ward review showed significant improvement in headache and reduced neck tension, and the patient was planned for discharge with reduced-dose ibuprofen and outpatient physiotherapy follow-up."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-06 10:00",
+        "event": "Follow-up physiotherapy session noted marked improvement in neck mobility and significant reduction in headache intensity after advanced mobility exercises."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-06 11:00",
+        "event": "Discharge advice was provided, including headache self-management, OTC analgesics, and continuation of home physiotherapy exercises."
+      }
+    ]
+  },
+  "973ee9d2-7c23-4e1d-afb2-86f679b55964": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-05 19:30",
+        "event": "Presented to ED with abdominal pain and bloating; triaged as category 3."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-05 20:30",
+        "event": "Blood tests (FBC, U&E, CRP) and abdominal X-ray were obtained for suspected constipation."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-05 21:15",
+        "event": "Abdominal X-ray reviewed showing significant faecal loading without obstruction; oral senna 10 mg was given and inpatient admission was arranged for constipation management."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-05 21:45",
+        "event": "ED assessment confirmed severe constipation with normal FBC/U&E and no bowel obstruction; macrogol was started and the patient was admitted to paediatrics."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-06 08:30",
+        "event": "Ward review showed persistent constipation with mildly elevated CRP and stable clinical status; macrogol dose was increased and oral hydration encouraged."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-06 10:00",
+        "event": "Physical therapy session provided abdominal massage and mobility exercises to improve bowel motility; home exercise plan advised."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-06 11:30",
+        "event": "Dietitian recommended a high-fibre diet and increased fluid intake for constipation management."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-06 15:00",
+        "event": "Ward review noted mild improvement in abdominal pain and bloating; macrogol 3350 evening dose prescribed."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-06 18:00",
+        "event": "Patient passed a small bowel movement after multiple laxative doses."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-07 08:30",
+        "event": "Ward review showed significant improvement with two bowel movements overnight; lactulose was reduced and home macrogol prescribed in preparation for discharge."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-07 11:30",
+        "event": "Discharge counselling provided to patient and mother on senna, macrogol, hydration, and high-fibre diet."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-07 14:00",
+        "event": "Final ward review found resolution of abdominal pain and constipation; patient was discharged with laxatives, follow-up advice, and home management instructions."
+      },
+      {
+        "event_id": 13,
+        "timestamp": "2026-01-07 15:30",
+        "event": "GP was contacted and informed of the discharge summary and ongoing laxative and dietary plan."
+      }
+    ]
+  },
+  "9d8fd25d-c4fe-4343-8ff5-5da5dad4e740": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2025-12-23 10:00",
+        "event": "Pre-operative assessment for elective total right shoulder replacement for end-stage osteoarthritis; mild anaemia (Hb 11.2 g/dL) identified and ferrous sulfate started, with surgery planned for 2026-01-05."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2025-12-23 11:00",
+        "event": "Anaesthetic pre-op review completed; general anaesthesia planned, enoxaparin thromboprophylaxis to start on admission, and patient consented to proceed."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2025-12-23 11:30",
+        "event": "Formal written consent obtained for total right shoulder replacement; risks and benefits discussed and ibuprofen stop date advised."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2025-12-23 12:00",
+        "event": "Pre-operative checklist completed confirming surgery booking, reviewed investigations, ferrous sulfate commenced, and peri-operative instructions reinforced."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-05 12:35",
+        "event": "Elective admission and pre-operative clerking for total right shoulder replacement; patient stable, ibuprofen temporarily discontinued, ferrous sulfate continued, enoxaparin started, and surgery planned under general anaesthesia."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-05 15:00",
+        "event": "Ward review confirmed patient was ready for surgery; mild pre-op hypertension was acceptable and cefuroxime prophylaxis planned at induction."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-05 16:00",
+        "event": "Pre-operative physiotherapy education session provided, including post-op rehab, early mobilisation, pendulum exercises, and pain/swelling management."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-06 08:30",
+        "event": "Total right shoulder replacement performed under general anaesthesia with cemented prosthesis; no complications and minimal blood loss."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-06 11:30",
+        "event": "Post-operative recovery in PACU with stable observations; mild nausea treated with ondansetron and pain treated with IV paracetamol, then transferred to ward."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-06 14:00",
+        "event": "Post-operative day 0 ward review showed pain controlled and wound clean/healing well; oral co-codamol started and antibiotics withheld because no infection signs were present."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-06 15:30",
+        "event": "First post-op physiotherapy session focused on gentle passive-assisted shoulder movements and sling/posture education."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-07 09:00",
+        "event": "Post-operative day 1 review showed moderate tolerable pain, mobilisation with assistance, mild wound swelling without infection, and codeine was added for breakthrough pain."
+      },
+      {
+        "event_id": 13,
+        "timestamp": "2026-01-07 12:00",
+        "event": "Post-op blood tests were drawn to assess for complications, including infection or electrolyte imbalance."
+      },
+      {
+        "event_id": 14,
+        "timestamp": "2026-01-07 17:00",
+        "event": "Inflammatory markers were elevated (CRP 65 mg/L, WBC 11.5 x10^9/L), prompting treatment of suspected early post-operative infection with co-amoxiclav."
+      },
+      {
+        "event_id": 15,
+        "timestamp": "2026-01-08 08:45",
+        "event": "Ongoing post-op review confirmed elevated inflammatory markers, clean wound, controlled pain, continuation of physiotherapy, and discharge readiness assessment."
+      },
+      {
+        "event_id": 16,
+        "timestamp": "2026-01-08 10:00",
+        "event": "Physiotherapy session advanced to active-assisted range-of-motion exercises with home exercise planning for discharge."
+      },
+      {
+        "event_id": 17,
+        "timestamp": "2026-01-08 11:30",
+        "event": "Occupational therapy assessed the home environment and recommended raised toilet seat and bathroom grab bars for discharge safety."
+      },
+      {
+        "event_id": 18,
+        "timestamp": "2026-01-08 14:00",
+        "event": "Final physiotherapy education session completed; home exercise program reinforced, lifting restrictions advised, and OT discharge recommendations reiterated."
+      },
+      {
+        "event_id": 19,
+        "timestamp": "2026-01-08 16:30",
+        "event": "Ward review confirmed good recovery with no infection signs; ibuprofen was discontinued, co-amoxiclav prescribed, and discharge planned for the next day with home exercises and follow-up."
+      },
+      {
+        "event_id": 20,
+        "timestamp": "2026-01-08 18:30",
+        "event": "Discharge booklet provided with wound-care advice, infection warning signs, follow-up details, and instruction to start oral paracetamol for pain."
+      },
+      {
+        "event_id": 21,
+        "timestamp": "2026-01-09 08:00",
+        "event": "Post-op day 3 review confirmed stable recovery with mild swelling, manageable pain, and plan for discharge the next day with co-amoxiclav, co-codamol, dalteparin, and no ibuprofen."
+      },
+      {
+        "event_id": 22,
+        "timestamp": "2026-01-09 09:30",
+        "event": "Final physiotherapy discharge review confirmed the patient could perform the home exercise program independently and was discharged with sling and thromboprophylaxis instructions."
+      },
+      {
+        "event_id": 23,
+        "timestamp": "2026-01-09 10:30",
+        "event": "Discharge paperwork completed with verbal and written post-operative care instructions and follow-up arrangements."
+      }
+    ]
+  },
+  "a8629d2e-7fd8-449a-9149-e0f5045a04c4": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2025-12-23 10:00",
+        "event": "Pre-operative assessment for congenital left clubfoot; mild iron deficiency anaemia identified (Hb 10.8 g/dL) and oral ferrous sulfate 75 mg daily was started. Ponseti casting planned."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2025-12-23 12:15",
+        "event": "Formal consent obtained from the mother for planned Ponseti casting of the left clubfoot."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-06 18:15",
+        "event": "Elective admission to paediatric orthopaedics ward for Ponseti casting of the left clubfoot; patient was clinically well and fit for surgery."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-07 08:00",
+        "event": "Ponseti casting of the left clubfoot performed under general anaesthesia with no complications and no blood loss; postoperative paracetamol and ibuprofen were prescribed and the cast was left in place."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-07 09:30",
+        "event": "Recovered in PACU after uneventful anaesthesia; pain was mild and controlled, with no postoperative complications, and the patient was transferred to the ward."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-07 11:00",
+        "event": "Postoperative ward review found the patient comfortable with a well-applied cast and no skin or circulation complications; discharge later that day was planned with analgesia and follow-up."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-07 13:00",
+        "event": "Physiotherapy education provided to the family on cast care, monitoring for complications, mobility advice, and use of prescribed analgesia."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-07 15:00",
+        "event": "Family meeting held to reinforce post-procedure cast care and follow-up advice; no concerns were raised."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-07 16:00",
+        "event": "Discharge paperwork completed, including procedure summary, follow-up appointments, cast care instructions, and prescription for paracetamol."
+      }
+    ]
+  },
+  "a9827c1c-fb54-4e5b-8bc6-d3099869e671": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-01 16:00",
+        "event": "Presented to ED with progressive breathlessness and visible shortness of breath; oxygen supplementation was started via nasal cannula. ED diagnosis documented as chronic thromboembolic pulmonary hypertension."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-01 16:45",
+        "event": "Arterial blood gas samples were collected and sent for analysis to assess oxygenation and acid-base status."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-01 17:15",
+        "event": "CXR showed mild pulmonary vascular congestion and ECG showed right heart strain; further imaging with echo and CTPA was planned."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-01 17:45",
+        "event": "Respiratory HDU accepted the patient for ongoing management; apixaban 5 mg twice daily was initiated and continued low-flow oxygen and further imaging were planned."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-02 10:30",
+        "event": "Echocardiogram showed significant right ventricular strain consistent with pulmonary hypertension and NT-proBNP was mildly elevated at 900 pg/mL."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-03 09:00",
+        "event": "CT pulmonary angiogram confirmed chronic thromboembolic pulmonary hypertension with segmental perfusion defects in both pulmonary arteries; apixaban was escalated to 10 mg twice daily for 7 days then 5 mg twice daily, and referral for right heart catheterisation and PEA assessment was made."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-04 09:15",
+        "event": "Patient remained clinically stable but had persistent right ventricular strain, mild peripheral oedema, and BNP 450 pg/mL; furosemide 20 mg daily was started and advanced therapy referral was considered pending right heart catheterisation."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-04 11:30",
+        "event": "Cardiology assessed the patient for pulmonary endarterectomy and decided to refer her to a regional PEA centre for MDT evaluation."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-05 16:30",
+        "event": "MDT meeting reviewed progress on anticoagulation, physiotherapy, and oxygen therapy and arranged outpatient follow-up with the pulmonary hypertension clinic and discharge support planning."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-06 09:15",
+        "event": "Patient improved clinically with less shortness of breath; NT-proBNP had fallen to 450 pg/mL and oxygen was reduced to 1 L/min nasal cannula."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-07 09:00",
+        "event": "Patient was clinically stable on rivaroxaban therapy with improved mobility, no new symptoms, and discharge was being prepared for the next day."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-08 08:30",
+        "event": "Patient was discharged home; room-air oxygen saturation was 96%, and discharge medications included rivaroxaban with follow-up at the pulmonary hypertension clinic in two weeks."
+      }
+    ]
+  },
+  "b70c7ff6-c2af-4df6-bd88-889bf767a168": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2025-12-29 10:30",
+        "event": "Pre-operative assessment for severe right hip osteoarthritis with plan for elective right total hip replacement; mild anaemia identified (Hb 10.8 g/dL) and ferrous sulfate started."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2025-12-29 11:15",
+        "event": "Anaesthetic assessment deemed spinal anaesthesia suitable for the planned right total hip replacement; patient counselled and gave verbal consent."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2025-12-29 11:45",
+        "event": "Formal surgical consent obtained for elective right total hip replacement."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-06 16:30",
+        "event": "Elective right total hip replacement performed under spinal anaesthesia with no complications; prosthesis implanted and postoperative enoxaparin, analgesia, and physiotherapy plan initiated."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-07 10:00",
+        "event": "First postoperative physiotherapy session began, with patient standing, weight-bearing on the right leg, and taking assisted steps with a walking frame."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-08 09:00",
+        "event": "Physiotherapy advanced to stair training; patient showed improved mobility and confidence."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-08 10:30",
+        "event": "Oral ferrous sulfate started postoperatively for anaemia optimization; discharge review planned if mobilisation continued to progress."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-08 15:15",
+        "event": "Discharge medications reviewed and confirmed as paracetamol PRN and rivaroxaban 10 mg daily for 35 days."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-09 09:15",
+        "event": "Physiotherapy assessed independent mobility with crutches and stairs; patient was deemed ready for discharge from a physiotherapy perspective."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-10 08:30",
+        "event": "Patient discharged home after uncomplicated postoperative recovery; wound healing well, pain controlled, and follow-up arranged in 6 weeks with instructions for GP review and postoperative precautions."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-10 09:45",
+        "event": "Discharge paperwork finalized and take-home medications issued, including paracetamol and dalteparin."
+      }
+    ]
+  },
+  "b8085350-6748-47a5-a12f-6acd07c40a82": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2025-12-21 10:00",
+        "event": "Pre-operative assessment for developmental dysplasia of the hips (DDH); mild diaper-area erythema noted, FBC and U&E ordered, barrier cream prescribed, and Pavlik harness treatment planned."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2025-12-21 11:00",
+        "event": "Anaesthetic pre-op assessment found no medical concerns or contraindications; oral midazolam sedation plan established for the Pavlik harness procedure."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2025-12-21 11:30",
+        "event": "Consent obtained from the mother for Pavlik harness treatment after counselling on benefits and risks."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2025-12-21 12:00",
+        "event": "Pre-op checklist review confirmed normal FBC/U&E results, DDH on imaging, improving nappy rash, and patient fit for the planned procedure."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-02 14:20",
+        "event": "Elective admission for Pavlik harness application for DDH; infant clinically stable with no contraindications to the procedure."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-02 17:00",
+        "event": "Parents received education on Pavlik harness use and care, including skin checks and safe positioning, ahead of the procedure."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-03 09:30",
+        "event": "Pavlik harness applied under oral midazolam sedation; both hips positioned successfully, with no complications and paracetamol prescribed post-operatively."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-03 10:15",
+        "event": "Post-anaesthetic recovery was stable with no distress, no respiratory or cardiovascular complications, and no harness-related skin irritation."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-04 09:00",
+        "event": "Post-procedure ward review found the harness fitting appropriately, skin intact, and the infant ready for discharge with follow-up planned."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-04 12:00",
+        "event": "Discharge paperwork completed and parents given follow-up details and contact information for concerns about the Pavlik harness."
+      }
+    ]
+  },
+  "c332ce87-7afd-4a74-9896-3fef50179bd0": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-04 18:50",
+        "event": "Presented to ED with severe fatigue and shortness of breath; triaged as urgent and moved for immediate assessment."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-04 19:15",
+        "event": "Initial observations showed fever, tachycardia, hypotension, and mild hypoxia; sepsis screening initiated with preparation for fluid resuscitation and blood tests."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-04 19:45",
+        "event": "Diagnosed with sepsis secondary to pneumonia; IV cannula inserted, 500 mL normal saline bolus given, and chest X-ray/blood investigations ordered."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-04 20:15",
+        "event": "Chest X-ray reviewed showing right lower lobe consolidation consistent with pneumonia; IV co-amoxiclav started."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-04 20:45",
+        "event": "ED medical review confirmed sepsis secondary to right lower lobe pneumonia with elevated inflammatory markers and lactate; admitted to respiratory ward, oxygen therapy continued, and antibiotics escalated to IV piperacillin-tazobactam after initial co-amoxiclav."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-05 10:00",
+        "event": "Chest physiotherapy initiated with percussion, postural drainage, and breathing exercises."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-05 17:00",
+        "event": "Ward review showed improving sepsis with reduced CRP and stable hemodynamics but ongoing oxygen requirement and persistent right lower lobe crackles; IV piperacillin-tazobactam continued and physiotherapy ongoing."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-06 09:00",
+        "event": "Clinical improvement allowed step-down from IV co-amoxiclav to oral amoxicillin, with repeat chest X-ray planned and continued physiotherapy."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-06 17:30",
+        "event": "Repeat chest X-ray showed mild resolution of right lower lobe consolidation; oxygen reduced to 1 L nasal cannula and oral azithromycin started for atypical cover."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-07 08:45",
+        "event": "Weaned off oxygen with further clinical improvement; antibiotics changed to oral amoxicillin plus oral azithromycin and discharge planning initiated."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-07 18:00",
+        "event": "Marked improvement in sepsis and pneumonia with normalizing labs and room-air oxygenation; IV piperacillin-tazobactam switched to oral co-amoxiclav plus azithromycin, with discharge readiness to be reviewed."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-08 09:15",
+        "event": "Sepsis resolved with normalized inflammatory markers and no oxygen requirement; IV antibiotics stopped and oral amoxicillin continued, with planned discharge the next day."
+      },
+      {
+        "event_id": 13,
+        "timestamp": "2026-01-08 11:00",
+        "event": "Final physiotherapy session completed; patient mobilized independently and was discharged from physio services."
+      },
+      {
+        "event_id": 14,
+        "timestamp": "2026-01-08 17:00",
+        "event": "Patient clinically well and independently mobile; deemed fit for discharge the next morning, with oral amoxicillin to continue and GP follow-up arranged."
+      }
+    ]
+  },
+  "c50e236f-6b3d-41c8-9e16-7ec343cac820": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-01 10:35",
+        "event": "Presented to ED with severe post-exertional headache; triaged as Category 2 with initial hypertension and suspected reversible cerebral vasoconstriction syndrome (RCVS)."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-01 12:00",
+        "event": "CT head reviewed and showed no haemorrhage; lumbar puncture consent obtained and further investigation planned."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-01 13:30",
+        "event": "ED assessment documented suspected RCVS; neurology accepted referral and nimodipine 60 mg every 4 hours was started, with plan for lumbar puncture and transfer to neurology ward."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-01 16:00",
+        "event": "CRP returned mildly elevated at 12 mg/L; MRI angiogram was requested to confirm diagnosis, and nimodipine was continued."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-01 18:30",
+        "event": "Due to persistent headache, oral sumatriptan 50 mg and paracetamol 1 g every 6 hours were prescribed for pain control."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-02 12:00",
+        "event": "MRI angiogram of cerebral vasculature was performed without complications."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-02 15:00",
+        "event": "MRI angiogram confirmed RCVS; headache was slightly improved and nimodipine 30 mg every 4 hours was started."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-03 08:45",
+        "event": "MRI angiogram confirmed resolving vasoconstriction; clinical symptoms continued to improve with headache down to 3/10."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-03 14:00",
+        "event": "Nimodipine was continued at 30 mg every 6 hours, with a planned weaning regimen starting 2026-01-04 and discharge consideration if stable."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-04 15:30",
+        "event": "Symptoms significantly improved to 2/10; FBC, U&E, and CRP were normal, and nimodipine tapering/discharge planning was initiated."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-05 08:30",
+        "event": "Patient was asymptomatic overnight with no neurological deficits; oral triptans were discontinued and amlodipine 5 mg daily was started for 4 weeks post-discharge with neurology follow-up planned."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-05 16:00",
+        "event": "Discharge medications and instructions were reviewed, including amlodipine 5 mg daily and follow-up neurology clinic appointment in 4 weeks."
+      }
+    ]
+  },
+  "c51243b8-e3d9-4cf7-ab29-0315048f91dc": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-01 11:15",
+        "event": "Presented to the ED with severe abdominal pain and bloating; abdominal distension and tenderness noted on initial assessment."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-01 11:45",
+        "event": "Triage assessment classified the child as Level 3 urgent with lower abdominal tenderness; decision made to keep him in the ED for further investigations, including blood tests and abdominal imaging."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-01 12:30",
+        "event": "Blood tests (FBC, U&E, CRP) were collected and an abdominal X-ray was performed to investigate abdominal pain."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-01 13:15",
+        "event": "Abdominal X-ray showed significant fecal loading in the colon; constipation was diagnosed and macrogol was prescribed with advice for oral hydration."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-01 14:00",
+        "event": "ED review confirmed constipation with significant faecal loading, normal blood tests, and no obstruction or perforation; accepted for inpatient paediatric surgical team management and admitted to the paediatric ward."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-01 14:30",
+        "event": "Ward clerking reaffirmed constipation with significant faecal loading; oral macrogol 3350, fluids, high-fibre diet, and bowel monitoring were planned."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-01 17:30",
+        "event": "Dietary counselling provided to patient and mother on high-fibre diet and increased fluid intake to prevent recurrence of constipation."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-01 19:00",
+        "event": "Supervised ambulation on the ward was carried out to promote bowel motility; no adverse events occurred."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-02 08:30",
+        "event": "Constipation persisted with continued bloating and no stool passage despite Movicol; lactulose 10 mL twice daily was started."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-02 10:00",
+        "event": "Light mobility physiotherapy session was completed to stimulate bowel motility without difficulty."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-02 15:00",
+        "event": "Dietary review reinforced high-fibre diet and hydration advice; lactulose 10 mL twice daily for 5 days was prescribed for discharge."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-02 17:00",
+        "event": "Clinical improvement with passage of stools, resolution of abdominal pain and bloating, and discharge planning initiated with macrogol and safety-net advice."
+      },
+      {
+        "event_id": 13,
+        "timestamp": "2026-01-03 08:00",
+        "event": "Symptoms had resolved overnight with normal stool passage; abdomen was soft and non-tender, and the patient was deemed fit for discharge with outpatient constipation management advice."
+      },
+      {
+        "event_id": 14,
+        "timestamp": "2026-01-03 09:30",
+        "event": "Discharge summary was communicated to the GP, including constipation diagnosis, treatments given, and follow-up advice regarding lactulose and diet."
+      }
+    ]
+  },
+  "c54a9649-495a-4f89-a8ca-fbb14ba70ca6": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-07 03:50",
+        "event": "Presented to triage with poor feeding and mild lethargy, with mild dehydration noted (CRT 3 seconds); classified as triage category 3."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-07 04:10",
+        "event": "Initial ED assessment confirmed poor feeding with mild dehydration; oral rehydration solution was given and hydration planned for reassessment."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-07 04:45",
+        "event": "Capillary blood glucose was 3.8 mmol/L, consistent with mild hypoglycaemia; oral glucose solution was planned."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-07 05:30",
+        "event": "ED evaluation diagnosed viral illness with mild dehydration and mild hypoglycaemia; patient was accepted by paediatrics and transferred to the paediatric observation unit, with IV maintenance fluids started."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-07 06:15",
+        "event": "Paediatric clerking identified mild dehydration with metabolic acidosis secondary to viral illness; IV fluids were continued and no antibiotics were started."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-07 08:30",
+        "event": "Ward round showed persistent mild dehydration with mildly elevated urea and metabolic acidosis, but no further lethargy; IV fluids were continued."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-07 10:15",
+        "event": "Speech and language therapy feeding assessment found oral motor fatigue and feeding coordination difficulties; parents were instructed on positioning and pacing, with smaller, more frequent feeds recommended."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-08 08:45",
+        "event": "Clinical improvement noted with better alertness, improved feeding, and improved hydration; IV fluids were being weaned and discharge was being considered."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-08 10:30",
+        "event": "Follow-up feeding assessment showed improved latching and reduced fatigue, with improving hydration and no new interventions required."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-08 12:00",
+        "event": "Family meeting confirmed viral illness diagnosis, reviewed improvement, and agreed on discharge planning for the following day."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-08 14:15",
+        "event": "Dietary review recommended a high-calorie hydrolysed formula and smaller, more frequent feeds for home use; formula was prescribed for discharge."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-08 16:30",
+        "event": "Ward round documented clinical stability with normal hydration and no distress; IV fluids were stopped and discharge planned for the next morning."
+      },
+      {
+        "event_id": 13,
+        "timestamp": "2026-01-09 08:00",
+        "event": "Discharge instructions were provided, including dehydration and feeding warning signs, ORS use as needed, and follow-up arrangements."
+      }
+    ]
+  },
+  "c6c45c39-cd73-49dd-818d-0a7865fe8a7f": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-03 01:35",
+        "event": "Presented to ED with progressive breathlessness and hypoxia; diagnosed with chronic thromboembolic pulmonary hypertension, started on low-flow oxygen, and planned for Respiratory HDU admission."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-03 02:15",
+        "event": "Oxygen via nasal cannula improved SpO2 from 89% to 92%; chest X-ray was ordered to investigate hypoxia."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-03 03:15",
+        "event": "ABG showed mild hypoxia with compensated respiratory alkalosis and NT-proBNP was elevated at 3,200 pg/mL, prompting escalation to the medical team."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-03 04:00",
+        "event": "ED consultant assessment confirmed suspected chronic thromboembolic pulmonary hypertension with cardiac strain; therapeutic enoxaparin was started and CT pulmonary angiogram/echocardiogram were planned."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-03 09:00",
+        "event": "Ward round documented suspected CTEPH with persistent tachycardia and borderline hypotension; apixaban was initiated and LMWH was to continue until fully established."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-03 17:30",
+        "event": "CT pulmonary angiogram confirmed chronic thromboembolic disease; oxygenation improved on low-flow oxygen while echocardiogram results were still pending."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-04 08:30",
+        "event": "Echocardiogram showed severe pulmonary hypertension with right ventricular strain; oral furosemide was started for fluid retention and right heart strain."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-05 11:00",
+        "event": "Multidisciplinary cardiology/respiratory review confirmed severe CTEPH; sildenafil was started and referral for pulmonary endarterectomy assessment was agreed."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-06 11:30",
+        "event": "V/Q scan showed mismatched perfusion defects confirming CTEPH; MDT was informed and tertiary pulmonary hypertension referral for surgical assessment was planned."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-06 18:30",
+        "event": "Sildenafil 20 mg TDS was initiated with ongoing improvement in breathlessness and oxygen requirement reduced to 1 L/min."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-07 17:30",
+        "event": "Long-term anticoagulation was changed to rivaroxaban 20 mg daily and discharge planning with tertiary PH centre referral and home oxygen assessment began."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-08 09:00",
+        "event": "Mild anaemia was identified (Hb 110 g/L); ferrous sulfate was started and discharge medications were being finalised."
+      },
+      {
+        "event_id": 13,
+        "timestamp": "2026-01-08 18:00",
+        "event": "Furosemide 20 mg daily was started for mild peripheral oedema; discharge planning continued with home exercise programme and tertiary PH follow-up."
+      },
+      {
+        "event_id": 14,
+        "timestamp": "2026-01-10 08:00",
+        "event": "Discharged home clinically improved on room air with rivaroxaban, sildenafil, ferrous sulfate, a home exercise plan, and follow-up at a tertiary pulmonary hypertension centre."
+      }
+    ]
+  },
+  "c87e610e-ac2a-48cf-ac32-054f3e595498": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-04 10:10",
+        "event": "Presentation to ED with right ear pain; initially afebrile and in no acute distress, then directed to triage for further evaluation."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-04 10:30",
+        "event": "Triage assessment noted mild erythema around the right outer ear and moderate tenderness on palpation; no systemic illness signs."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-04 11:30",
+        "event": "ED consultant diagnosed acute otitis media with effusion in the right ear and arranged inpatient admission to Paediatrics/ENT; oral paracetamol was given in the ED."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-04 12:00",
+        "event": "Specialty registrar confirmed acute right otitis media with effusion and started oral amoxicillin for 5 days plus oral paracetamol for pain relief."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-04 13:30",
+        "event": "Ward round documented moderate pain without fever or systemic infection and continued treatment with amoxicillin, paracetamol, and warm compresses."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-05 08:00",
+        "event": "Clinical improvement noted with reduced ear erythema and effusion, significant pain improvement, and good tolerance of antibiotics and analgesia overnight; plan made for discharge later that day with antibiotics, paracetamol, and ENT follow-up in 2 weeks."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-05 09:30",
+        "event": "Discharge plan was communicated to the GP, including completion of the 5-day amoxicillin course, paracetamol as needed, and ENT follow-up in 2 weeks."
+      }
+    ]
+  },
+  "ce0046dc-0ad3-4710-8147-549793c58b44": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-05 03:00",
+        "event": "Presented to ED with 24 hours of poor feeding and lethargy; triaged as urgent with pallor and concern for illness."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-05 03:20",
+        "event": "Initial observations showed fever (38.2 C), tachycardia, delayed capillary refill, and mild dehydration; paracetamol was given."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-05 04:30",
+        "event": "ED assessment diagnosed viral illness with mild dehydration; oral rehydration therapy was initiated and the patient was accepted for transfer to PAU."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-05 05:30",
+        "event": "PAU clerking confirmed mild dehydration with reduced intake and reduced urine output; IV maintenance fluids were started and baseline investigations were pending."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-05 08:30",
+        "event": "Ward round identified mild hypernatremia and ongoing dehydration with continued refusal of fluids; oral rehydration therapy was continued."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-05 15:00",
+        "event": "Clinical improvement noted with slightly better oral intake and lower temperature; oral rehydration therapy was continued at a structured dose."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-06 08:30",
+        "event": "Viral swab confirmed a common viral illness and dehydration had resolved with improved oral intake and hydration."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-06 10:00",
+        "event": "Dietitian reviewed feeding and recommended high-calorie liquid nutritional supplements to support recovery."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-06 15:00",
+        "event": "Viral swab confirmed rhinovirus; patient was clinically improved with better feeding and hydration, and saline nasal drops were prescribed for congestion."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-06 17:30",
+        "event": "Supervised feeding trial with soft solids was successful, with good tolerance and no choking or distress."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-07 08:00",
+        "event": "Patient was well, playful, and tolerating oral intake; discharge was planned for that day."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-07 10:30",
+        "event": "Final feeding assessment showed the patient could eat a high-calorie pudding without difficulty; deemed ready for discharge with normalized oral intake."
+      }
+    ]
+  },
+  "d362867a-d350-4aca-82d0-a63b7e0a14c7": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-01 11:20",
+        "event": "Presented to triage with acute confusion, fever, and positive urine dipstick suggesting possible UTI; urgent assessment initiated."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-01 12:50",
+        "event": "UTI confirmed on urinalysis with elevated CRP and creatinine indicating mild AKI/dehydration; IV fluids started and ED physician escalation arranged."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-01 13:30",
+        "event": "ED assessment diagnosed delirium secondary to UTI with dehydration and mild AKI; started IV ceftriaxone and IV normal saline, with geriatric admission accepted."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-02 13:00",
+        "event": "Urine culture grew E. coli and antibiotics were changed from empirical ceftriaxone to targeted IV piperacillin-tazobactam."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-03 10:00",
+        "event": "Delirium and infection showed marked improvement; IV ceftriaxone stopped and oral nitrofurantoin started to complete treatment."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-04 13:00",
+        "event": "Antibiotic regimen was adjusted again after review, switching from IV antibiotics to oral nitrofurantoin for ongoing treatment."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-05 08:45",
+        "event": "Confusion fully resolved, urinalysis showed no ongoing infection, and renal function normalized; discharge planning began."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-06 08:30",
+        "event": "Patient deemed medically fit for discharge after completing IV ceftriaxone, with renal function back to baseline and outpatient follow-up arranged."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-06 09:30",
+        "event": "Discharge instructions and medication regimen reviewed with patient and son; 7-day oral nitrofurantoin course provided."
+      }
+    ]
+  },
+  "e8885d7c-b863-4c41-997e-588416d655ae": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2025-12-23 10:00",
+        "event": "Pre-operative assessment for planned right tibial derotation osteotomy; mild anemia identified and ferrous sulfate 125 mg daily started with follow-up blood test arranged."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2025-12-23 11:30",
+        "event": "Surgical consent obtained from the patient's mother after discussion of the planned right tibial derotation osteotomy, risks, benefits, recovery, and postoperative pain management."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2025-12-23 12:00",
+        "event": "Pre-op checklist completed and patient cleared for surgery; fasting instructions provided and admission planned for elective operation."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-06 14:00",
+        "event": "Elective admission clerking before right tibial derotation osteotomy; pre-op bloods showed improved hemoglobin and surgery was confirmed to proceed the next day."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-06 16:00",
+        "event": "Ward review confirmed mild anemia remained acceptable for surgery; oral paracetamol was prescribed and surgery planned for the following morning."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-07 09:00",
+        "event": "Right tibial derotation osteotomy performed under general anesthesia with titanium plate and screws; no complications and minimal blood loss."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-07 11:30",
+        "event": "Post-operative PACU review showed stable recovery with pain requiring IV paracetamol; oral amoxicillin prophylaxis was prescribed and physiotherapy planned."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-07 15:30",
+        "event": "Physiotherapy initiated with gentle range-of-motion exercises after surgery; patient tolerated the session with mild discomfort."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-08 10:00",
+        "event": "Physiotherapy progressed to assisted weight-bearing with a walking frame after surgery; patient tolerated supported steps without significant pain."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-08 14:00",
+        "event": "Occupational therapy assessed home mobility and crutch use; patient demonstrated safe crutch use and was cleared for home use of crutches."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-09 09:00",
+        "event": "Medication discharge prescriptions prepared, including paracetamol as needed and dalteparin for seven days."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-09 14:30",
+        "event": "Occupational therapy confirmed independent crutch use at home and advised partial weight-bearing as tolerated."
+      },
+      {
+        "event_id": 13,
+        "timestamp": "2026-01-09 17:30",
+        "event": "Post-discharge follow-up appointment arranged with orthopaedic clinic for 17/01/26."
+      }
+    ]
+  },
+  "ebb1ca4c-f42f-41d8-adbc-1b08949036d1": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2025-12-28 10:00",
+        "event": "Pre-operative orthopaedic assessment for recurrent left knee pain and gait abnormality; imaging showed valgus deformity with distal femoral growth plate arrest, mild iron-deficiency anaemia was identified, oral ferrous sulfate was started, and hemiepiphysiodesis was planned."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2025-12-28 11:30",
+        "event": "Consent discussion for left distal femoral hemiepiphysiodesis was completed and written consent was obtained from the patient's mother."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-06 09:05",
+        "event": "Elective admission for left distal femoral hemiepiphysiodesis; pre-operative blood tests showed improved haemoglobin of 12.3 g/dL and surgery proceeded as planned."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-06 11:00",
+        "event": "Hemiepiphysiodesis of the left distal femur was performed under general anaesthesia with guided growth plate tether implantation; no intraoperative complications or significant blood loss occurred."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-06 13:30",
+        "event": "Immediate post-operative PACU recovery after surgery was stable overall, with a brief oxygen desaturation corrected by nasal cannula oxygen and analgesia given with IV paracetamol and morphine."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-06 15:30",
+        "event": "Early post-operative ward review noted mild haemoglobin drop to 104 g/L attributed to minor surgical blood loss; pain was controlled and tranexamic acid plus enoxaparin prophylaxis were started."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-06 17:00",
+        "event": "Physiotherapy session initiated post-operative mobilisation with assisted leg movements, seated range-of-motion exercises, and deep breathing; the patient tolerated therapy well."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-06 18:30",
+        "event": "Mother was educated on post-operative wound care and signs of infection."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-07 10:00",
+        "event": "Supervised physiotherapy progressed to walking with a Zimmer frame, with the patient able to bear weight on the left leg with support."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-07 11:30",
+        "event": "Post-operative superficial wound infection was diagnosed based on mild erythema/warmth and CRP 18 mg/L, and oral flucloxacillin was started."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-07 15:30",
+        "event": "Physiotherapy advanced to stair-climbing practice with crutches and partial weight-bearing; knee stiffness improved with stretching."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-08 08:15",
+        "event": "Ward review documented ongoing postoperative wound monitoring with mild erythema/warmth and unchanged CRP 18 mg/L; analgesia was adjusted to oral ibuprofen and flucloxacillin was continued, with discharge planning underway."
+      },
+      {
+        "event_id": 13,
+        "timestamp": "2026-01-08 10:00",
+        "event": "Final physiotherapy session confirmed safe independent mobilisation with crutches, and continued crutch use for four weeks was recommended."
+      },
+      {
+        "event_id": 14,
+        "timestamp": "2026-01-08 11:30",
+        "event": "Discharge medications and instructions for pain control, crutch use, and wound care were provided to the patient's mother."
+      },
+      {
+        "event_id": 15,
+        "timestamp": "2026-01-08 14:00",
+        "event": "Speech and language assessment found normal communication and safe swallowing with no aspiration or dysphagia; no further SALT input was required."
+      },
+      {
+        "event_id": 16,
+        "timestamp": "2026-01-08 16:30",
+        "event": "Final ward review found the wound clean and the patient mobilising safely with crutches; discharge home was arranged with analgesia and outpatient physiotherapy follow-up."
+      },
+      {
+        "event_id": 17,
+        "timestamp": "2026-01-08 18:00",
+        "event": "Discharge summary was communicated to the patient's GP, including advice to review the patient in six weeks after the orthopaedic follow-up."
+      }
+    ]
+  },
+  "ef943dfb-1368-44e0-a946-a0be360e1d54": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2025-12-22 10:00",
+        "event": "Pre-operative assessment for end-stage left hip osteoarthritis with plan for total left hip replacement; mild anaemia identified (Hb 10.8) and oral ferrous sulfate started."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2025-12-22 11:30",
+        "event": "Anaesthetic assessment completed; general anaesthesia deemed appropriate and patient consented to anaesthetic plan."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2025-12-22 13:00",
+        "event": "Formal surgical consent obtained for scheduled total left hip replacement after discussion of procedure, risks, benefits, and alternatives."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-03 08:00",
+        "event": "Total left hip replacement performed under general anaesthesia with no complications; IV cefuroxime and PCA morphine started post-operatively."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-03 10:30",
+        "event": "Post-operative PACU review showed stable recovery with controlled pain; dalteparin planned to start for VTE prophylaxis and patient transferred to orthopaedic ward."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-03 14:00",
+        "event": "Post-operative ward review identified anaemia (Hb 105 g/L); ferrous sulfate restarted and physiotherapy initiated for mobilisation."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-04 09:00",
+        "event": "Ongoing post-op recovery with mild anaemia (Hb 10.5 g/dL) but no clinical instability; oral iron continued and full weight-bearing mobilisation planned."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-05 08:30",
+        "event": "Recovery continued with wound healing well, pain controlled on oral analgesia, and mild stable postoperative anaemia (Hb 108 g/L); enoxaparin planned to stop on discharge and aspirin started for VTE prophylaxis with discharge planned for the next day."
+      }
+    ]
+  },
+  "f1538231-21af-4cfa-8b40-3303aa0d0c96": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-01 08:15",
+        "event": "Presentation with poor feeding, fever, lethargy, and mild dehydration; triage category 3 assigned."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-01 09:10",
+        "event": "Blood and urine investigations obtained, including FBC, U&Es, CRP, viral panel, urinalysis, and urine culture."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-01 09:45",
+        "event": "ED assessment concluded likely viral illness with mild dehydration and poor feeding; admitted/transferred to PAU for IV rehydration with 0.9% NaCl plus 5% dextrose."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-01 12:00",
+        "event": "Viral panel returned RSV positive with CRP falling to 15 mg/L; patient clinically improved with better feeding and hydration, and IV fluids continued at maintenance rate."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-01 17:00",
+        "event": "Further clinical improvement with normalized hydration status, adequate urine output, and tolerance of small oral feeds; IV fluids reduced to maintenance and oral feeds continued."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-02 13:00",
+        "event": "Repeat blood tests showed CRP reduced to 12 mg/L with WCC normalizing; IV fluids were discontinued and full oral hydration was started."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-02 17:30",
+        "event": "Patient was clinically well hydrated and feeding well; IV fluids stopped and discharge home planned with advice for small frequent feeds and monitoring."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-03 08:00",
+        "event": "Discharge planning meeting held with parents; hydration and feeding advice reinforced and GP follow-up arranged for one week after discharge."
+      }
+    ]
+  },
+  "f44d4a08-4c76-4000-ad61-d1d81032e643": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2025-12-23 10:00",
+        "event": "Pre-operative assessment for planned left total hip replacement for end-stage osteoarthritis; borderline prolonged QTc (470 ms) identified, routine bloods sent, and anaesthetic review requested."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2025-12-23 11:30",
+        "event": "Anaesthetic review confirmed patient was fit for surgery, recommended spinal anaesthesia, and advised stopping ibuprofen 48 hours pre-operatively."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2025-12-23 12:15",
+        "event": "Formal consent obtained for elective left total hip replacement after risks, benefits, and alternatives were discussed."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-06 09:00",
+        "event": "Left total hip replacement performed for end-stage osteoarthritis under general anaesthesia; severe degenerative changes noted, prosthesis implanted, estimated blood loss 250 mL, and no intraoperative complications."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-06 11:30",
+        "event": "Post-operative recovery in PACU was stable; mild nausea treated with ondansetron, pain controlled with morphine/PCA, and enoxaparin prophylaxis planned."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-07 08:00",
+        "event": "Post-operative day 1 review showed mild expected anemia, good pain control, and mobilisation with physiotherapy using a frame; enoxaparin prophylaxis started."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-07 17:30",
+        "event": "Breakthrough pain medication escalated with addition of codeine 30 mg as needed; patient mobilising well with crutches."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-08 08:15",
+        "event": "Ibuprofen was stopped due to gastrointestinal risk and post-discharge thromboprophylaxis plan changed to rivaroxaban 10 mg daily for 7 days, with discharge under consideration."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-09 07:30",
+        "event": "Patient discharged home after uncomplicated recovery from left total hip replacement, mobilising confidently with crutches and with enoxaparin prescribed for 28 days plus outpatient physiotherapy follow-up."
+      }
+    ]
+  },
+  "f97ee974-67f3-4d72-9ed4-f17025da3749": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2025-12-22 09:00",
+        "event": "Pre-operative orthopaedic assessment for progressive left leg deformity; hemiepiphysiodesis of the left distal femur planned. Borderline anaemia identified with Hb 10.2 g/dL, and oral ferrous sulfate was started with repeat Hb planned before surgery."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2025-12-22 14:00",
+        "event": "Detailed surgical consent obtained from the father for planned left distal femur hemiepiphysiodesis after discussion of procedure, purpose, risks, and expected outcome."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-06 16:30",
+        "event": "Elective admission for left distal femur hemiepiphysiodesis; repeat Hb had improved to 12.4 g/dL and the patient was deemed fit for surgery."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-07 08:00",
+        "event": "Left distal femur hemiepiphysiodesis performed under general anaesthesia with guided growth tension band device insertion; minimal blood loss and no complications."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-07 10:30",
+        "event": "Immediate post-operative recovery in PACU: stable observations, mild pain treated with IV paracetamol, wound clean and dry, and plan made to transition to oral analgesia and ward care."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-07 14:00",
+        "event": "Physiotherapy began post-operatively with initial range-of-motion exercises for the left leg; patient tolerated session without significant discomfort."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-07 18:00",
+        "event": "Occupational therapy assessment showed the patient could sit and perform seated tasks but had balance difficulty standing, so a lightweight paediatric walking aid and outpatient OT follow-up were arranged."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-08 08:30",
+        "event": "Post-operative ward review showed the wound was healing well, the patient was mobilising with crutches, and discharge planning was initiated with analgesia and outpatient follow-up arranged."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-08 10:00",
+        "event": "Final physiotherapy session confirmed safe crutch mobilisation and the patient was discharged with a home exercise programme and outpatient physiotherapy follow-up."
+      }
+    ]
+  },
+  "fc6268ab-ad15-4613-9d8d-12c045e2fd46": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-07 17:05",
+        "event": "Initial ED nursing assessment for poor feeding identified mild lethargy and dry mucous membranes consistent with dehydration; triage marked urgent."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-07 17:50",
+        "event": "Clean-catch urine sample collected and sent for urinalysis and culture to assess hydration status and rule out UTI."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-07 18:15",
+        "event": "ED doctor assessed 3-day history of poor feeding, reduced oral intake, lethargy, and decreased urine output; impression was viral illness with mild dehydration and admission to paediatrics was arranged with IV fluids started."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-07 18:45",
+        "event": "Paediatric clerking confirmed mild dehydration likely secondary to viral illness and continued IV fluids at maintenance rate with close fluid balance monitoring."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-07 20:30",
+        "event": "Ward round noted ongoing mild dehydration and lethargy; blood tests (FBC, CRP, U&E) were sent and IV fluids were continued, with oral paracetamol prescribed PRN."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-07 21:15",
+        "event": "Dietary assessment identified feeding difficulties secondary to viral illness and dehydration; a structured plan of small frequent oral feeds with ORS was initiated."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-08 09:30",
+        "event": "Clinical improvement noted with better oral intake, a wet nappy overnight, resolving fever, and improved hydration; IV fluids were stopped and oral hydration encouraged."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-08 14:30",
+        "event": "CRP returned at 12 mg/L with no evidence of bacterial infection; supportive care and oral hydration were continued without antibiotics."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-08 17:00",
+        "event": "Further ward review showed the child was hydrated and improving; IV fluids were discontinued and discharge planning began with Dioralyte and safety-net advice."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-09 10:30",
+        "event": "Patient was clinically well with no dehydration and adequate oral intake; discharged home with paracetamol syrup, Dioralyte sachets, GP follow-up, and discharge summary."
+      }
+    ]
+  },
+  "ff8c4724-b7de-4189-bccf-cffddd4d6d44": {
+    "events": [
+      {
+        "event_id": 1,
+        "timestamp": "2026-01-01 12:00",
+        "event": "Presented to ED with 3 days of worsening shortness of breath and was diagnosed with COPD exacerbation; initial SpO2 89% and urgent oxygen/salbutamol treatment was initiated."
+      },
+      {
+        "event_id": 2,
+        "timestamp": "2026-01-01 13:15",
+        "event": "ABG showed type 2 respiratory failure with hypercapnia and respiratory acidosis (PaCO2 7.8 kPa, pH 7.30)."
+      },
+      {
+        "event_id": 3,
+        "timestamp": "2026-01-01 13:45",
+        "event": "Chest X-ray showed hyperinflation consistent with COPD exacerbation without pneumonia; nebulized salbutamol every 4 hours and oral prednisolone 30 mg daily were started."
+      },
+      {
+        "event_id": 4,
+        "timestamp": "2026-01-01 14:00",
+        "event": "Respiratory medicine accepted the patient for admission and treatment plan expanded to include scheduled nebulized bronchodilators, prednisolone, amoxicillin, and oxygen targeting SpO2 88-92%."
+      },
+      {
+        "event_id": 5,
+        "timestamp": "2026-01-01 16:00",
+        "event": "Ward review documented COPD exacerbation with suspected bacterial infection; IV co-amoxiclav was started and repeat ABG was planned."
+      },
+      {
+        "event_id": 6,
+        "timestamp": "2026-01-01 18:00",
+        "event": "CRP returned elevated at 68 mg/L, supporting infection, and amoxicillin was prescribed for 7 days."
+      },
+      {
+        "event_id": 7,
+        "timestamp": "2026-01-02 09:30",
+        "event": "Clinical status improved with lower CRP and reduced wheeze; oxygen was stepped down from 4L to 3L and doxycycline was prescribed to complete antibiotic treatment."
+      },
+      {
+        "event_id": 8,
+        "timestamp": "2026-01-02 16:00",
+        "event": "Repeat ABG showed improving CO2 and pH with partial resolution of respiratory acidosis; oxygen weaning trial was initiated."
+      },
+      {
+        "event_id": 9,
+        "timestamp": "2026-01-03 09:00",
+        "event": "Further improvement noted with less shortness of breath, stable oxygenation on 2L, and plan to wean oxygen to 1L while continuing doxycycline and respiratory physiotherapy."
+      },
+      {
+        "event_id": 10,
+        "timestamp": "2026-01-04 09:45",
+        "event": "COPD exacerbation continued to improve; patient was stable on 1L oxygen, prednisone was planned to stop after one more day, and discharge preparation was initiated."
+      },
+      {
+        "event_id": 11,
+        "timestamp": "2026-01-04 11:30",
+        "event": "Influenza and pneumococcal vaccinations were administered as part of COPD care."
+      },
+      {
+        "event_id": 12,
+        "timestamp": "2026-01-04 15:00",
+        "event": "Final occupational therapy assessment found the home environment suitable for discharge and recommended proceeding with home discharge."
+      },
+      {
+        "event_id": 13,
+        "timestamp": "2026-01-05 09:15",
+        "event": "Clinically stable on room air with CRP normalized to 8 mg/L; prednisolone was stopped, doxycycline continued, and discharge summary and follow-up were arranged."
+      },
+      {
+        "event_id": 14,
+        "timestamp": "2026-01-05 17:00",
+        "event": "Final oxygen weaning trial was successful with SpO2 96% on room air and no further supplemental oxygen required."
+      },
+      {
+        "event_id": 15,
+        "timestamp": "2026-01-06 08:30",
+        "event": "Discharge planned for the day with no shortness of breath, no oxygen requirement, and outpatient respiratory follow-up plus smoking cessation referral arranged."
+      }
+    ]
+  }
+}

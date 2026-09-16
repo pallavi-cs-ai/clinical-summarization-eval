@@ -1,0 +1,4808 @@
+{
+  "028998ee-babc-4096-9b28-001bc2f9a84e": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 3,
+        "direct": 3,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 4,
+        "direct": 4,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 5,
+        "direct": 5,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 6,
+        "direct": 6,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 7,
+        "direct": 7,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 8,
+        "direct": 8,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      }
+    ]
+  },
+  "04df53ea-55c1-48d9-84a1-1f15c133b29b": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 7,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 8,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 9,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 10,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 11,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 12,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 13,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 7,
+        "rag_verification": 7
+      },
+      {
+        "event_id": 14,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 7,
+        "rag_verification": 7
+      },
+      {
+        "event_id": 15,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 7,
+        "rag_verification": 7
+      }
+    ]
+  },
+  "05192757-942f-460d-b4ff-004ec39cc5ee": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": null
+      },
+      {
+        "event_id": 4,
+        "direct": 1,
+        "hierarchical": null,
+        "rag": 1,
+        "rag_verification": null
+      },
+      {
+        "event_id": 5,
+        "direct": 2,
+        "hierarchical": null,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": null
+      },
+      {
+        "event_id": 8,
+        "direct": 2,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 9,
+        "direct": 2,
+        "hierarchical": 3,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 10,
+        "direct": 2,
+        "hierarchical": 4,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 11,
+        "direct": 2,
+        "hierarchical": 4,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 12,
+        "direct": 2,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 13,
+        "direct": 2,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 14,
+        "direct": 2,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 15,
+        "direct": 2,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 16,
+        "direct": 2,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 17,
+        "direct": 2,
+        "hierarchical": 5,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 18,
+        "direct": 2,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 19,
+        "direct": 2,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 20,
+        "direct": 2,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      }
+    ]
+  },
+  "0c04d9fb-d8d0-4ee0-8fc9-0c3f7f148bdf": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 4,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 5,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 6,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 7,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 8,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 9,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 10,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 11,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 12,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 13,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 14,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 15,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": null
+      },
+      {
+        "event_id": 16,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 17,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 18,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      }
+    ]
+  },
+  "0f438665-d430-4adb-8acc-c3beed9e4942": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 3,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 4,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 5,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 6,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 7,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 8,
+        "direct": 7,
+        "hierarchical": 7,
+        "rag": 7,
+        "rag_verification": 7
+      },
+      {
+        "event_id": 9,
+        "direct": 8,
+        "hierarchical": 8,
+        "rag": 8,
+        "rag_verification": 8
+      },
+      {
+        "event_id": 10,
+        "direct": 9,
+        "hierarchical": 9,
+        "rag": 9,
+        "rag_verification": 9
+      },
+      {
+        "event_id": 11,
+        "direct": 10,
+        "hierarchical": 10,
+        "rag": 10,
+        "rag_verification": 10
+      }
+    ]
+  },
+  "136c7916-4f9b-4e5c-bf01-77e9d2c681a2": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 3,
+        "direct": 3,
+        "hierarchical": null,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 4,
+        "direct": 4,
+        "hierarchical": null,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 5,
+        "direct": 5,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 6,
+        "direct": 5,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 7,
+        "direct": 6,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 8,
+        "direct": 5,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 9,
+        "direct": 6,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 10,
+        "direct": 6,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 11,
+        "direct": 6,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 12,
+        "direct": 7,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 13,
+        "direct": 7,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 14,
+        "direct": 7,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 15,
+        "direct": 7,
+        "hierarchical": 6,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 16,
+        "direct": 7,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 17,
+        "direct": 7,
+        "hierarchical": 6,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 18,
+        "direct": 7,
+        "hierarchical": 6,
+        "rag": 6,
+        "rag_verification": null
+      },
+      {
+        "event_id": 19,
+        "direct": 7,
+        "hierarchical": 6,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 20,
+        "direct": 8,
+        "hierarchical": 6,
+        "rag": 6,
+        "rag_verification": 7
+      },
+      {
+        "event_id": 21,
+        "direct": 8,
+        "hierarchical": 6,
+        "rag": 7,
+        "rag_verification": 7
+      },
+      {
+        "event_id": 22,
+        "direct": 8,
+        "hierarchical": 6,
+        "rag": null,
+        "rag_verification": null
+      }
+    ]
+  },
+  "137b8481-4f1d-4b7f-babd-20f7117023ad": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 5,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 6,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 7,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 8,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 9,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 10,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 11,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 12,
+        "direct": 7,
+        "hierarchical": 7,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 13,
+        "direct": 8,
+        "hierarchical": 8,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 14,
+        "direct": 8,
+        "hierarchical": 8,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 15,
+        "direct": 9,
+        "hierarchical": 9,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 16,
+        "direct": 9,
+        "hierarchical": 9,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 17,
+        "direct": 9,
+        "hierarchical": 9,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 18,
+        "direct": 10,
+        "hierarchical": 10,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 19,
+        "direct": 10,
+        "hierarchical": 10,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 20,
+        "direct": 11,
+        "hierarchical": 11,
+        "rag": 7,
+        "rag_verification": 7
+      },
+      {
+        "event_id": 21,
+        "direct": 11,
+        "hierarchical": 11,
+        "rag": 7,
+        "rag_verification": 7
+      }
+    ]
+  },
+  "1705dd0f-011a-492c-b006-b27e03f2f4ed": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 1,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 4,
+        "direct": 2,
+        "hierarchical": 3,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 5,
+        "direct": 2,
+        "hierarchical": 3,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 6,
+        "direct": 3,
+        "hierarchical": 4,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 7,
+        "direct": 4,
+        "hierarchical": 5,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 8,
+        "direct": 4,
+        "hierarchical": 5,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 9,
+        "direct": 4,
+        "hierarchical": 5,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 10,
+        "direct": 5,
+        "hierarchical": 6,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 11,
+        "direct": 5,
+        "hierarchical": 6,
+        "rag": 6,
+        "rag_verification": 6
+      }
+    ]
+  },
+  "1dbe23dc-0d1e-431b-81eb-497282b46a14": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 4,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 5,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 6,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 7,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 8,
+        "direct": 2,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 9,
+        "direct": 3,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 10,
+        "direct": 4,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 11,
+        "direct": 4,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 12,
+        "direct": 5,
+        "hierarchical": 6,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 13,
+        "direct": 5,
+        "hierarchical": 6,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 14,
+        "direct": 6,
+        "hierarchical": 7,
+        "rag": 6,
+        "rag_verification": 6
+      }
+    ]
+  },
+  "28570119-9cdc-4120-98c0-4edb76cf36a3": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 2,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 2,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 4,
+        "direct": 3,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 5,
+        "direct": 4,
+        "hierarchical": 2,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 6,
+        "direct": 5,
+        "hierarchical": 4,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 7,
+        "direct": 5,
+        "hierarchical": 3,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 8,
+        "direct": 5,
+        "hierarchical": 4,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 9,
+        "direct": 5,
+        "hierarchical": 3,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 10,
+        "direct": 6,
+        "hierarchical": 5,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 11,
+        "direct": 7,
+        "hierarchical": 6,
+        "rag": 7,
+        "rag_verification": 7
+      }
+    ]
+  },
+  "29ea304f-821d-474e-81a1-394ca3945e02": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 2,
+        "hierarchical": 1,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 3,
+        "direct": 2,
+        "hierarchical": 1,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 4,
+        "direct": 2,
+        "hierarchical": 1,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 5,
+        "direct": null,
+        "hierarchical": 2,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 6,
+        "direct": 3,
+        "hierarchical": 2,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 7,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 8,
+        "direct": 4,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 9,
+        "direct": 4,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 10,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 11,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 12,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 13,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      }
+    ]
+  },
+  "31f9612b-5a6b-48ea-887b-895772a83b99": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 2,
+        "hierarchical": 1,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 3,
+        "direct": 2,
+        "hierarchical": 1,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 4,
+        "direct": 3,
+        "hierarchical": 2,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 5,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 6,
+        "direct": 4,
+        "hierarchical": 3,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 7,
+        "direct": 5,
+        "hierarchical": 4,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 8,
+        "direct": 5,
+        "hierarchical": 4,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 9,
+        "direct": 6,
+        "hierarchical": 5,
+        "rag": 7,
+        "rag_verification": 7
+      },
+      {
+        "event_id": 10,
+        "direct": 6,
+        "hierarchical": 5,
+        "rag": 7,
+        "rag_verification": 7
+      },
+      {
+        "event_id": 11,
+        "direct": 7,
+        "hierarchical": 6,
+        "rag": 8,
+        "rag_verification": 8
+      },
+      {
+        "event_id": 12,
+        "direct": 8,
+        "hierarchical": 6,
+        "rag": 8,
+        "rag_verification": 8
+      }
+    ]
+  },
+  "359014a1-10e6-4bd8-9ba7-513d021c971e": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 4,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 5,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 6,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 7,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 8,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 9,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 10,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 11,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 12,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      }
+    ]
+  },
+  "37b5ce4d-dcfd-4bb7-bee4-d597eb114703": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 4,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 5,
+        "direct": null,
+        "hierarchical": null,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 7,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 8,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 9,
+        "direct": 3,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 10,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 11,
+        "direct": 4,
+        "hierarchical": 5,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 12,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 13,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 14,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 15,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      }
+    ]
+  },
+  "420df33b-0072-4124-b1c6-0589daef3677": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 4,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 7,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 8,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 9,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 10,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 11,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 12,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 13,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 14,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 15,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 16,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 17,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 18,
+        "direct": 7,
+        "hierarchical": 7,
+        "rag": 6,
+        "rag_verification": 6
+      }
+    ]
+  },
+  "42149ae1-6a3c-471e-a002-cb7263e8bb8c": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 3,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 4,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 7,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 8,
+        "direct": 3,
+        "hierarchical": 4,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 9,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 10,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 11,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 12,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 13,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 14,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 15,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 16,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 17,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 18,
+        "direct": 7,
+        "hierarchical": 7,
+        "rag": 7,
+        "rag_verification": 7
+      },
+      {
+        "event_id": 19,
+        "direct": 7,
+        "hierarchical": 7,
+        "rag": 7,
+        "rag_verification": 7
+      },
+      {
+        "event_id": 20,
+        "direct": 7,
+        "hierarchical": 7,
+        "rag": 7,
+        "rag_verification": 7
+      }
+    ]
+  },
+  "51f15281-8840-4fd0-92de-89188ab8d736": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 3,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 4,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 5,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 6,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 7,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 8,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 9,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 10,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 11,
+        "direct": 7,
+        "hierarchical": 7,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 12,
+        "direct": 7,
+        "hierarchical": 7,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 13,
+        "direct": 7,
+        "hierarchical": 7,
+        "rag": 5,
+        "rag_verification": 5
+      }
+    ]
+  },
+  "58b8aad6-7327-4450-956f-b775be0f4984": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 4,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 6,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 7,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 8,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 9,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 10,
+        "direct": 7,
+        "hierarchical": 7,
+        "rag": 7,
+        "rag_verification": 7
+      },
+      {
+        "event_id": 11,
+        "direct": 8,
+        "hierarchical": 8,
+        "rag": 8,
+        "rag_verification": 8
+      }
+    ]
+  },
+  "5cfa1b7e-c60e-4bae-b31f-b6be2c09adcb": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 5,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 6,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 7,
+        "direct": 5,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 8,
+        "direct": 6,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 9,
+        "direct": 6,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 10,
+        "direct": 6,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 11,
+        "direct": 6,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 12,
+        "direct": 6,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 13,
+        "direct": 6,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 14,
+        "direct": 7,
+        "hierarchical": 6,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 15,
+        "direct": 7,
+        "hierarchical": 6,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 16,
+        "direct": 7,
+        "hierarchical": 6,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 17,
+        "direct": 7,
+        "hierarchical": 6,
+        "rag": 6,
+        "rag_verification": 6
+      }
+    ]
+  },
+  "5e434d78-b2f6-4d88-b327-fff6ee50b901": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 4,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 6,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 7,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 8,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 9,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 10,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 11,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 12,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 13,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 14,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 15,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 16,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 17,
+        "direct": null,
+        "hierarchical": null,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 18,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 6,
+        "rag_verification": null
+      }
+    ]
+  },
+  "61699d6d-904a-4ece-9026-cd61b3fd9a50": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 4,
+        "direct": 3,
+        "hierarchical": 4,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 5,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 6,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 7,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 8,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 9,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 10,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      }
+    ]
+  },
+  "68258b8d-7d36-4d32-9093-6170a32bf087": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 3,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 4,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 5,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 6,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 7,
+        "direct": 7,
+        "hierarchical": 6,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 8,
+        "direct": 8,
+        "hierarchical": 7,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 9,
+        "direct": 9,
+        "hierarchical": 8,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 10,
+        "direct": 10,
+        "hierarchical": 9,
+        "rag": 5,
+        "rag_verification": 5
+      }
+    ]
+  },
+  "69bf7e25-abb2-4dde-857f-f1138d4d0d8a": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 4,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 5,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 6,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 7,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 8,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 9,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 10,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 11,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 12,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 13,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 14,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 15,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      }
+    ]
+  },
+  "6e93f9d9-213d-4f2c-a1f0-f475dacef554": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 1,
+        "hierarchical": 2,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 4,
+        "direct": null,
+        "hierarchical": null,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 5,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 6,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 7,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 8,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 9,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 10,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 11,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 12,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 7,
+        "rag_verification": 7
+      },
+      {
+        "event_id": 13,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 7,
+        "rag_verification": 7
+      },
+      {
+        "event_id": 14,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 8,
+        "rag_verification": 8
+      }
+    ]
+  },
+  "8448b3fa-1f5e-45b5-bda5-eb0b7921b8cc": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 4,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 5,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 6,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 7,
+        "direct": null,
+        "hierarchical": null,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 8,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 9,
+        "direct": 7,
+        "hierarchical": 7,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 10,
+        "direct": null,
+        "hierarchical": null,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 11,
+        "direct": null,
+        "hierarchical": null,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 12,
+        "direct": null,
+        "hierarchical": null,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 13,
+        "direct": 8,
+        "hierarchical": null,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 14,
+        "direct": 9,
+        "hierarchical": 8,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 15,
+        "direct": 10,
+        "hierarchical": 9,
+        "rag": 7,
+        "rag_verification": 7
+      },
+      {
+        "event_id": 16,
+        "direct": 11,
+        "hierarchical": 10,
+        "rag": 8,
+        "rag_verification": 8
+      }
+    ]
+  },
+  "900efb9a-fb57-4f25-b2a3-0a8c6f55b2d6": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 3,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 3,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 3,
+        "direct": 1,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 4,
+        "direct": 2,
+        "hierarchical": 4,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 5,
+        "direct": 2,
+        "hierarchical": 5,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 6,
+        "direct": 2,
+        "hierarchical": 6,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 7,
+        "direct": 3,
+        "hierarchical": 7,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 8,
+        "direct": 3,
+        "hierarchical": 7,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 9,
+        "direct": 4,
+        "hierarchical": 8,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 10,
+        "direct": 4,
+        "hierarchical": 8,
+        "rag": null,
+        "rag_verification": null
+      }
+    ]
+  },
+  "94264e23-ea67-496e-b027-5dd0cc334f1e": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 3,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 4,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 5,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 6,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 7,
+        "direct": 7,
+        "hierarchical": 7,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 8,
+        "direct": 8,
+        "hierarchical": 8,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 9,
+        "direct": 9,
+        "hierarchical": 9,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 10,
+        "direct": 10,
+        "hierarchical": 10,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 11,
+        "direct": 11,
+        "hierarchical": 11,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 12,
+        "direct": 12,
+        "hierarchical": 12,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 13,
+        "direct": 13,
+        "hierarchical": 13,
+        "rag": null,
+        "rag_verification": null
+      }
+    ]
+  },
+  "96766f3f-aa50-4bcb-abbf-884328049ea9": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 3,
+        "direct": 2,
+        "hierarchical": null,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 4,
+        "direct": null,
+        "hierarchical": null,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 5,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 6,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 7,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 8,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      }
+    ]
+  },
+  "973ee9d2-7c23-4e1d-afb2-86f679b55964": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 3,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 4,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 5,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 6,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 7,
+        "direct": 7,
+        "hierarchical": 7,
+        "rag": 7,
+        "rag_verification": 7
+      },
+      {
+        "event_id": 8,
+        "direct": 8,
+        "hierarchical": 8,
+        "rag": 8,
+        "rag_verification": 8
+      },
+      {
+        "event_id": 9,
+        "direct": 9,
+        "hierarchical": 9,
+        "rag": 9,
+        "rag_verification": 9
+      },
+      {
+        "event_id": 10,
+        "direct": 10,
+        "hierarchical": 10,
+        "rag": 10,
+        "rag_verification": 10
+      },
+      {
+        "event_id": 11,
+        "direct": 11,
+        "hierarchical": 11,
+        "rag": 11,
+        "rag_verification": 11
+      },
+      {
+        "event_id": 12,
+        "direct": 12,
+        "hierarchical": 12,
+        "rag": 12,
+        "rag_verification": 12
+      },
+      {
+        "event_id": 13,
+        "direct": 13,
+        "hierarchical": 13,
+        "rag": 13,
+        "rag_verification": 13
+      }
+    ]
+  },
+  "9d8fd25d-c4fe-4343-8ff5-5da5dad4e740": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 4,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 7,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 8,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 9,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 10,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 11,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 12,
+        "direct": 5,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 13,
+        "direct": 5,
+        "hierarchical": 4,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 14,
+        "direct": 6,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 15,
+        "direct": 6,
+        "hierarchical": 4,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 16,
+        "direct": 7,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 17,
+        "direct": 7,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 18,
+        "direct": 7,
+        "hierarchical": 4,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 19,
+        "direct": 8,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 20,
+        "direct": 8,
+        "hierarchical": 5,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 21,
+        "direct": 9,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 22,
+        "direct": 9,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 23,
+        "direct": 9,
+        "hierarchical": 5,
+        "rag": null,
+        "rag_verification": null
+      }
+    ]
+  },
+  "a8629d2e-7fd8-449a-9149-e0f5045a04c4": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 4,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 5,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 6,
+        "direct": 5,
+        "hierarchical": 4,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 7,
+        "direct": null,
+        "hierarchical": null,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 8,
+        "direct": null,
+        "hierarchical": null,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 9,
+        "direct": 6,
+        "hierarchical": 5,
+        "rag": 3,
+        "rag_verification": 3
+      }
+    ]
+  },
+  "a9827c1c-fb54-4e5b-8bc6-d3099869e671": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 3,
+        "direct": 3,
+        "hierarchical": 2,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 4,
+        "direct": 4,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 5,
+        "direct": 5,
+        "hierarchical": 2,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 6,
+        "direct": 6,
+        "hierarchical": 2,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 7,
+        "direct": 7,
+        "hierarchical": 3,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 8,
+        "direct": 8,
+        "hierarchical": 3,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 9,
+        "direct": 9,
+        "hierarchical": 3,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 10,
+        "direct": 10,
+        "hierarchical": 4,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 11,
+        "direct": 11,
+        "hierarchical": 5,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 12,
+        "direct": 12,
+        "hierarchical": 6,
+        "rag": 6,
+        "rag_verification": 6
+      }
+    ]
+  },
+  "b70c7ff6-c2af-4df6-bd88-889bf767a168": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 5,
+        "direct": 3,
+        "hierarchical": 4,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 6,
+        "direct": 4,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 7,
+        "direct": 4,
+        "hierarchical": 5,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 8,
+        "direct": 5,
+        "hierarchical": 6,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 9,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 10,
+        "direct": 7,
+        "hierarchical": 7,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 11,
+        "direct": 7,
+        "hierarchical": 6,
+        "rag": 6,
+        "rag_verification": 6
+      }
+    ]
+  },
+  "b8085350-6748-47a5-a12f-6acd07c40a82": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 4,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 5,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 6,
+        "direct": 2,
+        "hierarchical": 3,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 7,
+        "direct": 3,
+        "hierarchical": 4,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 8,
+        "direct": 3,
+        "hierarchical": 4,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 9,
+        "direct": 4,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 10,
+        "direct": 4,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      }
+    ]
+  },
+  "c332ce87-7afd-4a74-9896-3fef50179bd0": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 4,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 5,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 6,
+        "direct": 2,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 7,
+        "direct": 2,
+        "hierarchical": 3,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 8,
+        "direct": 3,
+        "hierarchical": 4,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 9,
+        "direct": 3,
+        "hierarchical": 4,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 10,
+        "direct": 4,
+        "hierarchical": 5,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 11,
+        "direct": 4,
+        "hierarchical": 5,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 12,
+        "direct": 5,
+        "hierarchical": 6,
+        "rag": 7,
+        "rag_verification": 7
+      },
+      {
+        "event_id": 13,
+        "direct": 5,
+        "hierarchical": 6,
+        "rag": 7,
+        "rag_verification": 7
+      },
+      {
+        "event_id": 14,
+        "direct": 5,
+        "hierarchical": 7,
+        "rag": 7,
+        "rag_verification": 7
+      }
+    ]
+  },
+  "c50e236f-6b3d-41c8-9e16-7ec343cac820": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 3,
+        "direct": 3,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 4,
+        "direct": 3,
+        "hierarchical": 2,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 5,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 6,
+        "direct": 4,
+        "hierarchical": 3,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 7,
+        "direct": 4,
+        "hierarchical": 3,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 8,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 9,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 10,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 11,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 12,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 5,
+        "rag_verification": 5
+      }
+    ]
+  },
+  "c51243b8-e3d9-4cf7-ab29-0315048f91dc": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 4,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 5,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 6,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 7,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 8,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 9,
+        "direct": 7,
+        "hierarchical": 7,
+        "rag": 7,
+        "rag_verification": 7
+      },
+      {
+        "event_id": 10,
+        "direct": 7,
+        "hierarchical": 7,
+        "rag": 7,
+        "rag_verification": 7
+      },
+      {
+        "event_id": 11,
+        "direct": 7,
+        "hierarchical": 7,
+        "rag": 7,
+        "rag_verification": 7
+      },
+      {
+        "event_id": 12,
+        "direct": 8,
+        "hierarchical": 8,
+        "rag": 8,
+        "rag_verification": 8
+      },
+      {
+        "event_id": 13,
+        "direct": 9,
+        "hierarchical": 9,
+        "rag": 9,
+        "rag_verification": 9
+      },
+      {
+        "event_id": 14,
+        "direct": 10,
+        "hierarchical": 10,
+        "rag": 10,
+        "rag_verification": 10
+      }
+    ]
+  },
+  "c54a9649-495a-4f89-a8ca-fbb14ba70ca6": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 3,
+        "direct": 1,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 4,
+        "direct": 1,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 6,
+        "direct": 2,
+        "hierarchical": 3,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 7,
+        "direct": 2,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 8,
+        "direct": 3,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 9,
+        "direct": 3,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 10,
+        "direct": 3,
+        "hierarchical": 4,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 11,
+        "direct": 3,
+        "hierarchical": 4,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 12,
+        "direct": 3,
+        "hierarchical": 4,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 13,
+        "direct": 3,
+        "hierarchical": 5,
+        "rag": 6,
+        "rag_verification": 6
+      }
+    ]
+  },
+  "c6c45c39-cd73-49dd-818d-0a7865fe8a7f": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 4,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 5,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 7,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 8,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 9,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 10,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 11,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 12,
+        "direct": 4,
+        "hierarchical": 5,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 13,
+        "direct": 4,
+        "hierarchical": 5,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 14,
+        "direct": 4,
+        "hierarchical": 6,
+        "rag": 7,
+        "rag_verification": 7
+      }
+    ]
+  },
+  "c87e610e-ac2a-48cf-ac32-054f3e595498": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 4,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 5,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 6,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 7,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 3,
+        "rag_verification": 3
+      }
+    ]
+  },
+  "ce0046dc-0ad3-4710-8147-549793c58b44": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 5,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 6,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 7,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 8,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 9,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 10,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 11,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 7,
+        "rag_verification": 7
+      },
+      {
+        "event_id": 12,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 7,
+        "rag_verification": 7
+      }
+    ]
+  },
+  "d362867a-d350-4aca-82d0-a63b7e0a14c7": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 5,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 6,
+        "direct": 4,
+        "hierarchical": null,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 7,
+        "direct": 5,
+        "hierarchical": 4,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 8,
+        "direct": 6,
+        "hierarchical": 5,
+        "rag": 4,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 9,
+        "direct": 6,
+        "hierarchical": 5,
+        "rag": 4,
+        "rag_verification": 5
+      }
+    ]
+  },
+  "e8885d7c-b863-4c41-997e-588416d655ae": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 4,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 5,
+        "direct": null,
+        "hierarchical": null,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 6,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 7,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 8,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 9,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 10,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 11,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 12,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 13,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      }
+    ]
+  },
+  "ebb1ca4c-f42f-41d8-adbc-1b08949036d1": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 2,
+        "hierarchical": 3,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 4,
+        "direct": 3,
+        "hierarchical": 4,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 5,
+        "direct": 4,
+        "hierarchical": 5,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 6,
+        "direct": 5,
+        "hierarchical": 6,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 7,
+        "direct": 6,
+        "hierarchical": 7,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 8,
+        "direct": 6,
+        "hierarchical": 7,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 9,
+        "direct": 7,
+        "hierarchical": 8,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 10,
+        "direct": 8,
+        "hierarchical": 9,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 11,
+        "direct": 7,
+        "hierarchical": 8,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 12,
+        "direct": 9,
+        "hierarchical": 10,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 13,
+        "direct": 10,
+        "hierarchical": 11,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 14,
+        "direct": 11,
+        "hierarchical": 12,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 15,
+        "direct": 12,
+        "hierarchical": 13,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 16,
+        "direct": 13,
+        "hierarchical": 14,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 17,
+        "direct": 14,
+        "hierarchical": 15,
+        "rag": null,
+        "rag_verification": null
+      }
+    ]
+  },
+  "ef943dfb-1368-44e0-a946-a0be360e1d54": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 4,
+        "direct": 2,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 5,
+        "direct": 3,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 6,
+        "direct": 4,
+        "hierarchical": 5,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 7,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 8,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 7,
+        "rag_verification": 7
+      }
+    ]
+  },
+  "f1538231-21af-4cfa-8b40-3303aa0d0c96": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 3,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 4,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 5,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 6,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 7,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 7,
+        "rag_verification": 7
+      },
+      {
+        "event_id": 8,
+        "direct": null,
+        "hierarchical": null,
+        "rag": 8,
+        "rag_verification": 8
+      }
+    ]
+  },
+  "f44d4a08-4c76-4000-ad61-d1d81032e643": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 5,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 6,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 7,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 8,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 9,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 7,
+        "rag_verification": 7
+      }
+    ]
+  },
+  "f97ee974-67f3-4d72-9ed4-f17025da3749": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 4,
+        "direct": 3,
+        "hierarchical": 3,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 5,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 6,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 7,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 8,
+        "direct": 6,
+        "hierarchical": 6,
+        "rag": 5,
+        "rag_verification": 5
+      },
+      {
+        "event_id": 9,
+        "direct": 7,
+        "hierarchical": 7,
+        "rag": 5,
+        "rag_verification": 5
+      }
+    ]
+  },
+  "fc6268ab-ad15-4613-9d8d-12c045e2fd46": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 5,
+        "direct": 3,
+        "hierarchical": 2,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 6,
+        "direct": 3,
+        "hierarchical": 2,
+        "rag": 3,
+        "rag_verification": 3
+      },
+      {
+        "event_id": 7,
+        "direct": 4,
+        "hierarchical": 3,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 8,
+        "direct": 4,
+        "hierarchical": 3,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 9,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      },
+      {
+        "event_id": 10,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": 4,
+        "rag_verification": 4
+      }
+    ]
+  },
+  "ff8c4724-b7de-4189-bccf-cffddd4d6d44": {
+    "matches": [
+      {
+        "event_id": 1,
+        "direct": 1,
+        "hierarchical": 1,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 2,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 3,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 4,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": 1,
+        "rag_verification": 1
+      },
+      {
+        "event_id": 5,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 6,
+        "direct": 2,
+        "hierarchical": 2,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 7,
+        "direct": 4,
+        "hierarchical": 3,
+        "rag": 2,
+        "rag_verification": 2
+      },
+      {
+        "event_id": 8,
+        "direct": 4,
+        "hierarchical": 3,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 9,
+        "direct": 4,
+        "hierarchical": 3,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 10,
+        "direct": 5,
+        "hierarchical": 4,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 11,
+        "direct": 4,
+        "hierarchical": 4,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 12,
+        "direct": 5,
+        "hierarchical": 4,
+        "rag": null,
+        "rag_verification": null
+      },
+      {
+        "event_id": 13,
+        "direct": 5,
+        "hierarchical": 4,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 14,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 6,
+        "rag_verification": 6
+      },
+      {
+        "event_id": 15,
+        "direct": 5,
+        "hierarchical": 5,
+        "rag": 6,
+        "rag_verification": 6
+      }
+    ]
+  }
+}
