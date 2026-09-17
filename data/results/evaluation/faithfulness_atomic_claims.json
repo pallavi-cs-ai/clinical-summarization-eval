@@ -1,0 +1,1532 @@
+{
+  "direct": {
+    "028998ee-babc-4096-9b28-001bc2f9a84e": [
+      {
+        "claim_id": 1,
+        "claim": "Tomos Ellis is a 15-year-old male."
+      },
+      {
+        "claim_id": 2,
+        "claim": "He had no documented past medical history, medications, or allergies."
+      },
+      {
+        "claim_id": 3,
+        "claim": "He presented via A&E on 07/01/2026 at 08:45."
+      },
+      {
+        "claim_id": 4,
+        "claim": "At presentation, he had 3 days of worsening constant lower abdominal pain."
+      },
+      {
+        "claim_id": 5,
+        "claim": "At presentation, he had constipation."
+      },
+      {
+        "claim_id": 6,
+        "claim": "He reported reduced appetite."
+      },
+      {
+        "claim_id": 7,
+        "claim": "He reported mild nausea without vomiting or fever."
+      },
+      {
+        "claim_id": 8,
+        "claim": "Examination showed mild abdominal distension."
+      },
+      {
+        "claim_id": 9,
+        "claim": "Examination showed lower-quadrant tenderness."
+      },
+      {
+        "claim_id": 10,
+        "claim": "Examination showed no guarding, rebound tenderness, or peritonism."
+      },
+      {
+        "claim_id": 11,
+        "claim": "Mild dehydration was noted."
+      },
+      {
+        "claim_id": 12,
+        "claim": "He had slightly dry mucous membranes."
+      },
+      {
+        "claim_id": 13,
+        "claim": "He had reduced skin turgor."
+      },
+      {
+        "claim_id": 14,
+        "claim": "His observations were stable."
+      },
+      {
+        "claim_id": 15,
+        "claim": "He was initially diagnosed with constipation."
+      },
+      {
+        "claim_id": 16,
+        "claim": "He was kept NPO/NBM."
+      },
+      {
+        "claim_id": 17,
+        "claim": "He was commenced on 0.9% sodium chloride IV fluids, 500 mL over 4 hours."
+      },
+      {
+        "claim_id": 18,
+        "claim": "Blood tests including FBC, U&Es, CRP, and LFTs were normal."
+      },
+      {
+        "claim_id": 19,
+        "claim": "Abdominal X-ray demonstrated significant faecal loading."
+      },
+      {
+        "claim_id": 20,
+        "claim": "Abdominal X-ray showed no obstruction or perforation."
+      },
+      {
+        "claim_id": 21,
+        "claim": "He received a single 10 mg oral dose of bisacodyl."
+      },
+      {
+        "claim_id": 22,
+        "claim": "He was admitted to the paediatric ward for supportive management and observation."
+      },
+      {
+        "claim_id": 23,
+        "claim": "On medical review, his abdominal pain had reduced from approximately 6\u20137/10 to 5/10 following IV fluids."
+      },
+      {
+        "claim_id": 24,
+        "claim": "Oral macrogol (Movicol) was commenced."
+      },
+      {
+        "claim": "Macrogol was initially documented as one sachet three times daily."
+      },
+      {
+        "claim": "He was encouraged to maintain oral hydration."
+      },
+      {
+        "claim": "He was monitored for bowel movements and symptoms."
+      },
+      {
+        "claim_id": 28,
+        "claim": "A subsequent ward round plan documented macrogol one sachet twice daily."
+      },
+      {
+        "claim_id": 29,
+        "claim": "A subsequent ward round plan documented a target fluid intake of at least 2 L/day."
+      },
+      {
+        "claim_id": 30,
+        "claim": "He received advice regarding dietary fibre and hydration."
+      },
+      {
+        "claim_id": 31,
+        "claim": "Written information was provided to him and his mother."
+      },
+      {
+        "claim_id": 32,
+        "claim": "Physiotherapy sessions were provided on 07/01 and 08/01."
+      },
+      {
+        "claim_id": 33,
+        "claim": "The physiotherapy sessions focused on gentle mobilisation, stretching, and walking to promote bowel motility."
+      },
+      {
+        "claim_id": 34,
+        "claim": "The physiotherapy sessions were well tolerated."
+      },
+      {
+        "claim_id": 35,
+        "claim": "A dietitian recommended a high-fibre diet."
+      },
+      {
+        "claim_id": 36,
+        "claim": "The high-fibre diet recommended by the dietitian included whole grains, fruit, and vegetables."
+      },
+      {
+        "claim_id": 37,
+        "claim": "By the following ward review, he had passed a partial bowel movement overnight."
+      },
+      {
+        "claim_id": 38,
+        "claim": "By the following ward review, his abdominal pain was reduced."
+      },
+      {
+        "claim_id": 39,
+        "claim": "By the following ward review, his abdominal distension was less."
+      },
+      {
+        "claim_id": 40,
+        "claim": "Macrogol was continued at one sachet three times daily."
+      },
+      {
+        "claim_id": 41,
+        "claim": "Ongoing hydration advice was given."
+      },
+      {
+        "claim_id": 42,
+        "claim": "On the subsequent review, he had passed a full bowel movement overnight."
+      },
+      {
+        "claim_id": 43,
+        "claim": "On the subsequent review, he had complete resolution of abdominal pain."
+      },
+      {
+        "claim_id": 44,
+        "claim": "He was comfortable."
+      },
+      {
+        "claim_id": 45,
+        "claim": "He was hydrated."
+      },
+      {
+        "claim_id": 46,
+        "claim": "He had a soft, non-tender abdomen without guarding or rebound tenderness."
+      },
+      {
+        "claim_id": 47,
+        "claim": "His observations remained stable."
+      },
+      {
+        "claim_id": 48,
+        "claim": "Macrogol was discontinued."
+      },
+      {
+        "claim_id": 49,
+        "claim": "He was discharged with lactulose 10 mL twice daily as required for maintenance."
+      },
+      {
+        "claim_id": 50,
+        "claim": "He was discharged with advice to maintain oral hydration and a high-fibre diet."
+      },
+      {
+        "claim_id": 51,
+        "claim": "He was discharged with recommendations for gentle walking at home."
+      },
+      {
+        "claim_id": 52,
+        "claim": "His GP was informed of the admission, treatment, and discharge plan."
+      },
+      {
+        "claim_id": 53,
+        "claim": "The patient and family were advised to contact the GP if constipation recurred."
+      }
+    ],
+    "04df53ea-55c1-48d9-84a1-1f15c133b29b": [
+      {
+        "claim_id": 1,
+        "claim": "The patient was a 67-year-old man with hypertension and osteoarthritis."
+      },
+      {
+        "claim_id": 2,
+        "claim": "He was taking no regular medications and had no known drug allergies."
+      },
+      {
+        "claim_id": 3,
+        "claim": "He presented on 01/01/2026 after a minor fall."
+      },
+      {
+        "claim_id": 4,
+        "claim": "On presentation, he had acute confusion and disorientation to time and place."
+      },
+      {
+        "claim_id": 5,
+        "claim": "Initial observations included blood pressure 170/95, heart rate 88, and GCS 12/15."
+      },
+      {
+        "claim_id": 6,
+        "claim": "His GCS improved to 13-14/15 during assessment."
+      },
+      {
+        "claim": "He reported no loss of consciousness, vomiting, visual symptoms, seizures, or focal neurological symptoms."
+      },
+      {
+        "claim_id": 8,
+        "claim": "A mild occipital headache was documented by the neurology team."
+      },
+      {
+        "claim_id": 9,
+        "claim": "Examination showed no external trauma."
+      },
+      {
+        "claim_id": 10,
+        "claim": "Examination showed no focal neurological deficit."
+      },
+      {
+        "claim_id": 11,
+        "claim": "Initial CT head demonstrated a subdural hygroma without midline shift or acute haemorrhage."
+      },
+      {
+        "claim_id": 12,
+        "claim": "FBC, urea and electrolytes, and coagulation studies were initially reported as normal."
+      },
+      {
+        "claim_id": 13,
+        "claim": "Mild hyponatraemia with sodium 132 mmol/L was subsequently identified."
+      },
+      {
+        "claim_id": 14,
+        "claim": "The mild hyponatraemia was considered contributory to the confusion."
+      },
+      {
+        "claim_id": 15,
+        "claim": "He was admitted to the Neurology Ward for four-hourly neurological observations."
+      },
+      {
+        "claim_id": 16,
+        "claim": "He was admitted to the Neurology Ward for mobilisation as tolerated."
+      },
+      {
+        "claim_id": 17,
+        "claim": "He was admitted to the Neurology Ward for repeat CT imaging."
+      },
+      {
+        "claim_id": 18,
+        "claim": "Paracetamol 1 g four times daily was commenced for headache."
+      },
+      {
+        "claim_id": 19,
+        "claim": "Oral sodium chloride 1 g three times daily was given."
+      },
+      {
+        "claim_id": 20,
+        "claim": "Oral sodium chloride was given with slow sodium correction."
+      },
+      {
+        "claim_id": 21,
+        "claim": "Physiotherapy and occupational therapy assessments on 01/01/2026 identified mild gait instability."
+      },
+      {
+        "claim_id": 22,
+        "claim": "Physiotherapy and occupational therapy assessments on 01/01/2026 identified impaired fine motor coordination affecting tasks such as fastening buttons and handling utensils."
+      },
+      {
+        "claim_id": 23,
+        "claim": "Daily physiotherapy was initiated."
+      },
+      {
+        "claim_id": 24,
+        "claim": "Daily occupational therapy was initiated."
+      },
+      {
+        "claim_id": 25,
+        "claim": "Home-safety planning was initiated."
+      },
+      {
+        "claim_id": 26,
+        "claim": "Speech and language assessment on 02/01/2026 found an adequate swallow without aspiration."
+      },
+      {
+        "claim_id": 27,
+        "claim": "Speech and language assessment on 02/01/2026 found mild word-finding difficulty."
+      },
+      {
+        "claim_id": 28,
+        "claim": "No further swallowing intervention was required at that stage."
+      },
+      {
+        "claim_id": 29,
+        "claim": "No further communication intervention was required at that stage."
+      },
+      {
+        "claim_id": 30,
+        "claim": "Repeat CT head on 03/01/2026 showed no progression of the subdural hygroma or new findings."
+      },
+      {
+        "claim_id": 31,
+        "claim": "Management was unchanged after the repeat CT head on 03/01/2026."
+      },
+      {
+        "claim_id": 32,
+        "claim": "Cognition progressively improved."
+      },
+      {
+        "claim_id": 33,
+        "claim": "Neurological observations remained stable."
+      },
+      {
+        "claim_id": 34,
+        "claim": "There were no focal deficits during the later course."
+      },
+      {
+        "claim_id": 35,
+        "claim": "Mobility improved with therapy."
+      },
+      {
+        "claim_id": 36,
+        "claim": "Balance improved with therapy."
+      },
+      {
+        "claim_id": 37,
+        "claim": "Occupational therapy recommended a raised toilet seat."
+      },
+      {
+        "claim_id": 38,
+        "claim": "Occupational therapy recommended bathroom grab rails."
+      },
+      {
+        "claim_id": 39,
+        "claim": "Occupational therapy recommended improved lighting."
+      },
+      {
+        "claim_id": 40,
+        "claim": "Occupational therapy recommended removal of loose rugs."
+      },
+      {
+        "claim_id": 41,
+        "claim": "Occupational therapy recommended use of a grabber tool."
+      },
+      {
+        "claim_id": 42,
+        "claim": "Social work was involved in discharge planning."
+      },
+      {
+        "claim_id": 43,
+        "claim": "Community support was involved in discharge planning."
+      },
+      {
+        "claim_id": 44,
+        "claim": "By 05/01/2026, confusion had resolved."
+      },
+      {
+        "claim_id": 45,
+        "claim": "By 05/01/2026, his GCS was 15/15."
+      },
+      {
+        "claim_id": 46,
+        "claim": "By 05/01/2026, he was walking independently."
+      },
+      {
+        "claim_id": 47,
+        "claim": "By 05/01/2026, he had a steady gait."
+      },
+      {
+        "claim_id": 48,
+        "claim": "By 05/01/2026, occupational therapy assessment found no significant cognitive barriers."
+      },
+      {
+        "claim_id": 49,
+        "claim": "At a final physiotherapy review on 07/01/2026, he remained neurologically intact."
+      },
+      {
+        "claim_id": 50,
+        "claim": "At the final physiotherapy review on 07/01/2026, he independently managed walking, stairs, and obstacles."
+      },
+      {
+        "claim_id": 51,
+        "claim": "At the final physiotherapy review on 07/01/2026, he required no further inpatient physiotherapy."
+      },
+      {
+        "claim_id": 52,
+        "claim": "He was discharged home clinically stable."
+      },
+      {
+        "claim_id": 53,
+        "claim": "He was discharged home with home-safety advice."
+      },
+      {
+        "claim_id": 54,
+        "claim": "He was discharged home with community support arrangements."
+      },
+      {
+        "claim_id": 55,
+        "claim": "At discharge, atorvastatin 40 mg daily for seven days was documented."
+      },
+      {
+        "claim_id": 56,
+        "claim": "At discharge, levetiracetam 500 mg twice daily for seven days was documented."
+      },
+      {
+        "claim_id": 57,
+        "claim": "Neurology outpatient follow-up was arranged."
+      },
+      {
+        "claim_id": 58,
+        "claim": "Neurology outpatient follow-up was documented as approximately two weeks to one month."
+      },
+      {
+        "claim_id": 59,
+        "claim": "The GP was informed."
+      }
+    ],
+    "05192757-942f-460d-b4ff-004ec39cc5ee": [
+      {
+        "claim_id": 1,
+        "claim": "Hope Chinwo was a 75-year-old woman assessed on 21/12/2025 for elective total left hip replacement."
+      },
+      {
+        "claim_id": 2,
+        "claim": "The indication for surgery was severe/end-stage left hip osteoarthritis."
+      },
+      {
+        "claim_id": 3,
+        "claim": "She had approximately 5 years of progressive left hip pain, stiffness, and impaired weight-bearing."
+      },
+      {
+        "claim_id": 4,
+        "claim": "Her medical history included hypertension."
+      },
+      {
+        "claim_id": 5,
+        "claim": "Her medical history included cataract surgery in 2018."
+      },
+      {
+        "claim_id": 6,
+        "claim": "She used a stick indoors and a frame outdoors."
+      },
+      {
+        "claim_id": 7,
+        "claim": "She was independent with activities of daily living."
+      },
+      {
+        "claim_id": 8,
+        "claim": "Examination showed painful, markedly restricted left hip movement without redness or swelling."
+      },
+      {
+        "claim_id": 9,
+        "claim": "Distal pulses, sensation, and overall neurological status were intact."
+      },
+      {
+        "claim_id": 10,
+        "claim": "Her blood pressure was 145/85 mmHg."
+      },
+      {
+        "claim_id": 11,
+        "claim": "ECG showed normal sinus rhythm without ischaemic changes."
+      },
+      {
+        "claim_id": 12,
+        "claim": "Her hemoglobin was 11.3 g/dL, with otherwise normal blood count, renal function, and liver tests."
+      },
+      {
+        "claim_id": 13,
+        "claim": "Mild anaemia was treated with ferrous sulfate 200 mg once daily."
+      },
+      {
+        "claim_id": 14,
+        "claim": "She continued paracetamol 500 mg as required."
+      },
+      {
+        "claim_id": 15,
+        "claim": "She continued calcium/vitamin D supplements."
+      },
+      {
+        "claim_id": 16,
+        "claim": "No allergies were reported."
+      },
+      {
+        "claim_id": 17,
+        "claim": "Anaesthetic assessment found her suitable for spinal anaesthesia."
+      },
+      {
+        "claim_id": 18,
+        "claim": "Risks, benefits, and recovery expectations were discussed."
+      },
+      {
+        "claim_id": 19,
+        "claim": "Written consent was obtained."
+      },
+      {
+        "claim_id": 20,
+        "claim": "She was cleared for surgery, with ongoing blood pressure monitoring advised because of hypertension."
+      },
+      {
+        "claim_id": 21,
+        "claim": "On 02/01/2026, the pre-operative checklist confirmed identity, left-sided surgical site, fasting status, medication reconciliation, and no allergies."
+      },
+      {
+        "claim_id": 22,
+        "claim": "She was clinically stable and cleared for theatre on 02/01/2026."
+      },
+      {
+        "claim_id": 23,
+        "claim": "The total left hip replacement was performed under spinal anaesthesia."
+      },
+      {
+        "claim_id": 24,
+        "claim": "Dr. Deirdre FitzGerald performed the posterolateral total left hip replacement."
+      },
+      {
+        "claim_id": 25,
+        "claim": "Dr. Marcus John Whitehead assisted in the operation."
+      },
+      {
+        "claim_id": 26,
+        "claim": "Severe degenerative joint changes and significant cartilage loss were found during surgery."
+      },
+      {
+        "claim_id": 27,
+        "claim": "There was no evidence of infection or abnormal surrounding tissue during surgery."
+      },
+      {
+        "claim_id": 28,
+        "claim": "The left femoral head was removed."
+      },
+      {
+        "claim_id": 29,
+        "claim": "A cemented prosthesis was implanted."
+      },
+      {
+        "claim_id": 30,
+        "claim": "Estimated blood loss was approximately 150 mL."
+      },
+      {
+        "claim_id": 31,
+        "claim": "There were no intraoperative complications."
+      },
+      {
+        "claim_id": 32,
+        "claim": "The femoral head was sent for histological examination."
+      },
+      {
+        "claim_id": 33,
+        "claim": "In PACU, her observations remained stable with BP 130/85, HR 72, and SpO\u2082 98% on room air."
+      },
+      {
+        "claim_id": 34,
+        "claim": "In PACU, she was alert and had mild discomfort without significant nausea or vomiting."
+      },
+      {
+        "claim_id": 35,
+        "claim": "In PACU, the wound was clean and dry."
+      },
+      {
+        "claim_id": 36,
+        "claim": "She received IV paracetamol 1 g in PACU."
+      },
+      {
+        "claim_id": 37,
+        "claim": "Enoxaparin 40 mg subcutaneously once daily was commenced for thromboprophylaxis."
+      },
+      {
+        "claim_id": 38,
+        "claim": "Early physiotherapy was planned."
+      },
+      {
+        "claim_id": 39,
+        "claim": "Postoperative hemoglobin fell to 104-105 g/L."
+      },
+      {
+        "claim_id": 40,
+        "claim": "The postoperative hemoglobin fall was assessed as postoperative/peri-operative blood-loss anaemia without need for acute intervention."
+      },
+      {
+        "claim_id": 41,
+        "claim": "Ferrous sulfate 200 mg daily was started or continued postoperatively."
+      },
+      {
+        "claim_id": 42,
+        "claim": "Advice was given regarding hydration, iron-rich diet, and repeat hemoglobin monitoring."
+      },
+      {
+        "claim_id": 43,
+        "claim": "Pain remained mild and well controlled with paracetamol."
+      },
+      {
+        "claim_id": 44,
+        "claim": "The wound remained clean and dry without erythema, discharge, swelling, or bleeding."
+      },
+      {
+        "claim_id": 45,
+        "claim": "No clinical signs of DVT were documented."
+      },
+      {
+        "claim_id": 46,
+        "claim": "No clinical signs of infection were documented."
+      },
+      {
+        "claim_id": 47,
+        "claim": "Vital signs remained stable postoperatively."
+      },
+      {
+        "claim_id": 48,
+        "claim": "Physiotherapy began on the day of surgery."
+      },
+      {
+        "claim_id": 49,
+        "claim": "She initially mobilised short distances with a walker while observing hip precautions."
+      },
+      {
+        "claim_id": 50,
+        "claim": "Her hip precautions included avoiding hip flexion beyond 90 degrees and crossing the legs."
+      },
+      {
+        "claim_id": 51,
+        "claim": "She progressed to stair practice and then to crutches."
+      },
+      {
+        "claim_id": 52,
+        "claim": "She had good balance, coordination, and adherence to precautions during physiotherapy."
+      },
+      {
+        "claim_id": 53,
+        "claim": "Occupational therapy addressed transfers, dressing, and other activities of daily living."
+      },
+      {
+        "claim_id": 54,
+        "claim": "She required minimal assistance from occupational therapy."
+      },
+      {
+        "claim_id": 55,
+        "claim": "She was provided with a hip kit."
+      },
+      {
+        "claim_id": 56,
+        "claim": "A raised toilet seat and bathroom grab bars were recommended and arranged."
+      },
+      {
+        "claim_id": 57,
+        "claim": "She was advised to follow a high-protein diet to support wound healing and recovery."
+      },
+      {
+        "claim_id": 58,
+        "claim": "By the final physiotherapy assessment, she could ambulate, turn, and manage simulated home obstacles safely with crutches."
+      },
+      {
+        "claim_id": 59,
+        "claim": "She was considered suitable for independent discharge with crutches."
+      },
+      {
+        "claim_id": 60,
+        "claim": "Family and GP updates were provided."
+      },
+      {
+        "claim_id": 61,
+        "claim": "She had minimal pain by discharge planning."
+      },
+      {
+        "claim_id": 62,
+        "claim": "She was confident with activities of daily living by discharge planning."
+      },
+      {
+        "claim_id": 63,
+        "claim": "She was mobilising well with crutches by discharge planning."
+      },
+      {
+        "claim_id": 64,
+        "claim": "The plan was discharge home on 06/01/2026."
+      },
+      {
+        "claim_id": 65,
+        "claim": "The discharge plan included continued hip precautions, outpatient physiotherapy, and clinic follow-up."
+      },
+      {
+        "claim_id": 66,
+        "claim": "Planned discharge treatment included paracetamol as required."
+      },
+      {
+        "claim_id": 67,
+        "claim": "Planned discharge treatment included ferrous sulfate 200 mg daily."
+      },
+      {
+        "claim_id": 68,
+        "claim": "Planned discharge treatment included rivaroxaban 10 mg once daily for 7 days for thromboprophylaxis."
+      },
+      {
+        "claim_id": 69,
+        "claim": "Wound care, medication use, and mobility precautions were explained."
+      }
+    ],
+    "0c04d9fb-d8d0-4ee0-8fc9-0c3f7f148bdf": [
+      {
+        "claim_id": 1,
+        "claim": "Georgina Claire Gurung is a 55-year-old woman."
+      },
+      {
+        "claim_id": 2,
+        "claim": "She has end-stage left hip osteoarthritis."
+      },
+      {
+        "claim_id": 3,
+        "claim": "She has hypertension."
+      },
+      {
+        "claim_id": 4,
+        "claim": "She has hyperlipidaemia."
+      },
+      {
+        "claim_id": 5,
+        "claim": "She has mild osteopenia."
+      },
+      {
+        "claim_id": 6,
+        "claim": "Before surgery, she had a four-year history of progressive left hip pain."
+      },
+      {
+        "claim_id": 7,
+        "claim": "Before surgery, she had a four-year history of progressive left hip stiffness."
+      },
+      {
+        "claim_id": 8,
+        "claim": "Before surgery, she had a four-year history of progressive reduced range of motion."
+      },
+      {
+        "claim_id": 9,
+        "claim": "Before surgery, she had a four-year history of progressive impaired mobility."
+      },
+      {
+        "claim_id": 10,
+        "claim": "Before surgery, she used a walking stick."
+      },
+      {
+        "claim_id": 11,
+        "claim": "Examination showed an antalgic gait."
+      },
+      {
+        "claim_id": 12,
+        "claim": "Examination showed left hip tenderness."
+      },
+      {
+        "claim_id": 13,
+        "claim": "Examination showed restricted movement of the left hip."
+      },
+      {
+        "claim_id": 14,
+        "claim": "Examination showed no erythema or effusion."
+      },
+      {
+        "claim_id": 15,
+        "claim": "ECG was normal."
+      },
+      {
+        "claim_id": 16,
+        "claim": "Urinalysis was normal."
+      },
+      {
+        "claim_id": 17,
+        "claim": "Blood tests showed mild anaemia."
+      },
+      {
+        "claim_id": 18,
+        "claim": "Her haemoglobin was 10.8 g/dL."
+      },
+      {
+        "claim_id": 19,
+        "claim": "Her haemoglobin subsequently was 11.2 g/dL."
+      },
+      {
+        "claim_id": 20,
+        "claim": "Blood tests showed normal renal function."
+      },
+      {
+        "claim_id": 21,
+        "claim": "Blood tests showed normal liver function."
+      },
+      {
+        "claim_id": 22,
+        "claim": "During preoperative assessment in December 2025, no anaesthetic contraindications were identified."
+      },
+      {
+        "claim_id": 23,
+        "claim": "During preoperative assessment in December 2025, no allergies were identified."
+      },
+      {
+        "claim_id": 24,
+        "claim": "General anaesthesia combined with spinal block was planned."
+      },
+      {
+        "claim_id": 25,
+        "claim": "Ferrous sulfate 200 mg daily was started for anaemia."
+      },
+      {
+        "claim_id": 26,
+        "claim": "Omeprazole 20 mg daily for two weeks was prescribed due to intermittent ibuprofen use."
+      },
+      {
+        "claim_id": 27,
+        "claim": "GP review of antihypertensive treatment was recommended because of moderately elevated blood pressure."
+      },
+      {
+        "claim_id": 28,
+        "claim": "Ibuprofen was to be stopped 48 hours before surgery."
+      },
+      {
+        "claim_id": 29,
+        "claim": "Consent was obtained after discussion of operative, anaesthetic and prosthesis-related risks."
+      },
+      {
+        "claim_id": 30,
+        "claim": "She was admitted electively for left total hip replacement."
+      },
+      {
+        "claim_id": 31,
+        "claim": "Preoperative examination showed no infection or other contraindication to surgery."
+      },
+      {
+        "claim_id": 32,
+        "claim": "She received IV cefuroxime as planned perioperative prophylaxis."
+      },
+      {
+        "claim_id": 33,
+        "claim": "She received TXA 1 g IV at surgery."
+      },
+      {
+        "claim_id": 34,
+        "claim": "On 03/01/26, she underwent elective left total hip replacement."
+      },
+      {
+        "claim_id": 35,
+        "claim": "The left total hip replacement was performed under general anaesthesia and spinal block."
+      },
+      {
+        "claim_id": 36,
+        "claim": "The procedure was performed by Dr Elizabeth Kathryn Singh with Dr Terence John Watson assisting."
+      },
+      {
+        "claim_id": 37,
+        "claim": "Severe cartilage erosion and subchondral bone exposure were found."
+      },
+      {
+        "claim_id": 38,
+        "claim": "Damaged cartilage and bone from the acetabulum and femoral head were removed."
+      },
+      {
+        "claim_id": 39,
+        "claim": "A cemented prosthesis with polyethylene acetabular and metal femoral components was inserted."
+      },
+      {
+        "claim_id": 40,
+        "claim": "Estimated blood loss was 300 mL."
+      },
+      {
+        "claim_id": 41,
+        "claim": "There were no complications during the operation."
+      },
+      {
+        "claim_id": 42,
+        "claim": "Postoperatively, she remained cardiovascularly stable."
+      },
+      {
+        "claim_id": 43,
+        "claim": "Postoperatively, she remained respiratorily stable."
+      },
+      {
+        "claim_id": 44,
+        "claim": "Postoperatively, her oxygen saturations were 98% on room air."
+      },
+      {
+        "claim_id": 45,
+        "claim": "No transfusion was required."
+      },
+      {
+        "claim_id": 46,
+        "claim": "Her initial postoperative pain score was 4/10."
+      },
+      {
+        "claim_id": 47,
+        "claim": "Her pain improved after IV morphine."
+      },
+      {
+        "claim_id": 48,
+        "claim": "Regular paracetamol was prescribed."
+      },
+      {
+        "claim_id": 49,
+        "claim": "PRN tramadol was prescribed."
+      },
+      {
+        "claim_id": 50,
+        "claim": "Ibuprofen was initially included postoperatively."
+      },
+      {
+        "claim_id": 51,
+        "claim": "Ibuprofen was later discontinued."
+      },
+      {
+        "claim_id": 52,
+        "claim": "She received 24 hours of IV cefuroxime."
+      },
+      {
+        "claim_id": 53,
+        "claim": "She received thromboprophylaxis."
+      },
+      {
+        "claim_id": 54,
+        "claim": "Thromboprophylaxis was initially enoxaparin 40 mg daily."
+      },
+      {
+        "claim_id": 55,
+        "claim": "Thromboprophylaxis was later dalteparin 5000 units subcutaneously until discharge."
+      },
+      {
+        "claim_id": 56,
+        "claim": "The wound remained clean and dry."
+      },
+      {
+        "claim_id": 57,
+        "claim": "The wound had no infection."
+      },
+      {
+        "claim_id": 58,
+        "claim": "The wound had no haematoma."
+      },
+      {
+        "claim_id": 59,
+        "claim": "The wound had no significant bleeding."
+      },
+      {
+        "claim_id": 60,
+        "claim": "There were no clinical signs of DVT."
+      },
+      {
+        "claim_id": 61,
+        "claim": "There were no other systemic complications."
+      },
+      {
+        "claim_id": 62,
+        "claim": "Physiotherapy began on the day of surgery."
+      },
+      {
+        "claim_id": 63,
+        "claim": "Physiotherapy included bed exercises."
+      },
+      {
+        "claim_id": 64,
+        "claim": "Physiotherapy included ankle pumps."
+      },
+      {
+        "claim_id": 65,
+        "claim": "Physiotherapy included assisted walking using a frame."
+      },
+      {
+        "claim_id": 66,
+        "claim": "Over the following days, she progressed to partial weight-bearing."
+      },
+      {
+        "claim_id": 67,
+        "claim": "Over the following days, she progressed to gait and balance training."
+      },
+      {
+        "claim_id": 68,
+        "claim": "Over the following days, she progressed to transfers."
+      },
+      {
+        "claim_id": 69,
+        "claim": "Over the following days, she progressed to stair practice."
+      },
+      {
+        "claim_id": 70,
+        "claim": "Over the following days, she progressed to independent ambulation with crutches."
+      },
+      {
+        "claim_id": 71,
+        "claim": "Occupational therapy assessed home safety."
+      },
+      {
+        "claim_id": 72,
+        "claim": "Occupational therapy recommended a raised toilet seat."
+      },
+      {
+        "claim_id": 73,
+        "claim": "Occupational therapy recommended bathroom grab rails."
+      },
+      {
+        "claim_id": 74,
+        "claim": "Occupational therapy recommended a long-handled reacher."
+      },
+      {
+        "claim_id": 75,
+        "claim": "By 05/01/26, she was independently performing transfers and activities of daily living."
+      },
+      {
+        "claim_id": 76,
+        "claim": "By 06/01/26, she could mobilise independently with crutches."
+      },
+      {
+        "claim_id": 77,
+        "claim": "By 06/01/26, she could negotiate stairs independently with crutches."
+      },
+      {
+        "claim_id": 78,
+        "claim": "Postoperative haemoglobin was 10.8 g/dL."
+      },
+      {
+        "claim_id": 79,
+        "claim": "The postoperative haemoglobin was regarded as mild postoperative anaemia."
+      },
+      {
+        "claim_id": 80,
+        "claim": "Ferrous sulfate 200 mg daily was continued for four weeks."
+      },
+      {
+        "claim_id": 81,
+        "claim": "Pain remained well controlled."
+      },
+      {
+        "claim_id": 82,
+        "claim": "The wound was healing without erythema or discharge."
+      },
+      {
+        "claim_id": 83,
+        "claim": "Vital signs remained stable."
+      },
+      {
+        "claim_id": 84,
+        "claim": "She was discharged with apixaban 2.5 mg twice daily for two weeks."
+      },
+      {
+        "claim_id": 85,
+        "claim": "She was discharged with a home exercise programme."
+      },
+      {
+        "claim_id": 86,
+        "claim": "She was discharged with follow-up with her GP in six weeks for wound review and outpatient physiotherapy referral."
+      }
+    ],
+    "0f438665-d430-4adb-8acc-c3beed9e4942": [
+      {
+        "claim_id": 1,
+        "claim": "Jack Geoffrey Gray is a 3-year-old boy."
+      },
+      {
+        "claim_id": 2,
+        "claim": "Jack Geoffrey Gray had no previous medical history."
+      },
+      {
+        "claim_id": 3,
+        "claim": "Jack Geoffrey Gray had allergies to pollen and macrolides."
+      },
+      {
+        "claim_id": 4,
+        "claim": "He presented via A&E on 06/01/26."
+      },
+      {
+        "claim_id": 5,
+        "claim": "He had 24\u201348 hours of poor oral intake."
+      },
+      {
+        "claim_id": 6,
+        "claim": "He had fewer wet nappies."
+      },
+      {
+        "claim_id": 7,
+        "claim": "He had mild lethargy."
+      },
+      {
+        "claim_id": 8,
+        "claim": "He had no vomiting."
+      },
+      {
+        "claim_id": 9,
+        "claim": "He had no diarrhoea."
+      },
+      {
+        "claim_id": 10,
+        "claim": "He had no rash."
+      },
+      {
+        "claim_id": 11,
+        "claim": "He had no respiratory distress."
+      },
+      {
+        "claim_id": 12,
+        "claim": "Initial temperature was 38.3\u00b0C."
+      },
+      {
+        "claim_id": 13,
+        "claim": "Initial heart rate was 120 bpm."
+      },
+      {
+        "claim_id": 14,
+        "claim": "Initial oxygen saturation was 98% on room air."
+      },
+      {
+        "claim_id": 15,
+        "claim": "Examination showed mild dehydration with dry mucous membranes and capillary refill of approximately 2 seconds."
+      },
+      {
+        "claim_id": 16,
+        "claim": "Examination showed mild nasal congestion."
+      },
+      {
+        "claim_id": 17,
+        "claim": "Examination showed no respiratory abnormalities."
+      },
+      {
+        "claim_id": 18,
+        "claim": "Examination showed no abdominal abnormalities."
+      },
+      {
+        "claim_id": 19,
+        "claim": "He was diagnosed with a viral illness/viral upper respiratory tract infection complicated by mild dehydration and reduced feeding."
+      },
+      {
+        "claim_id": 20,
+        "claim": "Paracetamol suspension 120 mg/5 mL, 5 mL, was given for fever."
+      },
+      {
+        "claim_id": 21,
+        "claim": "A 10 mL/kg oral normal saline bolus was administered."
+      },
+      {
+        "claim_id": 22,
+        "claim": "The oral normal saline bolus was tolerated well."
+      },
+      {
+        "claim_id": 23,
+        "claim": "He was advised to give ORS in small, frequent amounts."
+      },
+      {
+        "claim_id": 24,
+        "claim": "No antibiotics were prescribed."
+      },
+      {
+        "claim_id": 25,
+        "claim": "He was admitted to the Paediatric Assessment Unit for observation and supportive care."
+      },
+      {
+        "claim_id": 26,
+        "claim": "He received IV 0.9% sodium chloride and 5% dextrose at 75% maintenance."
+      },
+      {
+        "claim_id": 27,
+        "claim": "His intake/output and hydration were monitored."
+      },
+      {
+        "claim_id": 28,
+        "claim": "PRN paracetamol was ordered."
+      },
+      {
+        "claim_id": 29,
+        "claim": "A venous blood gas showed mild metabolic acidosis."
+      },
+      {
+        "claim_id": 30,
+        "claim": "The venous blood gas pH was 7.33."
+      },
+      {
+        "claim_id": 31,
+        "claim": "The venous blood gas bicarbonate was 17 mmol/L."
+      },
+      {
+        "claim_id": 32,
+        "claim": "No other investigations or blood/urine results were documented."
+      },
+      {
+        "claim_id": 33,
+        "claim": "Nasal saline drops were started for congestion."
+      },
+      {
+        "claim_id": 34,
+        "claim": "Parental education was provided regarding oral rehydration, small frequent feeds, signs of dehydration and nasal care."
+      },
+      {
+        "claim_id": 35,
+        "claim": "Over the following ward reviews, oral intake improved."
+      },
+      {
+        "claim_id": 36,
+        "claim": "Over the following ward reviews, hydration improved."
+      },
+      {
+        "claim_id": 37,
+        "claim": "Fluids and mashed food were tolerated."
+      },
+      {
+        "claim_id": 38,
+        "claim": "No further fever was documented."
+      },
+      {
+        "claim_id": 39,
+        "claim": "IV fluids were reduced to 50% maintenance to encourage oral intake."
+      },
+      {
+        "claim_id": 40,
+        "claim": "IV fluids were subsequently discontinued for discharge planning."
+      },
+      {
+        "claim_id": 41,
+        "claim": "ENT review found moderate nasal mucosal inflammation consistent with viral URTI."
+      },
+      {
+        "claim_id": 42,
+        "claim": "ENT review found no purulent discharge."
+      },
+      {
+        "claim_id": 43,
+        "claim": "ENT review found no anatomical abnormality."
+      },
+      {
+        "claim_id": 44,
+        "claim": "Saline nasal drops were advised."
+      },
+      {
+        "claim_id": 45,
+        "claim": "Saline spray/nasal irrigation was advised."
+      },
+      {
+        "claim_id": 46,
+        "claim": "Steam inhalation twice daily was advised."
+      },
+      {
+        "claim_id": 47,
+        "claim": "By discharge review, Jack was alert."
+      },
+      {
+        "claim_id": 48,
+        "claim": "By discharge review, Jack was playful."
+      },
+      {
+        "claim_id": 49,
+        "claim": "By discharge review, Jack was afebrile."
+      },
+      {
+        "claim_id": 50,
+        "claim": "By discharge review, Jack was clinically hydrated."
+      },
+      {
+        "claim_id": 51,
+        "claim": "By discharge review, Jack had improved eating and drinking."
+      },
+      {
+        "claim_id": 52,
+        "claim": "By discharge review, Jack had only mild residual nasal congestion."
+      },
+      {
+        "claim_id": 53,
+        "claim": "At discharge, his temperature was 36.8\u00b0C."
+      },
+      {
+        "claim_id": 54,
+        "claim": "At discharge, his oxygen saturation was 98% on room air."
+      },
+      {
+        "claim_id": 55,
+        "claim": "He was discharged home with advice to continue oral fluids and small meals."
+      },
+      {
+        "claim_id": 56,
+        "claim": "He was discharged home with advice to use paracetamol as needed."
+      },
+      {
+        "claim_id": 57,
+        "claim": "He was discharged home with advice to continue saline nasal drops."
+      },
+      {
+        "claim_id": 58,
+        "claim": "He was discharged home with advice to use saline spray for nasal irrigation."
+      },
+      {
+        "claim_id": 59,
+        "claim": "He was discharged home with advice to use steam inhalation twice daily."
+      },
+      {
+        "claim_id": 60,
+        "claim": "His parents were advised to seek medical attention if feeding or hydration worsened, wet nappies reduced or lethargy increased."
+      },
+      {
+        "claim_id": 61,
+        "claim": "His parents were advised to contact his GP if concerned."
+      }
+    ],
+    "136c7916-4f9b-4e5c-bf01-77e9d2c681a2": [
+      {
+        "claim_id": 1,
+        "claim": "Philip Paul Cook is a 49-year-old man."
+      },
+      {
+        "claim_id": 2,
+        "claim": "He has hypertension and mild osteoarthritis."
+      },
+      {
+        "claim_id": 3,
+        "claim": "He presented to the ED on 02/01/2026 after an unwitnessed minor fall at home."
+      },
+      {
+        "claim_id": 4,
+        "claim": "After the fall, he developed progressive confusion and unsteadiness."
+      },
+      {
+        "claim_id": 5,
+        "claim": "He denied loss of consciousness, headache, vomiting, visual symptoms, weakness, seizures, chest pain, and shortness of breath."
+      },
+      {
+        "claim_id": 6,
+        "claim": "He was alert but disoriented."
+      },
+      {
+        "claim_id": 7,
+        "claim": "His GCS was 14/15."
+      },
+      {
+        "claim_id": 8,
+        "claim": "He had no focal neurological deficits."
+      },
+      {
+        "claim_id": 9,
+        "claim": "His gait was unsteady and required assistance."
+      },
+      {
+        "claim_id": 10,
+        "claim": "His initial observations were stable."
+      },
+      {
+        "claim_id": 11,
+        "claim": "CT head showed a subdural hygroma without midline shift or acute haemorrhage."
+      },
+      {
+        "claim_id": 12,
+        "claim": "Blood tests were largely normal."
+      },
+      {
+        "claim_id": 13,
+        "claim": "Mild hyponatraemia was documented with sodium 132 mmol/L."
+      },
+      {
+        "claim_id": 14,
+        "claim": "Dehydration was noted."
+      },
+      {
+        "claim_id": 15,
+        "claim": "He was admitted to the neurology ward for neurological observation."
+      },
+      {
+        "claim_id": 16,
+        "claim": "Initial management included regular neurological observations."
+      },
+      {
+        "claim_id": 17,
+        "claim": "Initial management included IV paracetamol."
+      },
+      {
+        "claim_id": 18,
+        "claim": "Initial management included IV 0.9% sodium chloride for dehydration and hyponatraemia."
+      },
+      {
+        "claim_id": 19,
+        "claim": "Initial management included neurology review."
+      },
+      {
+        "claim_id": 20,
+        "claim": "No surgery was initially required."
+      },
+      {
+        "claim_id": 21,
+        "claim": "No antibiotics were initially required."
+      },
+      {
+        "claim_id": 22,
+        "claim": "Ceftriaxone 2 g IV daily for five days was subsequently prescribed prophylactically."
+      },
+      {
+        "claim_id": 23,
+        "claim": "Physiotherapy and occupational therapy were commenced for gait instability, balance impairment, and mild fine-motor difficulty."
+      },
+      {
+        "claim_id": 24,
+        "claim": "He received mobility, balance, falls-prevention, cognitive, and ADL training."
+      },
+      {
+        "claim_id": 25,
+        "claim": "Adaptive equipment provided included a button hook, long-handled reacher, non-slip mat, shower chair, and walking aids."
+      },
+      {
+        "claim_id": 26,
+        "claim": "During 03\u201306/01/2026, his neurological status remained stable without focal deficits."
+      },
+      {
+        "claim_id": 27,
+        "claim": "During 03\u201306/01/2026, his confusion and fatigue improved."
+      },
+      {
+        "claim_id": 28,
+        "claim": "During 03\u201306/01/2026, mild gait and balance impairment persisted."
+      },
+      {
+        "claim_id": 29,
+        "claim": "During 03\u201306/01/2026, sodium remained approximately 132\u2013133 mmol/L."
+      },
+      {
+        "claim_id": 30,
+        "claim": "Management progressed from IV fluids to oral hydration advice."
+      },
+      {
+        "claim_id": 31,
+        "claim": "Management included sodium chloride supplementation documented as 600 mg or 1 g three times daily."
+      },
+      {
+        "claim_id": 32,
+        "claim": "Management included fluid restriction to 1.5 L/day."
+      },
+      {
+        "claim_id": 33,
+        "claim": "Paracetamol was prescribed as needed for mild headaches or musculoskeletal discomfort."
+      },
+      {
+        "claim_id": 34,
+        "claim": "Speech and language assessment identified mild short-term memory and attention difficulties."
+      },
+      {
+        "claim_id": 35,
+        "claim": "Cognitive rehabilitation was recommended."
+      },
+      {
+        "claim_id": 36,
+        "claim": "By 07\u201308/01/2026, he was alert, oriented, and free of headache, dizziness, or confusion."
+      },
+      {
+        "claim_id": 37,
+        "claim": "By 07\u201308/01/2026, his mobility improved substantially with physiotherapy."
+      },
+      {
+        "claim_id": 38,
+        "claim": "By 07\u201308/01/2026, he could walk with a stick or rollator."
+      },
+      {
+        "claim_id": 39,
+        "claim": "By 07\u201308/01/2026, he could perform transfers independently."
+      },
+      {
+        "claim_id": 40,
+        "claim": "By 07\u201308/01/2026, he could negotiate stairs independently."
+      },
+      {
+        "claim_id": 41,
+        "claim": "By 07\u201308/01/2026, he had only mild residual unsteadiness."
+      },
+      {
+        "claim_id": 42,
+        "claim": "OT and social work completed home-safety and discharge planning."
+      },
+      {
+        "claim_id": 43,
+        "claim": "Community care visits and outpatient physiotherapy were arranged."
+      },
+      {
+        "claim_id": 44,
+        "claim": "He was considered safe for discharge on 08/01/2026."
+      },
+      {
+        "claim_id": 45,
+        "claim": "Discharge advice included fall prevention."
+      },
+      {
+        "claim_id": 46,
+        "claim": "Discharge advice included use of the provided adaptive equipment."
+      },
+      {
+        "claim_id": 47,
+        "claim": "Discharge advice included avoidance of anticoagulants unless prescribed."
+      },
+      {
+        "claim_id": 48,
+        "claim": "Paracetamol was prescribed as needed for pain or headache."
+      },
+      {
+        "claim_id": 49,
+        "claim": "Paracetamol dosing was documented variably as 500 mg 1\u20132 tablets every 4\u20136 hours or 1 g four times daily."
+      },
+      {
+        "claim_id": 50,
+        "claim": "Follow-up with neurology in two weeks was arranged."
+      },
+      {
+        "claim_id": 51,
+        "claim": "Follow-up with the GP within approximately one week was arranged."
+      },
+      {
+        "claim_id": 52,
+        "claim": "He was advised to seek urgent medical attention for severe headache, recurrent confusion, or new neurological symptoms."
+      }
+    ]
+  }
+}
